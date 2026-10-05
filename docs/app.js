@@ -214,19 +214,35 @@
 
   // ------------------------------------------------------------------ data loading
   // ?data=<base> points at another folder (same origin only), e.g. ?data=../dev/fixture/
-  const BASE = (() => {
+  // On the live site the repo's raw files come first: they update within minutes of each
+  // data commit, even when a GitHub Pages deploy is stuck. The Pages copy is the fallback.
+  const RAW_DATA = 'https://raw.githubusercontent.com/natanforestree/finals-radar/main/docs/data/';
+  const BASES = (() => {
     const param = new URLSearchParams(location.search).get('data');
     if (param) {
       try {
         const u = new URL(param.endsWith('/') ? param : param + '/', location.href);
-        if (u.origin === location.origin) return u;
+        if (u.origin === location.origin) return [u];
       } catch (e) { /* fall through to the default */ }
     }
-    return new URL('data/', location.href);
+    const pages = new URL('data/', location.href);
+    return location.hostname.endsWith('github.io') ? [new URL(RAW_DATA), pages] : [pages];
   })();
 
   async function fetchJSON(name) {
-    const url = new URL(name, BASE);
+    let lastError;
+    for (const base of BASES) {
+      try {
+        return await fetchFrom(base, name);
+      } catch (e) {
+        lastError = e;   // try the next place
+      }
+    }
+    throw lastError;
+  }
+
+  async function fetchFrom(base, name) {
+    const url = new URL(name, base);
     url.searchParams.set('t', String(Date.now()));
     let res;
     try {

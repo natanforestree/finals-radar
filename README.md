@@ -26,8 +26,21 @@ leaderboard:
    local time.
 
 Caveats: Embark refreshes the leaderboard about every 30 minutes, so the data
-runs ~15–45 minutes behind, and it's global — matchmaking is
-regional, so the heatmap mixes regions. It gets useful after about a week.
+runs ~15–45 minutes behind. It gets useful after about a week.
+
+**Regions.** The leaderboard is global but matchmaking is regional, so the
+collector also places each player as Americas, Europe or Asia-Pacific from the
+hours they're seen playing (`collector/regions.py`), and the page has an
+Americas view. Play-time histograms are stored under an HMAC of the player's
+name (the `REGION_KEY` secret), so the repo never links names to play times.
+It takes a few days to place most players; it can't tell North from South
+America apart, and night owls can be misplaced.
+
+**Lobby log.** The SWEATY / NORMAL LOBBY buttons send what the radar said to a
+small Cloudflare Worker (`worker/`, D1 database), so the page can show how
+often each verdict really meant sweats. The Worker also nudges GitHub to run
+the collector every 10 minutes, because GitHub's own schedule is unreliable.
+See `worker/README.md`.
 
 ## Turning on the Twitch check
 
@@ -57,10 +70,13 @@ If a streamer gets matched to the wrong player (or not at all), edit
 | `state/` | last leaderboard seen, for diffing |
 | `archive/` | long-term counts by month (no player names) |
 | `art/` | Aseprite Lua scripts + sources for the pixel art in `docs/art/` |
-| `dev/` | data contract, art manifest, fixture generator |
+| `worker/` | Cloudflare Worker: lobby log API + 10-minute timer |
+| `dev/` | data contract, art manifest, fixture generator, mock lobby API |
 
 Run locally: `python3 collector/collect.py`, then serve the repo root
 (`python3 -m http.server`) and open `/docs/`. For fake data:
-`python3 dev/make_fixture.py`, then `/docs/?data=../dev/fixture/`.
+`python3 dev/make_fixture.py`, then `/docs/?data=../dev/fixture/`. To try the
+lobby buttons without the real Worker: `python3 dev/mock_api.py` (squad code
+`test-code`) and add `&api=http://localhost:8787`.
 
 Fan-made, not affiliated with Embark Studios.

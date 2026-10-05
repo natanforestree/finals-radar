@@ -1,0 +1,24 @@
+# Ruby Radar Worker: lobby log API (D1) + a reliable 10-minute timer that
+# asks GitHub to run the collect workflow. Runbook: README.md in this folder.
+name = "ruby-radar"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+workers_dev = true
+
+[triggers]
+crons = ["*/10 * * * *"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ruby-radar"
+# Placeholder: replace with the database_id printed by
+# `npx wrangler d1 create ruby-radar` (see README.md, step 2).
+database_id = "00000000-0000-0000-0000-000000000000"
+
+[vars]
+GITHUB_REPO = "natanforestree/finals-radar"
+GITHUB_WORKFLOW = "collect.yml"
+
+# Secrets (set with `npx wrangler secret put <NAME>`, never written here):
+#   SQUAD_CODE    shared code the page sends as the X-Squad-Code header
+#   GITHUB_TOKEN  fine-grained PAT, this repo only, Actions: read and write

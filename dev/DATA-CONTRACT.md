@@ -152,3 +152,9 @@ the `collect` workflow (secret `GITHUB_TOKEN`: fine-grained, this repo only,
 Actions read/write). The collector backs the lobby log up into the repo
 encrypted (`state/lobbies.json.enc`, AES-256 via openssl, key in the
 `BACKUP_KEY` secret) whenever it changes.
+
+Other responses the Worker sends (all `{"error": "..."}`): `400` names the bad
+field; `413 body too large` over 2 KB; `429 {"error":"too soon","retryAfter":N}`
+plus a `Retry-After` header; `503` when the `SQUAD_CODE` secret isn't set
+(i.e. the log isn't configured yet); `500` on unexpected failures.
+`?since=` includes rows at exactly that second, so de-duplicate by `id`.

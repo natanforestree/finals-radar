@@ -3,3 +3,8 @@ __pycache__/
 *.tmp
 dev/fixture/
 dev/fixture-new/
+
+# Cloudflare Worker (worker/)
+worker/node_modules/
+worker/.wrangler/
+worker/.dev.vars

@@ -25,7 +25,8 @@ leaderboard:
    them into a verdict, a "next good window" and a weekly heatmap in your
    local time.
 
-Caveats: the data runs ~10–20 minutes behind, and it's global — matchmaking is
+Caveats: Embark refreshes the leaderboard about every 30 minutes, so the data
+runs ~15–45 minutes behind, and it's global — matchmaking is
 regional, so the heatmap mixes regions. It gets useful after about a week.
 
 ## Turning on the Twitch check

@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ruby Radar</title>
+<meta name="description" content="Queue now or wait? A fan-made tracker of how many top-500 (Ruby) players are in THE FINALS ranked right now, with an hourly heatmap and live Ruby streamers.">
+<meta name="theme-color" content="#0d0b1a">
+<meta name="color-scheme" content="dark">
+<!-- swapped for art/favicon.png by app.js once that sprite loads -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8' shape-rendering='crispEdges'%3E%3Crect width='8' height='8' fill='%230d0b1a'/%3E%3Cpath d='M3 1h2v1h1v1h1v2h-1v1h-1v1h-2v-1h-1v-1h-1v-2h1v-1h1z' fill='%23e0284d'/%3E%3Cpath d='M3 2h1v1h-1z' fill='%23ff6b8b'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=VT323&display=swap">
+<link rel="stylesheet" href="style.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<header class="masthead wrap">
+  <div class="marquee">
+    <h1 class="title"><span class="sprite s-radar" aria-hidden="true"></span><span class="title-text">Ruby Radar</span></h1>
+    <p class="onair" id="onair"><span class="dot" aria-hidden="true"></span><span>Tuning in…</span></p>
+  </div>
+  <p class="tagline">Queue now or wait? How many top-500 players are in THE FINALS ranked right now.</p>
+</header>
+
+<div class="wrap banner" id="banner" role="status" hidden></div>
+
+<main class="wrap">
+  <section class="hero" id="hero" aria-label="Verdict">
+    <div class="slab v-cal">
+      <div class="slab-art"><span class="sprite s-verdict-calibrating big" aria-hidden="true"></span></div>
+      <div class="slab-text">
+        <p class="verdict" style="--chars:10"><span class="unit">TUNING IN</span><span class="cursor" aria-hidden="true"></span></p>
+        <p class="slab-sub">Loading the latest numbers…</p>
+      </div>
+    </div>
+    <noscript><p class="l3-main">Ruby Radar needs JavaScript to read its data files.</p></noscript>
+  </section>
+
+  <section class="block next" id="window" aria-label="Next good window" hidden></section>
+  <section class="block" id="twitch" aria-labelledby="twitch-h" hidden></section>
+  <section class="block" id="heat" aria-labelledby="heat-h" hidden></section>
+  <section class="block" id="grind" aria-labelledby="grind-h" hidden></section>
+</main>
+
+<footer class="wrap footer">
+  <div class="about">
+    <h2>What the numbers mean</h2>
+    <p>Embark refreshes its public top-10,000 ranked leaderboard about every 30 minutes, and a script checks it every 10 minutes and compares it with the previous refresh. A changed score means that player just finished a ranked game, and Ruby means ranks 1 to 500. So the numbers trail reality by roughly 15–45 minutes, and remember the leaderboard is global while matchmaking is regional, so the heatmap mixes every region together.</p>
+  </div>
+  <div class="meta">
+    <p id="steam">Steam player count loading…</p>
+    <p id="season"></p>
+    <p>Fan-made, not affiliated with Embark Studios.</p>
+    <p><a href="https://github.com/natanforestree/finals-radar">Source code on GitHub</a></p>
+  </div>
+</footer>
+</body>
+</html>

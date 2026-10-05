@@ -7,13 +7,13 @@ All times are UTC. ISO strings look like `2026-10-05T15:56:02Z`.
 
 ## How "active" is measured
 
-Embark's ranked leaderboard (top 10,000, current season) refreshes every few
-minutes. Each run the collector compares every player's `rankScore` with the
+Embark's ranked leaderboard (top 10,000, current season) refreshes about every
+30 minutes. Each run the collector compares every player's `rankScore` with the
 previous leaderboard refresh it saw. A changed score means that player finished
 a ranked game in between. "Ruby" = ranks 1–500 (the Ruby league).
 
-The window between two observed refreshes varies (GitHub's scheduler is
-irregular: usually 10–20 min, sometimes an hour+). To compare windows, the page
+The window between two observed refreshes is usually ~30 min but varies (Embark's
+servers re-render on their own cycles and GitHub's scheduler slips). To compare windows, the page
 estimates how many players are in ranked right now:
 
     est = count * max(1, 30 / minutes)

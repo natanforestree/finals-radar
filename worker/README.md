@@ -55,6 +55,11 @@ Run everything from this `worker/` folder, after `npm install`.
    - When it expires, the timer starts logging `HTTP 401`. Make a new token
      and run step 5 again.
 
+   The same token also runs Reno Today (`natanforestree/reno-today`): on the
+   :30 tick the Worker dispatches that repo's `collect.yml` too
+   (`RENO_TODAY_REPO` / `RENO_TODAY_WORKFLOW` in wrangler.toml). The token
+   needs both repos under "Repository access".
+
 6. **Deploy:**
 
    ```sh
@@ -86,7 +91,7 @@ npx wrangler tail
 
 This streams live logs. Every 10 minutes you should see a line like
 `"*/10 * * * *" @ … - Ok`. A successful dispatch logs nothing else. A failed
-one logs `collect dispatch failed: HTTP <status> <GitHub's message>`. The
+one logs `dispatch <repo> failed: HTTP <status> <GitHub's message>`. The
 usual causes are `401` (expired or wrong token) and `403`/`404` (the token
 can't see the repo or lacks Actions write). If `GITHUB_TOKEN` isn't set, the
 timer skips without logging anything.

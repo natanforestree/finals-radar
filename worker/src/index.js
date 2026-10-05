@@ -2,7 +2,8 @@
 // 1. Lobby log API for the page, stored in D1 (dev/DATA-CONTRACT.md,
 //    "Lobby log API").
 // 2. A cron trigger that asks GitHub to run the collect workflow every
-//    10 minutes, because GitHub's own schedule drifts and drops runs.
+//    10 minutes, because GitHub's own schedule drifts and drops runs. On the
+//    :30 tick it also runs Reno Today's collector (natanforestree/reno-today).
 
 const MAX_BODY_BYTES = 2048;
 const RATE_LIMIT_SECONDS = 30;
@@ -56,7 +57,7 @@ export default {
   },
 
   async scheduled(event, env, ctx) {
-    ctx.waitUntil(dispatchCollect(env));
+    ctx.waitUntil(runScheduled(event, env));
   },
 };
 
@@ -246,11 +247,22 @@ function json(status, body, headers = {}) {
   });
 }
 
-// ---- Cron: run the collect workflow ----------------------------------------
+// ---- Cron: run the collect workflows ---------------------------------------
 
-async function dispatchCollect(env) {
+// Reno Today (RENO_TODAY_REPO) refreshes hourly, so it goes on one tick an hour.
+const RENO_TODAY_MINUTE = 30;
+
+async function runScheduled(event, env) {
+  const jobs = [dispatchWorkflow(env, env.GITHUB_REPO, env.GITHUB_WORKFLOW)];
+  if (env.RENO_TODAY_REPO && new Date(event.scheduledTime).getUTCMinutes() === RENO_TODAY_MINUTE) {
+    jobs.push(dispatchWorkflow(env, env.RENO_TODAY_REPO, env.RENO_TODAY_WORKFLOW || 'collect.yml'));
+  }
+  await Promise.all(jobs);
+}
+
+async function dispatchWorkflow(env, repo, workflow) {
   if (!env.GITHUB_TOKEN) return;
-  const url = `https://api.github.com/repos/${env.GITHUB_REPO}/actions/workflows/${env.GITHUB_WORKFLOW}/dispatches`;
+  const url = `https://api.github.com/repos/${repo}/actions/workflows/${workflow}/dispatches`;
   try {
     const res = await fetch(url, {
       method: 'POST',
@@ -265,9 +277,9 @@ async function dispatchCollect(env) {
     });
     if (!res.ok) {
       const detail = (await res.text().catch(() => '')).replace(/\s+/g, ' ').slice(0, 300);
-      console.error(`collect dispatch failed: HTTP ${res.status} ${detail}`);
+      console.error(`dispatch ${repo} failed: HTTP ${res.status} ${detail}`);
     }
   } catch (err) {
-    console.error(`collect dispatch failed: ${err}`);
+    console.error(`dispatch ${repo} failed: ${err}`);
   }
 }

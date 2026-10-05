@@ -18,7 +18,9 @@ database_id = "725df49b-cdcc-49af-a481-9cdd77fa23ae"
 [vars]
 GITHUB_REPO = "natanforestree/finals-radar"
 GITHUB_WORKFLOW = "collect.yml"
+RENO_TODAY_REPO = "natanforestree/reno-today"
+RENO_TODAY_WORKFLOW = "collect.yml"
 
 # Secrets (set with `npx wrangler secret put <NAME>`, never written here):
 #   SQUAD_CODE    shared code the page sends as the X-Squad-Code header
-#   GITHUB_TOKEN  fine-grained PAT, this repo only, Actions: read and write
+#   GITHUB_TOKEN  fine-grained PAT: finals-radar + reno-today, Actions: read and write

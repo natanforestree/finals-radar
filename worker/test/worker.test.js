@@ -529,4 +529,48 @@ describe('cron', () => {
     assert.equal(errors.mock.callCount(), 1);
     assert.match(errors.mock.calls[0].arguments.join(' '), /fetch failed/);
   });
+
+  const RENO = { RENO_TODAY_REPO: 'natanforestree/reno-today', RENO_TODAY_WORKFLOW: 'collect.yml' };
+  const tick = (minute) => ({ cron: '*/10 * * * *', scheduledTime: Date.UTC(2026, 9, 5, 21, minute) });
+  const RUBY_URL = 'https://api.github.com/repos/natanforestree/finals-radar/actions/workflows/collect.yml/dispatches';
+  const RENO_URL = 'https://api.github.com/repos/natanforestree/reno-today/actions/workflows/collect.yml/dispatches';
+
+  test('also runs Reno Today on the :30 tick', async () => {
+    const fetchMock = mock.method(globalThis, 'fetch', async () => new Response(null, { status: 204 }));
+    const ctx = makeCtx();
+    await worker.scheduled(tick(30), makeEnv({ GITHUB_TOKEN: 't', ...RENO }), ctx);
+    assert.equal(ctx.pending.length, 1);
+    await Promise.all(ctx.pending);
+    assert.deepEqual(fetchMock.mock.calls.map((c) => c.arguments[0]).sort(), [RUBY_URL, RENO_URL]);
+  });
+
+  test('leaves Reno Today alone on the other ticks', async () => {
+    const fetchMock = mock.method(globalThis, 'fetch', async () => new Response(null, { status: 204 }));
+    for (const minute of [0, 10, 20, 40, 50]) {
+      const ctx = makeCtx();
+      await worker.scheduled(tick(minute), makeEnv({ GITHUB_TOKEN: 't', ...RENO }), ctx);
+      await Promise.all(ctx.pending);
+    }
+    assert.deepEqual([...new Set(fetchMock.mock.calls.map((c) => c.arguments[0]))], [RUBY_URL]);
+  });
+
+  test('skips Reno Today when its repo var is missing', async () => {
+    const fetchMock = mock.method(globalThis, 'fetch', async () => new Response(null, { status: 204 }));
+    const ctx = makeCtx();
+    await worker.scheduled(tick(30), makeEnv({ GITHUB_TOKEN: 't' }), ctx);
+    await Promise.all(ctx.pending);
+    assert.deepEqual(fetchMock.mock.calls.map((c) => c.arguments[0]), [RUBY_URL]);
+  });
+
+  test('a Reno Today failure is logged with its repo and does not stop Ruby Radar', async () => {
+    const fetchMock = mock.method(globalThis, 'fetch', async (url) =>
+      url === RENO_URL ? new Response('{"message":"Not Found"}', { status: 404 }) : new Response(null, { status: 204 }));
+    const errors = mock.method(console, 'error', () => {});
+    const ctx = makeCtx();
+    await worker.scheduled(tick(30), makeEnv({ GITHUB_TOKEN: 't', ...RENO }), ctx);
+    await Promise.all(ctx.pending);
+    assert.equal(fetchMock.mock.callCount(), 2);
+    assert.equal(errors.mock.callCount(), 1);
+    assert.match(errors.mock.calls[0].arguments.join(' '), /reno-today.*404/);
+  });
 });

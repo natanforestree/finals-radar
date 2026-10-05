@@ -2,7 +2,8 @@ name: collect
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    # Off the hour: GitHub delays or drops scheduled runs at :00 when it is busy.
+    - cron: "4,14,24,34,44,54 * * * *"
   workflow_dispatch:
 
 permissions:

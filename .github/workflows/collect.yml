@@ -2,8 +2,9 @@ name: collect
 
 on:
   schedule:
-    # Off the hour: GitHub delays or drops scheduled runs at :00 when it is busy.
-    - cron: "4,14,24,34,44,54 * * * *"
+    # The Cloudflare Worker (worker/) triggers this every 10 minutes; GitHub's
+    # own schedule is unreliable, so it's only an hourly backup, off the hour.
+    - cron: "34 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -26,6 +27,23 @@ jobs:
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
           REGION_KEY: ${{ secrets.REGION_KEY }}
         run: python3 collector/collect.py
+
+      - name: Back up the lobby log (encrypted with the squad code)
+        env:
+          SQUAD_CODE: ${{ secrets.SQUAD_CODE }}
+        run: |
+          api=$(sed -n 's/^window.RUBY_RADAR_API = "\(.*\)";/\1/p' docs/config.js)
+          if [ -z "$api" ] || [ -z "$SQUAD_CODE" ]; then echo "lobby log not configured"; exit 0; fi
+          if ! curl -fsS --max-time 20 -H "X-Squad-Code: $SQUAD_CODE" "$api/api/lobbies" -o "$RUNNER_TEMP/lobbies.json"; then
+            echo "lobby log unreachable; skipping backup"; exit 0
+          fi
+          sum=$(sha256sum "$RUNNER_TEMP/lobbies.json" | cut -c1-64)
+          if [ "$sum" != "$(cat state/lobbies.sha256 2>/dev/null)" ]; then
+            openssl enc -aes-256-cbc -pbkdf2 -salt -pass env:SQUAD_CODE \
+              -in "$RUNNER_TEMP/lobbies.json" -out state/lobbies.json.enc
+            echo "$sum" > state/lobbies.sha256
+            echo "lobby log backed up"
+          fi
 
       - name: Commit data
         run: |

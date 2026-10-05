@@ -40,7 +40,9 @@ America apart, and night owls can be misplaced.
 small Cloudflare Worker (`worker/`, D1 database), so the page can show how
 often each verdict really meant sweats. The Worker also nudges GitHub to run
 the collector every 10 minutes, because GitHub's own schedule is unreliable.
-See `worker/README.md`.
+See `worker/README.md`. The collector also backs the log up into
+`state/lobbies.json.enc` whenever it changes, encrypted with the squad code;
+to read it: `openssl enc -d -aes-256-cbc -pbkdf2 -in state/lobbies.json.enc -pass pass:<squad code>`.
 
 ## Turning on the Twitch check
 

@@ -150,8 +150,8 @@ Lobby row (POST body; the server adds `id` and `t` = server time, unix seconds):
 The Worker also has a cron trigger every 10 minutes that asks GitHub to run
 the `collect` workflow (secret `GITHUB_TOKEN`: fine-grained, this repo only,
 Actions read/write). The collector backs the lobby log up into the repo
-encrypted (`state/lobbies.json.enc`, AES-256 via openssl, key in the
-`BACKUP_KEY` secret) whenever it changes.
+encrypted (`state/lobbies.json.enc`, AES-256 via openssl, with the squad code
+as the passphrase; repo secret `SQUAD_CODE`) whenever it changes.
 
 Other responses the Worker sends (all `{"error": "..."}`): `400` names the bad
 field; `413 body too large` over 2 KB; `429 {"error":"too soon","retryAfter":N}`

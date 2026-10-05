@@ -4,6 +4,7 @@ name = "ruby-radar"
 main = "src/index.js"
 compatibility_date = "2026-10-01"
 workers_dev = true
+preview_urls = false
 
 [triggers]
 crons = ["*/10 * * * *"]
@@ -11,9 +12,8 @@ crons = ["*/10 * * * *"]
 [[d1_databases]]
 binding = "DB"
 database_name = "ruby-radar"
-# Placeholder: replace with the database_id printed by
-# `npx wrangler d1 create ruby-radar` (see README.md, step 2).
-database_id = "00000000-0000-0000-0000-000000000000"
+# Created 2026-10-05 with `npx wrangler d1 create ruby-radar` (region WNAM).
+database_id = "725df49b-cdcc-49af-a481-9cdd77fa23ae"
 
 [vars]
 GITHUB_REPO = "natanforestree/finals-radar"

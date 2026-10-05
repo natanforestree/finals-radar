@@ -18,6 +18,8 @@ import time
 import urllib.parse
 import urllib.request
 
+import regions
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "docs", "data")
 STATE_DIR = os.path.join(ROOT, "state")
@@ -31,6 +33,8 @@ TWITCH_GAME_NAME = "THE FINALS"
 
 RUBY_RANKS = 500
 SAMPLE_DAYS = 35
+SAMPLE_FIELDS = ["t", "minutes", "ruby", "all", "steam", "twitchRuby",
+                 "amRuby", "amAll", "euRuby", "euAll", "apRuby", "apAll"]
 USER_AGENT = "ruby-radar/1.0 (+https://github.com/natanforestree/finals-radar)"
 
 # Embark's page stores entries with numeric keys.
@@ -304,6 +308,8 @@ def main():
     steam = fetch_steam()
     twitch = check_twitch(ruby, meta, now)
     live_by_name = {r["name"]: r["login"] for r in twitch.get("rubyLive", [])}
+    region_key = os.environ.get("REGION_KEY", "").strip()
+    activity = regions.Activity(os.path.join(STATE_DIR, "activity.tsv"), region_key) if region_key else None
 
     # Embark's lastUpdatedAt ticks even when no score moved, so a "new
     # version" is one where at least one shared player's score changed.
@@ -332,12 +338,18 @@ def main():
         "rubyCutoff": ruby[-1]["rankScore"] if len(ruby) >= RUBY_RANKS else None,
         "grinding": prev_latest.get("grinding", []),
         "twitch": twitch,
+        "regions": prev_latest.get("regions") if activity else None,
         "source": source,
     }
     if prev_latest.get("season") != season:
         latest.update(window=None, rubyActive=None, allActive=None, rubyShare=None, grinding=[])
+        if latest["regions"]:
+            latest["regions"] = {**latest["regions"], "window": None}
 
-    samples = read_json(samples_path, {"fields": ["t", "minutes", "ruby", "all", "steam", "twitchRuby"], "rows": []})
+    samples = read_json(samples_path, {"fields": SAMPLE_FIELDS, "rows": []})
+    if samples.get("fields") != SAMPLE_FIELDS:  # rows from before regions existed
+        samples = {"fields": SAMPLE_FIELDS,
+                   "rows": [r + [None] * (len(SAMPLE_FIELDS) - len(r)) for r in samples["rows"]]}
 
     if is_new_version:
         latest["leaderboardUpdatedAt"] = iso(version_ts)
@@ -355,11 +367,22 @@ def main():
             latest.update(window={"from": iso(prev_version_ts), "to": iso(version_ts), "minutes": minutes},
                           rubyActive=ruby_active, allActive=all_active, rubyShare=share, grinding=grinding)
             twitch_ruby = len(twitch["rubyLive"]) if twitch.get("enabled") and "error" not in twitch else None
+            region_cols = [None] * 6
+            if activity:
+                if minutes <= 90:  # longer gaps blur which hour people played in
+                    activity.record(changed, (prev_version_ts + version_ts) / 2)
+                latest["regions"] = regions.summarize(activity, entries, ruby_names, changed)
+                w = latest["regions"]["window"]
+                region_cols = [w[r][k] for r in regions.REGIONS for k in ("ruby", "all")]
             if minutes > 0:
-                samples["rows"].append([int(version_ts), minutes, ruby_active, all_active, steam, twitch_ruby])
-            append_archive(version_ts, minutes, ruby_active, all_active, steam, twitch_ruby)
-            log(f"{season}: {all_active} active in {minutes} min, {ruby_active} Ruby")
+                samples["rows"].append([int(version_ts), minutes, ruby_active, all_active, steam, twitch_ruby,
+                                        *region_cols])
+            append_archive(version_ts, minutes, ruby_active, all_active, steam, twitch_ruby, region_cols)
+            log(f"{season}: {all_active} active in {minutes} min, {ruby_active} Ruby"
+                + (f"; regions {latest['regions']['placed']} placed, window {w}" if activity else ""))
         else:
+            if activity:
+                latest["regions"] = regions.summarize(activity, entries, ruby_names, None)
             log(f"{season}: baseline saved ({len(entries)} players)")
         meta.update(season=season, versionTs=version_ts)
         save_scores(entries)
@@ -372,14 +395,18 @@ def main():
     write_json(samples_path, samples)
     write_json(latest_path, latest, pretty=True)
     write_json(os.path.join(STATE_DIR, "meta.json"), meta, pretty=True)
+    if activity:
+        activity.save(now)
 
 
-def append_archive(ts, minutes, ruby_active, all_active, steam, twitch_ruby):
+def append_archive(ts, minutes, ruby_active, all_active, steam, twitch_ruby, region_cols):
     """Long-term aggregate history by month (samples.json only keeps 35 days).
     Counts only: a public log of when named players play would be creepy."""
     os.makedirs(ARCHIVE_DIR, exist_ok=True)
     row = {"t": int(ts), "minutes": minutes, "ruby": ruby_active, "all": all_active,
            "steam": steam, "twitchRuby": twitch_ruby}
+    if region_cols[0] is not None:
+        row.update(zip(SAMPLE_FIELDS[6:], region_cols))
     path = os.path.join(ARCHIVE_DIR, dt.datetime.fromtimestamp(ts, dt.timezone.utc).strftime("%Y-%m") + ".jsonl")
     with open(path, "a", encoding="utf-8") as f:
         f.write(json.dumps(row, separators=(",", ":")) + "\n")

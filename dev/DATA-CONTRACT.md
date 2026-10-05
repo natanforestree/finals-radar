@@ -77,3 +77,78 @@ Rolling 35 days, one row per observed leaderboard refresh window, oldest first.
 ```
 
 `steam` and `twitchRuby` may be `null`.
+
+## Regions (added 2026-10-05)
+
+The leaderboard has no region, so the collector places each player by *when*
+they play. Each player gets a 24-bucket UTC-hour histogram of the windows where
+their score changed, stored under a keyed hash of their name (secret
+`REGION_KEY`; the public repo never links names to play times). The
+histogram is compared with three evening-shaped templates: Americas (`am`,
+UTC−3…−7), Europe/Middle East (`eu`, UTC+1…+3) and Asia-Pacific (`ap`,
+UTC+8…+11). A player is "placed" once they've been seen in ≥5 windows and
+one region is clearly most likely. Unplaced players are left out of the
+regional numbers.
+
+`latest.json` gains (or `"regions": null` when the key isn't set):
+
+```jsonc
+"regions": {
+  "ready": false,                 // true once >= 250 of the current top 500 are placed
+  "placed": { "ruby": 120, "all": 2100 },          // placed players: current Ruby / whole top 10k
+  "rubyByRegion": { "am": 60, "eu": 50, "ap": 10 }, // where the placed current-Ruby players are
+  "window": {                     // the latest window's active players, by region
+    "am": { "ruby": 9, "all": 80 },
+    "eu": { "ruby": 15, "all": 90 },
+    "ap": { "ruby": 1, "all": 10 },
+    "unplaced": { "ruby": 5, "all": 44 }
+  }                                // null when `window` is null
+}
+```
+
+`samples.json` `fields` becomes
+`["t","minutes","ruby","all","steam","twitchRuby","amRuby","amAll","euRuby","euAll","apRuby","apAll"]`.
+The regional values are `null` in rows from before regions existed (old rows
+are padded). Americas share for a row = `amRuby / amAll`.
+
+## Lobby log API (Cloudflare Worker, added 2026-10-05)
+
+`docs/config.js` sets `window.RUBY_RADAR_API` to the Worker's base URL
+(empty string = not connected yet; the page then shows the lobby buttons
+disabled with a short note).
+
+Every `/api/*` request sends the header `X-Squad-Code: <code>`; a wrong or
+missing code gets `401 {"error":"bad squad code"}`. The page asks for the code
+and the tapper's name once and keeps them in localStorage (only those two —
+the log itself lives in Cloudflare D1).
+
+CORS allows `https://natanforestree.github.io` and `http://localhost:*`
+(headers `Content-Type, X-Squad-Code`; methods `GET, POST, DELETE, OPTIONS`).
+
+| Method + path | Body / query | Returns |
+| --- | --- | --- |
+| `GET /api/ping` | – | `200 {"ok":true}` (used to check a code) |
+| `POST /api/lobby` | JSON below | `201 {"id":12,"t":1791221331}`; `429` if the same `who` posted < 30 s ago; `400` on bad input |
+| `DELETE /api/lobby/:id` | – | `200 {"ok":true}` (undo) / `404` |
+| `GET /api/lobbies` | optional `?since=<unix s>` | `200 {"lobbies":[ …rows, oldest first ]}` |
+
+Lobby row (POST body; the server adds `id` and `t` = server time, unix seconds):
+
+```jsonc
+{
+  "who": "Nathan",                // 1–24 chars
+  "result": "sweaty",             // "sweaty" | "normal"
+  "verdict": "wait",              // what the page showed: "queue" | "coin" | "wait" | "calibrating" | "stale" | "unknown"
+  "view": "am",                   // which view the verdict used: "am" | "global"
+  "share": 0.152,                 // the share that verdict used (null if none)
+  "globalShare": 0.134,           // latest global Ruby share (null if none)
+  "amShare": 0.171,               // latest Americas Ruby share (null if none)
+  "lbUpdatedAt": "2026-10-05T17:28:51Z" // latest.json leaderboardUpdatedAt (null if none)
+}
+```
+
+The Worker also has a cron trigger every 10 minutes that asks GitHub to run
+the `collect` workflow (secret `GITHUB_TOKEN`: fine-grained, this repo only,
+Actions read/write). The collector backs the lobby log up into the repo
+encrypted (`state/lobbies.json.enc`, AES-256 via openssl, key in the
+`BACKUP_KEY` secret) whenever it changes.

@@ -24,6 +24,7 @@ jobs:
         env:
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+          REGION_KEY: ${{ secrets.REGION_KEY }}
         run: python3 collector/collect.py
 
       - name: Commit data

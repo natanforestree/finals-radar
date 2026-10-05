@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T19:52:22Z",
+ "generatedAt": "2026-10-05T20:06:29Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-05T19:48:02Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 31,
  "allActive": 299,
  "rubyShare": 0.1037,
- "steamPlayers": 14737,
+ "steamPlayers": 14625,
  "rubyCutoff": 55674,
  "grinding": [
   {
@@ -43,7 +43,7 @@
    "delta": 60,
    "rankScore": 63309,
    "club": "SSG",
-   "twitch": "zetoniez"
+   "twitch": null
   },
   {
    "rank": 66,
@@ -264,26 +264,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-05T19:52:22Z",
-  "totalStreams": 170,
+  "checkedAt": "2026-10-05T20:06:29Z",
+  "totalStreams": 180,
   "rubyLive": [
-   {
-    "login": "zetoniez",
-    "displayName": "zetoniez",
-    "title": "TRIPPLE melee rank?",
-    "viewers": 29,
-    "startedAt": "2026-10-05T13:27:28Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zetoniez-{width}x{height}.jpg",
-    "rank": 54,
-    "name": "ZeToniezTTV#1849",
-    "rankScore": 63309,
-    "matchedBy": "name"
-   },
    {
     "login": "lamp",
     "displayName": "lamp",
     "title": "(dropulars) gotta level up brah, KCP later | function follows energy !youtube | lampischiller lampisLuminon",
-    "viewers": 85,
+    "viewers": 95,
     "startedAt": "2026-10-05T18:21:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 66,
@@ -304,22 +292,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "jumparau",
-    "displayName": "jumparau",
-    "title": "scrims !femboy face reveal at 300 followers",
-    "viewers": 9,
-    "startedAt": "2026-10-05T19:01:33Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
-    "rank": 193,
-    "name": "TTV_Jumparau#0323",
-    "rankScore": 60053,
-    "matchedBy": "name"
-   },
-   {
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] Jump Scares for Bits! | The Fastest Medium Alive | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 57,
+    "viewers": 51,
     "startedAt": "2026-10-05T19:13:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 222,
@@ -331,7 +307,7 @@
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 4,
+    "viewers": 9,
     "startedAt": "2026-10-05T18:50:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 243,
@@ -343,7 +319,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] LAST DROP CYCLE OF S11 | Embark Partner | !wooting !lamzu",
-    "viewers": 789,
+    "viewers": 596,
     "startedAt": "2026-10-05T13:01:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 293,
@@ -355,7 +331,7 @@
     "login": "uvinity_",
     "displayName": "Uvinity_",
     "title": "#2 FAMAS ENJOYER | LFT",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-05T19:39:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
     "rank": 322,
@@ -366,36 +342,28 @@
   ],
   "titleMentions": [
    {
-    "login": "mrllamacr",
-    "displayName": "mrllamacr",
-    "title": "AVENGERS RUBY GRIND WE NEED 1k A DAY! | NEW Drops x69 | Qualified TGM 2x",
-    "viewers": 19,
-    "startedAt": "2026-10-05T18:56:42Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrllamacr-{width}x{height}.jpg"
-   },
-   {
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "I May Have Dropped Out of Ruby",
-    "viewers": 4,
+    "viewers": 27,
     "startedAt": "2026-10-05T17:53:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg"
+   },
+   {
+    "login": "mrllamacr",
+    "displayName": "mrllamacr",
+    "title": "AVENGERS RUBY GRIND WE NEED 1k A DAY! | NEW Drops x69 | Qualified TGM 2x",
+    "viewers": 24,
+    "startedAt": "2026-10-05T18:56:42Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrllamacr-{width}x{height}.jpg"
    },
    {
     "login": "bub1xreal",
     "displayName": "bub1xreal",
     "title": "the REAL ruby grind",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-10-05T17:42:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
-   },
-   {
-    "login": "egman39",
-    "displayName": "egman39",
-    "title": "TOP 500 GRIND W/ FOLLOWERS",
-    "viewers": 3,
-    "startedAt": "2026-10-05T18:01:56Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
    }
   ]
  },

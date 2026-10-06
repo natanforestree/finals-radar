@@ -13,7 +13,7 @@ const VERDICTS = ['queue', 'coin', 'wait', 'calibrating', 'stale', 'unknown'];
 const VIEWS = ['am', 'global'];
 
 const PAGES_ORIGIN = 'https://natanforestree.github.io';
-const ALLOWED_ORIGINS = [PAGES_ORIGIN, 'https://renotoday.com', 'https://www.renotoday.com'];
+const ALLOWED_ORIGINS = [PAGES_ORIGIN, 'https://renotoday.org', 'https://www.renotoday.org'];
 const LOCAL_ORIGIN = /^http:\/\/(localhost|127\.0\.0\.1):\d{1,5}$/;
 const ISO_TIME = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d{1,6})?(Z|[+-]\d{2}:\d{2})$/;
 

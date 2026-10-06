@@ -697,7 +697,7 @@ describe('visitor counter', () => {
     assert.equal((await call(env, 'POST', '/api/lobby', { code: null, body: lobby() })).status, 401);
   });
 
-  for (const origin of ['https://renotoday.com', 'https://www.renotoday.com', PAGES]) {
+  for (const origin of ['https://renotoday.org', 'https://www.renotoday.org', PAGES]) {
     test(`CORS: POST and GET from ${origin}`, async () => {
       const env = makeEnv();
       const post = await visit(env, 'reno-today', { origin });
@@ -719,7 +719,7 @@ describe('visitor counter', () => {
     });
   }
 
-  for (const origin of ['http://renotoday.com', 'https://evil.renotoday.com', 'https://renotoday.com.evil.example', 'https://renotoday.com:8443']) {
+  for (const origin of ['http://renotoday.org', 'https://evil.renotoday.org', 'https://renotoday.org.evil.example', 'https://renotoday.org:8443']) {
     test(`CORS: ${origin} is not allowed`, async () => {
       const res = await visit(makeEnv(), 'reno-today', { origin });
       assert.equal(res.headers.get('Access-Control-Allow-Origin'), null);

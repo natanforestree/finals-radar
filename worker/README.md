@@ -20,8 +20,8 @@ routes above still need the squad code):
   oldest to newest, with missing days filled in as `0`.
 
 "Day" is the America/Los_Angeles (Reno) date. CORS allows
-`https://natanforestree.github.io`, `https://renotoday.com` and
-`https://www.renotoday.com`.
+`https://natanforestree.github.io`, `https://renotoday.org` and
+`https://www.renotoday.org`.
 
 **Privacy.** The `visits` table stores only `(site, day, count)`. No IP
 addresses, user agents, cookies or referrers are read, stored or logged. The

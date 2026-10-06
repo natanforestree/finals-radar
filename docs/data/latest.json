@@ -1,118 +1,99 @@
 {
- "generatedAt": "2026-10-06T11:20:31Z",
+ "generatedAt": "2026-10-06T11:30:30Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-06T11:13:25Z",
+ "leaderboardUpdatedAt": "2026-10-06T11:28:39Z",
  "window": {
-  "from": "2026-10-06T10:42:52Z",
-  "to": "2026-10-06T11:13:25Z",
-  "minutes": 30.6
+  "from": "2026-10-06T11:13:25Z",
+  "to": "2026-10-06T11:28:39Z",
+  "minutes": 15.2
  },
- "rubyActive": 11,
- "allActive": 90,
- "rubyShare": 0.1222,
- "steamPlayers": 5953,
+ "rubyActive": 7,
+ "allActive": 38,
+ "rubyShare": 0.1842,
+ "steamPlayers": 5992,
  "rubyCutoff": 55718,
  "grinding": [
   {
-   "rank": 4,
-   "name": "carnifex#7330",
-   "delta": 9,
-   "rankScore": 70516,
-   "club": "5F",
-   "twitch": null
-  },
-  {
-   "rank": 21,
-   "name": "Dyrani#4601",
-   "delta": 36,
-   "rankScore": 65950,
-   "club": "RADGG",
-   "twitch": null
-  },
-  {
-   "rank": 34,
-   "name": "AloneinTelaviv#0255",
-   "delta": 20,
-   "rankScore": 64726,
-   "club": "AVOW",
-   "twitch": null
-  },
-  {
-   "rank": 38,
-   "name": "Roma#8763",
-   "delta": 47,
-   "rankScore": 64651,
-   "club": "RADGG",
-   "twitch": null
-  },
-  {
-   "rank": 258,
-   "name": "Midnight#3042",
-   "delta": -107,
-   "rankScore": 59544,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 264,
-   "name": "YEJJAN#6707",
-   "delta": 107,
-   "rankScore": 59458,
-   "club": "MTHRY",
-   "twitch": null
-  },
-  {
-   "rank": 286,
-   "name": "soloqranked67#7430",
-   "delta": 111,
-   "rankScore": 59137,
-   "club": "F0M0",
-   "twitch": null
-  },
-  {
-   "rank": 328,
-   "name": "KimChokko#0312",
-   "delta": 117,
-   "rankScore": 58705,
-   "club": "NARAE",
-   "twitch": null
-  },
-  {
-   "rank": 337,
-   "name": "21SWAGES#7146",
+   "rank": 43,
+   "name": "Berrence#2323",
    "delta": 51,
-   "rankScore": 58617,
-   "club": "AVOW",
+   "rankScore": 64277,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 357,
-   "name": "SkilledTiger#1668",
-   "delta": -125,
-   "rankScore": 58245,
+   "rank": 386,
+   "name": "lehon#0652",
+   "delta": 129,
+   "rankScore": 57890,
    "club": "AYNON",
    "twitch": null
   },
   {
-   "rank": 457,
-   "name": "Twitch-jumparau#4160",
-   "delta": -154,
-   "rankScore": 56446,
-   "club": "RDBT",
+   "rank": 391,
+   "name": "Seek#2167",
+   "delta": 55,
+   "rankScore": 57841,
+   "club": "5F",
+   "twitch": null
+  },
+  {
+   "rank": 413,
+   "name": "nn7#8593",
+   "delta": 139,
+   "rankScore": 57267,
+   "club": "NTMR",
+   "twitch": null
+  },
+  {
+   "rank": 415,
+   "name": "joek#0785",
+   "delta": 139,
+   "rankScore": 57217,
+   "club": "KNUCK",
+   "twitch": null
+  },
+  {
+   "rank": 464,
+   "name": "Kazuki#0590",
+   "delta": 65,
+   "rankScore": 56395,
+   "club": "1PEEK",
+   "twitch": null
+  },
+  {
+   "rank": 493,
+   "name": "Snafu#3644",
+   "delta": 161,
+   "rankScore": 55890,
+   "club": "RS1",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T11:20:31Z",
-  "totalStreams": 45,
-  "rubyLive": [],
+  "checkedAt": "2026-10-06T11:30:30Z",
+  "totalStreams": 47,
+  "rubyLive": [
+   {
+    "login": "yangdoun",
+    "displayName": "yangdoun",
+    "title": "hello~ | APE SQUAD | RANKED",
+    "viewers": 3,
+    "startedAt": "2026-10-06T11:22:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
+    "rank": 152,
+    "name": "YangDoun#0398",
+    "rankScore": 60510,
+    "matchedBy": "name"
+   }
+  ],
   "titleMentions": [
    {
     "login": "ryze76290",
     "displayName": "RYZE76290",
     "title": "ranked morning ruby safe finally",
-    "viewers": 6,
+    "viewers": 4,
     "startedAt": "2026-10-06T10:33:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryze76290-{width}x{height}.jpg"
    }
@@ -143,8 +124,8 @@
     "all": 0
    },
    "unplaced": {
-    "ruby": 11,
-    "all": 90
+    "ruby": 7,
+    "all": 38
    }
   }
  },

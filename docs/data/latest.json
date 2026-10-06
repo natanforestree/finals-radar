@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T15:50:29Z",
+ "generatedAt": "2026-10-06T16:00:29Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-06T15:20:12Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 13,
  "allActive": 165,
  "rubyShare": 0.0788,
- "steamPlayers": 10239,
+ "steamPlayers": 10491,
  "rubyCutoff": 55652,
  "grinding": [
   {
@@ -120,14 +120,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T15:50:29Z",
-  "totalStreams": 108,
+  "checkedAt": "2026-10-06T16:00:29Z",
+  "totalStreams": 111,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "Yo !drops",
-    "viewers": 169,
+    "viewers": 173,
     "startedAt": "2026-10-06T12:26:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 30,
@@ -139,7 +139,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "a",
-    "viewers": 80,
+    "viewers": 66,
     "startedAt": "2026-10-06T14:03:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 44,
@@ -151,7 +151,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "hello~ | APE SQUAD | RANKED",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-10-06T11:22:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 152,
@@ -160,22 +160,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "jumparau",
-    "displayName": "jumparau",
-    "title": "ranked- !femboy-!zestfest",
-    "viewers": 11,
-    "startedAt": "2026-10-06T13:17:52Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
-    "rank": 198,
-    "name": "TTV_Jumparau#0323",
-    "rankScore": 60053,
-    "matchedBy": "name"
-   },
-   {
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] LAST DROP CYCLE OF S11 | Embark Partner | !wooting !lamzu",
-    "viewers": 585,
+    "viewers": 606,
     "startedAt": "2026-10-06T13:01:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 303,
@@ -184,7 +172,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 0,
+    "startedAt": "2026-10-06T15:52:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": false,

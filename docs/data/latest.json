@@ -1,93 +1,365 @@
 {
- "generatedAt": "2026-10-06T03:20:28Z",
+ "generatedAt": "2026-10-06T03:30:29Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-06T02:50:33Z",
+ "leaderboardUpdatedAt": "2026-10-06T03:21:00Z",
  "window": {
-  "from": "2026-10-06T02:35:30Z",
-  "to": "2026-10-06T02:50:33Z",
-  "minutes": 15.0
+  "from": "2026-10-06T02:50:33Z",
+  "to": "2026-10-06T03:21:00Z",
+  "minutes": 30.5
  },
- "rubyActive": 5,
- "allActive": 35,
- "rubyShare": 0.1429,
- "steamPlayers": 11627,
- "rubyCutoff": 55693,
+ "rubyActive": 39,
+ "allActive": 303,
+ "rubyShare": 0.1287,
+ "steamPlayers": 11206,
+ "rubyCutoff": 55677,
  "grinding": [
   {
-   "rank": 22,
+   "rank": 6,
+   "name": "normalize#0130",
+   "delta": 12,
+   "rankScore": 69852,
+   "club": "LUMN",
+   "twitch": "normalize"
+  },
+  {
+   "rank": 7,
+   "name": "stewj#8610",
+   "delta": 12,
+   "rankScore": 69723,
+   "club": "NTMR",
+   "twitch": "stewj"
+  },
+  {
+   "rank": 11,
+   "name": "Choobz#9757",
+   "delta": 17,
+   "rankScore": 68737,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 13,
+   "name": "Juker#0771",
+   "delta": 18,
+   "rankScore": 68538,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 23,
    "name": "Persyble#8066",
-   "delta": 37,
-   "rankScore": 65924,
+   "delta": -92,
+   "rankScore": 65832,
    "club": "AUREA",
    "twitch": null
   },
   {
-   "rank": 260,
-   "name": "PUP#3051",
-   "delta": 106,
-   "rankScore": 59473,
+   "rank": 57,
+   "name": "nomad#6612",
+   "delta": 61,
+   "rankScore": 63239,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 72,
+   "name": "Morphisxx23#0991",
+   "delta": 67,
+   "rankScore": 62655,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 372,
-   "name": "Aveil#1247",
-   "delta": 127,
-   "rankScore": 58030,
-   "club": "REACT",
+   "rank": 85,
+   "name": "Take1E#0207",
+   "delta": 72,
+   "rankScore": 62147,
+   "club": "KCP",
    "twitch": null
   },
   {
-   "rank": 422,
+   "rank": 92,
+   "name": "Msj#5683",
+   "delta": 75,
+   "rankScore": 61938,
+   "club": "T0GGL",
+   "twitch": null
+  },
+  {
+   "rank": 94,
+   "name": "N0tK2#0997",
+   "delta": 76,
+   "rankScore": 61870,
+   "club": "T0GGL",
+   "twitch": null
+  },
+  {
+   "rank": 109,
+   "name": "ahsaha#9839",
+   "delta": 34,
+   "rankScore": 61485,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 127,
+   "name": "Sly#1640",
+   "delta": -35,
+   "rankScore": 61016,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 130,
+   "name": "BIGGIE_SWEEZE#7020",
+   "delta": 86,
+   "rankScore": 61006,
+   "club": "GYMR",
+   "twitch": null
+  },
+  {
+   "rank": 133,
+   "name": "Clcfr#1949",
+   "delta": 86,
+   "rankScore": 60984,
+   "club": "DMA67",
+   "twitch": null
+  },
+  {
+   "rank": 150,
+   "name": "dawn#0905",
+   "delta": 93,
+   "rankScore": 60510,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 173,
+   "name": "Metro#1140",
+   "delta": 97,
+   "rankScore": 60186,
+   "club": "NTMR",
+   "twitch": null
+  },
+  {
+   "rank": 190,
+   "name": "OtanCZ#4564",
+   "delta": 98,
+   "rankScore": 60072,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 214,
+   "name": "TwichJussAngellk#0030",
+   "delta": 99,
+   "rankScore": 60003,
+   "club": "MR",
+   "twitch": null
+  },
+  {
+   "rank": 235,
+   "name": "PAPI#1565",
+   "delta": 103,
+   "rankScore": 59719,
+   "club": "YN",
+   "twitch": null
+  },
+  {
+   "rank": 249,
+   "name": "Sonder#2768",
+   "delta": 104,
+   "rankScore": 59597,
+   "club": "7V",
+   "twitch": null
+  },
+  {
+   "rank": 260,
+   "name": "2sikk#2681",
+   "delta": 106,
+   "rankScore": 59476,
+   "club": "CRU3L",
+   "twitch": null
+  },
+  {
+   "rank": 274,
+   "name": "22villages#1451",
+   "delta": 108,
+   "rankScore": 59308,
+   "club": "MILKD",
+   "twitch": null
+  },
+  {
+   "rank": 330,
+   "name": "def.nox#9033",
+   "delta": 117,
+   "rankScore": 58640,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 341,
+   "name": "NebulaXV7_TTV#1455",
+   "delta": -272,
+   "rankScore": 58422,
+   "club": "FNC",
+   "twitch": null
+  },
+  {
+   "rank": 349,
+   "name": "tikiman#0069",
+   "delta": 52,
+   "rankScore": 58306,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 360,
+   "name": "Chrissneaks#3232",
+   "delta": 124,
+   "rankScore": 58182,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 400,
+   "name": "Boom#6313",
+   "delta": -54,
+   "rankScore": 57496,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 401,
+   "name": "sinthonize#4065",
+   "delta": -137,
+   "rankScore": 57474,
+   "club": "GFM",
+   "twitch": "sinthonize"
+  },
+  {
+   "rank": 410,
+   "name": "Lt.WindowLicker#1804",
+   "delta": -258,
+   "rankScore": 57180,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 415,
+   "name": "Acetamer#0711",
+   "delta": -260,
+   "rankScore": 57118,
+   "club": "HAKER",
+   "twitch": null
+  },
+  {
+   "rank": 424,
    "name": "yevomsmttv#7212",
-   "delta": 142,
-   "rankScore": 57039,
+   "delta": -57,
+   "rankScore": 56982,
    "club": "PLSR",
    "twitch": null
   },
   {
-   "rank": 482,
-   "name": "ace#3154",
-   "delta": 159,
-   "rankScore": 56000,
+   "rank": 429,
+   "name": "noir#3584",
+   "delta": -58,
+   "rankScore": 56874,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 446,
+   "name": "Sharper#3915",
+   "delta": 150,
+   "rankScore": 56550,
+   "club": "YN",
+   "twitch": null
+  },
+  {
+   "rank": 447,
+   "name": "Sokudo#0731",
+   "delta": 151,
+   "rankScore": 56539,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 469,
+   "name": "Chapo#9657",
+   "delta": 97,
+   "rankScore": 56241,
+   "club": "VGG",
+   "twitch": null
+  },
+  {
+   "rank": 473,
+   "name": "Thecowgoesmoo#8266",
+   "delta": -287,
+   "rankScore": 56180,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 492,
+   "name": "Apples#1806",
+   "delta": 97,
+   "rankScore": 55852,
+   "club": "VEXL",
+   "twitch": null
+  },
+  {
+   "rank": 495,
+   "name": "Txlentless#0692",
+   "delta": 102,
+   "rankScore": 55776,
    "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 500,
+   "name": "Dawg#4320",
+   "delta": -17,
+   "rankScore": 55677,
+   "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T03:20:28Z",
-  "totalStreams": 167,
+  "checkedAt": "2026-10-06T03:30:29Z",
+  "totalStreams": 165,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 10 RANKED W/ STEW & JUKER | JUMPSCARES FOR BITS! | !discord !sens !rank",
-    "viewers": 92,
+    "viewers": 96,
     "startedAt": "2026-10-05T21:03:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 6,
     "name": "normalize#0130",
-    "rankScore": 69840,
+    "rankScore": 69852,
     "matchedBy": "name"
    },
    {
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED GAMING WITH NOAH AND JUKER",
-    "viewers": 159,
+    "viewers": 144,
     "startedAt": "2026-10-06T01:45:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
     "name": "stewj#8610",
-    "rankScore": 69711,
+    "rankScore": 69723,
     "matchedBy": "name"
    },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby POV",
-    "viewers": 49,
+    "viewers": 64,
     "startedAt": "2026-10-06T02:58:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 41,
@@ -102,7 +374,7 @@
     "viewers": 1,
     "startedAt": "2026-10-06T00:28:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 150,
+    "rank": 151,
     "name": "YangDoun#0398",
     "rankScore": 60510,
     "matchedBy": "name"
@@ -111,10 +383,10 @@
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Terrorizing Ruby | The Finals | Ruby Light Secured 60k",
-    "viewers": 1,
+    "viewers": 3,
     "startedAt": "2026-10-06T00:22:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
-    "rank": 152,
+    "rank": 153,
     "name": "bobiduity#2959",
     "rankScore": 60478,
     "matchedBy": "name"
@@ -135,10 +407,10 @@
     "login": "udrakoni",
     "displayName": "udrakoni",
     "title": "(DROPS) SUB in sweden!",
-    "viewers": 20,
-    "startedAt": "2026-10-06T02:29:08Z",
+    "viewers": 16,
+    "startedAt": "2026-10-06T03:22:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udrakoni-{width}x{height}.jpg",
-    "rank": 255,
+    "rank": 256,
     "name": "udrakoni#9522",
     "rankScore": 59500,
     "matchedBy": "name"
@@ -150,9 +422,9 @@
     "viewers": 2,
     "startedAt": "2026-10-06T02:07:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sinthonize-{width}x{height}.jpg",
-    "rank": 395,
+    "rank": 401,
     "name": "sinthonize#4065",
-    "rankScore": 57611,
+    "rankScore": 57474,
     "matchedBy": "name"
    }
   ],
@@ -161,7 +433,7 @@
     "login": "beckdrew",
     "displayName": "BeckDrew",
     "title": "BRONZE TO RUBY RINGING MY SKELETAL ON MY DESK RN",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-06T01:19:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckdrew-{width}x{height}.jpg"
    },
@@ -178,18 +450,18 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 0,
-   "all": 0
+   "ruby": 3,
+   "all": 22
   },
   "rubyByRegion": {
-   "am": 0,
+   "am": 3,
    "eu": 0,
    "ap": 0
   },
   "window": {
    "am": {
-    "ruby": 0,
-    "all": 0
+    "ruby": 3,
+    "all": 22
    },
    "eu": {
     "ruby": 0,
@@ -200,8 +472,8 @@
     "all": 0
    },
    "unplaced": {
-    "ruby": 5,
-    "all": 35
+    "ruby": 36,
+    "all": 281
    }
   }
  },

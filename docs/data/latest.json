@@ -1,106 +1,202 @@
 {
- "generatedAt": "2026-10-06T13:10:29Z",
+ "generatedAt": "2026-10-06T13:20:32Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-06T12:46:30Z",
+ "leaderboardUpdatedAt": "2026-10-06T13:20:02Z",
  "window": {
-  "from": "2026-10-06T12:31:17Z",
-  "to": "2026-10-06T12:46:30Z",
-  "minutes": 15.2
+  "from": "2026-10-06T12:46:30Z",
+  "to": "2026-10-06T13:20:02Z",
+  "minutes": 33.5
  },
- "rubyActive": 9,
- "allActive": 89,
- "rubyShare": 0.1011,
- "steamPlayers": 7464,
- "rubyCutoff": 55718,
+ "rubyActive": 21,
+ "allActive": 141,
+ "rubyShare": 0.1489,
+ "steamPlayers": 7648,
+ "rubyCutoff": 55652,
  "grinding": [
   {
-   "rank": 176,
-   "name": "Zoso#1570",
-   "delta": 96,
-   "rankScore": 60206,
-   "club": "RS1",
+   "rank": 3,
+   "name": "BLAD3R#2825",
+   "delta": 8,
+   "rankScore": 70775,
+   "club": "APES",
    "twitch": null
   },
   {
-   "rank": 238,
-   "name": "Midnight#3042",
-   "delta": 102,
-   "rankScore": 59750,
-   "club": null,
+   "rank": 4,
+   "name": "carnifex#7330",
+   "delta": 9,
+   "rankScore": 70530,
+   "club": "5F",
    "twitch": null
   },
   {
-   "rank": 337,
-   "name": "yukiyukiyukiyuki#1337",
-   "delta": -48,
-   "rankScore": 58578,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 372,
-   "name": "lehon#0652",
-   "delta": 127,
-   "rankScore": 58071,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 403,
-   "name": "nn7#8593",
-   "delta": 134,
-   "rankScore": 57537,
-   "club": "NTMR",
-   "twitch": null
-  },
-  {
-   "rank": 411,
-   "name": "joek#0785",
-   "delta": 136,
-   "rankScore": 57412,
-   "club": "KNUCK",
-   "twitch": null
-  },
-  {
-   "rank": 447,
-   "name": "I_LOVE_YOU#4183",
-   "delta": -60,
-   "rankScore": 56638,
+   "rank": 9,
+   "name": "MOGHWASOM#2367",
+   "delta": 16,
+   "rankScore": 68866,
    "club": "MTHRY",
    "twitch": null
   },
   {
-   "rank": 452,
+   "rank": 10,
+   "name": "Nov#6006",
+   "delta": 16,
+   "rankScore": 68821,
+   "club": "HIBOO",
+   "twitch": null
+  },
+  {
+   "rank": 31,
+   "name": "AloneinTelaviv#0255",
+   "delta": 92,
+   "rankScore": 64837,
+   "club": "AVOW",
+   "twitch": null
+  },
+  {
+   "rank": 35,
+   "name": "perzzonTTV#5485",
+   "delta": 46,
+   "rankScore": 64770,
+   "club": "PRZN",
+   "twitch": "perzzon"
+  },
+  {
+   "rank": 54,
+   "name": "Foxtrody#0716",
+   "delta": 59,
+   "rankScore": 63381,
+   "club": "DRG",
+   "twitch": null
+  },
+  {
+   "rank": 235,
+   "name": "Midnight#3042",
+   "delta": 43,
+   "rankScore": 59793,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 294,
+   "name": "Callum#1239",
+   "delta": -381,
+   "rankScore": 59078,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 326,
+   "name": "Thing1#8931",
+   "delta": -216,
+   "rankScore": 58723,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 329,
+   "name": "yukiyukiyukiyuki#1337",
+   "delta": 117,
+   "rankScore": 58695,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 330,
+   "name": "SumZer0#7886",
+   "delta": 118,
+   "rankScore": 58673,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 355,
+   "name": "Some0ne#7487",
+   "delta": 123,
+   "rankScore": 58277,
+   "club": "SAINT",
+   "twitch": null
+  },
+  {
+   "rank": 393,
+   "name": "Ojje#4485",
+   "delta": 130,
+   "rankScore": 57821,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 400,
+   "name": "miaomiaomiao#5189",
+   "delta": -107,
+   "rankScore": 57601,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 409,
+   "name": "Fxxk.Cheater-Gua#2899",
+   "delta": -109,
+   "rankScore": 57447,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 414,
+   "name": "David#1135",
+   "delta": 278,
+   "rankScore": 57306,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 436,
+   "name": "I_LOVE_YOU#4183",
+   "delta": 146,
+   "rankScore": 56784,
+   "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 446,
    "name": "Kazuki#0590",
-   "delta": 150,
-   "rankScore": 56545,
+   "delta": 147,
+   "rankScore": 56692,
    "club": "1PEEK",
    "twitch": null
   },
   {
-   "rank": 473,
-   "name": "Snafu#3644",
-   "delta": 156,
-   "rankScore": 56204,
-   "club": "RS1",
+   "rank": 459,
+   "name": "Fatiev001#5543",
+   "delta": 64,
+   "rankScore": 56445,
+   "club": "F0M0",
+   "twitch": null
+  },
+  {
+   "rank": 491,
+   "name": "EZPADRE#5220",
+   "delta": -41,
+   "rankScore": 55922,
+   "club": "WRCL",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T13:10:29Z",
-  "totalStreams": 67,
+  "checkedAt": "2026-10-06T13:20:32Z",
+  "totalStreams": 72,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "Yo !drops",
-    "viewers": 43,
+    "viewers": 41,
     "startedAt": "2026-10-06T12:26:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 35,
     "name": "perzzonTTV#5485",
-    "rankScore": 64724,
+    "rankScore": 64770,
     "matchedBy": "name"
    },
    {
@@ -118,8 +214,8 @@
    {
     "login": "koretica",
     "displayName": "Koretica",
-    "title": "🎁 [DROPS] RANDOM LOADOUTS  | Interactive | New Channel Points | Road to Embark Creator!",
-    "viewers": 18,
+    "title": "🎁 [DROPS] RANDOMLY GENERATED LOADOUTS  | Interactive | New Channel Points | Road to Embark Creator!",
+    "viewers": 14,
     "startedAt": "2026-10-06T12:00:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koretica-{width}x{height}.jpg",
     "rank": 153,
@@ -131,7 +227,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] LAST DROP CYCLE OF S11 | Embark Partner | !wooting !lamzu",
-    "viewers": 49,
+    "viewers": 132,
     "startedAt": "2026-10-06T13:01:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 302,
@@ -145,7 +241,7 @@
     "login": "ryze76290",
     "displayName": "RYZE76290",
     "title": "ranked morning ruby safe finally",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-06T10:33:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryze76290-{width}x{height}.jpg"
    },
@@ -163,7 +259,7 @@
   "ready": false,
   "placed": {
    "ruby": 13,
-   "all": 65
+   "all": 66
   },
   "rubyByRegion": {
    "am": 12,
@@ -177,15 +273,15 @@
    },
    "eu": {
     "ruby": 0,
-    "all": 1
+    "all": 2
    },
    "ap": {
     "ruby": 0,
-    "all": 1
+    "all": 4
    },
    "unplaced": {
-    "ruby": 9,
-    "all": 87
+    "ruby": 21,
+    "all": 135
    }
   }
  },

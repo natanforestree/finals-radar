@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T17:10:29Z",
+ "generatedAt": "2026-10-06T17:20:29Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-06T16:52:03Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 20,
  "allActive": 196,
  "rubyShare": 0.102,
- "steamPlayers": 11875,
+ "steamPlayers": 12178,
  "rubyCutoff": 55652,
  "grinding": [
   {
@@ -19,7 +19,7 @@
    "delta": 44,
    "rankScore": 64969,
    "club": "PRZN",
-   "twitch": "perzzon"
+   "twitch": null
   },
   {
    "rank": 41,
@@ -43,7 +43,7 @@
    "delta": 90,
    "rankScore": 60691,
    "club": "APES",
-   "twitch": "yangdoun"
+   "twitch": null
   },
   {
    "rank": 149,
@@ -176,26 +176,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T17:10:29Z",
-  "totalStreams": 129,
+  "checkedAt": "2026-10-06T17:20:29Z",
+  "totalStreams": 136,
   "rubyLive": [
-   {
-    "login": "perzzon",
-    "displayName": "Perzzon",
-    "title": "Yo !drops",
-    "viewers": 133,
-    "startedAt": "2026-10-06T12:26:35Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 28,
-    "name": "perzzonTTV#5485",
-    "rankScore": 64969,
-    "matchedBy": "name"
-   },
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "a",
-    "viewers": 86,
+    "viewers": 91,
     "startedAt": "2026-10-06T14:03:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 44,
@@ -216,22 +204,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "yangdoun",
-    "displayName": "yangdoun",
-    "title": "hello~ | APE SQUAD | RANKED",
-    "viewers": 2,
-    "startedAt": "2026-10-06T11:22:31Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 141,
-    "name": "YangDoun#0398",
-    "rankScore": 60691,
-    "matchedBy": "name"
-   },
-   {
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] LAST DROP CYCLE OF S11 | Embark Partner | !wooting !lamzu",
-    "viewers": 631,
+    "viewers": 615,
     "startedAt": "2026-10-06T13:01:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 303,
@@ -241,14 +217,6 @@
    }
   ],
   "titleMentions": [
-   {
-    "login": "beckdrew",
-    "displayName": "BeckDrew",
-    "title": "BRONZE TO RUBY RINGING MY SKELETAL ON MY DESK RN",
-    "viewers": 2,
-    "startedAt": "2026-10-06T16:58:38Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckdrew-{width}x{height}.jpg"
-   },
    {
     "login": "opportunehook9",
     "displayName": "OpportuneHook9",
@@ -272,6 +240,14 @@
     "viewers": 0,
     "startedAt": "2026-10-06T16:33:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_09mooni-{width}x{height}.jpg"
+   },
+   {
+    "login": "bub1xreal",
+    "displayName": "bub1xreal",
+    "title": "the REAL ruby grind",
+    "viewers": 0,
+    "startedAt": "2026-10-06T17:13:42Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
    }
   ]
  },

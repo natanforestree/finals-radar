@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-10-06T11:10:29Z",
+ "generatedAt": "2026-10-06T11:20:31Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-06T10:42:52Z",
+ "leaderboardUpdatedAt": "2026-10-06T11:13:25Z",
  "window": {
-  "from": "2026-10-06T10:26:30Z",
-  "to": "2026-10-06T10:42:52Z",
-  "minutes": 16.4
+  "from": "2026-10-06T10:42:52Z",
+  "to": "2026-10-06T11:13:25Z",
+  "minutes": 30.6
  },
- "rubyActive": 12,
+ "rubyActive": 11,
  "allActive": 90,
- "rubyShare": 0.1333,
- "steamPlayers": 5853,
+ "rubyShare": 0.1222,
+ "steamPlayers": 5953,
  "rubyCutoff": 55718,
  "grinding": [
   {
    "rank": 4,
    "name": "carnifex#7330",
    "delta": 9,
-   "rankScore": 70507,
+   "rankScore": 70516,
    "club": "5F",
    "twitch": null
   },
@@ -25,94 +25,86 @@
    "rank": 21,
    "name": "Dyrani#4601",
    "delta": 36,
-   "rankScore": 65914,
+   "rankScore": 65950,
    "club": "RADGG",
+   "twitch": null
+  },
+  {
+   "rank": 34,
+   "name": "AloneinTelaviv#0255",
+   "delta": 20,
+   "rankScore": 64726,
+   "club": "AVOW",
    "twitch": null
   },
   {
    "rank": 38,
    "name": "Roma#8763",
-   "delta": 48,
-   "rankScore": 64604,
+   "delta": 47,
+   "rankScore": 64651,
    "club": "RADGG",
    "twitch": null
   },
   {
-   "rank": 46,
-   "name": "CatBoyOwner#3890",
-   "delta": 53,
-   "rankScore": 63978,
-   "club": "MORI",
+   "rank": 258,
+   "name": "Midnight#3042",
+   "delta": -107,
+   "rankScore": 59544,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 270,
-   "name": "FunPolice#2530",
-   "delta": -43,
-   "rankScore": 59377,
-   "club": "AVOW",
+   "rank": 264,
+   "name": "YEJJAN#6707",
+   "delta": 107,
+   "rankScore": 59458,
+   "club": "MTHRY",
    "twitch": null
   },
   {
-   "rank": 290,
-   "name": "YuiTF-Tiktok#6256",
+   "rank": 286,
+   "name": "soloqranked67#7430",
    "delta": 111,
-   "rankScore": 59092,
-   "club": "C0VIL",
+   "rankScore": 59137,
+   "club": "F0M0",
    "twitch": null
   },
   {
-   "rank": 322,
-   "name": "Vex#0974",
-   "delta": 115,
-   "rankScore": 58818,
-   "club": "T400",
+   "rank": 328,
+   "name": "KimChokko#0312",
+   "delta": 117,
+   "rankScore": 58705,
+   "club": "NARAE",
    "twitch": null
   },
   {
-   "rank": 339,
+   "rank": 337,
    "name": "21SWAGES#7146",
-   "delta": -48,
-   "rankScore": 58566,
+   "delta": 51,
+   "rankScore": 58617,
    "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 391,
-   "name": "Seek#2167",
-   "delta": 130,
-   "rankScore": 57786,
-   "club": "5F",
+   "rank": 357,
+   "name": "SkilledTiger#1668",
+   "delta": -125,
+   "rankScore": 58245,
+   "club": "AYNON",
    "twitch": null
   },
   {
-   "rank": 411,
-   "name": "zmon#3311",
-   "delta": 138,
-   "rankScore": 57330,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 467,
-   "name": "Kazuki#0590",
-   "delta": 154,
-   "rankScore": 56330,
-   "club": "1PEEK",
-   "twitch": null
-  },
-  {
-   "rank": 495,
-   "name": "Acidbeef209#2268",
-   "delta": -165,
-   "rankScore": 55764,
-   "club": "ZZ",
+   "rank": 457,
+   "name": "Twitch-jumparau#4160",
+   "delta": -154,
+   "rankScore": 56446,
+   "club": "RDBT",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T11:10:29Z",
+  "checkedAt": "2026-10-06T11:20:31Z",
   "totalStreams": 45,
   "rubyLive": [],
   "titleMentions": [
@@ -120,7 +112,7 @@
     "login": "ryze76290",
     "displayName": "RYZE76290",
     "title": "ranked morning ruby safe finally",
-    "viewers": 12,
+    "viewers": 6,
     "startedAt": "2026-10-06T10:33:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryze76290-{width}x{height}.jpg"
    }
@@ -151,7 +143,7 @@
     "all": 0
    },
    "unplaced": {
-    "ruby": 12,
+    "ruby": 11,
     "all": 90
    }
   }

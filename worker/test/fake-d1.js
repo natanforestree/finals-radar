@@ -13,9 +13,30 @@ const NOT_NULL = ['t', 'who', 'result', 'verdict', 'view'];
 
 export function createFakeD1() {
   const rows = [];
+  const visits = [];
   let lastId = 0;
 
   const statements = [
+    {
+      pattern: /^INSERT INTO visits \(site, day, count\) VALUES \(\?1, \?2, 1\) ON CONFLICT \(site, day\) DO UPDATE SET count = count \+ 1$/,
+      exec([site, day]) {
+        if (site == null || day == null) throw new Error('NOT NULL constraint failed: visits');
+        const row = visits.find((v) => v.site === site && v.day === day);
+        if (row) row.count += 1;
+        else visits.push({ site, day, count: 1 });
+        return { results: [], changes: 1 };
+      },
+    },
+    {
+      pattern: /^SELECT day, count FROM visits WHERE site = \?1 AND day >= \?2 AND day <= \?3 ORDER BY day$/,
+      exec([site, from, to]) {
+        const results = visits
+          .filter((v) => v.site === site && v.day >= from && v.day <= to)
+          .sort((a, b) => (a.day < b.day ? -1 : 1))
+          .map(({ day, count }) => ({ day, count }));
+        return { results, changes: 0 };
+      },
+    },
     {
       pattern: /^INSERT INTO lobbies \(t, who, result, verdict, view, share, global_share, am_share, lb_updated_at\) SELECT \?1, \?2, \?3, \?4, \?5, \?6, \?7, \?8, \?9 WHERE NOT EXISTS \(SELECT 1 FROM lobbies WHERE who = \?2 AND t > \?10\) RETURNING id$/,
       exec([t, who, result, verdict, view, share, globalShare, amShare, lbUpdatedAt, after]) {
@@ -105,6 +126,7 @@ export function createFakeD1() {
 
   return {
     rows,
+    visits,
     prepare: (sql) => new Statement(sql),
   };
 }

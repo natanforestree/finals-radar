@@ -8,6 +8,30 @@ A Cloudflare Worker that does two jobs:
 - **Reliable timer.** Every 10 minutes it asks GitHub to run the `collect`
   workflow, because GitHub's own schedule drifts and sometimes drops runs.
 
+## Visitor counter (public, no squad code)
+
+A tiny daily counter for Reno Today. Two routes, open to anyone (the lobby
+routes above still need the squad code):
+
+- `POST /api/visit/:site` adds 1 to today's count for `:site` and answers
+  `204` with no body. `:site` must be on the allowlist (`reno-today`), else `404`.
+- `GET /api/visits/:site?days=N` (N from 1 to 31, default 7) returns
+  `{"site": "reno-today", "days": [{"day": "2026-10-04", "count": 12}, ...]}`,
+  oldest to newest, with missing days filled in as `0`.
+
+"Day" is the America/Los_Angeles (Reno) date. CORS allows
+`https://natanforestree.github.io`, `https://renotoday.com` and
+`https://www.renotoday.com`.
+
+**Privacy.** The `visits` table stores only `(site, day, count)`. No IP
+addresses, user agents, cookies or referrers are read, stored or logged. The
+visitor's own browser remembers "already counted today" in its localStorage;
+that never leaves their device. Check the stored data with:
+
+```sh
+npx wrangler d1 execute ruby-radar --remote --command "SELECT * FROM visits ORDER BY day DESC LIMIT 10"
+```
+
 ## Deploy (first time)
 
 Run everything from this `worker/` folder, after `npm install`.

@@ -15,3 +15,7 @@ CREATE TABLE IF NOT EXISTS lobbies (
 
 CREATE INDEX IF NOT EXISTS lobbies_t ON lobbies (t);
 CREATE INDEX IF NOT EXISTS lobbies_who_t ON lobbies (who, t);
+
+-- Visitor counter: only a site, a Reno-local date and a count. Nothing about
+-- who visited. Additive only.
+CREATE TABLE IF NOT EXISTS visits (site TEXT NOT NULL, day TEXT NOT NULL, count INTEGER NOT NULL DEFAULT 0, PRIMARY KEY (site, day));

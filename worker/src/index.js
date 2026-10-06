@@ -13,6 +13,7 @@ const VERDICTS = ['queue', 'coin', 'wait', 'calibrating', 'stale', 'unknown'];
 const VIEWS = ['am', 'global'];
 
 const PAGES_ORIGIN = 'https://natanforestree.github.io';
+const ALLOWED_ORIGINS = [PAGES_ORIGIN, 'https://renotoday.com', 'https://www.renotoday.com'];
 const LOCAL_ORIGIN = /^http:\/\/(localhost|127\.0\.0\.1):\d{1,5}$/;
 const ISO_TIME = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(\.\d{1,6})?(Z|[+-]\d{2}:\d{2})$/;
 
@@ -28,11 +29,25 @@ const LIST_LOBBIES = `
   SELECT id, t, who, result, verdict, view, share, global_share, am_share, lb_updated_at
   FROM lobbies WHERE t >= ? ORDER BY t, id`;
 
+// Visitor counter. Stores only (site, Reno date, count): nothing about who visited.
+const VISIT_SITES = ['reno-today'];
+const VISIT_TIME_ZONE = 'America/Los_Angeles';
+const DEFAULT_VISIT_DAYS = 7;
+const MAX_VISIT_DAYS = 31;
+const COUNT_VISIT = `
+  INSERT INTO visits (site, day, count) VALUES (?1, ?2, 1)
+  ON CONFLICT (site, day) DO UPDATE SET count = count + 1`;
+const LIST_VISITS = `
+  SELECT day, count FROM visits WHERE site = ?1 AND day >= ?2 AND day <= ?3 ORDER BY day`;
+
+// [method, pattern, handler, isPublic]. Only the visitor counter is public.
 const ROUTES = [
   ['GET', /^\/api\/ping$/, ping],
   ['POST', /^\/api\/lobby$/, addLobby],
   ['DELETE', /^\/api\/lobby\/(\d{1,15})$/, deleteLobby],
   ['GET', /^\/api\/lobbies$/, listLobbies],
+  ['POST', /^\/api\/visit\/([a-z0-9-]{1,40})$/, countVisit, true],
+  ['GET', /^\/api\/visits\/([a-z0-9-]{1,40})$/, listVisits, true],
 ];
 
 class HttpError extends Error {
@@ -64,10 +79,10 @@ export default {
 async function route(request, env) {
   if (request.method === 'OPTIONS') return new Response(null, { status: 204 });
   const url = new URL(request.url);
-  for (const [method, pattern, handler] of ROUTES) {
+  for (const [method, pattern, handler, isPublic] of ROUTES) {
     const match = url.pathname.match(pattern);
     if (match && request.method === method) {
-      await requireSquadCode(request, env);
+      if (!isPublic) await requireSquadCode(request, env);
       return handler({ request, env, url, params: match.slice(1) });
     }
   }
@@ -107,6 +122,44 @@ async function listLobbies({ env, url }) {
   }
   const { results } = await env.DB.prepare(LIST_LOBBIES).bind(Number(since ?? 0)).all();
   return json(200, { lobbies: results.map(toApi) });
+}
+
+async function countVisit({ env, params: [site] }) {
+  requireVisitSite(site);
+  await env.DB.prepare(COUNT_VISIT).bind(site, renoDay(Date.now())).run();
+  return new Response(null, { status: 204, headers: { 'Cache-Control': 'no-store' } });
+}
+
+async function listVisits({ env, url, params: [site] }) {
+  requireVisitSite(site);
+  const raw = url.searchParams.get('days');
+  if (raw !== null && !/^\d{1,2}$/.test(raw)) throw new HttpError(400, 'days must be 1-31');
+  const count = raw === null ? DEFAULT_VISIT_DAYS : Number(raw);
+  if (count < 1 || count > MAX_VISIT_DAYS) throw new HttpError(400, 'days must be 1-31');
+
+  const today = renoDay(Date.now());
+  const days = [];
+  for (let back = count - 1; back >= 0; back--) days.push(shiftDay(today, -back));
+  const { results } = await env.DB.prepare(LIST_VISITS).bind(site, days[0], today).all();
+  const counts = new Map(results.map((row) => [row.day, row.count]));
+  return json(200, { site, days: days.map((day) => ({ day, count: counts.get(day) ?? 0 })) });
+}
+
+function requireVisitSite(site) {
+  if (!VISIT_SITES.includes(site)) throw new HttpError(404, 'not found');
+}
+
+// YYYY-MM-DD in Reno (the en-CA locale formats dates that way).
+function renoDay(ms) {
+  return new Intl.DateTimeFormat('en-CA', {
+    timeZone: VISIT_TIME_ZONE, year: 'numeric', month: '2-digit', day: '2-digit',
+  }).format(new Date(ms));
+}
+
+// Calendar arithmetic on a YYYY-MM-DD string (UTC, so no DST surprises).
+function shiftDay(day, delta) {
+  const [y, m, d] = day.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d + delta)).toISOString().slice(0, 10);
 }
 
 function toApi(row) {
@@ -222,7 +275,7 @@ async function sameSecret(a, b) {
 function corsHeaders(request) {
   const origin = request.headers.get('Origin');
   const headers = { Vary: 'Origin' };
-  if (!origin || !(origin === PAGES_ORIGIN || LOCAL_ORIGIN.test(origin))) return headers;
+  if (!origin || !(ALLOWED_ORIGINS.includes(origin) || LOCAL_ORIGIN.test(origin))) return headers;
   headers['Access-Control-Allow-Origin'] = origin;
   if (request.method === 'OPTIONS') {
     headers['Access-Control-Allow-Methods'] = 'GET, POST, DELETE, OPTIONS';

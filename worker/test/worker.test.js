@@ -574,3 +574,155 @@ describe('cron', () => {
     assert.match(errors.mock.calls[0].arguments.join(' '), /reno-today.*404/);
   });
 });
+
+// ---- Visitor counter (public, no squad code) --------------------------------
+
+describe('visitor counter', () => {
+  // Noon on 2026-10-04 in Reno (PDT, UTC-7).
+  beforeEach(() => { now = Date.UTC(2026, 9, 4, 19, 0, 0) / 1000; });
+  const DAY = 86400;
+  const visit = (env, site = 'reno-today', extra = {}) => call(env, 'POST', `/api/visit/${site}`, { code: null, ...extra });
+  const visits = (env, query = '', site = 'reno-today', extra = {}) =>
+    call(env, 'GET', `/api/visits/${site}${query}`, { code: null, ...extra });
+
+  test('POST counts a visit: 204, no body, no squad code needed', async () => {
+    const env = makeEnv();
+    const res = await visit(env);
+    assert.equal(res.status, 204);
+    assert.equal(res.body, null);
+    assert.deepEqual(env.DB.visits, [{ site: 'reno-today', day: '2026-10-04', count: 1 }]);
+  });
+
+  test('POST increments the same day', async () => {
+    const env = makeEnv();
+    await visit(env);
+    await visit(env);
+    await visit(env);
+    assert.deepEqual(env.DB.visits, [{ site: 'reno-today', day: '2026-10-04', count: 3 }]);
+  });
+
+  test('the day is the Reno date, not the UTC date', async () => {
+    const env = makeEnv();
+    now = Date.UTC(2026, 9, 5, 5, 0, 0) / 1000; // 05:00 UTC = 22:00 Oct 4 in Reno
+    await visit(env);
+    now = Date.UTC(2026, 9, 5, 8, 0, 0) / 1000; // 01:00 Oct 5 in Reno
+    await visit(env);
+    assert.deepEqual(env.DB.visits.map((v) => v.day), ['2026-10-04', '2026-10-05']);
+  });
+
+  test('a new day starts a new row', async () => {
+    const env = makeEnv();
+    await visit(env);
+    now += DAY;
+    await visit(env);
+    assert.deepEqual(env.DB.visits.map((v) => [v.day, v.count]), [['2026-10-04', 1], ['2026-10-05', 1]]);
+  });
+
+  test('unknown site is 404 and writes nothing', async () => {
+    const env = makeEnv();
+    const res = await visit(env, 'nope');
+    assert.equal(res.status, 404);
+    assert.equal(env.DB.visits.length, 0);
+    assert.equal((await visits(env, '', 'nope')).status, 404);
+  });
+
+  test('only site, day and count are stored (bound values asserted)', async () => {
+    const env = makeEnv();
+    const bound = [];
+    const prepare = env.DB.prepare;
+    env.DB.prepare = (sql) => {
+      const stmt = prepare(sql);
+      const bind = stmt.bind.bind(stmt);
+      stmt.bind = (...params) => { bound.push(params); return bind(...params); };
+      return stmt;
+    };
+    await visit(env, 'reno-today', {
+      origin: PAGES,
+      headers: { 'User-Agent': 'secret-agent', 'CF-Connecting-IP': '203.0.113.9', Referer: 'https://x.example/' },
+    });
+    assert.deepEqual(bound, [['reno-today', '2026-10-04']]);
+    assert.deepEqual(Object.keys(env.DB.visits[0]), ['site', 'day', 'count']);
+  });
+
+  test('GET returns the last N days oldest to newest, zero-filled', async () => {
+    const env = makeEnv();
+    await visit(env);
+    await visit(env);
+    now += 2 * DAY;
+    await visit(env);
+    const res = await visits(env, '?days=4');
+    assert.equal(res.status, 200);
+    assert.deepEqual(res.body, {
+      site: 'reno-today',
+      days: [
+        { day: '2026-10-03', count: 0 },
+        { day: '2026-10-04', count: 2 },
+        { day: '2026-10-05', count: 0 },
+        { day: '2026-10-06', count: 1 },
+      ],
+    });
+  });
+
+  test('GET defaults to 7 days and spans a month boundary', async () => {
+    const env = makeEnv();
+    now = Date.UTC(2026, 10, 3, 20, 0, 0) / 1000; // Nov 3 in Reno
+    const res = await visits(env);
+    assert.equal(res.body.days.length, 7);
+    assert.equal(res.body.days[0].day, '2026-10-28');
+    assert.equal(res.body.days[6].day, '2026-11-03');
+    assert.ok(res.body.days.every((d) => d.count === 0));
+  });
+
+  test('GET days bounds: 1..31 ok, otherwise 400', async () => {
+    const env = makeEnv();
+    assert.equal((await visits(env, '?days=1')).body.days.length, 1);
+    assert.equal((await visits(env, '?days=31')).body.days.length, 31);
+    for (const bad of ['0', '32', '-1', 'abc', '1.5', '', '7x']) {
+      assert.equal((await visits(env, `?days=${bad}`)).status, 400, bad);
+    }
+  });
+
+  test('GET is per site and never exposes anything but day and count', async () => {
+    const env = makeEnv();
+    await visit(env);
+    const res = await visits(env, '?days=1');
+    assert.deepEqual(Object.keys(res.body), ['site', 'days']);
+    assert.deepEqual(Object.keys(res.body.days[0]), ['day', 'count']);
+  });
+
+  test('lobby routes still need the squad code', async () => {
+    const env = makeEnv();
+    assert.equal((await call(env, 'GET', '/api/lobbies', { code: null })).status, 401);
+    assert.equal((await call(env, 'GET', '/api/ping', { code: null })).status, 401);
+    assert.equal((await call(env, 'POST', '/api/lobby', { code: null, body: lobby() })).status, 401);
+  });
+
+  for (const origin of ['https://renotoday.com', 'https://www.renotoday.com', PAGES]) {
+    test(`CORS: POST and GET from ${origin}`, async () => {
+      const env = makeEnv();
+      const post = await visit(env, 'reno-today', { origin });
+      assert.equal(post.status, 204);
+      assert.equal(post.headers.get('Access-Control-Allow-Origin'), origin);
+      const get = await visits(env, '', 'reno-today', { origin });
+      assert.equal(get.headers.get('Access-Control-Allow-Origin'), origin);
+    });
+
+    test(`CORS: preflight from ${origin} needs no squad code`, async () => {
+      const res = await call(makeEnv(), 'OPTIONS', '/api/visit/reno-today', {
+        code: null,
+        origin,
+        headers: { 'Access-Control-Request-Method': 'POST' },
+      });
+      assert.equal(res.status, 204);
+      assert.equal(res.headers.get('Access-Control-Allow-Origin'), origin);
+      assert.match(res.headers.get('Access-Control-Allow-Methods'), /POST/);
+    });
+  }
+
+  for (const origin of ['http://renotoday.com', 'https://evil.renotoday.com', 'https://renotoday.com.evil.example', 'https://renotoday.com:8443']) {
+    test(`CORS: ${origin} is not allowed`, async () => {
+      const res = await visit(makeEnv(), 'reno-today', { origin });
+      assert.equal(res.headers.get('Access-Control-Allow-Origin'), null);
+    });
+  }
+});

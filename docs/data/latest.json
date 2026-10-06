@@ -1,102 +1,130 @@
 {
- "generatedAt": "2026-10-06T10:40:29Z",
+ "generatedAt": "2026-10-06T10:50:29Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-06T10:26:30Z",
+ "leaderboardUpdatedAt": "2026-10-06T10:42:52Z",
  "window": {
-  "from": "2026-10-06T10:11:26Z",
-  "to": "2026-10-06T10:26:30Z",
-  "minutes": 15.1
+  "from": "2026-10-06T10:26:30Z",
+  "to": "2026-10-06T10:42:52Z",
+  "minutes": 16.4
  },
- "rubyActive": 7,
- "allActive": 56,
- "rubyShare": 0.125,
- "steamPlayers": 5686,
+ "rubyActive": 12,
+ "allActive": 90,
+ "rubyShare": 0.1333,
+ "steamPlayers": 5689,
  "rubyCutoff": 55718,
  "grinding": [
   {
-   "rank": 265,
+   "rank": 4,
+   "name": "carnifex#7330",
+   "delta": 9,
+   "rankScore": 70507,
+   "club": "5F",
+   "twitch": null
+  },
+  {
+   "rank": 21,
+   "name": "Dyrani#4601",
+   "delta": 36,
+   "rankScore": 65914,
+   "club": "RADGG",
+   "twitch": null
+  },
+  {
+   "rank": 38,
+   "name": "Roma#8763",
+   "delta": 48,
+   "rankScore": 64604,
+   "club": "RADGG",
+   "twitch": null
+  },
+  {
+   "rank": 46,
+   "name": "CatBoyOwner#3890",
+   "delta": 53,
+   "rankScore": 63978,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 270,
    "name": "FunPolice#2530",
-   "delta": 106,
-   "rankScore": 59420,
+   "delta": -43,
+   "rankScore": 59377,
    "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 273,
-   "name": "YEJJAN#6707",
-   "delta": 107,
-   "rankScore": 59351,
-   "club": "MTHRY",
+   "rank": 290,
+   "name": "YuiTF-Tiktok#6256",
+   "delta": 111,
+   "rankScore": 59092,
+   "club": "C0VIL",
    "twitch": null
   },
   {
-   "rank": 300,
-   "name": "soloqranked67#7430",
-   "delta": 112,
-   "rankScore": 59026,
-   "club": "F0M0",
+   "rank": 322,
+   "name": "Vex#0974",
+   "delta": 115,
+   "rankScore": 58818,
+   "club": "T400",
    "twitch": null
   },
   {
-   "rank": 336,
+   "rank": 339,
    "name": "21SWAGES#7146",
-   "delta": 118,
-   "rankScore": 58614,
+   "delta": -48,
+   "rankScore": 58566,
    "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 337,
-   "name": "KimChokko#0312",
-   "delta": 118,
-   "rankScore": 58588,
-   "club": "NARAE",
+   "rank": 391,
+   "name": "Seek#2167",
+   "delta": 130,
+   "rankScore": 57786,
+   "club": "5F",
    "twitch": null
   },
   {
-   "rank": 348,
-   "name": "SkilledTiger#1668",
-   "delta": 121,
-   "rankScore": 58370,
-   "club": "AYNON",
+   "rank": 411,
+   "name": "zmon#3311",
+   "delta": 138,
+   "rankScore": 57330,
+   "club": "MORI",
    "twitch": null
   },
   {
-   "rank": 451,
-   "name": "Twitch-jumparau#4160",
-   "delta": 149,
-   "rankScore": 56600,
-   "club": "RDBT",
+   "rank": 467,
+   "name": "Kazuki#0590",
+   "delta": 154,
+   "rankScore": 56330,
+   "club": "1PEEK",
+   "twitch": null
+  },
+  {
+   "rank": 495,
+   "name": "Acidbeef209#2268",
+   "delta": -165,
+   "rankScore": 55764,
+   "club": "ZZ",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T10:40:29Z",
+  "checkedAt": "2026-10-06T10:50:29Z",
   "totalStreams": 55,
   "rubyLive": [
    {
     "login": "knot4long",
     "displayName": "knot4long",
     "title": "61K LIGHT PLAYER LETS PLAY SOME FINALS🌸",
-    "viewers": 1,
+    "viewers": 0,
     "startedAt": "2026-10-06T10:13:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
     "rank": 120,
     "name": "TTV_KNOT_4_LONG#7729",
     "rankScore": 61246,
-    "matchedBy": "name"
-   },
-   {
-    "login": "jumparau",
-    "displayName": "jumparau",
-    "title": "ranked- !femboy-!zestfest",
-    "viewers": 11,
-    "startedAt": "2026-10-06T09:25:19Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
-    "rank": 198,
-    "name": "TTV_Jumparau#0323",
-    "rankScore": 60053,
     "matchedBy": "name"
    }
   ],
@@ -106,7 +134,7 @@
   "ready": false,
   "placed": {
    "ruby": 12,
-   "all": 58
+   "all": 57
   },
   "rubyByRegion": {
    "am": 12,
@@ -127,8 +155,8 @@
     "all": 0
    },
    "unplaced": {
-    "ruby": 7,
-    "all": 56
+    "ruby": 12,
+    "all": 90
    }
   }
  },

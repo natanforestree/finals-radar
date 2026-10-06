@@ -1,61 +1,101 @@
 {
- "generatedAt": "2026-10-06T12:40:29Z",
+ "generatedAt": "2026-10-06T12:50:29Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-06T12:31:17Z",
+ "leaderboardUpdatedAt": "2026-10-06T12:46:30Z",
  "window": {
-  "from": "2026-10-06T12:16:00Z",
-  "to": "2026-10-06T12:31:17Z",
-  "minutes": 15.3
+  "from": "2026-10-06T12:31:17Z",
+  "to": "2026-10-06T12:46:30Z",
+  "minutes": 15.2
  },
- "rubyActive": 4,
- "allActive": 28,
- "rubyShare": 0.1429,
+ "rubyActive": 9,
+ "allActive": 89,
+ "rubyShare": 0.1011,
  "steamPlayers": 7046,
  "rubyCutoff": 55718,
  "grinding": [
   {
-   "rank": 263,
-   "name": "Callum#1239",
-   "delta": 45,
-   "rankScore": 59459,
+   "rank": 176,
+   "name": "Zoso#1570",
+   "delta": 96,
+   "rankScore": 60206,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 485,
-   "name": "EZPADRE#5220",
-   "delta": 188,
-   "rankScore": 55963,
-   "club": "WRCL",
+   "rank": 238,
+   "name": "Midnight#3042",
+   "delta": 102,
+   "rankScore": 59750,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 490,
-   "name": "Chicko#4618",
-   "delta": 68,
-   "rankScore": 55947,
-   "club": "777KG",
+   "rank": 337,
+   "name": "yukiyukiyukiyuki#1337",
+   "delta": -48,
+   "rankScore": 58578,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 497,
-   "name": "LOHJICKE#7790",
-   "delta": 70,
-   "rankScore": 55758,
+   "rank": 372,
+   "name": "lehon#0652",
+   "delta": 127,
+   "rankScore": 58071,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 403,
+   "name": "nn7#8593",
+   "delta": 134,
+   "rankScore": 57537,
+   "club": "NTMR",
+   "twitch": null
+  },
+  {
+   "rank": 411,
+   "name": "joek#0785",
+   "delta": 136,
+   "rankScore": 57412,
+   "club": "KNUCK",
+   "twitch": null
+  },
+  {
+   "rank": 447,
+   "name": "I_LOVE_YOU#4183",
+   "delta": -60,
+   "rankScore": 56638,
    "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 452,
+   "name": "Kazuki#0590",
+   "delta": 150,
+   "rankScore": 56545,
+   "club": "1PEEK",
+   "twitch": null
+  },
+  {
+   "rank": 473,
+   "name": "Snafu#3644",
+   "delta": 156,
+   "rankScore": 56204,
+   "club": "RS1",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T12:40:29Z",
-  "totalStreams": 70,
+  "checkedAt": "2026-10-06T12:50:29Z",
+  "totalStreams": 61,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "Yo !drops",
-    "viewers": 18,
+    "viewers": 39,
     "startedAt": "2026-10-06T12:26:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 35,
@@ -67,7 +107,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "hello~ | APE SQUAD | RANKED",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-06T11:22:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 152,
@@ -79,7 +119,7 @@
     "login": "koretica",
     "displayName": "Koretica",
     "title": "🎁 [DROPS] RANDOM LOADOUTS  | Interactive | New Channel Points | Road to Embark Creator!",
-    "viewers": 8,
+    "viewers": 14,
     "startedAt": "2026-10-06T12:00:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koretica-{width}x{height}.jpg",
     "rank": 153,
@@ -93,7 +133,7 @@
     "login": "ryze76290",
     "displayName": "RYZE76290",
     "title": "ranked morning ruby safe finally",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-10-06T10:33:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ryze76290-{width}x{height}.jpg"
    },
@@ -101,7 +141,7 @@
     "login": "bub1xreal",
     "displayName": "bub1xreal",
     "title": "the REAL ruby grind",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-10-06T12:38:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
    }
@@ -111,7 +151,7 @@
   "ready": false,
   "placed": {
    "ruby": 13,
-   "all": 64
+   "all": 65
   },
   "rubyByRegion": {
    "am": 12,
@@ -125,15 +165,15 @@
    },
    "eu": {
     "ruby": 0,
-    "all": 0
+    "all": 1
    },
    "ap": {
     "ruby": 0,
     "all": 1
    },
    "unplaced": {
-    "ruby": 4,
-    "all": 27
+    "ruby": 9,
+    "all": 87
    }
   }
  },

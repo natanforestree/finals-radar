@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T03:00:29Z",
+ "generatedAt": "2026-10-06T03:10:27Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-06T02:50:33Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 5,
  "allActive": 35,
  "rubyShare": 0.1429,
- "steamPlayers": 11857,
+ "steamPlayers": 11792,
  "rubyCutoff": 55693,
  "grinding": [
   {
@@ -56,14 +56,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-06T03:00:29Z",
-  "totalStreams": 176,
+  "checkedAt": "2026-10-06T03:10:27Z",
+  "totalStreams": 177,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 10 RANKED W/ STEW & JUKER | JUMPSCARES FOR BITS! | !discord !sens !rank",
-    "viewers": 83,
+    "viewers": 92,
     "startedAt": "2026-10-05T21:03:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 6,
@@ -75,12 +75,24 @@
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED GAMING WITH NOAH AND JUKER",
-    "viewers": 151,
+    "viewers": 136,
     "startedAt": "2026-10-06T01:45:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
     "name": "stewj#8610",
     "rankScore": 69711,
+    "matchedBy": "name"
+   },
+   {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[Drops] Top 30 Ruby POV",
+    "viewers": 24,
+    "startedAt": "2026-10-06T02:58:06Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 41,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 64382,
     "matchedBy": "name"
    },
    {
@@ -111,7 +123,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "(DROPS) !GIVEAWAY   !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 144,
+    "viewers": 143,
     "startedAt": "2026-10-05T21:13:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 171,
@@ -123,7 +135,7 @@
     "login": "udrakoni",
     "displayName": "udrakoni",
     "title": "(DROPS) SUB in sweden!",
-    "viewers": 18,
+    "viewers": 17,
     "startedAt": "2026-10-06T02:29:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udrakoni-{width}x{height}.jpg",
     "rank": 255,
@@ -146,20 +158,20 @@
   ],
   "titleMentions": [
    {
-    "login": "xaw__",
-    "displayName": "xaw__",
-    "title": "PUSH TO RUBY DAY 4 CRAZY GAMING MOMENTS (THIS IS THE TUFFEST GUY OF ALL TIME)",
-    "viewers": 1,
-    "startedAt": "2026-10-06T02:01:25Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xaw__-{width}x{height}.jpg"
-   },
-   {
     "login": "beckdrew",
     "displayName": "BeckDrew",
     "title": "BRONZE TO RUBY RINGING MY SKELETAL ON MY DESK RN",
     "viewers": 1,
     "startedAt": "2026-10-06T01:19:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckdrew-{width}x{height}.jpg"
+   },
+   {
+    "login": "xaw__",
+    "displayName": "xaw__",
+    "title": "PUSH TO RUBY DAY 4 CRAZY GAMING MOMENTS (THIS IS THE TUFFEST GUY OF ALL TIME)",
+    "viewers": 1,
+    "startedAt": "2026-10-06T02:01:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xaw__-{width}x{height}.jpg"
    }
   ]
  },

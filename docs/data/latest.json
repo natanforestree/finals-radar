@@ -1,277 +1,93 @@
 {
- "generatedAt": "2026-10-07T20:21:08Z",
+ "generatedAt": "2026-10-07T20:31:27Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-07T20:06:52Z",
+ "leaderboardUpdatedAt": "2026-10-07T20:22:00Z",
  "window": {
-  "from": "2026-10-07T19:40:52Z",
-  "to": "2026-10-07T20:06:52Z",
-  "minutes": 26.0
+  "from": "2026-10-07T20:06:52Z",
+  "to": "2026-10-07T20:22:00Z",
+  "minutes": 15.1
  },
- "rubyActive": 31,
- "allActive": 331,
- "rubyShare": 0.0937,
- "steamPlayers": 14468,
+ "rubyActive": 8,
+ "allActive": 176,
+ "rubyShare": 0.0455,
+ "steamPlayers": 14326,
  "rubyCutoff": 55902,
  "grinding": [
   {
-   "rank": 2,
-   "name": "Balise#2431",
-   "delta": 7,
-   "rankScore": 71096,
-   "club": "BERGR",
-   "twitch": "balise"
-  },
-  {
-   "rank": 3,
-   "name": "BLAD3R#2825",
-   "delta": 7,
-   "rankScore": 70889,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 8,
-   "name": "NV#8812",
-   "delta": 12,
-   "rankScore": 69696,
-   "club": "GOAT",
-   "twitch": null
-  },
-  {
-   "rank": 9,
-   "name": "MOGHWASOM#2367",
-   "delta": 15,
-   "rankScore": 69103,
-   "club": "MTHRY",
-   "twitch": null
-  },
-  {
-   "rank": 10,
-   "name": "Nov#6006",
-   "delta": 15,
-   "rankScore": 69062,
-   "club": "HIBOO",
-   "twitch": null
-  },
-  {
-   "rank": 15,
-   "name": "CoDaft#0171",
-   "delta": 25,
-   "rankScore": 67518,
-   "club": "SIN",
-   "twitch": null
-  },
-  {
-   "rank": 26,
-   "name": "MonsterPig#7402",
-   "delta": 42,
-   "rankScore": 65227,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 40,
-   "name": "Shadow#0466",
-   "delta": -48,
-   "rankScore": 64588,
-   "club": "LIAR",
-   "twitch": null
-  },
-  {
-   "rank": 104,
-   "name": "SkreyDeen#2116",
-   "delta": -146,
-   "rankScore": 61635,
-   "club": "MORI",
-   "twitch": "skreydeen"
-  },
-  {
-   "rank": 149,
-   "name": "Metro#1140",
-   "delta": -93,
-   "rankScore": 60558,
-   "club": "NTMR",
-   "twitch": null
-  },
-  {
-   "rank": 192,
-   "name": "Sanguine#5740",
-   "delta": 98,
-   "rankScore": 60125,
-   "club": "SCP48",
-   "twitch": "sanguine"
-  },
-  {
-   "rank": 293,
-   "name": "Oji#3696",
-   "delta": 109,
-   "rankScore": 59229,
-   "club": "VGG",
-   "twitch": null
-  },
-  {
-   "rank": 299,
-   "name": "Meerawooo#8651",
-   "delta": 110,
-   "rankScore": 59145,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 306,
-   "name": "LordGen#2675",
-   "delta": -45,
-   "rankScore": 59079,
-   "club": "GALF",
-   "twitch": null
-  },
-  {
-   "rank": 312,
-   "name": "60hz#0386",
-   "delta": -202,
-   "rankScore": 59055,
+   "rank": 11,
+   "name": "Choobz#9757",
+   "delta": 16,
+   "rankScore": 68943,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 337,
-   "name": "thorn#0831",
-   "delta": 117,
-   "rankScore": 58720,
-   "club": null,
+   "rank": 165,
+   "name": "Metro#1140",
+   "delta": -175,
+   "rankScore": 60383,
+   "club": "NTMR",
    "twitch": null
   },
   {
-   "rank": 354,
-   "name": "BoheShui#8405",
-   "delta": -49,
-   "rankScore": 58372,
-   "club": null,
+   "rank": 181,
+   "name": "TheChosenOne#1521",
+   "delta": 97,
+   "rankScore": 60186,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 368,
-   "name": "Wladimir#0654",
-   "delta": 124,
-   "rankScore": 58204,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 374,
-   "name": "NV#0000",
-   "delta": 126,
-   "rankScore": 58134,
-   "club": "GOAT",
-   "twitch": null
-  },
-  {
-   "rank": 380,
-   "name": "Wireless_Jose#0347",
-   "delta": -9,
-   "rankScore": 58046,
-   "club": "BOOKS",
-   "twitch": null
-  },
-  {
-   "rank": 384,
-   "name": "lehon#0652",
-   "delta": 127,
-   "rankScore": 58006,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 394,
-   "name": "Scaphism#8322",
-   "delta": 129,
-   "rankScore": 57881,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 401,
-   "name": "joek#0785",
-   "delta": 130,
-   "rankScore": 57797,
-   "club": "KNUCK",
-   "twitch": null
-  },
-  {
-   "rank": 406,
-   "name": "Velol#1623",
-   "delta": 55,
-   "rankScore": 57751,
-   "club": "THIIC",
-   "twitch": null
-  },
-  {
-   "rank": 409,
-   "name": "Evo.Ruka#4207",
-   "delta": 56,
-   "rankScore": 57625,
-   "club": "SUGR",
+   "rank": 408,
+   "name": "TrashGame#5472",
+   "delta": 133,
+   "rankScore": 57676,
+   "club": "NARAE",
    "twitch": null
   },
   {
    "rank": 436,
-   "name": "SHINIGAMI#9572",
+   "name": "mini#4786",
+   "delta": 142,
+   "rankScore": 57042,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 441,
+   "name": "Fatiev001#5543",
    "delta": 143,
-   "rankScore": 57021,
+   "rankScore": 56964,
+   "club": "F0M0",
+   "twitch": null
+  },
+  {
+   "rank": 444,
+   "name": "CalJaBee#5726",
+   "delta": 143,
+   "rankScore": 56944,
+   "club": "NARAE",
+   "twitch": null
+  },
+  {
+   "rank": 468,
+   "name": "Real_Duck#8550",
+   "delta": 150,
+   "rankScore": 56537,
    "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 451,
-   "name": "Coquettebatman#9691",
-   "delta": 145,
-   "rankScore": 56846,
-   "club": "UNSEX",
-   "twitch": null
-  },
-  {
-   "rank": 455,
-   "name": "BittyDiglett#0594",
-   "delta": -147,
-   "rankScore": 56808,
-   "club": "WINX",
-   "twitch": null
-  },
-  {
-   "rank": 465,
-   "name": "polukotik#1703",
-   "delta": -151,
-   "rankScore": 56617,
-   "club": "GOLOD",
-   "twitch": null
-  },
-  {
-   "rank": 470,
-   "name": "hemorrhoids#5831",
-   "delta": 151,
-   "rankScore": 56477,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 472,
-   "name": "K1shin#9422",
-   "delta": 153,
-   "rankScore": 56418,
-   "club": "TOXIK",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-07T20:21:08Z",
-  "totalStreams": 181,
+  "checkedAt": "2026-10-07T20:31:27Z",
+  "totalStreams": 176,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) PROP HUNT?! | SWEDEN BOUND | FACECAM STREAMS",
-    "viewers": 126,
+    "viewers": 130,
     "startedAt": "2026-10-07T18:26:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 2,
@@ -283,7 +99,7 @@
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | PUGS | !discord !sens !rank",
-    "viewers": 29,
+    "viewers": 48,
     "startedAt": "2026-10-07T19:45:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 6,
@@ -295,7 +111,7 @@
     "login": "lamp",
     "displayName": "lamp",
     "title": "(dropulars) we getting prop hunt in the finals | function follows energy !youtube | lampischiller lampisLuminon",
-    "viewers": 151,
+    "viewers": 177,
     "startedAt": "2026-10-07T18:01:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 66,
@@ -307,7 +123,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Ranked with Handsome men",
-    "viewers": 8,
+    "viewers": 10,
     "startedAt": "2026-10-07T19:18:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 104,
@@ -319,10 +135,10 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 134,
+    "viewers": 120,
     "startedAt": "2026-10-07T17:47:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
-    "rank": 192,
+    "rank": 193,
     "name": "Sanguine#5740",
     "rankScore": 60125,
     "matchedBy": "name"
@@ -331,7 +147,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "ranked-> scrims- !femboy-!zestfest",
-    "viewers": 14,
+    "viewers": 6,
     "startedAt": "2026-10-07T18:53:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 206,
@@ -343,7 +159,7 @@
     "login": "uvinity_",
     "displayName": "Uvinity_",
     "title": "I'm forced to be here (the pizza is aggressive) | LFT",
-    "viewers": 6,
+    "viewers": 3,
     "startedAt": "2026-10-07T19:37:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
     "rank": 278,
@@ -355,7 +171,7 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "yo",
-    "viewers": 24,
+    "viewers": 29,
     "startedAt": "2026-10-07T19:44:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 392,
@@ -379,7 +195,7 @@
   "ready": false,
   "placed": {
    "ruby": 76,
-   "all": 360
+   "all": 364
   },
   "rubyByRegion": {
    "am": 36,
@@ -388,20 +204,20 @@
   },
   "window": {
    "am": {
-    "ruby": 6,
-    "all": 25
+    "ruby": 1,
+    "all": 15
    },
    "eu": {
-    "ruby": 7,
-    "all": 52
+    "ruby": 4,
+    "all": 32
    },
    "ap": {
     "ruby": 0,
-    "all": 1
+    "all": 0
    },
    "unplaced": {
-    "ruby": 18,
-    "all": 253
+    "ruby": 3,
+    "all": 129
    }
   }
  },

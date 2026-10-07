@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T03:51:01Z",
+ "generatedAt": "2026-10-07T04:01:37Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-07T03:48:51Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 23,
  "allActive": 210,
  "rubyShare": 0.1095,
- "steamPlayers": 10630,
+ "steamPlayers": 10342,
  "rubyCutoff": 55719,
  "grinding": [
   {
@@ -200,9 +200,21 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-07T03:51:01Z",
-  "totalStreams": 168,
+  "checkedAt": "2026-10-07T04:01:37Z",
+  "totalStreams": 177,
   "rubyLive": [
+   {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[Drops] Top 30 Ruby SOLOQ",
+    "viewers": 27,
+    "startedAt": "2026-10-07T03:53:38Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 43,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 64432,
+    "matchedBy": "name"
+   },
    {
     "login": "knot4long",
     "displayName": "knot4long",
@@ -219,7 +231,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "D-51 | Gotta Get Some Stress In Too... NA Ranked 😭 | APE SQUAD | RANKED",
-    "viewers": 2,
+    "viewers": 5,
     "startedAt": "2026-10-07T01:06:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 137,
@@ -231,7 +243,7 @@
     "login": "uvinity_",
     "displayName": "Uvinity_",
     "title": "#2 FAMAS ENJOYER | LFT",
-    "viewers": 147,
+    "viewers": 131,
     "startedAt": "2026-10-07T02:19:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
     "rank": 317,
@@ -243,7 +255,7 @@
     "login": "mrpuffttv",
     "displayName": "mrpuffttv",
     "title": "365 days straight of streaming celebration w @iamjoettv",
-    "viewers": 57,
+    "viewers": 65,
     "startedAt": "2026-10-07T02:11:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrpuffttv-{width}x{height}.jpg",
     "rank": 421,
@@ -255,7 +267,7 @@
     "login": "acidbeef209",
     "displayName": "acidbeef209",
     "title": "casual with the homie on dual roller",
-    "viewers": 6,
+    "viewers": 4,
     "startedAt": "2026-10-07T01:53:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_acidbeef209-{width}x{height}.jpg",
     "rank": 494,
@@ -272,6 +284,14 @@
     "viewers": 1,
     "startedAt": "2026-10-07T03:15:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xaw__-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 0,
+    "startedAt": "2026-10-07T03:52:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }
   ]
  },

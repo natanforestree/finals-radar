@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T01:01:11Z",
+ "generatedAt": "2026-10-07T01:11:02Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-07T00:51:56Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 28,
  "allActive": 255,
  "rubyShare": 0.1098,
- "steamPlayers": 11582,
+ "steamPlayers": 11641,
  "rubyCutoff": 55704,
  "grinding": [
   {
@@ -240,19 +240,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-07T01:01:11Z",
-  "totalStreams": 158,
+  "checkedAt": "2026-10-07T01:11:02Z",
+  "totalStreams": 159,
   "rubyLive": [
    {
     "login": "knot4long",
     "displayName": "knot4long",
     "title": "INSANE MEDIUM TRUST ME 😖 FINALS",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-07T00:53:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
     "rank": 120,
     "name": "TTV_KNOT_4_LONG#7729",
     "rankScore": 61246,
+    "matchedBy": "name"
+   },
+   {
+    "login": "yangdoun",
+    "displayName": "yangdoun",
+    "title": "D-51 | Gotta Get Some Stress In Too... NA Ranked 😭 | APE SQUAD | RANKED",
+    "viewers": 1,
+    "startedAt": "2026-10-07T01:06:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
+    "rank": 136,
+    "name": "YangDoun#0398",
+    "rankScore": 60780,
     "matchedBy": "name"
    },
    {
@@ -271,7 +283,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 149,
+    "viewers": 123,
     "startedAt": "2026-10-06T19:12:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 229,
@@ -283,7 +295,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(!drops) Chill night - !Coach - Embark Partner - Pulsar CC",
-    "viewers": 119,
+    "viewers": 125,
     "startedAt": "2026-10-06T23:22:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 270,
@@ -295,7 +307,7 @@
     "login": "def_noxttv",
     "displayName": "def_noxTTV",
     "title": "Chill Ranked w the Boys | Team Limitless (DROPS)",
-    "viewers": 14,
+    "viewers": 13,
     "startedAt": "2026-10-07T00:12:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
     "rank": 329,
@@ -304,16 +316,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "hershygg",
-    "displayName": "HershyGG",
-    "title": "[DROPS] POWERSHIFT TOP 100 - chill rabbit stream - NO, ITS NOT RABBIT SEASON YET",
-    "viewers": 12,
-    "startedAt": "2026-10-06T22:29:36Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hershygg-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": false,

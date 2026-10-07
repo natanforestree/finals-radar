@@ -1,101 +1,205 @@
 {
- "generatedAt": "2026-10-07T14:02:01Z",
+ "generatedAt": "2026-10-07T14:11:15Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-07T13:33:30Z",
+ "leaderboardUpdatedAt": "2026-10-07T14:04:00Z",
  "window": {
-  "from": "2026-10-07T13:17:31Z",
-  "to": "2026-10-07T13:33:30Z",
-  "minutes": 16.0
+  "from": "2026-10-07T13:33:30Z",
+  "to": "2026-10-07T14:04:00Z",
+  "minutes": 30.5
  },
- "rubyActive": 9,
- "allActive": 71,
- "rubyShare": 0.1268,
- "steamPlayers": 8038,
- "rubyCutoff": 55806,
+ "rubyActive": 22,
+ "allActive": 137,
+ "rubyShare": 0.1606,
+ "steamPlayers": 8275,
+ "rubyCutoff": 55838,
  "grinding": [
   {
-   "rank": 25,
-   "name": "FloridoGamingTTV#1606",
-   "delta": 42,
-   "rankScore": 65296,
-   "club": "CRU3L",
+   "rank": 6,
+   "name": "Avion#8636",
+   "delta": 11,
+   "rankScore": 69941,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 39,
+   "name": "Berrence#2323",
+   "delta": 47,
+   "rankScore": 64590,
+   "club": "RS1",
    "twitch": null
   },
   {
    "rank": 55,
    "name": "Aleksexy#5957",
-   "delta": 60,
-   "rankScore": 63325,
+   "delta": 59,
+   "rankScore": 63384,
    "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 228,
+   "rank": 202,
    "name": "Terminator#1930",
-   "delta": 100,
-   "rankScore": 59973,
+   "delta": 98,
+   "rankScore": 60071,
    "club": "GOLOD",
    "twitch": null
   },
   {
-   "rank": 230,
-   "name": "Midnight#3042",
-   "delta": 99,
-   "rankScore": 59968,
+   "rank": 286,
+   "name": "yams#0142",
+   "delta": -44,
+   "rankScore": 59303,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 274,
-   "name": "Collins_Ave#3534",
-   "delta": 107,
-   "rankScore": 59409,
-   "club": "CRU3L",
+   "rank": 294,
+   "name": "Callum#1239",
+   "delta": 110,
+   "rankScore": 59188,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 308,
-   "name": "Docc#1172",
-   "delta": 112,
-   "rankScore": 59052,
-   "club": "HF",
+   "rank": 322,
+   "name": "60hz#0386",
+   "delta": -211,
+   "rankScore": 58929,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 427,
-   "name": "noir#3584",
-   "delta": -340,
-   "rankScore": 57190,
+   "rank": 331,
+   "name": "Meerawooo#8651",
+   "delta": -46,
+   "rankScore": 58809,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 336,
+   "name": "987654321#1823",
+   "delta": -47,
+   "rankScore": 58723,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 481,
-   "name": "EZPADRE#5220",
-   "delta": -63,
-   "rankScore": 56244,
-   "club": "WRCL",
+   "rank": 337,
+   "name": "Riven#8454",
+   "delta": 117,
+   "rankScore": 58684,
+   "club": "HZTOP",
    "twitch": null
   },
   {
-   "rank": 490,
+   "rank": 375,
+   "name": "hocheshh#5088",
+   "delta": -51,
+   "rankScore": 58106,
+   "club": "USTAL",
+   "twitch": null
+  },
+  {
+   "rank": 384,
+   "name": "nn7#8593",
+   "delta": 127,
+   "rankScore": 57968,
+   "club": "NTMR",
+   "twitch": null
+  },
+  {
+   "rank": 388,
+   "name": "Wireless_Jose#0347",
+   "delta": -51,
+   "rankScore": 57929,
+   "club": "BOOKS",
+   "twitch": null
+  },
+  {
+   "rank": 406,
+   "name": "Oakley#1288",
+   "delta": 133,
+   "rankScore": 57643,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 419,
+   "name": "Cinci#3449",
+   "delta": -55,
+   "rankScore": 57311,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 434,
+   "name": "Kazuki#0590",
+   "delta": 159,
+   "rankScore": 56971,
+   "club": "1PEEK",
+   "twitch": null
+  },
+  {
+   "rank": 446,
+   "name": "Killer#0498",
+   "delta": -58,
+   "rankScore": 56842,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 455,
+   "name": "Snafu#3644",
+   "delta": -273,
+   "rankScore": 56685,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 456,
+   "name": "Fatiev001#5543",
+   "delta": 148,
+   "rankScore": 56682,
+   "club": "F0M0",
+   "twitch": null
+  },
+  {
+   "rank": 460,
+   "name": "twitch-Antiparty#8470",
+   "delta": -150,
+   "rankScore": 56641,
+   "club": "GOONU",
+   "twitch": "antiparty"
+  },
+  {
+   "rank": 493,
+   "name": "YeahHealthyTTV#0175",
+   "delta": 159,
+   "rankScore": 55965,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 499,
    "name": "GrandSpark#5639",
-   "delta": -52,
-   "rankScore": 56022,
+   "delta": -163,
+   "rankScore": 55859,
    "club": "MOL",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-07T14:02:01Z",
+  "checkedAt": "2026-10-07T14:11:15Z",
   "totalStreams": 71,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "Pugging !drops",
-    "viewers": 79,
+    "viewers": 63,
     "startedAt": "2026-10-07T08:47:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 26,
@@ -107,7 +211,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "pugs > ranked sex?",
-    "viewers": 60,
+    "viewers": 86,
     "startedAt": "2026-10-07T12:44:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 44,
@@ -119,7 +223,7 @@
     "login": "koretica",
     "displayName": "Koretica",
     "title": "🎁 GIVEAWAY! 🎁 Second time controller! | Interactive | Drops | Road to Embark Creator!",
-    "viewers": 29,
+    "viewers": 32,
     "startedAt": "2026-10-07T10:00:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koretica-{width}x{height}.jpg",
     "rank": 154,
@@ -131,10 +235,10 @@
     "login": "zuki",
     "displayName": "zuki",
     "title": "[drops] [Bits for jumpscares] NTMR Coach | testing a new mouse | Embark Creator | !coaching !mouse !sens !res !femboy",
-    "viewers": 20,
+    "viewers": 17,
     "startedAt": "2026-10-07T11:02:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
-    "rank": 304,
+    "rank": 303,
     "name": "zuki#8633",
     "rankScore": 59072,
     "matchedBy": "name"
@@ -143,10 +247,10 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] TRYING NEW SLX TODAY | Embark Partner | !wooting !lamzu",
-    "viewers": 157,
+    "viewers": 214,
     "startedAt": "2026-10-07T13:00:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
-    "rank": 313,
+    "rank": 312,
     "name": "lycommit#0621",
     "rankScore": 59020,
     "matchedBy": "name"
@@ -155,12 +259,12 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] no gpu discounts SUCK ahh - !yt !discord !finalsRS",
-    "viewers": 5,
+    "viewers": 3,
     "startedAt": "2026-10-07T13:17:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 450,
+    "rank": 460,
     "name": "twitch-Antiparty#8470",
-    "rankScore": 56791,
+    "rankScore": 56641,
     "matchedBy": "name"
    }
   ],
@@ -178,12 +282,12 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 65,
-   "all": 289
+   "ruby": 64,
+   "all": 292
   },
   "rubyByRegion": {
    "am": 37,
-   "eu": 13,
+   "eu": 12,
    "ap": 15
   },
   "window": {
@@ -192,16 +296,16 @@
     "all": 0
    },
    "eu": {
-    "ruby": 2,
-    "all": 4
+    "ruby": 4,
+    "all": 10
    },
    "ap": {
     "ruby": 1,
-    "all": 8
+    "all": 16
    },
    "unplaced": {
-    "ruby": 6,
-    "all": 59
+    "ruby": 17,
+    "all": 111
    }
   }
  },

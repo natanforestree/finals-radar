@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T15:51:14Z",
+ "generatedAt": "2026-10-07T16:02:06Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-07T15:25:56Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 8,
  "allActive": 71,
  "rubyShare": 0.1127,
- "steamPlayers": 10035,
+ "steamPlayers": 10304,
  "rubyCutoff": 55838,
  "grinding": [
   {
@@ -80,14 +80,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-07T15:51:14Z",
-  "totalStreams": 118,
+  "checkedAt": "2026-10-07T16:02:06Z",
+  "totalStreams": 114,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "pugs > ranked sex?",
-    "viewers": 119,
+    "viewers": 126,
     "startedAt": "2026-10-07T12:44:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 44,
@@ -96,10 +96,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "itzvuqx",
+    "displayName": "itzvuqx",
+    "title": "team HEIMING // ruby // top 5 engimo // scrims // strong men",
+    "viewers": 1,
+    "startedAt": "2026-10-07T15:49:47Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg",
+    "rank": 121,
+    "name": "itzVuqx#6674",
+    "rankScore": 61252,
+    "matchedBy": "name"
+   },
+   {
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] TRYING NEW SLX TODAY | Embark Partner | !wooting !lamzu",
-    "viewers": 393,
+    "viewers": 447,
     "startedAt": "2026-10-07T13:00:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 313,
@@ -111,7 +123,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] no gpu discounts SUCK ahh - !yt !discord !finalsRS",
-    "viewers": 23,
+    "viewers": 29,
     "startedAt": "2026-10-07T13:17:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 460,
@@ -120,7 +132,24 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 4,
+    "startedAt": "2026-10-07T15:49:16Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 4,
+    "startedAt": "2026-10-07T15:49:16Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": false,

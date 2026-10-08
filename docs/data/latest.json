@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T14:51:43Z",
+ "generatedAt": "2026-10-08T15:03:11Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-08T14:47:20Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 30,
  "allActive": 208,
  "rubyShare": 0.1442,
- "steamPlayers": 9488,
+ "steamPlayers": 9662,
  "rubyCutoff": 56066,
  "grinding": [
   {
@@ -256,14 +256,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T14:51:43Z",
-  "totalStreams": 67,
+  "checkedAt": "2026-10-08T15:03:11Z",
+  "totalStreams": 75,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "wig stream 1 sub i drink angular this month?",
-    "viewers": 77,
+    "viewers": 81,
     "startedAt": "2026-10-08T12:47:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 45,
@@ -275,7 +275,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals et rien d'autre -",
-    "viewers": 3,
+    "viewers": 1,
     "startedAt": "2026-10-08T13:37:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 204,
@@ -287,7 +287,7 @@
     "login": "sitnica",
     "displayName": "sitnica",
     "title": "[ru] [Drops] Горжусь собой, когда лузаю, не плачу",
-    "viewers": 9,
+    "viewers": 13,
     "startedAt": "2026-10-08T14:02:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
     "rank": 231,
@@ -299,12 +299,24 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] TRYING NEW SLX TODAY | Embark Partner | !wooting !lamzu",
-    "viewers": 375,
+    "viewers": 339,
     "startedAt": "2026-10-08T13:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 323,
     "name": "lycommit#0621",
     "rankScore": 59020,
+    "matchedBy": "name"
+   },
+   {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "is arc back?  - !yt !discord !finalsRS",
+    "viewers": 6,
+    "startedAt": "2026-10-08T12:56:39Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 456,
+    "name": "twitch-Antiparty#8470",
+    "rankScore": 56844,
     "matchedBy": "name"
    }
   ],

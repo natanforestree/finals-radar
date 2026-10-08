@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T06:41:16Z",
+ "generatedAt": "2026-10-08T06:51:11Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-08T06:33:32Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 33,
  "allActive": 263,
  "rubyShare": 0.1255,
- "steamPlayers": 6401,
+ "steamPlayers": 6163,
  "rubyCutoff": 55954,
  "grinding": [
   {
@@ -51,7 +51,7 @@
    "delta": -63,
    "rankScore": 64402,
    "club": "DIGA",
-   "twitch": null
+   "twitch": "digcron"
   },
   {
    "rank": 50,
@@ -280,14 +280,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T06:41:16Z",
-  "totalStreams": 113,
+  "checkedAt": "2026-10-08T06:51:11Z",
+  "totalStreams": 108,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 5 RANKED | !discord !sens !rank",
-    "viewers": 51,
+    "viewers": 53,
     "startedAt": "2026-10-07T19:45:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 5,
@@ -299,12 +299,24 @@
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED WITH NOAH AND JUKER",
-    "viewers": 119,
+    "viewers": 105,
     "startedAt": "2026-10-08T01:38:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
     "name": "stewj#8610",
     "rankScore": 69865,
+    "matchedBy": "name"
+   },
+   {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[Drops] Top 30 Ruby SOLOQ",
+    "viewers": 44,
+    "startedAt": "2026-10-08T06:42:54Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 43,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 64402,
     "matchedBy": "name"
    },
    {
@@ -335,7 +347,7 @@
     "login": "udrakoni",
     "displayName": "udrakoni",
     "title": "(DROPS) SWEDEN BOUND! new emotes",
-    "viewers": 49,
+    "viewers": 37,
     "startedAt": "2026-10-08T02:20:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udrakoni-{width}x{height}.jpg",
     "rank": 272,
@@ -345,14 +357,6 @@
    }
   ],
   "titleMentions": [
-   {
-    "login": "xaw__",
-    "displayName": "xaw__",
-    "title": "PUSH TO RUBY DAY 6 CRAZY GAMING MOMENTS (I AM GOING TO DIE IF I DONT GET RUBY SO TUNE IN BEFORE ITS TOO LATE)",
-    "viewers": 2,
-    "startedAt": "2026-10-08T02:50:13Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xaw__-{width}x{height}.jpg"
-   },
    {
     "login": "stinkycheesefr",
     "displayName": "StinkyCheeseFR",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T01:51:01Z",
+ "generatedAt": "2026-10-08T02:01:23Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-08T01:33:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 17,
  "allActive": 138,
  "rubyShare": 0.1232,
- "steamPlayers": 12774,
+ "steamPlayers": 12800,
  "rubyCutoff": 55952,
  "grinding": [
   {
@@ -152,8 +152,8 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T01:51:01Z",
-  "totalStreams": 179,
+  "checkedAt": "2026-10-08T02:01:23Z",
+  "totalStreams": 184,
   "rubyLive": [
    {
     "login": "balise",
@@ -171,7 +171,7 @@
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 6 RANKED | !discord !sens !rank",
-    "viewers": 64,
+    "viewers": 61,
     "startedAt": "2026-10-07T19:45:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 6,
@@ -180,10 +180,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "stewj",
+    "displayName": "stewj",
+    "title": "(DROPS) RANKED GAMING WITH NOAH AND JUKER",
+    "viewers": 42,
+    "startedAt": "2026-10-08T01:38:10Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
+    "rank": 7,
+    "name": "stewj#8610",
+    "rankScore": 69818,
+    "matchedBy": "name"
+   },
+   {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby SOLOQ",
-    "viewers": 17,
+    "viewers": 26,
     "startedAt": "2026-10-08T01:33:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 43,
@@ -202,18 +214,6 @@
     "name": "TTV_KNOT_4_LONG#7729",
     "rankScore": 61316,
     "matchedBy": "name"
-   },
-   {
-    "login": "appoh",
-    "displayName": "Appoh",
-    "title": "(!drops) Prop Hunt Season 12! Hype - !Coach - Embark Partner - Pulsar CC",
-    "viewers": 141,
-    "startedAt": "2026-10-07T21:51:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
-    "rank": 290,
-    "name": "Appoh#9173",
-    "rankScore": 59299,
-    "matchedBy": "name"
    }
   ],
   "titleMentions": [
@@ -224,14 +224,6 @@
     "viewers": 1,
     "startedAt": "2026-10-08T00:44:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stinkycheesefr-{width}x{height}.jpg"
-   },
-   {
-    "login": "matrix_flo",
-    "displayName": "matrix_flo",
-    "title": "The Finals!! Road to Top 500!!",
-    "viewers": 1,
-    "startedAt": "2026-10-08T00:56:39Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matrix_flo-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T18:41:29Z",
+ "generatedAt": "2026-10-08T18:51:40Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-08T18:24:41Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 19,
  "allActive": 233,
  "rubyShare": 0.0815,
- "steamPlayers": 13886,
+ "steamPlayers": 13972,
  "rubyCutoff": 56066,
  "grinding": [
   {
@@ -168,14 +168,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T18:41:29Z",
-  "totalStreams": 139,
+  "checkedAt": "2026-10-08T18:51:40Z",
+  "totalStreams": 140,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "wig stream 1 sub i drink angular this month?",
-    "viewers": 128,
+    "viewers": 105,
     "startedAt": "2026-10-08T12:47:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 46,
@@ -187,7 +187,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals et rien d'autre -",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-08T18:16:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 204,
@@ -199,7 +199,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "Scrims 2 blocks Mori-> Drax",
-    "viewers": 14,
+    "viewers": 22,
     "startedAt": "2026-10-08T16:20:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 208,
@@ -211,7 +211,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] TRYING NEW SLX TODAY | Embark Partner | !wooting !lamzu",
-    "viewers": 711,
+    "viewers": 680,
     "startedAt": "2026-10-08T13:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 298,
@@ -223,7 +223,7 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "yo",
-    "viewers": 12,
+    "viewers": 25,
     "startedAt": "2026-10-08T18:03:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 399,
@@ -235,7 +235,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "is arc back?  - !yt !discord !finalsRS",
-    "viewers": 80,
+    "viewers": 74,
     "startedAt": "2026-10-08T12:56:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 452,
@@ -246,6 +246,14 @@
   ],
   "titleMentions": [
    {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "incGII / Thefinals / light ruby / SCRIMMMMMMMM",
+    "viewers": 3,
+    "startedAt": "2026-10-08T18:34:01Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
+   },
+   {
     "login": "opportunehook9",
     "displayName": "OpportuneHook9",
     "title": "Diamond Player striving for Ruby",
@@ -254,20 +262,20 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    },
    {
-    "login": "kapatlz",
-    "displayName": "kapatlz",
-    "title": "Grind to secure ruby",
-    "viewers": 1,
-    "startedAt": "2026-10-08T17:32:00Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kapatlz-{width}x{height}.jpg"
-   },
-   {
     "login": "stinkycheesefr",
     "displayName": "StinkyCheeseFR",
     "title": "[Drops] The Finals ruby grind",
     "viewers": 1,
     "startedAt": "2026-10-08T00:44:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stinkycheesefr-{width}x{height}.jpg"
+   },
+   {
+    "login": "kapatlz",
+    "displayName": "kapatlz",
+    "title": "Grind to secure ruby",
+    "viewers": 1,
+    "startedAt": "2026-10-08T17:32:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kapatlz-{width}x{height}.jpg"
    }
   ]
  },

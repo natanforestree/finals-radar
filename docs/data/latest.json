@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T01:41:37Z",
+ "generatedAt": "2026-10-08T01:51:01Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-08T01:33:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 17,
  "allActive": 138,
  "rubyShare": 0.1232,
- "steamPlayers": 12656,
+ "steamPlayers": 12774,
  "rubyCutoff": 55952,
  "grinding": [
   {
@@ -152,14 +152,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T01:41:37Z",
-  "totalStreams": 191,
+  "checkedAt": "2026-10-08T01:51:01Z",
+  "totalStreams": 179,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) PROP HUNT?! | SWEDEN BOUND | FACECAM STREAMS",
-    "viewers": 144,
+    "viewers": 131,
     "startedAt": "2026-10-07T18:26:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 2,
@@ -171,7 +171,7 @@
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 6 RANKED | !discord !sens !rank",
-    "viewers": 66,
+    "viewers": 64,
     "startedAt": "2026-10-07T19:45:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 6,
@@ -180,22 +180,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "stewj",
-    "displayName": "stewj",
-    "title": "(DROPS) RANKED GAMING WITH NOAH AND JUKER",
-    "viewers": 1,
-    "startedAt": "2026-10-08T01:38:10Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
-    "rank": 7,
-    "name": "stewj#8610",
-    "rankScore": 69818,
-    "matchedBy": "name"
-   },
-   {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby SOLOQ",
-    "viewers": 11,
+    "viewers": 17,
     "startedAt": "2026-10-08T01:33:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 43,
@@ -219,7 +207,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(!drops) Prop Hunt Season 12! Hype - !Coach - Embark Partner - Pulsar CC",
-    "viewers": 147,
+    "viewers": 141,
     "startedAt": "2026-10-07T21:51:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 290,
@@ -230,20 +218,20 @@
   ],
   "titleMentions": [
    {
-    "login": "matrix_flo",
-    "displayName": "matrix_flo",
-    "title": "The Finals!! Road to Top 500!!",
-    "viewers": 1,
-    "startedAt": "2026-10-08T00:56:39Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matrix_flo-{width}x{height}.jpg"
-   },
-   {
     "login": "stinkycheesefr",
     "displayName": "StinkyCheeseFR",
     "title": "[Drops] The Finals ruby grind",
     "viewers": 1,
     "startedAt": "2026-10-08T00:44:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stinkycheesefr-{width}x{height}.jpg"
+   },
+   {
+    "login": "matrix_flo",
+    "displayName": "matrix_flo",
+    "title": "The Finals!! Road to Top 500!!",
+    "viewers": 1,
+    "startedAt": "2026-10-08T00:56:39Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matrix_flo-{width}x{height}.jpg"
    }
   ]
  },

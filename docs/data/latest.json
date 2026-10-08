@@ -1,97 +1,169 @@
 {
- "generatedAt": "2026-10-08T05:41:12Z",
+ "generatedAt": "2026-10-08T05:51:08Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-08T05:23:51Z",
+ "leaderboardUpdatedAt": "2026-10-08T05:39:30Z",
  "window": {
-  "from": "2026-10-08T05:08:15Z",
-  "to": "2026-10-08T05:23:51Z",
-  "minutes": 15.6
+  "from": "2026-10-08T05:23:51Z",
+  "to": "2026-10-08T05:39:30Z",
+  "minutes": 15.7
  },
- "rubyActive": 4,
- "allActive": 98,
- "rubyShare": 0.0408,
- "steamPlayers": 7772,
- "rubyCutoff": 55954,
+ "rubyActive": 13,
+ "allActive": 111,
+ "rubyShare": 0.1171,
+ "steamPlayers": 7593,
+ "rubyCutoff": 55982,
  "grinding": [
   {
-   "rank": 354,
-   "name": "DeTaaiL#7503",
-   "delta": 121,
-   "rankScore": 58480,
+   "rank": 5,
+   "name": "normalize#0130",
+   "delta": 11,
+   "rankScore": 69977,
    "club": "LUMN",
+   "twitch": "normalize"
+  },
+  {
+   "rank": 7,
+   "name": "stewj#8610",
+   "delta": 11,
+   "rankScore": 69853,
+   "club": "NTMR",
+   "twitch": "stewj"
+  },
+  {
+   "rank": 12,
+   "name": "Juker#0771",
+   "delta": 17,
+   "rankScore": 68733,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 402,
-   "name": "SUPREME#6786",
-   "delta": -52,
-   "rankScore": 57820,
-   "club": "3WEI",
+   "rank": 43,
+   "name": "Digcron.TTV#3309",
+   "delta": -50,
+   "rankScore": 64465,
+   "club": "DIGA",
+   "twitch": "digcron"
+  },
+  {
+   "rank": 52,
+   "name": "Aleksexy#5957",
+   "delta": 58,
+   "rankScore": 63559,
+   "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 412,
-   "name": "HOAT#3127",
-   "delta": 133,
-   "rankScore": 57633,
-   "club": "ZZ",
+   "rank": 113,
+   "name": "BIGGIE_SWEEZE#7020",
+   "delta": -32,
+   "rankScore": 61422,
+   "club": "GYMR",
    "twitch": null
   },
   {
-   "rank": 458,
-   "name": "1_vk.ttv#0769",
-   "delta": 146,
-   "rankScore": 56796,
-   "club": "AUREA",
+   "rank": 141,
+   "name": "Sly#1640",
+   "delta": -91,
+   "rankScore": 60756,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 239,
+   "name": "22villages#1451",
+   "delta": -41,
+   "rankScore": 59828,
+   "club": "MILKD",
+   "twitch": null
+  },
+  {
+   "rank": 330,
+   "name": "Lt.WindowLicker#1804",
+   "delta": 114,
+   "rankScore": 58933,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 361,
+   "name": "Shout#7486",
+   "delta": -49,
+   "rankScore": 58394,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 444,
+   "name": "mini#4786",
+   "delta": -57,
+   "rankScore": 57060,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 475,
+   "name": "MnXBATMAN_TTV#6558",
+   "delta": 64,
+   "rankScore": 56529,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 500,
+   "name": "Chapo#9657",
+   "delta": 68,
+   "rankScore": 55982,
+   "club": "VGG",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T05:41:12Z",
+  "checkedAt": "2026-10-08T05:51:08Z",
   "totalStreams": 127,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 6 RANKED | !discord !sens !rank",
-    "viewers": 38,
+    "viewers": 42,
     "startedAt": "2026-10-07T19:45:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
-    "rank": 6,
+    "rank": 5,
     "name": "normalize#0130",
-    "rankScore": 69966,
+    "rankScore": 69977,
     "matchedBy": "name"
    },
    {
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED WITH NOAH AND JUKER",
-    "viewers": 55,
+    "viewers": 73,
     "startedAt": "2026-10-08T01:38:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
     "name": "stewj#8610",
-    "rankScore": 69842,
+    "rankScore": 69853,
     "matchedBy": "name"
    },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby SOLOQ",
-    "viewers": 134,
+    "viewers": 157,
     "startedAt": "2026-10-08T01:33:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 42,
+    "rank": 43,
     "name": "Digcron.TTV#3309",
-    "rankScore": 64515,
+    "rankScore": 64465,
     "matchedBy": "name"
    },
    {
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Terrorizing Ruby | The Finals | Ruby Light Secured 60k",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-08T04:00:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
     "rank": 160,
@@ -103,7 +175,7 @@
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 3,
+    "viewers": 5,
     "startedAt": "2026-10-08T02:16:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 255,
@@ -115,7 +187,7 @@
     "login": "udrakoni",
     "displayName": "udrakoni",
     "title": "(DROPS) SWEDEN BOUND! new emotes",
-    "viewers": 50,
+    "viewers": 51,
     "startedAt": "2026-10-08T02:20:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udrakoni-{width}x{height}.jpg",
     "rank": 272,
@@ -154,17 +226,17 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 96,
-   "all": 498
+   "ruby": 97,
+   "all": 503
   },
   "rubyByRegion": {
-   "am": 50,
+   "am": 51,
    "eu": 30,
    "ap": 16
   },
   "window": {
    "am": {
-    "ruby": 3,
+    "ruby": 7,
     "all": 39
    },
    "eu": {
@@ -176,8 +248,8 @@
     "all": 1
    },
    "unplaced": {
-    "ruby": 1,
-    "all": 58
+    "ruby": 6,
+    "all": 71
    }
   }
  },

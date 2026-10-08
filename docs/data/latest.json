@@ -1,157 +1,109 @@
 {
- "generatedAt": "2026-10-08T16:21:48Z",
+ "generatedAt": "2026-10-08T16:31:59Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-08T16:03:04Z",
+ "leaderboardUpdatedAt": "2026-10-08T16:20:52Z",
  "window": {
-  "from": "2026-10-08T15:32:14Z",
-  "to": "2026-10-08T16:03:04Z",
-  "minutes": 30.8
+  "from": "2026-10-08T16:03:04Z",
+  "to": "2026-10-08T16:20:52Z",
+  "minutes": 17.8
  },
- "rubyActive": 16,
- "allActive": 195,
- "rubyShare": 0.0821,
+ "rubyActive": 10,
+ "allActive": 64,
+ "rubyShare": 0.1562,
  "steamPlayers": 10858,
  "rubyCutoff": 56066,
  "grinding": [
   {
-   "rank": 11,
-   "name": "Choobz#9757",
-   "delta": 6,
-   "rankScore": 69051,
+   "rank": 3,
+   "name": "BLAD3R#2825",
+   "delta": 7,
+   "rankScore": 70918,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 5,
+   "name": "Avion#8636",
+   "delta": 11,
+   "rankScore": 70029,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 21,
-   "name": "Que#2889",
-   "delta": -35,
-   "rankScore": 66097,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 23,
+   "rank": 24,
    "name": "LuiHuncho#3649",
-   "delta": 37,
-   "rankScore": 65895,
+   "delta": -69,
+   "rankScore": 65826,
    "club": "SIN",
    "twitch": null
   },
   {
-   "rank": 31,
-   "name": "AloneinTelaviv#0255",
-   "delta": 45,
-   "rankScore": 64918,
-   "club": "AVOW",
-   "twitch": null
-  },
-  {
-   "rank": 46,
-   "name": "NAGHOSTX6#0212",
-   "delta": 52,
-   "rankScore": 64093,
-   "club": "5F",
-   "twitch": "naghostx6"
-  },
-  {
-   "rank": 49,
+   "rank": 50,
    "name": "Foxtrody#0716",
-   "delta": 55,
-   "rankScore": 63774,
+   "delta": -105,
+   "rankScore": 63669,
    "club": "DRG",
    "twitch": null
   },
   {
-   "rank": 83,
-   "name": "slim#1364",
-   "delta": 30,
-   "rankScore": 62339,
-   "club": "C4RPG",
-   "twitch": null
-  },
-  {
-   "rank": 336,
-   "name": "Some0ne#7487",
-   "delta": -115,
-   "rankScore": 58976,
-   "club": "SAINT",
-   "twitch": null
-  },
-  {
-   "rank": 389,
-   "name": "aloneinparis#2632",
-   "delta": 127,
-   "rankScore": 58008,
-   "club": "USTAL",
-   "twitch": null
-  },
-  {
-   "rank": 422,
-   "name": "ace#3154",
-   "delta": -136,
-   "rankScore": 57522,
+   "rank": 55,
+   "name": "Morphisxx23#0991",
+   "delta": 45,
+   "rankScore": 63473,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 437,
-   "name": "Clatter#2812",
-   "delta": 138,
-   "rankScore": 57294,
-   "club": "EXDEE",
+   "rank": 65,
+   "name": "Apollo#0134",
+   "delta": 62,
+   "rankScore": 63099,
+   "club": "KCP",
    "twitch": null
   },
   {
-   "rank": 446,
-   "name": "xd#2086",
-   "delta": 142,
-   "rankScore": 57067,
-   "club": null,
+   "rank": 73,
+   "name": "LP#8593",
+   "delta": 65,
+   "rankScore": 62809,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 452,
+   "rank": 305,
+   "name": "HadBananas#0669",
+   "delta": 111,
+   "rankScore": 59159,
+   "club": "LUMN",
+   "twitch": null
+  },
+  {
+   "rank": 345,
+   "name": "nn7#8593",
+   "delta": 116,
+   "rankScore": 58811,
+   "club": "NTMR",
+   "twitch": null
+  },
+  {
+   "rank": 449,
    "name": "twitch-Antiparty#8470",
-   "delta": 143,
-   "rankScore": 56987,
+   "delta": 60,
+   "rankScore": 57047,
    "club": "GOONU",
    "twitch": "antiparty"
-  },
-  {
-   "rank": 470,
-   "name": "YeahHealthyTTV#0175",
-   "delta": 63,
-   "rankScore": 56624,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 480,
-   "name": "Kazuki#0590",
-   "delta": -61,
-   "rankScore": 56491,
-   "club": "1PEEK",
-   "twitch": null
-  },
-  {
-   "rank": 493,
-   "name": "Lizaminusmoral#0909",
-   "delta": -41,
-   "rankScore": 56170,
-   "club": "1BFR",
-   "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T16:21:48Z",
-  "totalStreams": 95,
+  "checkedAt": "2026-10-08T16:31:59Z",
+  "totalStreams": 96,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "wig stream 1 sub i drink angular this month?",
-    "viewers": 99,
+    "viewers": 101,
     "startedAt": "2026-10-08T12:47:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 46,
@@ -160,10 +112,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "jumparau",
+    "displayName": "jumparau",
+    "title": "Scrims 2 blocks Mori-> Drax",
+    "viewers": 8,
+    "startedAt": "2026-10-08T16:20:03Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
+    "rank": 208,
+    "name": "TTV_Jumparau#0323",
+    "rankScore": 60053,
+    "matchedBy": "name"
+   },
+   {
     "login": "sitnica",
     "displayName": "sitnica",
     "title": "[ru] [Drops] Горжусь собой, когда лузаю, не плачу",
-    "viewers": 6,
+    "viewers": 10,
     "startedAt": "2026-10-08T14:02:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
     "rank": 231,
@@ -175,7 +139,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] TRYING NEW SLX TODAY | Embark Partner | !wooting !lamzu",
-    "viewers": 556,
+    "viewers": 608,
     "startedAt": "2026-10-08T13:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 324,
@@ -187,12 +151,12 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "is arc back?  - !yt !discord !finalsRS",
-    "viewers": 132,
+    "viewers": 147,
     "startedAt": "2026-10-08T12:56:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 452,
+    "rank": 449,
     "name": "twitch-Antiparty#8470",
-    "rankScore": 56987,
+    "rankScore": 57047,
     "matchedBy": "name"
    }
   ],
@@ -228,20 +192,20 @@
   },
   "window": {
    "am": {
-    "ruby": 2,
-    "all": 10
+    "ruby": 1,
+    "all": 2
    },
    "eu": {
-    "ruby": 1,
-    "all": 23
+    "ruby": 2,
+    "all": 11
    },
    "ap": {
     "ruby": 1,
-    "all": 12
+    "all": 6
    },
    "unplaced": {
-    "ruby": 12,
-    "all": 150
+    "ruby": 6,
+    "all": 45
    }
   }
  },

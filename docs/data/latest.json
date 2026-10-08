@@ -1,149 +1,69 @@
 {
- "generatedAt": "2026-10-08T10:31:43Z",
+ "generatedAt": "2026-10-08T10:41:16Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-08T10:19:30Z",
+ "leaderboardUpdatedAt": "2026-10-08T10:34:52Z",
  "window": {
-  "from": "2026-10-08T09:48:07Z",
-  "to": "2026-10-08T10:19:30Z",
-  "minutes": 31.4
+  "from": "2026-10-08T10:19:30Z",
+  "to": "2026-10-08T10:34:52Z",
+  "minutes": 15.4
  },
- "rubyActive": 15,
- "allActive": 104,
- "rubyShare": 0.1442,
- "steamPlayers": 5617,
+ "rubyActive": 5,
+ "allActive": 39,
+ "rubyShare": 0.1282,
+ "steamPlayers": 5663,
  "rubyCutoff": 56041,
  "grinding": [
   {
    "rank": 4,
    "name": "carnifex#7330",
-   "delta": -3,
-   "rankScore": 70612,
+   "delta": 8,
+   "rankScore": 70620,
    "club": "5F",
    "twitch": null
   },
   {
    "rank": 20,
    "name": "Dyrani#4601",
-   "delta": -13,
-   "rankScore": 66234,
+   "delta": 33,
+   "rankScore": 66267,
    "club": "RADGG",
    "twitch": null
   },
   {
-   "rank": 28,
-   "name": "perzzonTTV#5485",
-   "delta": 42,
-   "rankScore": 65161,
-   "club": "PRZN",
-   "twitch": "perzzon"
-  },
-  {
-   "rank": 38,
+   "rank": 36,
    "name": "Roma#8763",
-   "delta": -19,
-   "rankScore": 64706,
+   "delta": 46,
+   "rankScore": 64752,
    "club": "RADGG",
    "twitch": null
   },
   {
-   "rank": 44,
-   "name": "CatBoyOwner#3890",
-   "delta": 51,
-   "rankScore": 64268,
-   "club": "MORI",
+   "rank": 362,
+   "name": "chrix#0995",
+   "delta": 121,
+   "rankScore": 58415,
+   "club": "TBA",
    "twitch": null
   },
   {
-   "rank": 95,
-   "name": "JK#1818",
-   "delta": 75,
-   "rankScore": 61938,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 273,
-   "name": "Callum#1239",
-   "delta": 106,
-   "rankScore": 59466,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 353,
-   "name": "nn7#8593",
-   "delta": 119,
-   "rankScore": 58582,
-   "club": "NTMR",
-   "twitch": null
-  },
-  {
-   "rank": 385,
-   "name": "zmon#3311",
-   "delta": 126,
-   "rankScore": 58045,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 413,
-   "name": "miaomiaomiao#5189",
-   "delta": 133,
-   "rankScore": 57635,
-   "club": "IOMOI",
-   "twitch": null
-  },
-  {
-   "rank": 419,
+   "rank": 411,
    "name": "noir#3584",
-   "delta": 134,
-   "rankScore": 57543,
+   "delta": 133,
+   "rankScore": 57676,
    "club": "KOMPI",
-   "twitch": null
-  },
-  {
-   "rank": 425,
-   "name": "Fxxk.Cheater-Gua#2899",
-   "delta": 135,
-   "rankScore": 57481,
-   "club": "KNGZ",
-   "twitch": null
-  },
-  {
-   "rank": 434,
-   "name": "Acetamer#0711",
-   "delta": -336,
-   "rankScore": 57290,
-   "club": "HAKER",
-   "twitch": null
-  },
-  {
-   "rank": 487,
-   "name": "YeahHealthyTTV#0175",
-   "delta": 155,
-   "rankScore": 56230,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 499,
-   "name": "youdead#9476",
-   "delta": 158,
-   "rankScore": 56066,
-   "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T10:31:43Z",
-  "totalStreams": 54,
+  "checkedAt": "2026-10-08T10:41:16Z",
+  "totalStreams": 59,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "Ruby SoloQ + Talking S12 !Youtube !Discord !Playlist",
-    "viewers": 113,
+    "viewers": 115,
     "startedAt": "2026-10-08T08:06:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 28,
@@ -155,7 +75,7 @@
     "login": "verysirius_ttv",
     "displayName": "verysirius_ttv",
     "title": "[DROPS] Chilling then some playing some ranked | (VerySirius#3049) Moon theory | OCE |  !sens !controller !binds",
-    "viewers": 23,
+    "viewers": 21,
     "startedAt": "2026-10-08T08:19:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verysirius_ttv-{width}x{height}.jpg",
     "rank": 94,
@@ -174,6 +94,18 @@
     "name": "YangDoun#0398",
     "rankScore": 60780,
     "matchedBy": "name"
+   },
+   {
+    "login": "koretica",
+    "displayName": "Koretica",
+    "title": "TRACKPAD / TOUCHPAD ONLY | Drops | Interactive | Road to Embark Creator!",
+    "viewers": 6,
+    "startedAt": "2026-10-08T10:35:33Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koretica-{width}x{height}.jpg",
+    "rank": 161,
+    "name": "TTV.Koretica#0675",
+    "rankScore": 60487,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
@@ -181,7 +113,7 @@
     "login": "demon_finals",
     "displayName": "demon_finals",
     "title": "[Drops Enabled] 🔥#1 Is the dream real 2nd Acc ruby!?🔥 [ENG/GER/RU]",
-    "viewers": 3,
+    "viewers": 8,
     "startedAt": "2026-10-08T10:22:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_demon_finals-{width}x{height}.jpg"
    },
@@ -198,30 +130,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 102,
-   "all": 531
+   "ruby": 103,
+   "all": 535
   },
   "rubyByRegion": {
    "am": 51,
    "eu": 29,
-   "ap": 22
+   "ap": 23
   },
   "window": {
    "am": {
     "ruby": 0,
-    "all": 6
+    "all": 1
    },
    "eu": {
     "ruby": 0,
-    "all": 8
+    "all": 3
    },
    "ap": {
-    "ruby": 8,
-    "all": 26
+    "ruby": 4,
+    "all": 11
    },
    "unplaced": {
-    "ruby": 7,
-    "all": 64
+    "ruby": 1,
+    "all": 24
    }
   }
  },

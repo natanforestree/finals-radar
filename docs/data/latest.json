@@ -1,249 +1,129 @@
 {
- "generatedAt": "2026-10-08T19:41:18Z",
+ "generatedAt": "2026-10-08T19:51:19Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-08T19:18:45Z",
+ "leaderboardUpdatedAt": "2026-10-08T19:47:57Z",
  "window": {
-  "from": "2026-10-08T19:01:47Z",
-  "to": "2026-10-08T19:18:45Z",
-  "minutes": 17.0
+  "from": "2026-10-08T19:18:45Z",
+  "to": "2026-10-08T19:47:57Z",
+  "minutes": 29.2
  },
- "rubyActive": 26,
+ "rubyActive": 11,
  "allActive": 254,
- "rubyShare": 0.1024,
- "steamPlayers": 14582,
- "rubyCutoff": 55977,
+ "rubyShare": 0.0433,
+ "steamPlayers": 14610,
+ "rubyCutoff": 56066,
  "grinding": [
   {
    "rank": 3,
    "name": "BLAD3R#2825",
    "delta": 7,
-   "rankScore": 70943,
+   "rankScore": 70950,
    "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 8,
-   "name": "NV#8812",
-   "delta": 12,
-   "rankScore": 69798,
-   "club": "GOAT",
    "twitch": null
   },
   {
    "rank": 9,
    "name": "MOGHWASOM#2367",
    "delta": 15,
-   "rankScore": 69170,
+   "rankScore": 69185,
    "club": "MTHRY",
    "twitch": null
   },
   {
-   "rank": 11,
-   "name": "Choobz#9757",
-   "delta": -6,
-   "rankScore": 69076,
-   "club": "RS1",
-   "twitch": null
+   "rank": 45,
+   "name": "NAGHOSTX6#0212",
+   "delta": 52,
+   "rankScore": 64093,
+   "club": "5F",
+   "twitch": "naghostx6"
   },
   {
-   "rank": 21,
-   "name": "Que#2889",
-   "delta": 33,
-   "rankScore": 66233,
+   "rank": 246,
+   "name": "straightkix.ttv#5818",
+   "delta": 102,
+   "rankScore": 59727,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 134,
-   "name": "TheChosenOne#1521",
-   "delta": -35,
-   "rankScore": 60954,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 136,
-   "name": "coco#1580",
-   "delta": 89,
-   "rankScore": 60795,
-   "club": "BOOKS",
-   "twitch": null
-  },
-  {
-   "rank": 249,
-   "name": "alfan#5972",
-   "delta": 103,
-   "rankScore": 59662,
-   "club": "BOOKS",
-   "twitch": null
-  },
-  {
-   "rank": 269,
-   "name": "LordGen#2675",
-   "delta": 106,
-   "rankScore": 59510,
-   "club": "GALF",
-   "twitch": null
-  },
-  {
-   "rank": 274,
-   "name": "KimChokko#0312",
-   "delta": 106,
-   "rankScore": 59477,
-   "club": "NARAE",
-   "twitch": null
-  },
-  {
-   "rank": 298,
-   "name": "NV#0000",
-   "delta": 109,
-   "rankScore": 59231,
-   "club": "GOAT",
-   "twitch": null
-  },
-  {
-   "rank": 319,
-   "name": "thorn#0831",
-   "delta": 112,
-   "rankScore": 59059,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 334,
-   "name": "chrix#0995",
-   "delta": 66,
-   "rankScore": 59015,
-   "club": "TBA",
-   "twitch": null
-  },
-  {
-   "rank": 337,
+   "rank": 321,
    "name": "Scaphism#8322",
-   "delta": 112,
-   "rankScore": 59007,
+   "delta": 48,
+   "rankScore": 59055,
    "club": "AYNON",
    "twitch": null
   },
   {
-   "rank": 339,
-   "name": "Norton#5727",
-   "delta": 113,
-   "rankScore": 59003,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 346,
-   "name": "BoheShui#8405",
-   "delta": 115,
-   "rankScore": 58841,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 354,
-   "name": "lehon#0652",
-   "delta": 118,
-   "rankScore": 58597,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 406,
-   "name": "Clatter#2812",
-   "delta": 77,
-   "rankScore": 57783,
-   "club": "EXDEE",
-   "twitch": null
-  },
-  {
-   "rank": 423,
-   "name": "TrashGame#5472",
-   "delta": -137,
-   "rankScore": 57512,
-   "club": "NARAE",
-   "twitch": null
-  },
-  {
-   "rank": 428,
-   "name": "g1#2839",
-   "delta": 135,
-   "rankScore": 57456,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 437,
+   "rank": 435,
    "name": "Coquettebatman#9691",
-   "delta": 138,
-   "rankScore": 57268,
+   "delta": 59,
+   "rankScore": 57327,
    "club": "UNSEX",
    "twitch": null
   },
   {
-   "rank": 454,
-   "name": "CalJaBee#5726",
-   "delta": -147,
-   "rankScore": 56854,
-   "club": "NARAE",
-   "twitch": null
-  },
-  {
-   "rank": 476,
-   "name": "K1shin#9422",
-   "delta": -546,
-   "rankScore": 56534,
-   "club": "TOXIK",
-   "twitch": null
-  },
-  {
-   "rank": 479,
-   "name": "Real_Duck#8550",
-   "delta": -155,
-   "rankScore": 56352,
+   "rank": 436,
+   "name": "g1#2839",
+   "delta": -139,
+   "rankScore": 57317,
    "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 453,
+   "name": "bleue#0829",
+   "delta": 145,
+   "rankScore": 56895,
+   "club": "APES",
    "twitch": null
   },
   {
    "rank": 485,
-   "name": "massacre#6416",
-   "delta": 91,
-   "rankScore": 56245,
-   "club": null,
+   "name": "Dizzy#3224",
+   "delta": 190,
+   "rankScore": 56253,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 494,
+   "name": "Lizaminusmoral#0909",
+   "delta": 178,
+   "rankScore": 56147,
+   "club": "1BFR",
    "twitch": null
   },
   {
    "rank": 498,
-   "name": "Dizzy#3224",
-   "delta": -574,
-   "rankScore": 56063,
-   "club": "ZZ",
+   "name": "unemployed#5424",
+   "delta": 200,
+   "rankScore": 56094,
+   "club": "PROIT",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T19:41:18Z",
-  "totalStreams": 165,
+  "checkedAt": "2026-10-08T19:51:19Z",
+  "totalStreams": 170,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "wig stream 1 sub i drink angular this month?",
-    "viewers": 113,
+    "viewers": 124,
     "startedAt": "2026-10-08T12:47:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 45,
     "name": "NAGHOSTX6#0212",
-    "rankScore": 64041,
+    "rankScore": 64093,
     "matchedBy": "name"
    },
    {
     "login": "lamp",
     "displayName": "lamp",
     "title": "(dropulars) just need s12 to drop | function follows energy !youtube | lampischiller lampisLuminon",
-    "viewers": 142,
+    "viewers": 161,
     "startedAt": "2026-10-08T18:56:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 66,
@@ -264,34 +144,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "jumparau",
-    "displayName": "jumparau",
-    "title": "Scrims 2 blocks Mori-> Drax",
-    "viewers": 11,
-    "startedAt": "2026-10-08T16:20:03Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
-    "rank": 207,
-    "name": "TTV_Jumparau#0323",
-    "rankScore": 60053,
-    "matchedBy": "name"
-   },
-   {
-    "login": "prezzttv",
-    "displayName": "Prezzttv",
-    "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 1,
-    "startedAt": "2026-10-08T19:36:07Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
-    "rank": 258,
-    "name": "PrezzTTV#5132",
-    "rankScore": 59613,
-    "matchedBy": "name"
-   },
-   {
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "yo",
-    "viewers": 29,
+    "viewers": 21,
     "startedAt": "2026-10-08T18:03:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 398,
@@ -303,7 +159,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "is arc back?  - !yt !discord !finalsRS",
-    "viewers": 67,
+    "viewers": 69,
     "startedAt": "2026-10-08T12:56:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 449,
@@ -342,30 +198,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 107,
-   "all": 585
+   "ruby": 106,
+   "all": 587
   },
   "rubyByRegion": {
    "am": 51,
    "eu": 29,
-   "ap": 27
+   "ap": 26
   },
   "window": {
    "am": {
-    "ruby": 5,
-    "all": 26
+    "ruby": 1,
+    "all": 18
    },
    "eu": {
-    "ruby": 10,
-    "all": 57
+    "ruby": 3,
+    "all": 56
    },
    "ap": {
-    "ruby": 1,
-    "all": 3
+    "ruby": 0,
+    "all": 1
    },
    "unplaced": {
-    "ruby": 10,
-    "all": 168
+    "ruby": 7,
+    "all": 179
    }
   }
  },

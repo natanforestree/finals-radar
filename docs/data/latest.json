@@ -1,145 +1,281 @@
 {
- "generatedAt": "2026-10-08T14:41:30Z",
+ "generatedAt": "2026-10-08T14:51:43Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-08T13:40:55Z",
+ "leaderboardUpdatedAt": "2026-10-08T14:47:20Z",
  "window": {
-  "from": "2026-10-08T13:25:30Z",
-  "to": "2026-10-08T13:40:55Z",
-  "minutes": 15.4
+  "from": "2026-10-08T13:40:55Z",
+  "to": "2026-10-08T14:47:20Z",
+  "minutes": 66.4
  },
- "rubyActive": 13,
- "allActive": 91,
- "rubyShare": 0.1429,
- "steamPlayers": 9208,
+ "rubyActive": 30,
+ "allActive": 208,
+ "rubyShare": 0.1442,
+ "steamPlayers": 9488,
  "rubyCutoff": 56066,
  "grinding": [
   {
+   "rank": 4,
+   "name": "carnifex#7330",
+   "delta": 16,
+   "rankScore": 70665,
+   "club": "5F",
+   "twitch": null
+  },
+  {
+   "rank": 5,
+   "name": "Avion#8636",
+   "delta": 16,
+   "rankScore": 70034,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
    "rank": 18,
    "name": "aoshi666#1055",
-   "delta": 31,
-   "rankScore": 66574,
+   "delta": 62,
+   "rankScore": 66636,
    "club": "KNGZ",
    "twitch": null
   },
   {
-   "rank": 50,
-   "name": "Foxtrody#0716",
-   "delta": 57,
-   "rankScore": 63663,
-   "club": "DRG",
+   "rank": 21,
+   "name": "Que#2889",
+   "delta": 70,
+   "rankScore": 66063,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 286,
+   "rank": 37,
+   "name": "Berrence#2323",
+   "delta": 20,
+   "rankScore": 64749,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 45,
+   "name": "NAGHOSTX6#0212",
+   "delta": -15,
+   "rankScore": 64236,
+   "club": "5F",
+   "twitch": "naghostx6"
+  },
+  {
+   "rank": 69,
+   "name": "Apollo#0134",
+   "delta": 28,
+   "rankScore": 62911,
+   "club": "KCP",
+   "twitch": null
+  },
+  {
+   "rank": 83,
+   "name": "slim#1364",
+   "delta": 42,
+   "rankScore": 62337,
+   "club": "C4RPG",
+   "twitch": null
+  },
+  {
+   "rank": 115,
+   "name": "basiics#0551",
+   "delta": 82,
+   "rankScore": 61344,
+   "club": "GOAT",
+   "twitch": null
+  },
+  {
+   "rank": 155,
+   "name": "Zoso#1570",
+   "delta": 91,
+   "rankScore": 60579,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 246,
+   "name": "Callum#1239",
+   "delta": 61,
+   "rankScore": 59735,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 276,
    "name": "Riven#8454",
-   "delta": 46,
-   "rankScore": 59338,
+   "delta": 106,
+   "rankScore": 59444,
    "club": "HZTOP",
    "twitch": null
   },
   {
-   "rank": 304,
+   "rank": 297,
+   "name": "Thing1#8931",
+   "delta": 110,
+   "rankScore": 59228,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 302,
    "name": "IgnisAeternus#5551",
-   "delta": 47,
-   "rankScore": 59127,
+   "delta": 65,
+   "rankScore": 59192,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 315,
-   "name": "SumZer0#7886",
-   "delta": 111,
-   "rankScore": 59064,
-   "club": null,
+   "rank": 303,
+   "name": "Raj#8506",
+   "delta": 65,
+   "rankScore": 59170,
+   "club": "LA104",
    "twitch": null
   },
   {
-   "rank": 340,
+   "rank": 335,
    "name": "987654321#1823",
+   "delta": 67,
+   "rankScore": 58951,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 336,
+   "name": "thorn#0831",
+   "delta": -3,
+   "rankScore": 58947,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 342,
+   "name": "Some0ne#7487",
+   "delta": 231,
+   "rankScore": 58867,
+   "club": "SAINT",
+   "twitch": null
+  },
+  {
+   "rank": 343,
+   "name": "chrix#0995",
+   "delta": 115,
+   "rankScore": 58836,
+   "club": "TBA",
+   "twitch": null
+  },
+  {
+   "rank": 346,
+   "name": "Grass#8805",
    "delta": 49,
-   "rankScore": 58884,
+   "rankScore": 58814,
+   "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 348,
+   "name": "Norton#5727",
+   "delta": 116,
+   "rankScore": 58730,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 357,
-   "name": "Ojje#4485",
-   "delta": 120,
-   "rankScore": 58496,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 366,
+   "rank": 358,
    "name": "Oakley#1288",
-   "delta": 52,
-   "rankScore": 58374,
+   "delta": 120,
+   "rankScore": 58494,
    "club": "HZTOP",
    "twitch": null
   },
   {
-   "rank": 385,
+   "rank": 375,
    "name": "noir#3584",
-   "delta": 126,
-   "rankScore": 58114,
+   "delta": 176,
+   "rankScore": 58290,
    "club": "KOMPI",
    "twitch": null
   },
   {
-   "rank": 401,
-   "name": "HuMaL#0538",
-   "delta": 130,
-   "rankScore": 57852,
-   "club": "1PEEK",
+   "rank": 429,
+   "name": "Snafu#3644",
+   "delta": 58,
+   "rankScore": 57444,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 478,
+   "rank": 444,
+   "name": "Clatter#2812",
+   "delta": 141,
+   "rankScore": 57073,
+   "club": "EXDEE",
+   "twitch": null
+  },
+  {
+   "rank": 461,
    "name": "Eris#8259",
-   "delta": 151,
-   "rankScore": 56471,
+   "delta": 296,
+   "rankScore": 56767,
    "club": "KNGZ",
    "twitch": null
   },
   {
-   "rank": 481,
+   "rank": 469,
+   "name": "YeahHealthyTTV#0175",
+   "delta": 88,
+   "rankScore": 56621,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 476,
    "name": "Gm#4245",
-   "delta": 65,
-   "rankScore": 56399,
+   "delta": 150,
+   "rankScore": 56549,
    "club": "HZTOP",
    "twitch": null
   },
   {
-   "rank": 488,
+   "rank": 486,
    "name": "Acidbeef209#2268",
-   "delta": 155,
-   "rankScore": 56259,
+   "delta": 65,
+   "rankScore": 56324,
    "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 497,
+   "name": "Romance#3159",
+   "delta": -159,
+   "rankScore": 56107,
+   "club": "LA104",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T14:41:30Z",
-  "totalStreams": 71,
+  "checkedAt": "2026-10-08T14:51:43Z",
+  "totalStreams": 67,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "wig stream 1 sub i drink angular this month?",
-    "viewers": 83,
+    "viewers": 77,
     "startedAt": "2026-10-08T12:47:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 45,
     "name": "NAGHOSTX6#0212",
-    "rankScore": 64251,
+    "rankScore": 64236,
     "matchedBy": "name"
    },
    {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals et rien d'autre -",
-    "viewers": 1,
+    "viewers": 3,
     "startedAt": "2026-10-08T13:37:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 204,
@@ -151,7 +287,7 @@
     "login": "sitnica",
     "displayName": "sitnica",
     "title": "[ru] [Drops] Горжусь собой, когда лузаю, не плачу",
-    "viewers": 11,
+    "viewers": 9,
     "startedAt": "2026-10-08T14:02:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
     "rank": 231,
@@ -163,7 +299,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] TRYING NEW SLX TODAY | Embark Partner | !wooting !lamzu",
-    "viewers": 361,
+    "viewers": 375,
     "startedAt": "2026-10-08T13:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 323,
@@ -174,20 +310,20 @@
   ],
   "titleMentions": [
    {
-    "login": "pedross",
-    "displayName": "Pedross",
-    "title": "[CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
-    "viewers": 1,
-    "startedAt": "2026-10-08T12:10:31Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
-   },
-   {
     "login": "stinkycheesefr",
     "displayName": "StinkyCheeseFR",
     "title": "[Drops] The Finals ruby grind",
     "viewers": 1,
     "startedAt": "2026-10-08T00:44:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stinkycheesefr-{width}x{height}.jpg"
+   },
+   {
+    "login": "pedross",
+    "displayName": "Pedross",
+    "title": "[CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
+    "viewers": 1,
+    "startedAt": "2026-10-08T12:10:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
    }
   ]
  },
@@ -195,7 +331,7 @@
   "ready": false,
   "placed": {
    "ruby": 106,
-   "all": 545
+   "all": 549
   },
   "rubyByRegion": {
    "am": 51,
@@ -205,19 +341,19 @@
   "window": {
    "am": {
     "ruby": 0,
-    "all": 1
+    "all": 3
    },
    "eu": {
-    "ruby": 0,
-    "all": 7
+    "ruby": 3,
+    "all": 26
    },
    "ap": {
-    "ruby": 4,
-    "all": 15
+    "ruby": 6,
+    "all": 30
    },
    "unplaced": {
-    "ruby": 9,
-    "all": 68
+    "ruby": 21,
+    "all": 149
    }
   }
  },

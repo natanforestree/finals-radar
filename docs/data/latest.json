@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T06:21:11Z",
+ "generatedAt": "2026-10-08T06:31:16Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-08T06:21:11Z",
  "window": {
@@ -10,8 +10,8 @@
  "rubyActive": 19,
  "allActive": 199,
  "rubyShare": 0.0955,
- "steamPlayers": 6791,
- "rubyCutoff": 55982,
+ "steamPlayers": 6401,
+ "rubyCutoff": 55954,
  "grinding": [
   {
    "rank": 18,
@@ -168,41 +168,53 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T06:21:11Z",
-  "totalStreams": 118,
+  "checkedAt": "2026-10-08T06:31:16Z",
+  "totalStreams": 119,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 5 RANKED | !discord !sens !rank",
-    "viewers": 51,
+    "viewers": 44,
     "startedAt": "2026-10-07T19:45:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 5,
     "name": "normalize#0130",
-    "rankScore": 69977,
+    "rankScore": 69988,
     "matchedBy": "name"
    },
    {
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED WITH NOAH AND JUKER",
-    "viewers": 112,
+    "viewers": 94,
     "startedAt": "2026-10-08T01:38:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
     "name": "stewj#8610",
-    "rankScore": 69853,
+    "rankScore": 69865,
+    "matchedBy": "name"
+   },
+   {
+    "login": "knot4long",
+    "displayName": "knot4long",
+    "title": "IM NOW A TEACHER MAYBE A HOT 1🫶",
+    "viewers": 1,
+    "startedAt": "2026-10-08T06:23:14Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
+    "rank": 118,
+    "name": "TTV_KNOT_4_LONG#7729",
+    "rankScore": 61316,
     "matchedBy": "name"
    },
    {
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Terrorizing Ruby | The Finals | Ruby Light Secured 60k",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-08T04:00:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
-    "rank": 160,
+    "rank": 161,
     "name": "bobiduity#2959",
     "rankScore": 60478,
     "matchedBy": "name"
@@ -211,7 +223,7 @@
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-10-08T06:17:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 255,
@@ -223,7 +235,7 @@
     "login": "udrakoni",
     "displayName": "udrakoni",
     "title": "(DROPS) SWEDEN BOUND! new emotes",
-    "viewers": 50,
+    "viewers": 44,
     "startedAt": "2026-10-08T02:20:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udrakoni-{width}x{height}.jpg",
     "rank": 272,
@@ -248,14 +260,6 @@
     "viewers": 1,
     "startedAt": "2026-10-08T00:44:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stinkycheesefr-{width}x{height}.jpg"
-   },
-   {
-    "login": "ogmudbone_10",
-    "displayName": "ogmudbone_10",
-    "title": "#1 Ruby player The Finals",
-    "viewers": 0,
-    "startedAt": "2026-10-08T05:14:03Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
    },
    {
     "login": "opportunehook9",
@@ -297,5 +301,5 @@
    }
   }
  },
- "source": "community"
+ "source": "embark"
 }

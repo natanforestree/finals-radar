@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T08:02:08Z",
+ "generatedAt": "2026-10-08T08:11:28Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-08T07:20:12Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 12,
  "allActive": 97,
  "rubyShare": 0.1237,
- "steamPlayers": 5260,
+ "steamPlayers": 5255,
  "rubyCutoff": 55972,
  "grinding": [
   {
@@ -112,14 +112,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-08T08:02:08Z",
+  "checkedAt": "2026-10-08T08:11:28Z",
   "totalStreams": 82,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 5 RANKED | !discord !sens !rank",
-    "viewers": 50,
+    "viewers": 59,
     "startedAt": "2026-10-07T19:45:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 5,
@@ -131,12 +131,24 @@
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED WITH NOAH AND JUKER",
-    "viewers": 119,
+    "viewers": 122,
     "startedAt": "2026-10-08T01:38:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
     "name": "stewj#8610",
     "rankScore": 69888,
+    "matchedBy": "name"
+   },
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "Ruby SoloQ + Talking S12 !Youtube !Discord !Playlist",
+    "viewers": 8,
+    "startedAt": "2026-10-08T08:06:26Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 27,
+    "name": "perzzonTTV#5485",
+    "rankScore": 65225,
     "matchedBy": "name"
    },
    {
@@ -172,14 +184,6 @@
     "viewers": 1,
     "startedAt": "2026-10-08T00:44:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stinkycheesefr-{width}x{height}.jpg"
-   },
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 0,
-    "startedAt": "2026-10-08T05:59:23Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }
   ]
  },

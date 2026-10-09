@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T22:51:07Z",
+ "generatedAt": "2026-10-09T23:01:28Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-09T22:33:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 20,
  "allActive": 183,
  "rubyShare": 0.1093,
- "steamPlayers": 13355,
+ "steamPlayers": 13046,
  "rubyCutoff": 56233,
  "grinding": [
   {
@@ -27,7 +27,7 @@
    "delta": -142,
    "rankScore": 63522,
    "club": null,
-   "twitch": null
+   "twitch": "ayokoy"
   },
   {
    "rank": 76,
@@ -176,14 +176,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-09T22:51:07Z",
-  "totalStreams": 187,
+  "checkedAt": "2026-10-09T23:01:28Z",
+  "totalStreams": 181,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 5 RANKED WITH STEW AND COMMIT | !discord !sens !rank",
-    "viewers": 62,
+    "viewers": 56,
     "startedAt": "2026-10-09T19:13:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 5,
@@ -195,7 +195,7 @@
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED, WAITING FOR S12",
-    "viewers": 79,
+    "viewers": 113,
     "startedAt": "2026-10-09T19:06:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
@@ -204,10 +204,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "ayokoy",
+    "displayName": "ayokoy",
+    "title": "Finals ranked woohoo!",
+    "viewers": 3,
+    "startedAt": "2026-10-09T22:49:23Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ayokoy-{width}x{height}.jpg",
+    "rank": 52,
+    "name": "TwitchAyoKoy#7018",
+    "rankScore": 63522,
+    "matchedBy": "name"
+   },
+   {
     "login": "lamp",
     "displayName": "lamp",
     "title": "(dropulars) pugs later, gotta level up ts | function follows energy !youtube | lampischiller lampisLuminon",
-    "viewers": 140,
+    "viewers": 112,
     "startedAt": "2026-10-09T19:32:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 61,
@@ -219,7 +231,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 116,
+    "viewers": 143,
     "startedAt": "2026-10-09T18:26:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 153,
@@ -245,9 +257,17 @@
     "login": "hershygg",
     "displayName": "HershyGG",
     "title": "[DROPS] POWERSHIFT TOP 100 - chill rabbit stream - NO, ITS NOT RABBIT SEASON YET",
-    "viewers": 6,
+    "viewers": 5,
     "startedAt": "2026-10-09T17:58:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hershygg-{width}x{height}.jpg"
+   },
+   {
+    "login": "mario_vman",
+    "displayName": "mario_vman",
+    "title": "[Drops] Ex-Shitter Finals player plays The Finals with little hope to secure Ruby! !discord !sense !mnk",
+    "viewers": 2,
+    "startedAt": "2026-10-09T22:49:13Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mario_vman-{width}x{height}.jpg"
    }
   ]
  },

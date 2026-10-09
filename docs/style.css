@@ -17,7 +17,7 @@
   --ruby-dark: #8f1236;
   --ruby-light: #ff6b8b;
   --live: #a970ff;
-  /* "All ranked" heatmap steps: one violet hue, dark to light (haze -> lavender) */
+  /* "Top 10k" heatmap steps: one violet hue, dark to light (haze -> lavender) */
   --seq-1: #4a4270;
   --seq-2: #625a8c;
   --seq-3: #7f78a8;
@@ -392,6 +392,17 @@ body::after {
 .learn .coin-tag { margin-top: 2px; }
 .learn > span:last-child { flex: 1 1 320px; }
 .hero-note { margin: 14px 0 0; font-size: 20px; color: var(--mute); }
+/* "Top 10k: busier than usual": how busy the top 10k is, in the heatmap's violet steps */
+.tenk {
+  display: flex; flex-wrap: wrap; align-items: flex-start; gap: 8px 12px;
+  margin: 18px calc(3 * var(--px)) 0 var(--px);
+  font-size: 21px; color: var(--mute);
+}
+.tenk b { color: var(--cream); font-weight: 400; }
+.tenk > span:last-child { flex: 1 1 320px; }
+.tenk-tag { margin-top: 2px; padding: 4px 6px; font: 400 12px/1.4 var(--pixel); background: var(--seq-3); color: var(--void); white-space: nowrap; }
+.tenk-tag.t-quiet { background: var(--seq-2); color: var(--cream); }
+.tenk-tag.t-busy { background: var(--seq-5); }
 
 /* the power bar: 20 blocks, lit up to the current percentile */
 .meter { margin: 22px calc(3 * var(--px)) 0 var(--px); }

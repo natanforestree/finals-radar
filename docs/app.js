@@ -58,7 +58,7 @@
   const METRICS = {
     share: { label: 'Ruby share', diverging: true, lo: 'Safer', mid: 'Typical', hi: 'Sweatier' },
     ruby:  { label: 'Ruby players (est.)', diverging: true, lo: 'Fewer', mid: 'Typical', hi: 'More' },
-    all:   { label: 'All ranked (est.)', diverging: false, lo: 'Quieter', hi: 'Busier' },
+    all:   { label: 'Top 10k (est.)', diverging: false, lo: 'Quieter', hi: 'Busier' },
   };
 
   // Heatmap colours: stepped bins, not gradients. Diverging (share, Ruby players):
@@ -401,12 +401,21 @@
     m.rubyEst = w && m.ruby != null ? m.ruby * k : null;
     m.allEst = w && m.all != null ? m.all * k : null;
     m.pct = m.share != null && shares.length ? percentileOf(shares, m.share) : null;
+    // How busy the top 10k is next to every recorded window (estimated players in ranked).
+    // Information only: busy isn't sweaty (a packed evening has more of everyone).
+    const allEsts = usable.map((s) => s.a * estFactor(s.m)).sort((a, b) => a - b);
+    m.allEsts = allEsts;
+    m.allPct = m.allEst != null && allEsts.length ? percentileOf(allEsts, m.allEst) : null;
+    m.busy = m.allPct == null ? null : m.allPct < LOW_PCT ? 'quiet' : m.allPct > HIGH_PCT ? 'busy' : 'usual';
 
     const nowDate = new Date(now);
     const here = m.cells[dayIndex(nowDate)][nowDate.getHours()];
     if (here.n >= MIN_CELL) m.typical = { value: here.share, scope: 'at this hour' };
     else if (shares.length >= MIN_SAMPLES) m.typical = { value: quantile(shares, 0.5), scope: 'overall' };
     else m.typical = null;
+    if (here.n >= MIN_CELL) m.typicalAll = { value: here.all, scope: 'at this hour' };
+    else if (allEsts.length >= MIN_SAMPLES) m.typicalAll = { value: quantile(allEsts, 0.5), scope: 'overall' };
+    else m.typicalAll = null;
 
     const verdict = m.pct == null ? null : m.pct < LOW_PCT ? 'go' : m.pct > HIGH_PCT ? 'wait' : 'flip';
     m.verdict = verdict;
@@ -634,6 +643,20 @@
         `${m.am ? 'Americas Ruby share' : 'Ruby share'} is higher than in ${r}% of the ${int(m.shares.length)} ${where(m)}windows recorded since ${shortDate(m.firstT)}.`));
   }
 
+  // "Top 10k: busier than usual. About 380 top-10k players in ranked, busier than 72% of the 940
+  // windows recorded. Usually about 300 at this hour."
+  const TENK_LABEL = { quiet: 'quieter than usual', usual: 'about usual', busy: 'busier than usual' };
+  function tenk(m) {
+    if (!m.busy) return null;
+    const who = m.am ? 'Americas top-10k' : 'top-10k';
+    const r = Math.round(Math.max(0, Math.min(100, m.allPct)));
+    const typical = m.typicalAll ? ` Usually about ${int(m.typicalAll.value)} ${m.typicalAll.scope}.` : '';
+    return h('p', { class: 'tenk' },
+      h('span', { class: `tenk-tag t-${m.busy}` }, `${m.am ? 'AMERICAS ' : ''}TOP 10K`),
+      h('span', null, h('b', null, `${TENK_LABEL[m.busy][0].toUpperCase()}${TENK_LABEL[m.busy].slice(1)}.`),
+        ` About ${int(m.allEst)} ${who} players in ranked, busier than ${r}% of the ${int(m.allEsts.length)} ${where(m)}windows recorded.${typical}`));
+  }
+
   function collected(m) {
     const n = m.usable.length;
     const spanMin = m.firstT != null ? (m.lastT - m.firstT) / 60000 : 0;
@@ -695,6 +718,8 @@
       kids.push(slab(v.cls, v.art, v.units, v.sub));
       kids.push(lowerThird(nowLine(m), windowMeta(m)));
       kids.push(meter(m));
+      const busy = tenk(m);
+      if (busy) kids.push(busy);
       state.animated = true;
     }
     if (m.am && !m.reg.ready && m.hasData) {

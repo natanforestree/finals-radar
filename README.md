@@ -23,7 +23,11 @@ leaderboard:
    names match a Ruby player.
 5. Results go to `docs/data/`, and the page in `docs/` (GitHub Pages) turns
    them into a verdict, a "next good window" and a weekly heatmap in your
-   local time.
+   local time. Under the verdict, a **Top 10k** line says whether the top 10k
+   is quieter, about usual or busier than usual (estimated players in ranked
+   against every recorded window). It's information only: the share of
+   everyone in ranked can't be measured, because players below 10,000 aren't
+   on the leaderboard, and busy isn't the same as sweaty.
 
 Caveats: Embark refreshes the leaderboard about every 30 minutes, so the data
 runs ~15–45 minutes behind. It gets useful after about a week.

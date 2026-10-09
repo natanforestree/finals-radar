@@ -1,23 +1,23 @@
 {
- "generatedAt": "2026-10-09T05:11:08Z",
+ "generatedAt": "2026-10-09T05:21:11Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-09T04:49:47Z",
+ "leaderboardUpdatedAt": "2026-10-09T05:20:02Z",
  "window": {
-  "from": "2026-10-09T04:18:01Z",
-  "to": "2026-10-09T04:49:47Z",
-  "minutes": 31.8
+  "from": "2026-10-09T04:49:47Z",
+  "to": "2026-10-09T05:20:02Z",
+  "minutes": 30.3
  },
- "rubyActive": 13,
- "allActive": 195,
- "rubyShare": 0.0667,
- "steamPlayers": 9350,
+ "rubyActive": 20,
+ "allActive": 203,
+ "rubyShare": 0.0985,
+ "steamPlayers": 8846,
  "rubyCutoff": 56068,
  "grinding": [
   {
    "rank": 5,
    "name": "normalize#0130",
-   "delta": 11,
-   "rankScore": 70061,
+   "delta": 10,
+   "rankScore": 70071,
    "club": "LUMN",
    "twitch": "normalize"
   },
@@ -25,145 +25,201 @@
    "rank": 7,
    "name": "stewj#8610",
    "delta": 11,
-   "rankScore": 69941,
+   "rankScore": 69952,
    "club": "NTMR",
    "twitch": "stewj"
   },
   {
-   "rank": 11,
+   "rank": 10,
    "name": "Choobz#9757",
    "delta": 15,
-   "rankScore": 69077,
+   "rankScore": 69092,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 124,
+   "rank": 42,
+   "name": "Digcron.TTV#3309",
+   "delta": 21,
+   "rankScore": 64438,
+   "club": "DIGA",
+   "twitch": "digcron"
+  },
+  {
+   "rank": 123,
    "name": "TheChosenOne#1521",
-   "delta": 84,
-   "rankScore": 61173,
+   "delta": 83,
+   "rankScore": 61256,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 139,
+   "rank": 137,
    "name": "botto#0580",
    "delta": 88,
-   "rankScore": 60785,
+   "rankScore": 60873,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 331,
-   "name": "Biggiz_QC#0629",
-   "delta": 112,
-   "rankScore": 59036,
-   "club": "1BS",
+   "rank": 254,
+   "name": "MasterMatthew#0013",
+   "delta": 103,
+   "rankScore": 59711,
+   "club": "1LOAD",
    "twitch": null
   },
   {
-   "rank": 355,
+   "rank": 323,
+   "name": "CallMeJenga#3471",
+   "delta": -162,
+   "rankScore": 59069,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 356,
    "name": "BRICKY#0565",
-   "delta": 119,
-   "rankScore": 58620,
+   "delta": -48,
+   "rankScore": 58572,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 361,
-   "name": "Chrissneaks#3232",
-   "delta": 51,
-   "rankScore": 58478,
-   "club": "3PROS",
+   "rank": 357,
+   "name": "Mrsack#9428",
+   "delta": 119,
+   "rankScore": 58559,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 374,
+   "rank": 364,
+   "name": "Shout#7486",
+   "delta": 78,
+   "rankScore": 58436,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 378,
    "name": "Groesum#1462",
-   "delta": 123,
-   "rankScore": 58273,
+   "delta": -50,
+   "rankScore": 58223,
    "club": "YN",
    "twitch": null
   },
   {
-   "rank": 395,
+   "rank": 389,
    "name": "justpimp#2756",
-   "delta": 223,
-   "rankScore": 57992,
+   "delta": 72,
+   "rankScore": 58064,
    "club": "PIMPW",
    "twitch": null
   },
   {
-   "rank": 415,
-   "name": "Chaluto_Qc#8388",
-   "delta": 132,
-   "rankScore": 57699,
-   "club": "XIMRZ",
+   "rank": 404,
+   "name": "ALT-ACCOUNT#3515",
+   "delta": 129,
+   "rankScore": 57860,
+   "club": "IH4TE",
    "twitch": null
   },
   {
-   "rank": 467,
+   "rank": 439,
+   "name": "1_vk.ttv#0769",
+   "delta": 59,
+   "rankScore": 57293,
+   "club": "AUREA",
+   "twitch": null
+  },
+  {
+   "rank": 446,
+   "name": "K1shin#9422",
+   "delta": 140,
+   "rankScore": 57174,
+   "club": "TOXIK",
+   "twitch": null
+  },
+  {
+   "rank": 462,
+   "name": "bleue#0829",
+   "delta": -219,
+   "rankScore": 56669,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 473,
    "name": "Tyto#4605",
    "delta": -60,
-   "rankScore": 56643,
+   "rankScore": 56583,
    "club": "FLRN",
    "twitch": null
   },
   {
-   "rank": 485,
+   "rank": 479,
    "name": "Stanthemfman#7495",
-   "delta": -254,
-   "rankScore": 56327,
+   "delta": 172,
+   "rankScore": 56499,
    "club": "LUMN",
+   "twitch": null
+  },
+  {
+   "rank": 480,
+   "name": "Apples#1806",
+   "delta": 152,
+   "rankScore": 56460,
+   "club": "VEXL",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-09T05:11:08Z",
+  "checkedAt": "2026-10-09T05:21:11Z",
   "totalStreams": 128,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "NEW !DROPS | TOP 5 RANKED WITH STEW AND HAKI | !discord !sens !rank",
-    "viewers": 37,
+    "viewers": 51,
     "startedAt": "2026-10-09T00:17:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 5,
     "name": "normalize#0130",
-    "rankScore": 70061,
+    "rankScore": 70071,
     "matchedBy": "name"
    },
    {
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED WITH NOAH AND JUKER",
-    "viewers": 193,
+    "viewers": 194,
     "startedAt": "2026-10-09T00:16:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
     "name": "stewj#8610",
-    "rankScore": 69941,
+    "rankScore": 69952,
     "matchedBy": "name"
    },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby",
-    "viewers": 97,
+    "viewers": 105,
     "startedAt": "2026-10-09T01:52:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 42,
     "name": "Digcron.TTV#3309",
-    "rankScore": 64417,
+    "rankScore": 64438,
     "matchedBy": "name"
    },
    {
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "(DROPS)Birthday today !GIVEAWAY   !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 52,
+    "viewers": 55,
     "startedAt": "2026-10-09T02:42:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 171,
@@ -175,10 +231,10 @@
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 3,
+    "viewers": 2,
     "startedAt": "2026-10-09T04:25:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
-    "rank": 262,
+    "rank": 263,
     "name": "PrezzTTV#5132",
     "rankScore": 59613,
     "matchedBy": "name"
@@ -187,7 +243,7 @@
     "login": "uvinity_",
     "displayName": "Uvinity_",
     "title": "My FAMOOSe goes brrr brrr brrr | LFT",
-    "viewers": 12,
+    "viewers": 13,
     "startedAt": "2026-10-09T04:07:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
     "rank": 287,
@@ -227,7 +283,7 @@
   "ready": false,
   "placed": {
    "ruby": 118,
-   "all": 726
+   "all": 729
   },
   "rubyByRegion": {
    "am": 61,
@@ -236,8 +292,8 @@
   },
   "window": {
    "am": {
-    "ruby": 8,
-    "all": 88
+    "ruby": 12,
+    "all": 86
    },
    "eu": {
     "ruby": 0,
@@ -245,11 +301,11 @@
    },
    "ap": {
     "ruby": 0,
-    "all": 4
+    "all": 5
    },
    "unplaced": {
-    "ruby": 5,
-    "all": 103
+    "ruby": 8,
+    "all": 112
    }
   }
  },

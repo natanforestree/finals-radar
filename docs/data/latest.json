@@ -1,66 +1,194 @@
 {
- "generatedAt": "2026-10-09T11:11:21Z",
+ "generatedAt": "2026-10-09T11:21:24Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-09T10:45:30Z",
+ "leaderboardUpdatedAt": "2026-10-09T11:19:00Z",
  "window": {
-  "from": "2026-10-09T10:31:31Z",
-  "to": "2026-10-09T10:45:30Z",
-  "minutes": 14.0
+  "from": "2026-10-09T10:45:30Z",
+  "to": "2026-10-09T11:19:00Z",
+  "minutes": 33.5
  },
- "rubyActive": 4,
- "allActive": 35,
- "rubyShare": 0.1143,
- "steamPlayers": 6463,
- "rubyCutoff": 56160,
+ "rubyActive": 20,
+ "allActive": 143,
+ "rubyShare": 0.1399,
+ "steamPlayers": 6480,
+ "rubyCutoff": 56174,
  "grinding": [
+  {
+   "rank": 4,
+   "name": "carnifex#7330",
+   "delta": 5,
+   "rankScore": 70695,
+   "club": "5F",
+   "twitch": null
+  },
+  {
+   "rank": 19,
+   "name": "Dyrani#4601",
+   "delta": 19,
+   "rankScore": 66385,
+   "club": "RADGG",
+   "twitch": null
+  },
   {
    "rank": 25,
    "name": "FloridoGamingTTV#1606",
-   "delta": 40,
-   "rankScore": 65482,
+   "delta": 39,
+   "rankScore": 65521,
    "club": "CRU3L",
    "twitch": "elfloridogaming"
   },
   {
-   "rank": 242,
-   "name": "Collins_Ave#3534",
-   "delta": 101,
-   "rankScore": 59884,
-   "club": "CRU3L",
+   "rank": 31,
+   "name": "Roma#8763",
+   "delta": 26,
+   "rankScore": 64933,
+   "club": "RADGG",
    "twitch": null
   },
   {
-   "rank": 370,
-   "name": "uzfdsfs#0820",
-   "delta": 122,
-   "rankScore": 58332,
+   "rank": 47,
+   "name": "dilltv#5940",
+   "delta": 55,
+   "rankScore": 63766,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 435,
-   "name": "Petite#1874",
-   "delta": 136,
-   "rankScore": 57448,
-   "club": "APES",
+   "rank": 232,
+   "name": "Collins_Ave#3534",
+   "delta": 99,
+   "rankScore": 59983,
+   "club": "CRU3L",
+   "twitch": null
+  },
+  {
+   "rank": 299,
+   "name": "Docc#1172",
+   "delta": 109,
+   "rankScore": 59272,
+   "club": "HF",
+   "twitch": null
+  },
+  {
+   "rank": 323,
+   "name": "ChitSit#1101",
+   "delta": 112,
+   "rankScore": 59055,
+   "club": "EBL4N",
+   "twitch": null
+  },
+  {
+   "rank": 356,
+   "name": "Oakley#1288",
+   "delta": 118,
+   "rankScore": 58612,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 362,
+   "name": "uzfdsfs#0820",
+   "delta": 120,
+   "rankScore": 58452,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 369,
+   "name": "Sadeness#1017",
+   "delta": -124,
+   "rankScore": 58319,
+   "club": "DMPRO",
+   "twitch": null
+  },
+  {
+   "rank": 379,
+   "name": "GodofdreamsYh#5990",
+   "delta": -126,
+   "rankScore": 58234,
+   "club": "SEITN",
+   "twitch": null
+  },
+  {
+   "rank": 391,
+   "name": "Borderless#0523",
+   "delta": -128,
+   "rankScore": 58095,
+   "club": "SEITN",
+   "twitch": null
+  },
+  {
+   "rank": 426,
+   "name": "Killer#0498",
+   "delta": 133,
+   "rankScore": 57586,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 430,
+   "name": "Not_Aicey#0101",
+   "delta": 134,
+   "rankScore": 57537,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 447,
+   "name": "iri#5183",
+   "delta": 141,
+   "rankScore": 57158,
+   "club": "VGG",
+   "twitch": null
+  },
+  {
+   "rank": 464,
+   "name": "Kazuki#0590",
+   "delta": 147,
+   "rankScore": 56732,
+   "club": "1PEEK",
+   "twitch": null
+  },
+  {
+   "rank": 493,
+   "name": "Extinxi#6638",
+   "delta": 66,
+   "rankScore": 56233,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 494,
+   "name": "kurosaki#8733",
+   "delta": 66,
+   "rankScore": 56223,
+   "club": "RR",
+   "twitch": null
+  },
+  {
+   "rank": 497,
+   "name": "youdead#9476",
+   "delta": -116,
+   "rankScore": 56197,
+   "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-09T11:11:21Z",
-  "totalStreams": 57,
+  "checkedAt": "2026-10-09T11:21:24Z",
+  "totalStreams": 56,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 10,
+    "viewers": 3,
     "startedAt": "2026-10-09T07:35:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 25,
     "name": "FloridoGamingTTV#1606",
-    "rankScore": 65482,
+    "rankScore": 65521,
     "matchedBy": "name"
    },
    {
@@ -79,7 +207,7 @@
     "login": "koretica",
     "displayName": "Koretica",
     "title": "❌ AIM ASSIST OFF ❌ Controller ONLY | Drops | Interactive | Road to Embark Creator!",
-    "viewers": 17,
+    "viewers": 15,
     "startedAt": "2026-10-09T10:12:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_koretica-{width}x{height}.jpg",
     "rank": 162,
@@ -88,37 +216,13 @@
     "matchedBy": "name"
    },
    {
-    "login": "snake_nade",
-    "displayName": "Snake_Nade",
-    "title": "(DROPS)Birthday today !GIVEAWAY   !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 69,
-    "startedAt": "2026-10-09T02:42:07Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
-    "rank": 170,
-    "name": "Snake_Nade#0401",
-    "rankScore": 60390,
-    "matchedBy": "name"
-   },
-   {
-    "login": "uvinity_",
-    "displayName": "Uvinity_",
-    "title": "My FAMOOSe goes brrr brrr brrr | LFT",
-    "viewers": 11,
-    "startedAt": "2026-10-09T04:07:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
-    "rank": 288,
-    "name": "Uvinity#2250",
-    "rankScore": 59384,
-    "matchedBy": "name"
-   },
-   {
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] Internet Test take 2 | CEO of OCE | !discord !commands",
-    "viewers": 15,
+    "viewers": 13,
     "startedAt": "2026-10-09T09:53:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
-    "rank": 471,
+    "rank": 472,
     "name": "YeahHealthyTTV#0175",
     "rankScore": 56624,
     "matchedBy": "name"
@@ -129,7 +233,7 @@
     "login": "demon_finals",
     "displayName": "demon_finals",
     "title": "[Drops Enabled] 🔥#1 Is the ruby dream real !?🔥 [ENG/GER/RU]",
-    "viewers": 20,
+    "viewers": 27,
     "startedAt": "2026-10-09T09:58:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_demon_finals-{width}x{height}.jpg"
    }
@@ -138,30 +242,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 124,
-   "all": 766
+   "ruby": 125,
+   "all": 763
   },
   "rubyByRegion": {
    "am": 58,
    "eu": 31,
-   "ap": 35
+   "ap": 36
   },
   "window": {
    "am": {
-    "ruby": 0,
-    "all": 2
+    "ruby": 1,
+    "all": 3
    },
    "eu": {
-    "ruby": 2,
-    "all": 4
+    "ruby": 3,
+    "all": 12
    },
    "ap": {
-    "ruby": 0,
-    "all": 5
+    "ruby": 8,
+    "all": 31
    },
    "unplaced": {
-    "ruby": 2,
-    "all": 24
+    "ruby": 8,
+    "all": 97
    }
   }
  },

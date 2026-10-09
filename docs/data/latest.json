@@ -1,109 +1,213 @@
 {
- "generatedAt": "2026-10-09T19:02:31Z",
+ "generatedAt": "2026-10-09T19:11:30Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-09T18:33:07Z",
+ "leaderboardUpdatedAt": "2026-10-09T19:05:09Z",
  "window": {
-  "from": "2026-10-09T18:17:21Z",
-  "to": "2026-10-09T18:33:07Z",
-  "minutes": 15.8
+  "from": "2026-10-09T18:33:07Z",
+  "to": "2026-10-09T19:05:09Z",
+  "minutes": 32.0
  },
- "rubyActive": 7,
- "allActive": 152,
- "rubyShare": 0.0461,
- "steamPlayers": 14505,
- "rubyCutoff": 56193,
+ "rubyActive": 20,
+ "allActive": 235,
+ "rubyShare": 0.0851,
+ "steamPlayers": 14913,
+ "rubyCutoff": 56205,
  "grinding": [
   {
-   "rank": 3,
-   "name": "BLAD3R#2825",
-   "delta": 7,
-   "rankScore": 71035,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 9,
-   "name": "MOGHWASOM#2367",
+   "rank": 10,
+   "name": "Choobz#9757",
    "delta": 14,
-   "rankScore": 69329,
-   "club": "MTHRY",
+   "rankScore": 69161,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 76,
-   "name": "slim#1364",
-   "delta": 68,
-   "rankScore": 62545,
-   "club": "C4RPG",
+   "rank": 45,
+   "name": "NAGHOSTX6#0212",
+   "delta": -106,
+   "rankScore": 64107,
+   "club": "5F",
+   "twitch": "naghostx6"
+  },
+  {
+   "rank": 64,
+   "name": "Raymke#1599",
+   "delta": -128,
+   "rankScore": 63082,
+   "club": "5F",
    "twitch": null
   },
   {
-   "rank": 370,
-   "name": "aloneinparis#2632",
-   "delta": 122,
-   "rankScore": 58343,
-   "club": "USTAL",
+   "rank": 96,
+   "name": "TaeK#3289",
+   "delta": 76,
+   "rankScore": 61821,
+   "club": "HEIMG",
    "twitch": null
   },
   {
-   "rank": 372,
-   "name": "massacre#6416",
-   "delta": 122,
-   "rankScore": 58321,
+   "rank": 106,
+   "name": "itzVuqx#6674",
+   "delta": 79,
+   "rankScore": 61574,
+   "club": "HEIMG",
+   "twitch": "itzvuqx"
+  },
+  {
+   "rank": 137,
+   "name": "botto#0580",
+   "delta": -36,
+   "rankScore": 60905,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 194,
+   "name": "KimChokko#0312",
+   "delta": 97,
+   "rankScore": 60143,
+   "club": "NARAE",
+   "twitch": null
+  },
+  {
+   "rank": 284,
+   "name": "Norton#5727",
+   "delta": 45,
+   "rankScore": 59440,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 429,
-   "name": "I_LOVE_YOU#4183",
-   "delta": 132,
-   "rankScore": 57663,
-   "club": "MTHRY",
+   "rank": 366,
+   "name": "massacre#6416",
+   "delta": 121,
+   "rankScore": 58442,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 456,
+   "rank": 368,
+   "name": "lehon#0652",
+   "delta": -207,
+   "rankScore": 58386,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 398,
+   "name": "OOO#2564",
+   "delta": -50,
+   "rankScore": 58104,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 431,
+   "name": "Fatiev001#5543",
+   "delta": 153,
+   "rankScore": 57526,
+   "club": "F0M0",
+   "twitch": null
+  },
+  {
+   "rank": 433,
+   "name": "Killer#0498",
+   "delta": -211,
+   "rankScore": 57507,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 435,
+   "name": "Dizzy#3224",
+   "delta": 136,
+   "rankScore": 57466,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 443,
+   "name": "HorseNamedFriday#5432",
+   "delta": 139,
+   "rankScore": 57220,
+   "club": "T0GGL",
+   "twitch": null
+  },
+  {
+   "rank": 450,
+   "name": "marco#0514",
+   "delta": 141,
+   "rankScore": 57099,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 453,
+   "name": "Vendetta#1655",
+   "delta": 142,
+   "rankScore": 57021,
+   "club": "T400",
+   "twitch": null
+  },
+  {
+   "rank": 459,
    "name": "Boom#6313",
-   "delta": 143,
-   "rankScore": 56949,
+   "delta": -58,
+   "rankScore": 56891,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 486,
+   "name": "SlixFPS#7984",
+   "delta": 151,
+   "rankScore": 56501,
+   "club": "HEIMG",
+   "twitch": null
+  },
+  {
+   "rank": 498,
+   "name": "Uni.Jr#4821",
+   "delta": 155,
+   "rankScore": 56233,
    "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-09T19:02:31Z",
-  "totalStreams": 180,
+  "checkedAt": "2026-10-09T19:11:30Z",
+  "totalStreams": 173,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "SCRIM 6PM UNWASHING ?? // wig stream 1 sub i drink angular this month?",
-    "viewers": 126,
+    "viewers": 111,
     "startedAt": "2026-10-09T15:29:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
-    "rank": 44,
+    "rank": 45,
     "name": "NAGHOSTX6#0212",
-    "rankScore": 64213,
+    "rankScore": 64107,
     "matchedBy": "name"
    },
    {
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 3,
+    "viewers": 2,
     "startedAt": "2026-10-09T17:54:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg",
-    "rank": 110,
+    "rank": 106,
     "name": "itzVuqx#6674",
-    "rankScore": 61495,
+    "rankScore": 61574,
     "matchedBy": "name"
    },
    {
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 50,
+    "viewers": 55,
     "startedAt": "2026-10-09T18:26:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 152,
@@ -115,10 +219,10 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED si on perd on mange du couscous !",
-    "viewers": 5,
+    "viewers": 9,
     "startedAt": "2026-10-09T13:24:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
-    "rank": 195,
+    "rank": 196,
     "name": "Ilprune#5174",
     "rankScore": 60140,
     "matchedBy": "name"
@@ -127,7 +231,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(!drops) Prop Hunt Season 12! Hype - !Coach - Embark Partner - Pulsar CC",
-    "viewers": 134,
+    "viewers": 130,
     "startedAt": "2026-10-09T12:05:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 266,
@@ -141,41 +245,17 @@
     "login": "hershygg",
     "displayName": "HershyGG",
     "title": "[DROPS] POWERSHIFT TOP 100 - chill rabbit stream - NO, ITS NOT RABBIT SEASON YET",
-    "viewers": 5,
+    "viewers": 4,
     "startedAt": "2026-10-09T17:58:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hershygg-{width}x{height}.jpg"
    },
    {
-    "login": "realisstfps",
-    "displayName": "realisstFPS",
-    "title": "ruby ranked, ghoul mentality, psychokid dinastiya",
+    "login": "cl_bubbles",
+    "displayName": "cl_bubbles",
+    "title": "The only ruby cl-40 - [Noobin on my toob]",
     "viewers": 4,
-    "startedAt": "2026-10-09T15:47:15Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_realisstfps-{width}x{height}.jpg"
-   },
-   {
-    "login": "realisstfps",
-    "displayName": "realisstFPS",
-    "title": "ruby ranked, ghoul mentality, psychokid dinastiya",
-    "viewers": 4,
-    "startedAt": "2026-10-09T15:47:15Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_realisstfps-{width}x{height}.jpg"
-   },
-   {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "incGII / Thefinals / light ruby / SCRIMMMMMMMM",
-    "viewers": 3,
-    "startedAt": "2026-10-09T18:28:26Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
-   },
-   {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "incGII / Thefinals / light ruby / SCRIMMMMMMMM",
-    "viewers": 3,
-    "startedAt": "2026-10-09T18:28:26Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
+    "startedAt": "2026-10-09T19:06:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
    },
    {
     "login": "egman39",
@@ -186,12 +266,12 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
    },
    {
-    "login": "cl_bubbles",
-    "displayName": "cl_bubbles",
-    "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 2,
-    "startedAt": "2026-10-09T17:38:44Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "incGII / Thefinals / light ruby / RANKED",
+    "viewers": 1,
+    "startedAt": "2026-10-09T18:28:26Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
    },
    {
     "login": "opportunehook9",
@@ -200,6 +280,14 @@
     "viewers": 1,
     "startedAt": "2026-10-09T18:40:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
+    "login": "realisstfps",
+    "displayName": "realisstFPS",
+    "title": "ruby ranked, ghoul mentality, psychokid dinastiya",
+    "viewers": 1,
+    "startedAt": "2026-10-09T15:47:15Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_realisstfps-{width}x{height}.jpg"
    },
    {
     "login": "mrnavigat0r",
@@ -215,7 +303,7 @@
   "ready": false,
   "placed": {
    "ruby": 130,
-   "all": 800
+   "all": 803
   },
   "rubyByRegion": {
    "am": 59,
@@ -224,20 +312,20 @@
   },
   "window": {
    "am": {
-    "ruby": 1,
-    "all": 17
+    "ruby": 4,
+    "all": 23
    },
    "eu": {
-    "ruby": 4,
-    "all": 36
+    "ruby": 6,
+    "all": 62
    },
    "ap": {
     "ruby": 0,
     "all": 3
    },
    "unplaced": {
-    "ruby": 2,
-    "all": 96
+    "ruby": 10,
+    "all": 147
    }
   }
  },

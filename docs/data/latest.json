@@ -1,141 +1,69 @@
 {
- "generatedAt": "2026-10-10T11:11:29Z",
+ "generatedAt": "2026-10-10T11:21:17Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-10T11:03:32Z",
+ "leaderboardUpdatedAt": "2026-10-10T11:19:00Z",
  "window": {
-  "from": "2026-10-10T10:34:01Z",
-  "to": "2026-10-10T11:03:32Z",
-  "minutes": 29.5
+  "from": "2026-10-10T11:03:32Z",
+  "to": "2026-10-10T11:19:00Z",
+  "minutes": 15.5
  },
- "rubyActive": 14,
- "allActive": 124,
- "rubyShare": 0.1129,
- "steamPlayers": 8248,
+ "rubyActive": 5,
+ "allActive": 61,
+ "rubyShare": 0.082,
+ "steamPlayers": 8401,
  "rubyCutoff": 56272,
  "grinding": [
   {
    "rank": 4,
    "name": "carnifex#7330",
    "delta": 8,
-   "rankScore": 70746,
+   "rankScore": 70754,
    "club": "5F",
    "twitch": null
   },
   {
-   "rank": 7,
-   "name": "Avion#8636",
-   "delta": 11,
-   "rankScore": 70110,
-   "club": "RS1",
+   "rank": 20,
+   "name": "Dyrani#4601",
+   "delta": 33,
+   "rankScore": 66418,
+   "club": "RADGG",
    "twitch": null
   },
   {
-   "rank": 19,
-   "name": "Que#2889",
-   "delta": 30,
-   "rankScore": 66723,
-   "club": null,
+   "rank": 142,
+   "name": "TwichJussAngellk#0030",
+   "delta": 87,
+   "rankScore": 60924,
+   "club": "MR",
    "twitch": null
   },
   {
-   "rank": 166,
-   "name": "skoi#0540",
-   "delta": 40,
-   "rankScore": 60476,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 243,
-   "name": "Callum#1239",
+   "rank": 249,
+   "name": "CallMeJenga#3471",
    "delta": 42,
-   "rankScore": 59996,
+   "rankScore": 59921,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 303,
-   "name": "nn7#8593",
-   "delta": -95,
-   "rankScore": 59322,
-   "club": "NTMR",
-   "twitch": null
-  },
-  {
-   "rank": 317,
-   "name": "ushio#4903",
-   "delta": 111,
-   "rankScore": 59146,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 339,
-   "name": "Oakley#1288",
-   "delta": 112,
-   "rankScore": 59035,
-   "club": "HZTOP",
-   "twitch": null
-  },
-  {
-   "rank": 395,
-   "name": "noum#8785",
-   "delta": -109,
-   "rankScore": 58264,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 416,
-   "name": "joek#0785",
-   "delta": 127,
-   "rankScore": 57995,
-   "club": "KNUCK",
-   "twitch": null
-  },
-  {
-   "rank": 424,
-   "name": "Extinxi#6638",
-   "delta": 130,
-   "rankScore": 57836,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 444,
-   "name": "Acetamer#0711",
-   "delta": 137,
-   "rankScore": 57391,
-   "club": "HAKER",
-   "twitch": null
-  },
-  {
-   "rank": 447,
-   "name": "colak#0003",
-   "delta": 137,
-   "rankScore": 57366,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 469,
-   "name": "NightTiger#7485",
-   "delta": 144,
-   "rankScore": 56886,
-   "club": "X82",
+   "rank": 478,
+   "name": "Mantra#6657",
+   "delta": 63,
+   "rankScore": 56693,
+   "club": "YN",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-10T11:11:29Z",
-  "totalStreams": 63,
+  "checkedAt": "2026-10-10T11:21:17Z",
+  "totalStreams": 59,
   "rubyLive": [
    {
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 6,
+    "viewers": 7,
     "startedAt": "2026-10-10T09:34:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg",
     "rank": 106,
@@ -149,7 +77,7 @@
     "login": "readmyname_",
     "displayName": "ReadMyName_",
     "title": "FINALS Ruby grind",
-    "viewers": 11,
+    "viewers": 10,
     "startedAt": "2026-10-10T09:30:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
    },
@@ -175,7 +103,7 @@
   "ready": false,
   "placed": {
    "ruby": 152,
-   "all": 911
+   "all": 916
   },
   "rubyByRegion": {
    "am": 75,
@@ -185,19 +113,19 @@
   "window": {
    "am": {
     "ruby": 3,
-    "all": 14
+    "all": 4
    },
    "eu": {
-    "ruby": 2,
-    "all": 20
+    "ruby": 0,
+    "all": 16
    },
    "ap": {
-    "ruby": 5,
-    "all": 23
+    "ruby": 2,
+    "all": 8
    },
    "unplaced": {
-    "ruby": 4,
-    "all": 67
+    "ruby": 0,
+    "all": 33
    }
   }
  },

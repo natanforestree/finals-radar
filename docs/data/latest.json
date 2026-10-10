@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T17:21:26Z",
+ "generatedAt": "2026-10-10T17:31:50Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-10T17:20:01Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 12,
  "allActive": 113,
  "rubyShare": 0.1062,
- "steamPlayers": 14751,
+ "steamPlayers": 14753,
  "rubyCutoff": 56272,
  "grinding": [
   {
@@ -112,19 +112,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-10T17:21:26Z",
-  "totalStreams": 133,
+  "checkedAt": "2026-10-10T17:31:50Z",
+  "totalStreams": 141,
   "rubyLive": [
    {
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Lil ranked | 10 Days left",
-    "viewers": 15,
+    "viewers": 9,
     "startedAt": "2026-10-10T16:28:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 129,
     "name": "SkreyDeen#2116",
     "rankScore": 61138,
+    "matchedBy": "name"
+   },
+   {
+    "login": "sanguine",
+    "displayName": "Sanguine",
+    "title": "[!Drops] Community Day! | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
+    "viewers": 39,
+    "startedAt": "2026-10-10T17:18:24Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
+    "rank": 156,
+    "name": "Sanguine#5740",
+    "rankScore": 60596,
     "matchedBy": "name"
    },
    {
@@ -155,7 +167,7 @@
     "login": "doccboppo_",
     "displayName": "DoccBoppo_",
     "title": "ㅤ",
-    "viewers": 22,
+    "viewers": 21,
     "startedAt": "2026-10-10T12:42:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doccboppo_-{width}x{height}.jpg",
     "rank": 211,
@@ -167,7 +179,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] the idea was to be a symbol... | Embark Partner | !wooting !lamzu",
-    "viewers": 424,
+    "viewers": 428,
     "startedAt": "2026-10-10T14:08:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 255,
@@ -179,7 +191,7 @@
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-10T16:47:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 278,
@@ -191,7 +203,7 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "yo",
-    "viewers": 13,
+    "viewers": 17,
     "startedAt": "2026-10-10T17:07:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 436,
@@ -200,16 +212,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "readmyname_",
-    "displayName": "ReadMyName_",
-    "title": "FINALS Ruby grind",
-    "viewers": 16,
-    "startedAt": "2026-10-10T09:30:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": false,

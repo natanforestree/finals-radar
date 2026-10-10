@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T16:21:13Z",
+ "generatedAt": "2026-10-10T16:31:55Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-10T16:17:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 20,
  "allActive": 237,
  "rubyShare": 0.0844,
- "steamPlayers": 13397,
+ "steamPlayers": 13539,
  "rubyCutoff": 56272,
  "grinding": [
   {
@@ -176,14 +176,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-10T16:21:13Z",
-  "totalStreams": 106,
+  "checkedAt": "2026-10-10T16:31:55Z",
+  "totalStreams": 116,
   "rubyLive": [
+   {
+    "login": "skreydeen",
+    "displayName": "SkreyDeen",
+    "title": "Lil ranked | 10 Days left",
+    "viewers": 2,
+    "startedAt": "2026-10-10T16:28:17Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
+    "rank": 131,
+    "name": "SkreyDeen#2116",
+    "rankScore": 61102,
+    "matchedBy": "name"
+   },
    {
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Terrorizing Ruby | The Finals | Ruby Light Secured 60k",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-10-10T13:11:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
     "rank": 166,
@@ -195,7 +207,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED si on perd on mange du couscous !",
-    "viewers": 11,
+    "viewers": 12,
     "startedAt": "2026-10-10T15:27:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 202,
@@ -207,7 +219,7 @@
     "login": "doccboppo_",
     "displayName": "DoccBoppo_",
     "title": "ㅤ",
-    "viewers": 21,
+    "viewers": 17,
     "startedAt": "2026-10-10T12:42:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doccboppo_-{width}x{height}.jpg",
     "rank": 211,
@@ -219,7 +231,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[NEW DROPS] the idea was to be a symbol... | Embark Partner | !wooting !lamzu",
-    "viewers": 414,
+    "viewers": 419,
     "startedAt": "2026-10-10T14:08:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 254,
@@ -236,14 +248,6 @@
     "viewers": 11,
     "startedAt": "2026-10-10T09:30:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
-   },
-   {
-    "login": "leantgames",
-    "displayName": "LeAntGames",
-    "title": "Washed Ruby Back On",
-    "viewers": 1,
-    "startedAt": "2026-10-10T15:28:21Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leantgames-{width}x{height}.jpg"
    }
   ]
  },

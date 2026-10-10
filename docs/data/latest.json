@@ -1,69 +1,53 @@
 {
- "generatedAt": "2026-10-10T11:31:44Z",
+ "generatedAt": "2026-10-10T11:41:19Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-10T11:19:00Z",
+ "leaderboardUpdatedAt": "2026-10-10T11:35:00Z",
  "window": {
-  "from": "2026-10-10T11:03:32Z",
-  "to": "2026-10-10T11:19:00Z",
-  "minutes": 15.5
+  "from": "2026-10-10T11:19:00Z",
+  "to": "2026-10-10T11:35:00Z",
+  "minutes": 16.0
  },
- "rubyActive": 5,
- "allActive": 61,
- "rubyShare": 0.082,
- "steamPlayers": 8401,
+ "rubyActive": 3,
+ "allActive": 84,
+ "rubyShare": 0.0357,
+ "steamPlayers": 8564,
  "rubyCutoff": 56272,
  "grinding": [
   {
-   "rank": 4,
-   "name": "carnifex#7330",
-   "delta": 8,
-   "rankScore": 70754,
-   "club": "5F",
+   "rank": 47,
+   "name": "dilltv#5940",
+   "delta": 54,
+   "rankScore": 63961,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 20,
-   "name": "Dyrani#4601",
-   "delta": 33,
-   "rankScore": 66418,
-   "club": "RADGG",
+   "rank": 406,
+   "name": "joek#0785",
+   "delta": 126,
+   "rankScore": 58121,
+   "club": "KNUCK",
    "twitch": null
   },
   {
-   "rank": 142,
-   "name": "TwichJussAngellk#0030",
-   "delta": 87,
-   "rankScore": 60924,
-   "club": "MR",
-   "twitch": null
-  },
-  {
-   "rank": 249,
-   "name": "CallMeJenga#3471",
-   "delta": 42,
-   "rankScore": 59921,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 478,
-   "name": "Mantra#6657",
-   "delta": 63,
-   "rankScore": 56693,
-   "club": "YN",
+   "rank": 417,
+   "name": "Extinxi#6638",
+   "delta": 128,
+   "rankScore": 57964,
+   "club": "MORI",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-10T11:31:44Z",
-  "totalStreams": 60,
+  "checkedAt": "2026-10-10T11:41:19Z",
+  "totalStreams": 54,
   "rubyLive": [
    {
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 7,
+    "viewers": 5,
     "startedAt": "2026-10-10T09:34:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg",
     "rank": 106,
@@ -77,7 +61,7 @@
     "login": "readmyname_",
     "displayName": "ReadMyName_",
     "title": "FINALS Ruby grind",
-    "viewers": 15,
+    "viewers": 14,
     "startedAt": "2026-10-10T09:30:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
    },
@@ -85,7 +69,7 @@
     "login": "demon_finals",
     "displayName": "demon_finals",
     "title": "[Drops Enabled] 🔥#1 Is the ruby dream real !?🔥 [ENG/GER/RU]",
-    "viewers": 5,
+    "viewers": 12,
     "startedAt": "2026-10-10T09:33:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_demon_finals-{width}x{height}.jpg"
    },
@@ -112,20 +96,20 @@
   },
   "window": {
    "am": {
-    "ruby": 3,
+    "ruby": 1,
     "all": 4
    },
    "eu": {
-    "ruby": 0,
-    "all": 16
+    "ruby": 1,
+    "all": 15
    },
    "ap": {
-    "ruby": 2,
-    "all": 8
+    "ruby": 0,
+    "all": 14
    },
    "unplaced": {
-    "ruby": 0,
-    "all": 33
+    "ruby": 1,
+    "all": 51
    }
   }
  },

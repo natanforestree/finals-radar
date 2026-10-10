@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T14:02:29Z",
+ "generatedAt": "2026-10-10T14:11:27Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-10T13:40:47Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 9,
  "allActive": 95,
  "rubyShare": 0.0947,
- "steamPlayers": 11325,
+ "steamPlayers": 11540,
  "rubyCutoff": 56256,
  "grinding": [
   {
@@ -88,26 +88,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-10T14:02:29Z",
-  "totalStreams": 84,
+  "checkedAt": "2026-10-10T14:11:27Z",
+  "totalStreams": 75,
   "rubyLive": [
-   {
-    "login": "naghostx6",
-    "displayName": "NAGHOSTX6",
-    "title": "SCRIM 8PM UNWASHING ?? // wig stream 1 sub i drink angular this month?",
-    "viewers": 109,
-    "startedAt": "2026-10-10T11:58:46Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
-    "rank": 44,
-    "name": "NAGHOSTX6#0212",
-    "rankScore": 64137,
-    "matchedBy": "name"
-   },
    {
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Terrorizing Ruby | The Finals | Ruby Light Secured 60k",
-    "viewers": 1,
+    "viewers": 38,
     "startedAt": "2026-10-10T13:11:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
     "rank": 166,
@@ -119,7 +107,7 @@
     "login": "doccboppo_",
     "displayName": "DoccBoppo_",
     "title": "ㅤ",
-    "viewers": 11,
+    "viewers": 15,
     "startedAt": "2026-10-10T12:42:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doccboppo_-{width}x{height}.jpg",
     "rank": 209,
@@ -131,7 +119,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "ranked",
-    "viewers": 14,
+    "viewers": 20,
     "startedAt": "2026-10-10T11:52:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 223,
@@ -145,9 +133,17 @@
     "login": "readmyname_",
     "displayName": "ReadMyName_",
     "title": "FINALS Ruby grind",
-    "viewers": 18,
+    "viewers": 19,
     "startedAt": "2026-10-10T09:30:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
+   },
+   {
+    "login": "sssunay",
+    "displayName": "SSSUNAY",
+    "title": "grind ruby",
+    "viewers": 3,
+    "startedAt": "2026-10-10T13:00:58Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sssunay-{width}x{height}.jpg"
    },
    {
     "login": "10mode_",
@@ -156,14 +152,6 @@
     "viewers": 2,
     "startedAt": "2026-10-10T07:53:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
-   },
-   {
-    "login": "sssunay",
-    "displayName": "SSSUNAY",
-    "title": "grind ruby",
-    "viewers": 1,
-    "startedAt": "2026-10-10T13:00:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sssunay-{width}x{height}.jpg"
    }
   ]
  },

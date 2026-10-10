@@ -1,53 +1,205 @@
 {
- "generatedAt": "2026-10-10T12:02:22Z",
+ "generatedAt": "2026-10-10T12:11:28Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-10T11:35:00Z",
+ "leaderboardUpdatedAt": "2026-10-10T12:07:15Z",
  "window": {
-  "from": "2026-10-10T11:19:00Z",
-  "to": "2026-10-10T11:35:00Z",
-  "minutes": 16.0
+  "from": "2026-10-10T11:35:00Z",
+  "to": "2026-10-10T12:07:15Z",
+  "minutes": 32.2
  },
- "rubyActive": 3,
- "allActive": 84,
- "rubyShare": 0.0357,
- "steamPlayers": 8816,
+ "rubyActive": 22,
+ "allActive": 146,
+ "rubyShare": 0.1507,
+ "steamPlayers": 9229,
  "rubyCutoff": 56272,
  "grinding": [
   {
+   "rank": 4,
+   "name": "carnifex#7330",
+   "delta": 8,
+   "rankScore": 70762,
+   "club": "5F",
+   "twitch": null
+  },
+  {
+   "rank": 7,
+   "name": "Avion#8636",
+   "delta": -27,
+   "rankScore": 70083,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 20,
+   "name": "Dyrani#4601",
+   "delta": 32,
+   "rankScore": 66450,
+   "club": "RADGG",
+   "twitch": null
+  },
+  {
+   "rank": 23,
+   "name": "LuiHuncho#3649",
+   "delta": 35,
+   "rankScore": 66041,
+   "club": "SIN",
+   "twitch": null
+  },
+  {
    "rank": 47,
    "name": "dilltv#5940",
-   "delta": 54,
-   "rankScore": 63961,
+   "delta": 53,
+   "rankScore": 64014,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 406,
+   "rank": 140,
+   "name": "TwichJussAngellk#0030",
+   "delta": 37,
+   "rankScore": 60961,
+   "club": "MR",
+   "twitch": null
+  },
+  {
+   "rank": 143,
+   "name": "Metro#1140",
+   "delta": 38,
+   "rankScore": 60847,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 159,
+   "name": "skoi#0540",
+   "delta": 92,
+   "rankScore": 60568,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 207,
+   "name": "Callum#1239",
+   "delta": 98,
+   "rankScore": 60094,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 259,
+   "name": "Riven#8454",
+   "delta": 102,
+   "rankScore": 59768,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 263,
+   "name": "Deadplate_ttv#7083",
+   "delta": 102,
+   "rankScore": 59741,
+   "club": "SIN",
+   "twitch": null
+  },
+  {
+   "rank": 296,
+   "name": "nn7#8593",
+   "delta": 106,
+   "rankScore": 59428,
+   "club": "NTMR",
+   "twitch": null
+  },
+  {
+   "rank": 317,
+   "name": "Oakley#1288",
+   "delta": 111,
+   "rankScore": 59146,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 340,
+   "name": "ushio#4903",
+   "delta": -114,
+   "rankScore": 59032,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 381,
+   "name": "noum#8785",
+   "delta": 122,
+   "rankScore": 58386,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 399,
    "name": "joek#0785",
-   "delta": 126,
-   "rankScore": 58121,
+   "delta": 123,
+   "rankScore": 58244,
    "club": "KNUCK",
    "twitch": null
   },
   {
-   "rank": 417,
+   "rank": 409,
    "name": "Extinxi#6638",
-   "delta": 128,
-   "rankScore": 57964,
+   "delta": 126,
+   "rankScore": 58090,
    "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 424,
+   "name": "Snafu#3644",
+   "delta": -316,
+   "rankScore": 57830,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 437,
+   "name": "Acetamer#0711",
+   "delta": 135,
+   "rankScore": 57526,
+   "club": "HAKER",
+   "twitch": null
+  },
+  {
+   "rank": 448,
+   "name": "Gm#4245",
+   "delta": 139,
+   "rankScore": 57282,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 452,
+   "name": "colak#0003",
+   "delta": -141,
+   "rankScore": 57225,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 455,
+   "name": "xd#2086",
+   "delta": -56,
+   "rankScore": 57150,
+   "club": "PCXER",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-10T12:02:22Z",
-  "totalStreams": 59,
+  "checkedAt": "2026-10-10T12:11:28Z",
+  "totalStreams": 55,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "SCRIM 8PM UNWASHING ?? // wig stream 1 sub i drink angular this month?",
-    "viewers": 5,
+    "viewers": 39,
     "startedAt": "2026-10-10T11:58:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 45,
@@ -56,25 +208,13 @@
     "matchedBy": "name"
    },
    {
-    "login": "itzvuqx",
-    "displayName": "itzvuqx",
-    "title": "team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 14,
-    "startedAt": "2026-10-10T09:34:43Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg",
-    "rank": 106,
-    "name": "itzVuqx#6674",
-    "rankScore": 61621,
-    "matchedBy": "name"
-   },
-   {
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "ranked",
-    "viewers": 2,
+    "viewers": 5,
     "startedAt": "2026-10-10T11:52:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
-    "rank": 222,
+    "rank": 223,
     "name": "TTV_Jumparau#0323",
     "rankScore": 60053,
     "matchedBy": "name"
@@ -85,7 +225,7 @@
     "login": "readmyname_",
     "displayName": "ReadMyName_",
     "title": "FINALS Ruby grind",
-    "viewers": 12,
+    "viewers": 9,
     "startedAt": "2026-10-10T09:30:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
    },
@@ -103,7 +243,7 @@
   "ready": false,
   "placed": {
    "ruby": 152,
-   "all": 916
+   "all": 917
   },
   "rubyByRegion": {
    "am": 75,
@@ -112,20 +252,20 @@
   },
   "window": {
    "am": {
-    "ruby": 1,
-    "all": 4
+    "ruby": 4,
+    "all": 10
    },
    "eu": {
     "ruby": 1,
-    "all": 15
+    "all": 28
    },
    "ap": {
-    "ruby": 0,
-    "all": 14
+    "ruby": 8,
+    "all": 24
    },
    "unplaced": {
-    "ruby": 1,
-    "all": 51
+    "ruby": 9,
+    "all": 84
    }
   }
  },

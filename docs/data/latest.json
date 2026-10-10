@@ -1,101 +1,181 @@
 {
- "generatedAt": "2026-10-10T19:31:47Z",
+ "generatedAt": "2026-10-10T19:41:11Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-10T19:17:47Z",
+ "leaderboardUpdatedAt": "2026-10-10T19:33:01Z",
  "window": {
-  "from": "2026-10-10T19:03:00Z",
-  "to": "2026-10-10T19:17:47Z",
-  "minutes": 14.8
+  "from": "2026-10-10T19:17:47Z",
+  "to": "2026-10-10T19:33:01Z",
+  "minutes": 15.2
  },
- "rubyActive": 9,
- "allActive": 140,
- "rubyShare": 0.0643,
- "steamPlayers": 17048,
- "rubyCutoff": 56319,
+ "rubyActive": 19,
+ "allActive": 188,
+ "rubyShare": 0.1011,
+ "steamPlayers": 17393,
+ "rubyCutoff": 56338,
  "grinding": [
   {
    "rank": 7,
    "name": "Avion#8636",
-   "delta": 4,
-   "rankScore": 70104,
+   "delta": -20,
+   "rankScore": 70084,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 49,
-   "name": "TwitchAyoKoy#7018",
-   "delta": 55,
-   "rankScore": 63857,
-   "club": null,
+   "rank": 23,
+   "name": "varieyn#1933",
+   "delta": 34,
+   "rankScore": 66178,
+   "club": "KCP",
    "twitch": null
   },
   {
-   "rank": 116,
-   "name": "botto#0580",
-   "delta": 35,
-   "rankScore": 61346,
+   "rank": 35,
+   "name": "Berrence#2323",
+   "delta": -85,
+   "rankScore": 64822,
    "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 96,
+   "name": "Best#8421",
+   "delta": 76,
+   "rankScore": 61839,
+   "club": "AVOW",
    "twitch": null
   },
   {
    "rank": 126,
-   "name": "Viz#5368",
-   "delta": 83,
-   "rankScore": 61244,
-   "club": "ABG4",
-   "twitch": null
-  },
-  {
-   "rank": 169,
-   "name": "Deadplate_ttv#7083",
-   "delta": 93,
-   "rankScore": 60421,
-   "club": "SIN",
-   "twitch": null
-  },
-  {
-   "rank": 436,
-   "name": "TrashGame#5472",
-   "delta": -135,
-   "rankScore": 57597,
-   "club": "NARAE",
-   "twitch": null
-  },
-  {
-   "rank": 467,
-   "name": "CalJaBee#5726",
-   "delta": -146,
-   "rankScore": 56945,
-   "club": "NARAE",
-   "twitch": null
-  },
-  {
-   "rank": 480,
-   "name": "FLUFFYHD#0858",
-   "delta": 62,
-   "rankScore": 56746,
+   "name": "botto#0580",
+   "delta": -156,
+   "rankScore": 61190,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 493,
-   "name": "Real_Duck#8550",
-   "delta": -154,
-   "rankScore": 56448,
+   "rank": 260,
+   "name": "frzst#1365",
+   "delta": 102,
+   "rankScore": 59790,
    "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 269,
+   "name": "nn7#8593",
+   "delta": -191,
+   "rankScore": 59708,
+   "club": "NTMR",
+   "twitch": null
+  },
+  {
+   "rank": 274,
+   "name": "massacre#6416",
+   "delta": 44,
+   "rankScore": 59637,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 285,
+   "name": "FunPolice#2530",
+   "delta": 105,
+   "rankScore": 59541,
+   "club": "AVOW",
+   "twitch": null
+  },
+  {
+   "rank": 400,
+   "name": "Latte#4227",
+   "delta": 124,
+   "rankScore": 58204,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 402,
+   "name": "MAS#0686",
+   "delta": 125,
+   "rankScore": 58182,
+   "club": "BOOKS",
+   "twitch": null
+  },
+  {
+   "rank": 418,
+   "name": "Vedaa#5145",
+   "delta": -130,
+   "rankScore": 57939,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 435,
+   "name": "ace#3154",
+   "delta": -245,
+   "rankScore": 57643,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 445,
+   "name": "joek#0785",
+   "delta": -138,
+   "rankScore": 57433,
+   "club": "KNUCK",
+   "twitch": null
+  },
+  {
+   "rank": 450,
+   "name": "Extinxi#6638",
+   "delta": -139,
+   "rankScore": 57379,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 463,
+   "name": "kurosaki#8733",
+   "delta": 61,
+   "rankScore": 57045,
+   "club": "RR",
+   "twitch": null
+  },
+  {
+   "rank": 480,
+   "name": "Shro#9140",
+   "delta": 62,
+   "rankScore": 56707,
+   "club": "HTX45",
+   "twitch": null
+  },
+  {
+   "rank": 492,
+   "name": "MnXBATMAN_TTV#6558",
+   "delta": 151,
+   "rankScore": 56470,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 493,
+   "name": "FLUFFYHD#0858",
+   "delta": -279,
+   "rankScore": 56467,
+   "club": "RS1",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-10T19:31:47Z",
-  "totalStreams": 197,
+  "checkedAt": "2026-10-10T19:41:11Z",
+  "totalStreams": 194,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "SCRIM 8PM victim loadout angle",
-    "viewers": 122,
+    "viewers": 133,
     "startedAt": "2026-10-10T17:33:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 44,
@@ -107,7 +187,7 @@
     "login": "lamp",
     "displayName": "lamp",
     "title": "(dropulars) pugs till everyone leaves | function follows energy !youtube | lampischiller lampisLuminon",
-    "viewers": 195,
+    "viewers": 236,
     "startedAt": "2026-10-10T19:14:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 61,
@@ -119,7 +199,7 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "Finally VT GM COMPLETED !vt // FEL for fun Tomorrow 2pm CEST !sens",
-    "viewers": 5,
+    "viewers": 6,
     "startedAt": "2026-10-10T17:28:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 95,
@@ -131,7 +211,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Lil ranked | 10 Days left",
-    "viewers": 10,
+    "viewers": 6,
     "startedAt": "2026-10-10T16:28:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 135,
@@ -155,7 +235,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] Community Day! | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 144,
+    "viewers": 132,
     "startedAt": "2026-10-10T17:18:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 156,
@@ -176,13 +256,25 @@
     "matchedBy": "name"
    },
    {
+    "login": "jumparau",
+    "displayName": "jumparau",
+    "title": "ranked",
+    "viewers": 6,
+    "startedAt": "2026-10-10T19:26:28Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
+    "rank": 225,
+    "name": "TTV_Jumparau#0323",
+    "rankScore": 60053,
+    "matchedBy": "name"
+   },
+   {
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 12,
+    "viewers": 11,
     "startedAt": "2026-10-10T16:47:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
-    "rank": 278,
+    "rank": 279,
     "name": "PrezzTTV#5132",
     "rankScore": 59613,
     "matchedBy": "name"
@@ -191,10 +283,10 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "yo",
-    "viewers": 33,
+    "viewers": 55,
     "startedAt": "2026-10-10T17:07:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
-    "rank": 426,
+    "rank": 425,
     "name": "PacolemTTV#0439",
     "rankScore": 57804,
     "matchedBy": "name"
@@ -202,20 +294,20 @@
   ],
   "titleMentions": [
    {
-    "login": "tatazittv",
-    "displayName": "tatazittv",
-    "title": "Grind to Diamond TOP 100 BR **DROPS ON!**",
-    "viewers": 1,
-    "startedAt": "2026-10-10T18:10:52Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tatazittv-{width}x{height}.jpg"
-   },
-   {
     "login": "egman39",
     "displayName": "egman39",
     "title": "TOP 500 GRIND W/ FOLLOWERS",
     "viewers": 1,
     "startedAt": "2026-10-10T17:34:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
+   },
+   {
+    "login": "tatazittv",
+    "displayName": "tatazittv",
+    "title": "Grind to Diamond TOP 100 BR **DROPS ON!**",
+    "viewers": 1,
+    "startedAt": "2026-10-10T18:10:52Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tatazittv-{width}x{height}.jpg"
    }
   ]
  },
@@ -223,7 +315,7 @@
   "ready": false,
   "placed": {
    "ruby": 154,
-   "all": 970
+   "all": 974
   },
   "rubyByRegion": {
    "am": 74,
@@ -232,20 +324,20 @@
   },
   "window": {
    "am": {
-    "ruby": 3,
-    "all": 21
+    "ruby": 6,
+    "all": 38
    },
    "eu": {
     "ruby": 4,
-    "all": 42
+    "all": 45
    },
    "ap": {
-    "ruby": 0,
-    "all": 0
+    "ruby": 2,
+    "all": 3
    },
    "unplaced": {
-    "ruby": 2,
-    "all": 77
+    "ruby": 7,
+    "all": 102
    }
   }
  },

@@ -1,135 +1,71 @@
 {
- "generatedAt": "2026-10-11T13:21:16Z",
+ "generatedAt": "2026-10-11T13:31:46Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-11T13:11:23Z",
+ "leaderboardUpdatedAt": "2026-10-11T13:26:00Z",
  "window": {
-  "from": "2026-10-11T12:38:41Z",
-  "to": "2026-10-11T13:11:23Z",
-  "minutes": 32.7
+  "from": "2026-10-11T13:11:23Z",
+  "to": "2026-10-11T13:26:00Z",
+  "minutes": 14.6
  },
- "rubyActive": 14,
- "allActive": 161,
- "rubyShare": 0.087,
+ "rubyActive": 6,
+ "allActive": 92,
+ "rubyShare": 0.0652,
  "steamPlayers": 11747,
  "rubyCutoff": 56576,
  "grinding": [
   {
-   "rank": 7,
-   "name": "Avion#8636",
-   "delta": 10,
-   "rankScore": 70110,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 17,
-   "name": "AOSHI#5527",
-   "delta": 26,
-   "rankScore": 67206,
-   "club": "KNGZ",
-   "twitch": null
-  },
-  {
-   "rank": 19,
-   "name": "Que#2889",
-   "delta": 28,
-   "rankScore": 67009,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 51,
+   "rank": 50,
    "name": "Aleksexy#5957",
    "delta": 55,
-   "rankScore": 63743,
+   "rankScore": 63798,
    "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 73,
-   "name": "mxrsh#6262",
-   "delta": -95,
-   "rankScore": 62861,
+   "rank": 376,
+   "name": "piaochangfan#3612",
+   "delta": 49,
+   "rankScore": 58692,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 319,
-   "name": "lehon#0652",
-   "delta": 108,
-   "rankScore": 59305,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 366,
-   "name": "noum#8785",
-   "delta": 114,
-   "rankScore": 58872,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 367,
-   "name": "Wireless_Jose#0347",
-   "delta": 115,
-   "rankScore": 58868,
-   "club": "BOOKS",
-   "twitch": null
-  },
-  {
-   "rank": 408,
-   "name": "polukotik#1703",
-   "delta": 124,
-   "rankScore": 58236,
-   "club": "GOLOD",
-   "twitch": null
-  },
-  {
-   "rank": 419,
+   "rank": 411,
    "name": "Fatiev001#5543",
-   "delta": 126,
-   "rankScore": 58080,
+   "delta": 124,
+   "rankScore": 58204,
    "club": "F0M0",
    "twitch": null
   },
   {
-   "rank": 447,
-   "name": "HuMaL#0538",
-   "delta": -246,
-   "rankScore": 57589,
-   "club": "1PEEK",
+   "rank": 414,
+   "name": "Velkhana#2947",
+   "delta": 54,
+   "rankScore": 58159,
+   "club": "MILII",
    "twitch": null
   },
   {
-   "rank": 463,
+   "rank": 458,
    "name": "Shro#9140",
-   "delta": 139,
-   "rankScore": 57254,
+   "delta": 137,
+   "rankScore": 57391,
    "club": "HTX45",
    "twitch": null
   },
   {
-   "rank": 476,
-   "name": "Eris#8259",
-   "delta": 142,
-   "rankScore": 57055,
-   "club": "KNGZ",
-   "twitch": null
-  },
-  {
-   "rank": 495,
-   "name": "4AM.Hathaway#0265",
-   "delta": 147,
-   "rankScore": 56729,
-   "club": "SEITN",
+   "rank": 479,
+   "name": "kurosaki#8733",
+   "delta": 60,
+   "rankScore": 57046,
+   "club": "RR",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-11T13:21:16Z",
-  "totalStreams": 91,
+  "checkedAt": "2026-10-11T13:31:46Z",
+  "totalStreams": 94,
   "rubyLive": [
    {
     "login": "taekfps",
@@ -147,7 +83,7 @@
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "FEL tourney RN !!!!!!!!!!//team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 8,
+    "viewers": 7,
     "startedAt": "2026-10-11T08:24:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg",
     "rank": 97,
@@ -159,7 +95,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "FEL PewPew",
-    "viewers": 9,
+    "viewers": 11,
     "startedAt": "2026-10-11T12:09:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 119,
@@ -171,7 +107,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Embark Partner 💎 WATCH PARTY FEL Autumn Open - Qualed for TGM26✅ Driving license✅ Moving to Paris in a few days! | !drops",
-    "viewers": 67,
+    "viewers": 44,
     "startedAt": "2026-10-11T11:41:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 152,
@@ -195,7 +131,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED si on perd on mange du couscous !",
-    "viewers": 11,
+    "viewers": 12,
     "startedAt": "2026-10-11T10:18:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 209,
@@ -204,10 +140,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "jumparau",
+    "displayName": "jumparau",
+    "title": "cashout fun games-new commands- !sens !rank !femboy !zestfest",
+    "viewers": 4,
+    "startedAt": "2026-10-11T13:22:43Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
+    "rank": 234,
+    "name": "TTV_Jumparau#0323",
+    "rankScore": 60053,
+    "matchedBy": "name"
+   },
+   {
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "Petit tournois tranquille (QUE LA WIN!) | DROP",
-    "viewers": 48,
+    "viewers": 52,
     "startedAt": "2026-10-11T11:58:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 395,
@@ -219,7 +167,7 @@
     "login": "slixfps",
     "displayName": "SlixFPS",
     "title": "FEL Autum Open (ENG/GER | Medium/Heavy)",
-    "viewers": 7,
+    "viewers": 5,
     "startedAt": "2026-10-11T12:07:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slixfps-{width}x{height}.jpg",
     "rank": 486,
@@ -233,7 +181,7 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "light ruby / TOURNEY DAYY",
-    "viewers": 8,
+    "viewers": 3,
     "startedAt": "2026-10-11T13:03:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
    }
@@ -242,30 +190,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 166,
-   "all": 1086
+   "ruby": 167,
+   "all": 1087
   },
   "rubyByRegion": {
    "am": 81,
    "eu": 41,
-   "ap": 44
+   "ap": 45
   },
   "window": {
    "am": {
     "ruby": 0,
-    "all": 3
+    "all": 0
    },
    "eu": {
-    "ruby": 4,
-    "all": 42
+    "ruby": 1,
+    "all": 20
    },
    "ap": {
-    "ruby": 3,
-    "all": 26
+    "ruby": 4,
+    "all": 22
    },
    "unplaced": {
-    "ruby": 7,
-    "all": 90
+    "ruby": 1,
+    "all": 50
    }
   }
  },

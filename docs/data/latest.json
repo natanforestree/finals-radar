@@ -1,127 +1,111 @@
 {
- "generatedAt": "2026-10-11T11:21:32Z",
+ "generatedAt": "2026-10-11T11:31:35Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-11T11:06:30Z",
+ "leaderboardUpdatedAt": "2026-10-11T11:24:44Z",
  "window": {
-  "from": "2026-10-11T10:32:53Z",
-  "to": "2026-10-11T11:06:30Z",
-  "minutes": 33.6
+  "from": "2026-10-11T11:06:30Z",
+  "to": "2026-10-11T11:24:44Z",
+  "minutes": 18.2
  },
- "rubyActive": 13,
- "allActive": 121,
- "rubyShare": 0.1074,
- "steamPlayers": 9254,
- "rubyCutoff": 56560,
+ "rubyActive": 11,
+ "allActive": 44,
+ "rubyShare": 0.25,
+ "steamPlayers": 9500,
+ "rubyCutoff": 56576,
  "grinding": [
   {
-   "rank": 18,
-   "name": "AOSHI#5527",
-   "delta": 27,
-   "rankScore": 67126,
-   "club": "KNGZ",
+   "rank": 7,
+   "name": "Avion#8636",
+   "delta": 4,
+   "rankScore": 70089,
+   "club": "RS1",
    "twitch": null
   },
   {
    "rank": 19,
    "name": "Que#2889",
    "delta": 29,
-   "rankScore": 66896,
+   "rankScore": 66925,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 52,
-   "name": "Aleksexy#5957",
-   "delta": 57,
-   "rankScore": 63607,
-   "club": "AVOW",
-   "twitch": null
-  },
-  {
-   "rank": 65,
-   "name": "mxrsh#6262",
-   "delta": -199,
-   "rankScore": 63028,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 71,
+   "rank": 69,
    "name": "Amok#2981",
    "delta": 64,
-   "rankScore": 62900,
+   "rankScore": 62964,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 328,
-   "name": "Wladimir#0654",
-   "delta": 110,
-   "rankScore": 59199,
-   "club": "MORI",
+   "rank": 293,
+   "name": "PUP#3051",
+   "delta": 45,
+   "rankScore": 59585,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 423,
-   "name": "polukotik#1703",
-   "delta": -52,
-   "rankScore": 57986,
-   "club": "GOLOD",
+   "rank": 361,
+   "name": "miaomiaomiao#5189",
+   "delta": 113,
+   "rankScore": 58971,
+   "club": "IOMOI",
    "twitch": null
   },
   {
-   "rank": 432,
+   "rank": 366,
+   "name": "Fxxk.Cheater-Gua#2899",
+   "delta": 115,
+   "rankScore": 58841,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 422,
    "name": "yevomsmttv#7212",
-   "delta": 128,
-   "rankScore": 57906,
+   "delta": 127,
+   "rankScore": 58033,
    "club": "PLSR",
    "twitch": null
   },
   {
-   "rank": 438,
-   "name": "Fatiev001#5543",
-   "delta": 131,
-   "rankScore": 57771,
-   "club": "F0M0",
-   "twitch": null
-  },
-  {
-   "rank": 441,
+   "rank": 434,
    "name": "Acetamer#0711",
-   "delta": -53,
-   "rankScore": 57730,
+   "delta": 129,
+   "rankScore": 57859,
    "club": "HAKER",
    "twitch": null
   },
   {
-   "rank": 458,
-   "name": "NightTiger#7485",
-   "delta": -56,
-   "rankScore": 57378,
-   "club": "X82",
-   "twitch": null
-  },
-  {
-   "rank": 462,
-   "name": "Y_K_S_T#0554",
-   "delta": 139,
-   "rankScore": 57259,
+   "rank": 450,
+   "name": "Killer#0498",
+   "delta": 57,
+   "rankScore": 57529,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 482,
-   "name": "Shro#9140",
-   "delta": 144,
-   "rankScore": 56914,
-   "club": "HTX45",
+   "rank": 451,
+   "name": "NightTiger#7485",
+   "delta": 135,
+   "rankScore": 57513,
+   "club": "X82",
+   "twitch": null
+  },
+  {
+   "rank": 498,
+   "name": "Kazuki#0590",
+   "delta": 63,
+   "rankScore": 56609,
+   "club": "1PEEK",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-11T11:21:32Z",
-  "totalStreams": 68,
+  "checkedAt": "2026-10-11T11:31:35Z",
+  "totalStreams": 67,
   "rubyLive": [
    {
     "login": "itzvuqx",
@@ -139,24 +123,12 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED si on perd on mange du couscous !",
-    "viewers": 17,
+    "viewers": 22,
     "startedAt": "2026-10-11T10:18:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 208,
     "name": "Ilprune#5174",
     "rankScore": 60140,
-    "matchedBy": "name"
-   },
-   {
-    "login": "jumparau",
-    "displayName": "jumparau",
-    "title": "cashout fun games-new commands- !sens !rank !femboy !zestfest",
-    "viewers": 5,
-    "startedAt": "2026-10-11T10:14:57Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
-    "rank": 234,
-    "name": "TTV_Jumparau#0323",
-    "rankScore": 60053,
     "matchedBy": "name"
    }
   ],
@@ -165,7 +137,7 @@
     "login": "demon_finals",
     "displayName": "demon_finals",
     "title": "[Drops Enabled] 🔥#1 Is the ruby dream real !?🔥 [ENG/GER/RU]",
-    "viewers": 22,
+    "viewers": 28,
     "startedAt": "2026-10-11T10:29:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_demon_finals-{width}x{height}.jpg"
    },
@@ -173,7 +145,7 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "light ruby / TOURNEY DAYY",
-    "viewers": 3,
+    "viewers": 6,
     "startedAt": "2026-10-11T07:34:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
    },
@@ -181,7 +153,7 @@
     "login": "toxton_official",
     "displayName": "Toxton_Official",
     "title": "[RANKED] [BY] FIRST TIME STREMING! ROAD TO RUBY",
-    "viewers": 1,
+    "viewers": 3,
     "startedAt": "2026-10-11T11:11:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_toxton_official-{width}x{height}.jpg"
    }
@@ -190,30 +162,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 165,
+   "ruby": 166,
    "all": 1078
   },
   "rubyByRegion": {
    "am": 81,
-   "eu": 42,
+   "eu": 43,
    "ap": 42
   },
   "window": {
    "am": {
-    "ruby": 1,
-    "all": 6
+    "ruby": 0,
+    "all": 1
    },
    "eu": {
-    "ruby": 2,
-    "all": 24
+    "ruby": 3,
+    "all": 11
    },
    "ap": {
     "ruby": 5,
-    "all": 30
+    "all": 11
    },
    "unplaced": {
-    "ruby": 5,
-    "all": 61
+    "ruby": 3,
+    "all": 21
    }
   }
  },

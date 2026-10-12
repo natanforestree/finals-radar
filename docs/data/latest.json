@@ -1,109 +1,77 @@
 {
- "generatedAt": "2026-10-12T05:31:25Z",
+ "generatedAt": "2026-10-12T05:41:18Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-12T05:24:55Z",
+ "leaderboardUpdatedAt": "2026-10-12T05:40:01Z",
  "window": {
-  "from": "2026-10-12T05:09:30Z",
-  "to": "2026-10-12T05:24:55Z",
-  "minutes": 15.4
+  "from": "2026-10-12T05:24:55Z",
+  "to": "2026-10-12T05:40:01Z",
+  "minutes": 15.1
  },
- "rubyActive": 10,
- "allActive": 126,
- "rubyShare": 0.0794,
- "steamPlayers": 9236,
- "rubyCutoff": 56788,
+ "rubyActive": 6,
+ "allActive": 111,
+ "rubyShare": 0.0541,
+ "steamPlayers": 8657,
+ "rubyCutoff": 56817,
  "grinding": [
   {
-   "rank": 29,
-   "name": "Bizzy#0005",
-   "delta": -40,
-   "rankScore": 65142,
-   "club": "NTMR",
-   "twitch": "bizzy"
-  },
-  {
-   "rank": 37,
+   "rank": 39,
    "name": "jax#6927",
-   "delta": 46,
-   "rankScore": 64803,
+   "delta": -47,
+   "rankScore": 64756,
    "club": "SLKRO",
    "twitch": null
   },
   {
-   "rank": 46,
-   "name": "TwitchAyoKoy#7018",
-   "delta": 51,
-   "rankScore": 64303,
-   "club": null,
+   "rank": 82,
+   "name": "ahsaha#9839",
+   "delta": 70,
+   "rankScore": 62353,
+   "club": "MORI",
    "twitch": null
   },
   {
-   "rank": 113,
-   "name": "TwichJussAngellk#0030",
-   "delta": 79,
-   "rankScore": 61586,
-   "club": "MR",
+   "rank": 131,
+   "name": "botto#0580",
+   "delta": 83,
+   "rankScore": 61273,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 139,
-   "name": "Metro#1140",
-   "delta": 85,
-   "rankScore": 61056,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 215,
-   "name": "straightkix.ttv#5818",
-   "delta": 97,
-   "rankScore": 60124,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 265,
-   "name": "K1shin#9422",
-   "delta": 101,
-   "rankScore": 59908,
-   "club": "TOXIK",
-   "twitch": null
-  },
-  {
-   "rank": 444,
+   "rank": 449,
    "name": "GrandSpark#5639",
-   "delta": 55,
-   "rankScore": 57864,
+   "delta": -96,
+   "rankScore": 57768,
    "club": "MOL",
    "twitch": null
   },
   {
-   "rank": 452,
+   "rank": 458,
    "name": "Mario_vmanTTV#9301",
-   "delta": 132,
-   "rankScore": 57745,
+   "delta": -135,
+   "rankScore": 57610,
    "club": "ABG4",
    "twitch": null
   },
   {
-   "rank": 463,
-   "name": "Chapo#9657",
-   "delta": 57,
-   "rankScore": 57517,
-   "club": "VGG",
+   "rank": 496,
+   "name": "MnXBATMAN_TTV#6558",
+   "delta": 146,
+   "rankScore": 56934,
+   "club": "ALL",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T05:31:25Z",
-  "totalStreams": 125,
+  "checkedAt": "2026-10-12T05:41:18Z",
+  "totalStreams": 114,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 18,
+    "viewers": 17,
     "startedAt": "2026-10-12T01:34:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 25,
@@ -115,7 +83,7 @@
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] PRO PUGS | i got scammed $41 | jump scares for bits | THANK YOU GUYS FOR PARTNER PLUS 1/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 137,
+    "viewers": 191,
     "startedAt": "2026-10-11T21:11:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 29,
@@ -127,7 +95,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby Solo Q",
-    "viewers": 98,
+    "viewers": 84,
     "startedAt": "2026-10-12T03:01:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 40,
@@ -153,7 +121,7 @@
     "login": "getballmunched",
     "displayName": "GetBallMunched",
     "title": "TOP 500 HERE WE COME",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-12T04:27:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_getballmunched-{width}x{height}.jpg"
    },
@@ -171,7 +139,7 @@
   "ready": false,
   "placed": {
    "ruby": 174,
-   "all": 1255
+   "all": 1254
   },
   "rubyByRegion": {
    "am": 89,
@@ -180,8 +148,8 @@
   },
   "window": {
    "am": {
-    "ruby": 6,
-    "all": 58
+    "ruby": 4,
+    "all": 56
    },
    "eu": {
     "ruby": 0,
@@ -189,11 +157,11 @@
    },
    "ap": {
     "ruby": 0,
-    "all": 7
+    "all": 5
    },
    "unplaced": {
-    "ruby": 4,
-    "all": 60
+    "ruby": 2,
+    "all": 49
    }
   }
  },

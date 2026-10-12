@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T19:11:23Z",
+ "generatedAt": "2026-10-12T19:21:32Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-12T19:10:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 33,
  "allActive": 293,
  "rubyShare": 0.1126,
- "steamPlayers": 16979,
+ "steamPlayers": 17097,
  "rubyCutoff": 56817,
  "grinding": [
   {
@@ -280,14 +280,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T19:11:23Z",
+  "checkedAt": "2026-10-12T19:21:32Z",
   "totalStreams": 180,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) RANKED | SWEDEN BOUND",
-    "viewers": 296,
+    "viewers": 308,
     "startedAt": "2026-10-12T16:16:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
@@ -299,7 +299,7 @@
     "login": "lamp",
     "displayName": "lamp",
     "title": "(dropulars) ranked, pugs, ranked repeat| function follows energy !youtube | lampischiller lampisLuminon",
-    "viewers": 142,
+    "viewers": 161,
     "startedAt": "2026-10-12T18:35:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 55,
@@ -330,12 +330,20 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aegis_razor-{width}x{height}.jpg"
    },
    {
-    "login": "thelastniah",
-    "displayName": "thelastniah",
-    "title": "Finals Duo Ruby grind",
+    "login": "aegis_razor",
+    "displayName": "aegis_razor",
+    "title": "The Final we push to Ruby",
+    "viewers": 2,
+    "startedAt": "2026-10-12T17:28:44Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aegis_razor-{width}x{height}.jpg"
+   },
+   {
+    "login": "v8_karma",
+    "displayName": "V8_Karma",
+    "title": "Pubs | Ruby S3 | PC | ITA",
     "viewers": 1,
-    "startedAt": "2026-10-12T16:33:46Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thelastniah-{width}x{height}.jpg"
+    "startedAt": "2026-10-12T19:06:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    },
    {
     "login": "egman39",
@@ -344,6 +352,14 @@
     "viewers": 1,
     "startedAt": "2026-10-12T17:47:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
+   },
+   {
+    "login": "thelastniah",
+    "displayName": "thelastniah",
+    "title": "Finals Duo Ruby grind",
+    "viewers": 1,
+    "startedAt": "2026-10-12T16:33:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thelastniah-{width}x{height}.jpg"
    }
   ]
  },

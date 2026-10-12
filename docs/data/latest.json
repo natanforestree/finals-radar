@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T14:21:53Z",
+ "generatedAt": "2026-10-12T14:31:58Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-12T14:17:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 17,
  "allActive": 109,
  "rubyShare": 0.156,
- "steamPlayers": 9207,
+ "steamPlayers": 9587,
  "rubyCutoff": 56817,
  "grinding": [
   {
@@ -152,14 +152,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T14:21:53Z",
-  "totalStreams": 92,
+  "checkedAt": "2026-10-12T14:31:58Z",
+  "totalStreams": 90,
   "rubyLive": [
    {
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Embark Partner 💎 | BACK ON 4:3 ? Qualified for TGM26 !drops",
-    "viewers": 49,
+    "viewers": 43,
     "startedAt": "2026-10-12T13:12:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 152,
@@ -183,7 +183,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED et on perd pas",
-    "viewers": 3,
+    "viewers": 4,
     "startedAt": "2026-10-12T12:28:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 216,
@@ -192,10 +192,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "sitnica",
+    "displayName": "sitnica",
+    "title": "[ru] [Drops] Зачем придумали мозг, им же никто не пользуется",
+    "viewers": 6,
+    "startedAt": "2026-10-12T14:18:34Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
+    "rank": 265,
+    "name": "Sitnica#5188",
+    "rankScore": 59967,
+    "matchedBy": "name"
+   },
+   {
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 47,
+    "viewers": 39,
     "startedAt": "2026-10-12T13:03:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 296,
@@ -212,6 +224,14 @@
     "viewers": 1,
     "startedAt": "2026-10-12T13:18:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
+   },
+   {
+    "login": "mrnavigat0r",
+    "displayName": "MrNavigat0r",
+    "title": "The Finals - road to ruby!",
+    "viewers": 0,
+    "startedAt": "2026-10-12T14:26:53Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrnavigat0r-{width}x{height}.jpg"
    }
   ]
  },

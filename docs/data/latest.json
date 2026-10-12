@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T15:59:17Z",
+ "generatedAt": "2026-10-12T16:03:24Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-12T15:34:51Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 14,
  "allActive": 109,
  "rubyShare": 0.1284,
- "steamPlayers": 12004,
+ "steamPlayers": 11714,
  "rubyCutoff": 56817,
  "grinding": [
   {
@@ -128,14 +128,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T15:59:17Z",
-  "totalStreams": 102,
+  "checkedAt": "2026-10-12T16:03:24Z",
+  "totalStreams": 101,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "scrim 7pm",
-    "viewers": 25,
+    "viewers": 22,
     "startedAt": "2026-10-12T15:52:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 47,
@@ -156,10 +156,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "etelco",
+    "displayName": "Etelco",
+    "title": "Embark Partner 💎 | Scrim Time (hope I don't crash) !drops",
+    "viewers": 13,
+    "startedAt": "2026-10-12T15:57:36Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
+    "rank": 175,
+    "name": "Etelco#8323",
+    "rankScore": 60476,
+    "matchedBy": "name"
+   },
+   {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED et on perd pas",
-    "viewers": 17,
+    "viewers": 14,
     "startedAt": "2026-10-12T12:28:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 216,
@@ -171,7 +183,7 @@
     "login": "sitnica",
     "displayName": "sitnica",
     "title": "[ru] [Drops] Зачем придумали мозг, им же никто не пользуется",
-    "viewers": 8,
+    "viewers": 9,
     "startedAt": "2026-10-12T14:18:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
     "rank": 265,
@@ -183,7 +195,7 @@
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 46,
+    "viewers": 56,
     "startedAt": "2026-10-12T13:03:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 297,
@@ -202,20 +214,20 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aegis_razor-{width}x{height}.jpg"
    },
    {
-    "login": "v8_karma",
-    "displayName": "V8_Karma",
-    "title": "Pubs | Ruby S3 | PC | ITA",
-    "viewers": 1,
-    "startedAt": "2026-10-12T13:18:25Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
-   },
-   {
     "login": "pedross",
     "displayName": "Pedross",
     "title": "[CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
     "viewers": 1,
     "startedAt": "2026-10-12T14:56:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
+   },
+   {
+    "login": "v8_karma",
+    "displayName": "V8_Karma",
+    "title": "Pubs | Ruby S3 | PC | ITA",
+    "viewers": 1,
+    "startedAt": "2026-10-12T13:18:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    },
    {
     "login": "mrnavigat0r",

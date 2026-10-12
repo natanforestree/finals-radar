@@ -1,233 +1,89 @@
 {
- "generatedAt": "2026-10-12T08:11:30Z",
+ "generatedAt": "2026-10-12T08:21:19Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-12T08:04:00Z",
+ "leaderboardUpdatedAt": "2026-10-12T08:19:24Z",
  "window": {
-  "from": "2026-10-12T07:18:02Z",
-  "to": "2026-10-12T08:04:00Z",
-  "minutes": 46.0
+  "from": "2026-10-12T08:04:00Z",
+  "to": "2026-10-12T08:19:24Z",
+  "minutes": 15.4
  },
- "rubyActive": 24,
- "allActive": 167,
- "rubyShare": 0.1437,
- "steamPlayers": 5682,
- "rubyCutoff": 56817,
+ "rubyActive": 6,
+ "allActive": 74,
+ "rubyShare": 0.0811,
+ "steamPlayers": 5639,
+ "rubyCutoff": 56866,
  "grinding": [
   {
    "rank": 24,
    "name": "FloridoGamingTTV#1606",
-   "delta": 34,
-   "rankScore": 66181,
+   "delta": -65,
+   "rankScore": 66116,
    "club": "CRU3L",
    "twitch": "elfloridogaming"
   },
   {
-   "rank": 27,
-   "name": "Bizzy#0005",
-   "delta": 41,
-   "rankScore": 65251,
-   "club": "NTMR",
-   "twitch": "bizzy"
-  },
-  {
-   "rank": 40,
-   "name": "Digcron.TTV#3309",
-   "delta": -89,
-   "rankScore": 64580,
-   "club": "DIGA",
-   "twitch": "digcron"
-  },
-  {
-   "rank": 46,
-   "name": "TwitchAyoKoy#7018",
-   "delta": -74,
-   "rankScore": 64229,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 86,
-   "name": "ahsaha#9839",
-   "delta": -100,
-   "rankScore": 62294,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 88,
+   "rank": 94,
    "name": "Msj#5683",
-   "delta": 71,
-   "rankScore": 62227,
+   "delta": -136,
+   "rankScore": 62091,
    "club": "T0GGL",
    "twitch": null
   },
   {
-   "rank": 125,
-   "name": "Metro#1140",
-   "delta": 165,
-   "rankScore": 61355,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 175,
-   "name": "straightkix.ttv#5818",
-   "delta": 187,
-   "rankScore": 60464,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 207,
-   "name": "HadBananas#0669",
-   "delta": 97,
-   "rankScore": 60151,
-   "club": "LUMN",
-   "twitch": null
-  },
-  {
-   "rank": 215,
-   "name": "SattDown#6836",
-   "delta": 98,
-   "rankScore": 60138,
-   "club": "YN",
-   "twitch": null
-  },
-  {
-   "rank": 266,
-   "name": "FunPolice#2530",
-   "delta": -41,
-   "rankScore": 59907,
-   "club": "AVOW",
-   "twitch": null
-  },
-  {
-   "rank": 286,
-   "name": "21SWAGES#7146",
-   "delta": -42,
-   "rankScore": 59670,
-   "club": "AVOW",
-   "twitch": null
-  },
-  {
-   "rank": 351,
+   "rank": 375,
    "name": "Petite#1874",
-   "delta": 112,
-   "rankScore": 59060,
+   "delta": -213,
+   "rankScore": 58847,
    "club": "APES",
    "twitch": null
   },
   {
-   "rank": 382,
-   "name": "Velkhana#2947",
-   "delta": 116,
-   "rankScore": 58782,
-   "club": "MILII",
+   "rank": 494,
+   "name": "Apples#1806",
+   "delta": -52,
+   "rankScore": 56987,
+   "club": "VEXL",
    "twitch": null
   },
   {
-   "rank": 394,
-   "name": "maow#6421",
-   "delta": 118,
-   "rankScore": 58646,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 417,
-   "name": "Not_Aicey#0101",
-   "delta": 123,
-   "rankScore": 58289,
+   "rank": 495,
+   "name": "MnXBATMAN_TTV#6558",
+   "delta": 143,
+   "rankScore": 56966,
    "club": "ALL",
    "twitch": null
   },
   {
-   "rank": 447,
-   "name": "Shout#7486",
-   "delta": 130,
-   "rankScore": 57816,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 451,
-   "name": "kurosaki#8733",
-   "delta": 131,
-   "rankScore": 57753,
-   "club": "RR",
-   "twitch": null
-  },
-  {
-   "rank": 455,
-   "name": "Etiquette#6690",
-   "delta": -480,
-   "rankScore": 57705,
-   "club": "OG",
-   "twitch": null
-  },
-  {
-   "rank": 471,
-   "name": "Mario_vmanTTV#9301",
-   "delta": -197,
-   "rankScore": 57355,
-   "club": "ABG4",
-   "twitch": null
-  },
-  {
-   "rank": 474,
-   "name": "bleue#0829",
-   "delta": 138,
-   "rankScore": 57277,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 481,
-   "name": "Acidbeef209#2268",
-   "delta": -260,
-   "rankScore": 57130,
-   "club": "ZZ",
-   "twitch": null
-  },
-  {
-   "rank": 485,
-   "name": "GetBallMunched#3928",
-   "delta": 285,
-   "rankScore": 57083,
-   "club": "ADMIN",
-   "twitch": "getballmunched"
-  },
-  {
-   "rank": 488,
-   "name": "Apples#1806",
-   "delta": 60,
-   "rankScore": 57039,
-   "club": "VEXL",
+   "rank": 498,
+   "name": "TikTok-Colada#0392",
+   "delta": 144,
+   "rankScore": 56891,
+   "club": "M0RVA",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T08:11:30Z",
-  "totalStreams": 82,
+  "checkedAt": "2026-10-12T08:21:19Z",
+  "totalStreams": 79,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 12,
+    "viewers": 13,
     "startedAt": "2026-10-12T01:34:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 24,
     "name": "FloridoGamingTTV#1606",
-    "rankScore": 66181,
+    "rankScore": 66116,
     "matchedBy": "name"
    },
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] SOLO Q RANKED | i got scammed $41 | jump scares for bits | THANK YOU GUYS FOR PARTNER PLUS 1/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 217,
+    "viewers": 186,
     "startedAt": "2026-10-11T21:11:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 27,
@@ -239,7 +95,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby Solo Q",
-    "viewers": 50,
+    "viewers": 65,
     "startedAt": "2026-10-12T07:19:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 40,
@@ -251,7 +107,7 @@
     "login": "knot4long",
     "displayName": "knot4long",
     "title": "PLAYING WITH A TURRET USER LOL🌸",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-12T06:07:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
     "rank": 121,
@@ -263,7 +119,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "(DROPS)!GIVEAWAY   !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 48,
+    "viewers": 43,
     "startedAt": "2026-10-12T05:44:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 179,
@@ -298,30 +154,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 174,
-   "all": 1258
+   "ruby": 173,
+   "all": 1257
   },
   "rubyByRegion": {
-   "am": 89,
+   "am": 87,
    "eu": 46,
-   "ap": 39
+   "ap": 40
   },
   "window": {
    "am": {
-    "ruby": 8,
-    "all": 41
+    "ruby": 2,
+    "all": 11
    },
    "eu": {
     "ruby": 0,
-    "all": 6
+    "all": 3
    },
    "ap": {
-    "ruby": 5,
-    "all": 30
+    "ruby": 1,
+    "all": 15
    },
    "unplaced": {
-    "ruby": 11,
-    "all": 90
+    "ruby": 3,
+    "all": 45
    }
   }
  },

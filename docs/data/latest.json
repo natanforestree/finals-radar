@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T18:41:40Z",
+ "generatedAt": "2026-10-12T18:51:26Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-12T18:40:05Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 18,
  "allActive": 217,
  "rubyShare": 0.0829,
- "steamPlayers": 16607,
+ "steamPlayers": 16741,
  "rubyCutoff": 56809,
  "grinding": [
   {
@@ -160,19 +160,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T18:41:40Z",
-  "totalStreams": 161,
+  "checkedAt": "2026-10-12T18:51:26Z",
+  "totalStreams": 167,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) RANKED | SWEDEN BOUND",
-    "viewers": 309,
+    "viewers": 279,
     "startedAt": "2026-10-12T16:16:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
     "name": "Balise#2431",
     "rankScore": 71145,
+    "matchedBy": "name"
+   },
+   {
+    "login": "lamp",
+    "displayName": "lamp",
+    "title": "(dropulars) ranked, pugs, ranked repeat| function follows energy !youtube | lampischiller lampisLuminon",
+    "viewers": 80,
+    "startedAt": "2026-10-12T18:35:21Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
+    "rank": 55,
+    "name": "lamp#5944",
+    "rankScore": 63494,
     "matchedBy": "name"
    },
    {
@@ -193,7 +205,7 @@
     "login": "aegis_razor",
     "displayName": "aegis_razor",
     "title": "The Final we push to Ruby",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-10-12T17:28:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aegis_razor-{width}x{height}.jpg"
    },

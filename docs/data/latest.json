@@ -1,85 +1,173 @@
 {
- "generatedAt": "2026-10-12T14:03:19Z",
+ "generatedAt": "2026-10-12T14:11:36Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-12T13:38:01Z",
+ "leaderboardUpdatedAt": "2026-10-12T14:09:24Z",
  "window": {
-  "from": "2026-10-12T13:22:30Z",
-  "to": "2026-10-12T13:38:01Z",
-  "minutes": 15.5
+  "from": "2026-10-12T13:38:01Z",
+  "to": "2026-10-12T14:09:24Z",
+  "minutes": 31.4
  },
- "rubyActive": 7,
- "allActive": 60,
- "rubyShare": 0.1167,
- "steamPlayers": 8820,
+ "rubyActive": 18,
+ "allActive": 150,
+ "rubyShare": 0.12,
+ "steamPlayers": 9007,
  "rubyCutoff": 56880,
  "grinding": [
   {
    "rank": 6,
    "name": "Avion#8636",
-   "delta": 10,
-   "rankScore": 70162,
+   "delta": -10,
+   "rankScore": 70152,
    "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 17,
+   "name": "AOSHI#5527",
+   "delta": 25,
+   "rankScore": 67438,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 23,
+   "name": "FloridoGamingTTV#1606",
+   "delta": 33,
+   "rankScore": 66287,
+   "club": "CRU3L",
    "twitch": null
   },
   {
    "rank": 77,
    "name": "Best#8421",
-   "delta": 68,
-   "rankScore": 62545,
+   "delta": 67,
+   "rankScore": 62612,
    "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 194,
-   "name": "Midnight#3042",
-   "delta": 96,
-   "rankScore": 60259,
-   "club": null,
+   "rank": 83,
+   "name": "Msj#5683",
+   "delta": 69,
+   "rankScore": 62448,
+   "club": "T0GGL",
    "twitch": null
   },
   {
-   "rank": 375,
-   "name": "I_LOVE_YOU#4183",
-   "delta": 114,
-   "rankScore": 58945,
-   "club": "MTHRY",
+   "rank": 206,
+   "name": "21SWAGES#7146",
+   "delta": 97,
+   "rankScore": 60167,
+   "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 401,
-   "name": "Snafu#3644",
-   "delta": 119,
-   "rankScore": 58517,
-   "club": "RS1",
+   "rank": 210,
+   "name": "Swerzie#5982",
+   "delta": 97,
+   "rankScore": 60147,
+   "club": "T0GGL",
    "twitch": null
   },
   {
-   "rank": 409,
+   "rank": 284,
+   "name": "Fatiev001#5543",
+   "delta": 103,
+   "rankScore": 59711,
+   "club": "F0M0",
+   "twitch": null
+  },
+  {
+   "rank": 303,
+   "name": "polukotik#1703",
+   "delta": 105,
+   "rankScore": 59550,
+   "club": "GOLOD",
+   "twitch": null
+  },
+  {
+   "rank": 325,
+   "name": "Shro#9140",
+   "delta": 108,
+   "rankScore": 59325,
+   "club": "HTX45",
+   "twitch": null
+  },
+  {
+   "rank": 398,
    "name": "NightTiger#7485",
-   "delta": 120,
-   "rankScore": 58444,
+   "delta": 119,
+   "rankScore": 58563,
    "club": "X82",
    "twitch": null
   },
   {
-   "rank": 486,
+   "rank": 410,
+   "name": "Snafu#3644",
+   "delta": -123,
+   "rankScore": 58394,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 426,
+   "name": "Eris#8259",
+   "delta": 123,
+   "rankScore": 58238,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 434,
+   "name": "Akiraa#5270",
+   "delta": 126,
+   "rankScore": 58053,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 437,
+   "name": "Twitch-jumparau#4160",
+   "delta": 127,
+   "rankScore": 58020,
+   "club": "RDBT",
+   "twitch": null
+  },
+  {
+   "rank": 445,
+   "name": "Y_K_S_T#0554",
+   "delta": 128,
+   "rankScore": 57921,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 459,
+   "name": "UnskilledDummy#2605",
+   "delta": 131,
+   "rankScore": 57709,
+   "club": "OG",
+   "twitch": null
+  },
+  {
+   "rank": 496,
    "name": "YeahHealthyTTV#0175",
-   "delta": 141,
-   "rankScore": 57131,
+   "delta": -145,
+   "rankScore": 56986,
    "club": "RS1",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T14:03:19Z",
-  "totalStreams": 90,
+  "checkedAt": "2026-10-12T14:11:36Z",
+  "totalStreams": 93,
   "rubyLive": [
    {
     "login": "syborg57",
     "displayName": "SyBorg57",
     "title": "[DROPS] 🟢 PRO PLAYER FOR TEAM @Alliance 🟢 Qualled to TGM26 ranked",
-    "viewers": 24,
+    "viewers": 27,
     "startedAt": "2026-10-12T13:47:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syborg57-{width}x{height}.jpg",
     "rank": 69,
@@ -91,7 +179,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Embark Partner 💎 | BACK ON 4:3 ? Qualified for TGM26 !drops",
-    "viewers": 33,
+    "viewers": 42,
     "startedAt": "2026-10-12T13:12:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 152,
@@ -115,10 +203,10 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED et on perd pas",
-    "viewers": 9,
+    "viewers": 5,
     "startedAt": "2026-10-12T12:28:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
-    "rank": 214,
+    "rank": 216,
     "name": "Ilprune#5174",
     "rankScore": 60140,
     "matchedBy": "name"
@@ -127,10 +215,10 @@
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 49,
+    "viewers": 47,
     "startedAt": "2026-10-12T13:03:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
-    "rank": 294,
+    "rank": 295,
     "name": "PrezzTTV#5132",
     "rankScore": 59613,
     "matchedBy": "name"
@@ -150,30 +238,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 174,
-   "all": 1277
+   "ruby": 176,
+   "all": 1278
   },
   "rubyByRegion": {
    "am": 84,
    "eu": 46,
-   "ap": 44
+   "ap": 46
   },
   "window": {
    "am": {
     "ruby": 0,
-    "all": 1
+    "all": 2
    },
    "eu": {
-    "ruby": 2,
-    "all": 13
+    "ruby": 3,
+    "all": 33
    },
    "ap": {
-    "ruby": 2,
-    "all": 12
+    "ruby": 8,
+    "all": 31
    },
    "unplaced": {
-    "ruby": 3,
-    "all": 34
+    "ruby": 7,
+    "all": 84
    }
   }
  },

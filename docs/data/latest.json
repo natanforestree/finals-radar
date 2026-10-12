@@ -1,77 +1,277 @@
 {
- "generatedAt": "2026-10-12T12:02:21Z",
+ "generatedAt": "2026-10-12T12:11:18Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-12T11:19:00Z",
+ "leaderboardUpdatedAt": "2026-10-12T12:06:46Z",
  "window": {
-  "from": "2026-10-12T11:08:30Z",
-  "to": "2026-10-12T11:19:00Z",
-  "minutes": 10.5
+  "from": "2026-10-12T11:19:00Z",
+  "to": "2026-10-12T12:06:46Z",
+  "minutes": 47.8
  },
- "rubyActive": 3,
- "allActive": 25,
- "rubyShare": 0.12,
- "steamPlayers": 6820,
+ "rubyActive": 28,
+ "allActive": 141,
+ "rubyShare": 0.1986,
+ "steamPlayers": 6922,
  "rubyCutoff": 56866,
  "grinding": [
   {
-   "rank": 326,
+   "rank": 4,
+   "name": "carnifex#7330",
+   "delta": 15,
+   "rankScore": 70816,
+   "club": "5F",
+   "twitch": null
+  },
+  {
+   "rank": 17,
+   "name": "AOSHI#5527",
+   "delta": 26,
+   "rankScore": 67337,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 23,
+   "name": "FloridoGamingTTV#1606",
+   "delta": 34,
+   "rankScore": 66234,
+   "club": "CRU3L",
+   "twitch": "elfloridogaming"
+  },
+  {
+   "rank": 43,
+   "name": "CatBoyOwner#3890",
+   "delta": 49,
+   "rankScore": 64404,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 71,
+   "name": "Papercutz99#0736",
+   "delta": -26,
+   "rankScore": 62898,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 84,
+   "name": "Best#8421",
+   "delta": 30,
+   "rankScore": 62338,
+   "club": "AVOW",
+   "twitch": null
+  },
+  {
+   "rank": 85,
+   "name": "Msj#5683",
+   "delta": 70,
+   "rankScore": 62337,
+   "club": "T0GGL",
+   "twitch": null
+  },
+  {
+   "rank": 99,
+   "name": "itzVuqx#6674",
+   "delta": -30,
+   "rankScore": 61914,
+   "club": "HEIMG",
+   "twitch": "itzvuqx"
+  },
+  {
+   "rank": 261,
+   "name": "Swerzie#5982",
+   "delta": 99,
+   "rankScore": 59991,
+   "club": "T0GGL",
+   "twitch": null
+  },
+  {
+   "rank": 274,
+   "name": "SattDown#6836",
+   "delta": -103,
+   "rankScore": 59809,
+   "club": "YN",
+   "twitch": null
+  },
+  {
+   "rank": 313,
+   "name": "PuttDown#5318",
+   "delta": -109,
+   "rankScore": 59421,
+   "club": "YN",
+   "twitch": null
+  },
+  {
+   "rank": 322,
    "name": "polukotik#1703",
-   "delta": 47,
-   "rankScore": 59275,
+   "delta": 107,
+   "rankScore": 59382,
    "club": "GOLOD",
    "twitch": null
   },
   {
-   "rank": 358,
+   "rank": 340,
    "name": "Shro#9140",
-   "delta": 48,
-   "rankScore": 59042,
+   "delta": 110,
+   "rankScore": 59152,
    "club": "HTX45",
    "twitch": null
   },
   {
-   "rank": 497,
+   "rank": 399,
+   "name": "Punkidansaren420#5611",
+   "delta": -48,
+   "rankScore": 58535,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 409,
+   "name": "Gm#4245",
+   "delta": 52,
+   "rankScore": 58367,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 411,
+   "name": "zmon#3311",
+   "delta": 122,
+   "rankScore": 58359,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 429,
+   "name": "NightTiger#7485",
+   "delta": 53,
+   "rankScore": 58077,
+   "club": "X82",
+   "twitch": null
+  },
+  {
+   "rank": 446,
+   "name": "yevomsmttv#7212",
+   "delta": -240,
+   "rankScore": 57825,
+   "club": "PLSR",
+   "twitch": null
+  },
+  {
+   "rank": 452,
+   "name": "Eris#8259",
+   "delta": 131,
+   "rankScore": 57732,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 456,
+   "name": "colak#0003",
+   "delta": 133,
+   "rankScore": 57699,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 460,
+   "name": "Twitch-jumparau#4160",
+   "delta": 133,
+   "rankScore": 57577,
+   "club": "RDBT",
+   "twitch": null
+  },
+  {
+   "rank": 471,
+   "name": "Acidbeef209#2268",
+   "delta": 137,
+   "rankScore": 57405,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 473,
+   "name": "Y_K_S_T#0554",
+   "delta": 137,
+   "rankScore": 57396,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 474,
+   "name": "Etiquette#6690",
+   "delta": 138,
+   "rankScore": 57328,
+   "club": "OG",
+   "twitch": null
+  },
+  {
+   "rank": 475,
+   "name": "TikTok-Colada#0392",
+   "delta": 137,
+   "rankScore": 57326,
+   "club": "M0RVA",
+   "twitch": null
+  },
+  {
+   "rank": 482,
+   "name": "Romance#3159",
+   "delta": 139,
+   "rankScore": 57225,
+   "club": "LA104",
+   "twitch": null
+  },
+  {
+   "rank": 486,
+   "name": "Killer#0498",
+   "delta": 141,
+   "rankScore": 57136,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 488,
    "name": "lion#0140",
-   "delta": 61,
-   "rankScore": 56967,
+   "delta": 141,
+   "rankScore": 57108,
    "club": "GOLOD",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T12:02:21Z",
-  "totalStreams": 53,
+  "checkedAt": "2026-10-12T12:11:18Z",
+  "totalStreams": 55,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 88,
+    "viewers": 83,
     "startedAt": "2026-10-12T01:34:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 23,
     "name": "FloridoGamingTTV#1606",
-    "rankScore": 66200,
+    "rankScore": 66234,
     "matchedBy": "name"
    },
    {
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "gooners ranked RN!!!!//team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 22,
+    "viewers": 18,
     "startedAt": "2026-10-12T10:06:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg",
     "rank": 99,
     "name": "itzVuqx#6674",
-    "rankScore": 61944,
+    "rankScore": 61914,
     "matchedBy": "name"
    },
    {
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Scrims at 8 PM (Probably) | APE SQUAD | RANKED",
-    "viewers": 5,
+    "viewers": 8,
     "startedAt": "2026-10-12T09:42:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 144,
@@ -83,7 +283,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] solo q ranked NA- !sens !rank !femboy  !zestfest",
-    "viewers": 9,
+    "viewers": 12,
     "startedAt": "2026-10-12T10:35:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 240,
@@ -115,7 +315,7 @@
   "ready": false,
   "placed": {
    "ruby": 174,
-   "all": 1267
+   "all": 1266
   },
   "rubyByRegion": {
    "am": 84,
@@ -125,19 +325,19 @@
   "window": {
    "am": {
     "ruby": 0,
-    "all": 0
+    "all": 4
    },
    "eu": {
-    "ruby": 0,
-    "all": 1
+    "ruby": 3,
+    "all": 24
    },
    "ap": {
-    "ruby": 1,
-    "all": 6
+    "ruby": 12,
+    "all": 42
    },
    "unplaced": {
-    "ruby": 2,
-    "all": 18
+    "ruby": 13,
+    "all": 71
    }
   }
  },

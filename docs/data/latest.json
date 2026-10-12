@@ -1,141 +1,117 @@
 {
- "generatedAt": "2026-10-12T23:11:05Z",
+ "generatedAt": "2026-10-12T23:21:10Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-12T23:08:00Z",
+ "leaderboardUpdatedAt": "2026-10-12T23:18:00Z",
  "window": {
-  "from": "2026-10-12T22:35:00Z",
-  "to": "2026-10-12T23:08:00Z",
-  "minutes": 33.0
+  "from": "2026-10-12T23:08:00Z",
+  "to": "2026-10-12T23:18:00Z",
+  "minutes": 10.0
  },
- "rubyActive": 14,
- "allActive": 249,
- "rubyShare": 0.0562,
- "steamPlayers": 12519,
+ "rubyActive": 11,
+ "allActive": 118,
+ "rubyShare": 0.0932,
+ "steamPlayers": 12542,
  "rubyCutoff": 56792,
  "grinding": [
   {
-   "rank": 44,
-   "name": "dilltv#5940",
-   "delta": 48,
-   "rankScore": 64493,
+   "rank": 10,
+   "name": "Choobz#9757",
+   "delta": 14,
+   "rankScore": 69394,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 112,
+   "name": "Pericolocote818#1005",
+   "delta": 78,
+   "rankScore": 61626,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 270,
+   "name": "FinalFractal#7181",
+   "delta": 99,
+   "rankScore": 59963,
+   "club": "UEPAR",
+   "twitch": null
+  },
+  {
+   "rank": 303,
+   "name": "Clo0z#1790",
+   "delta": -42,
+   "rankScore": 59578,
+   "club": "PLSR",
+   "twitch": null
+  },
+  {
+   "rank": 333,
+   "name": "Akiraa#5270",
+   "delta": 109,
+   "rankScore": 59260,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 47,
-   "name": "TwitchAyoKoy#7018",
-   "delta": -21,
-   "rankScore": 64213,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 62,
-   "name": "slim#1364",
-   "delta": 62,
-   "rankScore": 63179,
-   "club": "C4RPG",
-   "twitch": null
-  },
-  {
-   "rank": 94,
-   "name": "dawn#0905",
-   "delta": -30,
-   "rankScore": 62095,
-   "club": "SLKRO",
-   "twitch": null
-  },
-  {
-   "rank": 101,
-   "name": "Flimxzy#0192",
-   "delta": 76,
-   "rankScore": 61853,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 122,
-   "name": "Viz#5368",
-   "delta": -33,
-   "rankScore": 61432,
-   "club": "SLKRO",
-   "twitch": null
-  },
-  {
-   "rank": 348,
-   "name": "Thecowgoesmoo#8266",
-   "delta": -45,
-   "rankScore": 59100,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 357,
-   "name": "CRACKYY#9250",
+   "rank": 371,
+   "name": "Chrissneaks#3232",
    "delta": 112,
-   "rankScore": 59069,
-   "club": "BOOKS",
+   "rankScore": 59014,
+   "club": "3PROS",
    "twitch": null
   },
   {
-   "rank": 391,
-   "name": "marco#0514",
-   "delta": -47,
-   "rankScore": 58748,
+   "rank": 381,
+   "name": "Dixon.Mayers#0309",
+   "delta": 48,
+   "rankScore": 58934,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 386,
+   "name": "zaiah#6418",
+   "delta": 49,
+   "rankScore": 58807,
    "club": "ABG4",
    "twitch": null
   },
   {
-   "rank": 392,
-   "name": "Dame#3073",
-   "delta": 119,
-   "rankScore": 58714,
-   "club": "APES",
+   "rank": 427,
+   "name": "ScarySoul#6803",
+   "delta": 53,
+   "rankScore": 58302,
+   "club": "T0GGL",
    "twitch": null
   },
   {
-   "rank": 448,
-   "name": "Krome_YT#8360",
-   "delta": 127,
-   "rankScore": 58013,
+   "rank": 430,
+   "name": "tikiman#0069",
+   "delta": 53,
+   "rankScore": 58267,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 456,
-   "name": "bleue#0829",
-   "delta": -51,
-   "rankScore": 57860,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 462,
-   "name": "II#0728",
-   "delta": -52,
-   "rankScore": 57737,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 480,
-   "name": "HuMaL#0538",
-   "delta": 136,
-   "rankScore": 57402,
-   "club": "1PEEK",
+   "rank": 468,
+   "name": "Nyctalus#8418",
+   "delta": 56,
+   "rankScore": 57638,
+   "club": "DASHN",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T23:11:05Z",
-  "totalStreams": 180,
+  "checkedAt": "2026-10-12T23:21:10Z",
+  "totalStreams": 170,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) RANKED | SWEDEN BOUND",
-    "viewers": 170,
+    "viewers": 165,
     "startedAt": "2026-10-12T16:16:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
@@ -147,7 +123,7 @@
     "login": "lamp",
     "displayName": "lamp",
     "title": "(dropulars) ranked, pugs, ranked repeat| function follows energy !youtube | lampischiller lampisLuminon",
-    "viewers": 228,
+    "viewers": 229,
     "startedAt": "2026-10-12T18:35:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 55,
@@ -161,7 +137,7 @@
     "login": "hershygg",
     "displayName": "HershyGG",
     "title": "[DROPS] POWERSHIFT TOP 100 - chill rabbit stream - NO, ITS NOT RABBIT SEASON YET",
-    "viewers": 12,
+    "viewers": 10,
     "startedAt": "2026-10-12T22:21:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hershygg-{width}x{height}.jpg"
    },
@@ -179,7 +155,7 @@
   "ready": false,
   "placed": {
    "ruby": 187,
-   "all": 1343
+   "all": 1346
   },
   "rubyByRegion": {
    "am": 86,
@@ -188,20 +164,20 @@
   },
   "window": {
    "am": {
-    "ruby": 5,
-    "all": 60
+    "ruby": 8,
+    "all": 43
    },
    "eu": {
-    "ruby": 4,
-    "all": 47
+    "ruby": 1,
+    "all": 18
    },
    "ap": {
     "ruby": 0,
-    "all": 1
+    "all": 0
    },
    "unplaced": {
-    "ruby": 5,
-    "all": 141
+    "ruby": 2,
+    "all": 57
    }
   }
  },

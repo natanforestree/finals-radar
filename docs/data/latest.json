@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T19:32:10Z",
+ "generatedAt": "2026-10-12T19:41:39Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-12T19:26:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 10,
  "allActive": 113,
  "rubyShare": 0.0885,
- "steamPlayers": 16878,
+ "steamPlayers": 16585,
  "rubyCutoff": 56817,
  "grinding": [
   {
@@ -96,14 +96,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T19:32:10Z",
-  "totalStreams": 175,
+  "checkedAt": "2026-10-12T19:41:39Z",
+  "totalStreams": 176,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) RANKED | SWEDEN BOUND",
-    "viewers": 249,
+    "viewers": 239,
     "startedAt": "2026-10-12T16:16:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
@@ -115,7 +115,7 @@
     "login": "lamp",
     "displayName": "lamp",
     "title": "(dropulars) ranked, pugs, ranked repeat| function follows energy !youtube | lampischiller lampisLuminon",
-    "viewers": 172,
+    "viewers": 182,
     "startedAt": "2026-10-12T18:35:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 55,
@@ -141,9 +141,17 @@
     "login": "chillykevv",
     "displayName": "ChillyKevv",
     "title": "[DROPS] Top 500 Performative Chud",
-    "viewers": 10,
+    "viewers": 14,
     "startedAt": "2026-10-12T19:14:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chillykevv-{width}x{height}.jpg"
+   },
+   {
+    "login": "thelastniah",
+    "displayName": "thelastniah",
+    "title": "Finals Duo Ruby grind",
+    "viewers": 2,
+    "startedAt": "2026-10-12T16:33:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thelastniah-{width}x{height}.jpg"
    },
    {
     "login": "aegis_razor",
@@ -154,20 +162,20 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aegis_razor-{width}x{height}.jpg"
    },
    {
-    "login": "egman39",
-    "displayName": "egman39",
-    "title": "TOP 500 GRIND W/ FOLLOWERS",
-    "viewers": 1,
-    "startedAt": "2026-10-12T17:47:19Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
-   },
-   {
     "login": "v8_karma",
     "displayName": "V8_Karma",
     "title": "Pubs | Ruby S3 | PC | ITA",
     "viewers": 1,
     "startedAt": "2026-10-12T19:06:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
+   },
+   {
+    "login": "egman39",
+    "displayName": "egman39",
+    "title": "TOP 500 GRIND W/ FOLLOWERS",
+    "viewers": 1,
+    "startedAt": "2026-10-12T17:47:19Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T17:41:29Z",
+ "generatedAt": "2026-10-12T17:51:25Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-12T17:37:05Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 13,
  "allActive": 179,
  "rubyShare": 0.0726,
- "steamPlayers": 14661,
+ "steamPlayers": 15144,
  "rubyCutoff": 56763,
  "grinding": [
   {
@@ -120,14 +120,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T17:41:29Z",
+  "checkedAt": "2026-10-12T17:51:25Z",
   "totalStreams": 143,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) RANKED | SWEDEN BOUND",
-    "viewers": 203,
+    "viewers": 180,
     "startedAt": "2026-10-12T16:16:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
@@ -139,7 +139,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "scrim 7pm",
-    "viewers": 95,
+    "viewers": 126,
     "startedAt": "2026-10-12T15:52:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 47,
@@ -160,18 +160,6 @@
     "matchedBy": "name"
    },
    {
-    "login": "etelco",
-    "displayName": "Etelco",
-    "title": "Embark Partner 💎 | Scrim Time (hope I don't crash) !drops",
-    "viewers": 47,
-    "startedAt": "2026-10-12T15:57:36Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
-    "rank": 174,
-    "name": "Etelco#8323",
-    "rankScore": 60476,
-    "matchedBy": "name"
-   },
-   {
     "login": "sitnica",
     "displayName": "sitnica",
     "title": "[ru] [Drops] Зачем придумали мозг, им же никто не пользуется",
@@ -185,6 +173,14 @@
    }
   ],
   "titleMentions": [
+   {
+    "login": "pedross",
+    "displayName": "Pedross",
+    "title": "[CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
+    "viewers": 1,
+    "startedAt": "2026-10-12T14:56:34Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
+   },
    {
     "login": "mrnavigat0r",
     "displayName": "MrNavigat0r",
@@ -200,14 +196,6 @@
     "viewers": 1,
     "startedAt": "2026-10-12T16:33:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thelastniah-{width}x{height}.jpg"
-   },
-   {
-    "login": "pedross",
-    "displayName": "Pedross",
-    "title": "[CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
-    "viewers": 1,
-    "startedAt": "2026-10-12T14:56:34Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
    }
   ]
  },

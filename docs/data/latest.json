@@ -1,159 +1,103 @@
 {
- "generatedAt": "2026-10-12T05:21:16Z",
+ "generatedAt": "2026-10-12T05:31:25Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-12T05:09:30Z",
+ "leaderboardUpdatedAt": "2026-10-12T05:24:55Z",
  "window": {
-  "from": "2026-10-12T04:38:01Z",
-  "to": "2026-10-12T05:09:30Z",
-  "minutes": 31.5
+  "from": "2026-10-12T05:09:30Z",
+  "to": "2026-10-12T05:24:55Z",
+  "minutes": 15.4
  },
- "rubyActive": 17,
- "allActive": 210,
- "rubyShare": 0.081,
- "steamPlayers": 9463,
+ "rubyActive": 10,
+ "allActive": 126,
+ "rubyShare": 0.0794,
+ "steamPlayers": 9236,
  "rubyCutoff": 56788,
  "grinding": [
   {
-   "rank": 7,
-   "name": "NV#8812",
-   "delta": 11,
-   "rankScore": 70129,
-   "club": "GOAT",
-   "twitch": null
-  },
-  {
-   "rank": 25,
-   "name": "FloridoGamingTTV#1606",
-   "delta": 35,
-   "rankScore": 66079,
-   "club": "CRU3L",
-   "twitch": "elfloridogaming"
-  },
-  {
    "rank": 29,
    "name": "Bizzy#0005",
-   "delta": -17,
-   "rankScore": 65182,
+   "delta": -40,
+   "rankScore": 65142,
    "club": "NTMR",
    "twitch": "bizzy"
   },
   {
+   "rank": 37,
+   "name": "jax#6927",
+   "delta": 46,
+   "rankScore": 64803,
+   "club": "SLKRO",
+   "twitch": null
+  },
+  {
    "rank": 46,
    "name": "TwitchAyoKoy#7018",
-   "delta": 50,
-   "rankScore": 64252,
+   "delta": 51,
+   "rankScore": 64303,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 87,
-   "name": "ahsaha#9839",
-   "delta": 72,
-   "rankScore": 62283,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 116,
-   "name": "Pericolocote818#1005",
-   "delta": 34,
-   "rankScore": 61548,
-   "club": "ZZ",
-   "twitch": null
-  },
-  {
-   "rank": 120,
+   "rank": 113,
    "name": "TwichJussAngellk#0030",
-   "delta": 80,
-   "rankScore": 61507,
+   "delta": 79,
+   "rankScore": 61586,
    "club": "MR",
    "twitch": null
   },
   {
-   "rank": 165,
-   "name": "justpimp#2756",
-   "delta": 92,
-   "rankScore": 60562,
-   "club": "PIMPW",
-   "twitch": null
-  },
-  {
-   "rank": 296,
-   "name": "CallMeJenga#3471",
-   "delta": -147,
-   "rankScore": 59600,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 320,
-   "name": "JDdoge23#0578",
-   "delta": 45,
-   "rankScore": 59385,
-   "club": "TAKEL",
-   "twitch": null
-  },
-  {
-   "rank": 367,
-   "name": "Thecowgoesmoo#8266",
-   "delta": 48,
-   "rankScore": 58956,
+   "rank": 139,
+   "name": "Metro#1140",
+   "delta": 85,
+   "rankScore": 61056,
    "club": "APES",
    "twitch": null
   },
   {
-   "rank": 384,
-   "name": "Petite#1874",
-   "delta": 116,
-   "rankScore": 58723,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 393,
-   "name": "Chrissneaks#3232",
-   "delta": 50,
-   "rankScore": 58600,
-   "club": "3PROS",
-   "twitch": null
-  },
-  {
-   "rank": 447,
-   "name": "GrandSpark#5639",
-   "delta": 68,
-   "rankScore": 57809,
-   "club": "MOL",
-   "twitch": null
-  },
-  {
-   "rank": 465,
-   "name": "Chapo#9657",
-   "delta": -54,
-   "rankScore": 57460,
-   "club": "VGG",
-   "twitch": null
-  },
-  {
-   "rank": 477,
-   "name": "mini#4786",
-   "delta": 59,
-   "rankScore": 57253,
+   "rank": 215,
+   "name": "straightkix.ttv#5818",
+   "delta": 97,
+   "rankScore": 60124,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 500,
-   "name": "MnXBATMAN_TTV#6558",
-   "delta": -59,
-   "rankScore": 56788,
-   "club": "ALL",
+   "rank": 265,
+   "name": "K1shin#9422",
+   "delta": 101,
+   "rankScore": 59908,
+   "club": "TOXIK",
+   "twitch": null
+  },
+  {
+   "rank": 444,
+   "name": "GrandSpark#5639",
+   "delta": 55,
+   "rankScore": 57864,
+   "club": "MOL",
+   "twitch": null
+  },
+  {
+   "rank": 452,
+   "name": "Mario_vmanTTV#9301",
+   "delta": 132,
+   "rankScore": 57745,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 463,
+   "name": "Chapo#9657",
+   "delta": 57,
+   "rankScore": 57517,
+   "club": "VGG",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-12T05:21:16Z",
-  "totalStreams": 133,
+  "checkedAt": "2026-10-12T05:31:25Z",
+  "totalStreams": 125,
   "rubyLive": [
    {
     "login": "elfloridogaming",
@@ -171,19 +115,19 @@
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] PRO PUGS | i got scammed $41 | jump scares for bits | THANK YOU GUYS FOR PARTNER PLUS 1/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 134,
+    "viewers": 137,
     "startedAt": "2026-10-11T21:11:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 29,
     "name": "Bizzy#0005",
-    "rankScore": 65182,
+    "rankScore": 65142,
     "matchedBy": "name"
    },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby Solo Q",
-    "viewers": 111,
+    "viewers": 98,
     "startedAt": "2026-10-12T03:01:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 40,
@@ -226,30 +170,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 175,
-   "all": 1253
+   "ruby": 174,
+   "all": 1255
   },
   "rubyByRegion": {
    "am": 89,
    "eu": 46,
-   "ap": 40
+   "ap": 39
   },
   "window": {
    "am": {
-    "ruby": 13,
-    "all": 113
+    "ruby": 6,
+    "all": 58
    },
    "eu": {
     "ruby": 0,
-    "all": 3
+    "all": 1
    },
    "ap": {
-    "ruby": 1,
-    "all": 10
+    "ruby": 0,
+    "all": 7
    },
    "unplaced": {
-    "ruby": 3,
-    "all": 84
+    "ruby": 4,
+    "all": 60
    }
   }
  },

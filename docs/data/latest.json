@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T00:11:06Z",
+ "generatedAt": "2026-10-13T00:21:08Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-13T00:10:02Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 22,
  "allActive": 236,
  "rubyShare": 0.0932,
- "steamPlayers": 12693,
+ "steamPlayers": 12775,
  "rubyCutoff": 56792,
  "grinding": [
   {
@@ -192,8 +192,8 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-13T00:11:06Z",
-  "totalStreams": 183,
+  "checkedAt": "2026-10-13T00:21:08Z",
+  "totalStreams": 211,
   "rubyLive": [
    {
     "login": "jumparau",
@@ -205,6 +205,18 @@
     "rank": 244,
     "name": "TTV_Jumparau#0323",
     "rankScore": 60053,
+    "matchedBy": "name"
+   },
+   {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[drops] the ranking continues - !yt !discord !finalsRS",
+    "viewers": 4,
+    "startedAt": "2026-10-13T00:09:38Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 430,
+    "name": "twitch-Antiparty#8470",
+    "rankScore": 58266,
     "matchedBy": "name"
    }
   ],

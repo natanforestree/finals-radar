@@ -1,66 +1,186 @@
 {
- "generatedAt": "2026-10-13T04:31:43Z",
+ "generatedAt": "2026-10-13T04:41:10Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-13T04:18:03Z",
+ "leaderboardUpdatedAt": "2026-10-13T04:35:14Z",
  "window": {
-  "from": "2026-10-13T04:04:28Z",
-  "to": "2026-10-13T04:18:03Z",
-  "minutes": 13.6
+  "from": "2026-10-13T04:18:03Z",
+  "to": "2026-10-13T04:35:14Z",
+  "minutes": 17.2
  },
- "rubyActive": 4,
- "allActive": 86,
- "rubyShare": 0.0465,
- "steamPlayers": 10105,
+ "rubyActive": 19,
+ "allActive": 173,
+ "rubyShare": 0.1098,
+ "steamPlayers": 10221,
  "rubyCutoff": 56817,
  "grinding": [
   {
-   "rank": 77,
-   "name": "ahsaha#9839",
-   "delta": 66,
-   "rankScore": 62731,
-   "club": "MORI",
+   "rank": 38,
+   "name": "Digcron.TTV#3309",
+   "delta": -19,
+   "rankScore": 64794,
+   "club": "DIGA",
+   "twitch": "digcron"
+  },
+  {
+   "rank": 45,
+   "name": "TwitchAyoKoy#7018",
+   "delta": 49,
+   "rankScore": 64373,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 114,
-   "name": "TTV_KNOT_4_LONG#7729",
-   "delta": 79,
-   "rankScore": 61606,
-   "club": "ALL",
+   "rank": 89,
+   "name": "TheChosenOne#1521",
+   "delta": -75,
+   "rankScore": 62119,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 437,
-   "name": "colak#0003",
-   "delta": 124,
-   "rankScore": 58198,
-   "club": "AYNON",
+   "rank": 127,
+   "name": "B0oboo#1233",
+   "delta": 82,
+   "rankScore": 61333,
+   "club": "APES",
    "twitch": null
   },
   {
-   "rank": 442,
-   "name": "Apples#1806",
+   "rank": 183,
+   "name": "HadBananas#0669",
+   "delta": 93,
+   "rankScore": 60396,
+   "club": "LUMN",
+   "twitch": null
+  },
+  {
+   "rank": 272,
+   "name": "EkaZo#5318",
+   "delta": -40,
+   "rankScore": 59917,
+   "club": "GOONU",
+   "twitch": null
+  },
+  {
+   "rank": 320,
+   "name": "Nous#0463",
+   "delta": -43,
+   "rankScore": 59409,
+   "club": null,
+   "twitch": "nousttv"
+  },
+  {
+   "rank": 323,
+   "name": "MIKE#2590",
+   "delta": 107,
+   "rankScore": 59401,
+   "club": "DAYST",
+   "twitch": null
+  },
+  {
+   "rank": 354,
+   "name": "def.nox#9033",
+   "delta": 111,
+   "rankScore": 59112,
+   "club": "APES",
+   "twitch": "def_noxttv"
+  },
+  {
+   "rank": 417,
+   "name": "ace#3154",
+   "delta": -122,
+   "rankScore": 58448,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 436,
+   "name": "bleue#0829",
+   "delta": 52,
+   "rankScore": 58205,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 456,
+   "name": "II#0728",
+   "delta": 121,
+   "rankScore": 57966,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 457,
+   "name": "Mario_vmanTTV#9301",
+   "delta": 128,
+   "rankScore": 57959,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 460,
+   "name": "twitch-Antiparty#8470",
+   "delta": -52,
+   "rankScore": 57918,
+   "club": "GOONU",
+   "twitch": null
+  },
+  {
+   "rank": 471,
+   "name": "GrandSpark#5639",
+   "delta": 7,
+   "rankScore": 57593,
+   "club": "MOL",
+   "twitch": null
+  },
+  {
+   "rank": 475,
+   "name": "Hatred#7292",
+   "delta": -137,
+   "rankScore": 57495,
+   "club": "T400",
+   "twitch": null
+  },
+  {
+   "rank": 484,
+   "name": "Extinxi#6638",
    "delta": 137,
-   "rankScore": 58124,
-   "club": "VEXL",
+   "rankScore": 57330,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 496,
+   "name": "Ms.Jennacide#1019",
+   "delta": -265,
+   "rankScore": 56968,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 497,
+   "name": "gabyspg#1483",
+   "delta": -266,
+   "rankScore": 56915,
+   "club": "ZZ",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-13T04:31:43Z",
-  "totalStreams": 163,
+  "checkedAt": "2026-10-13T04:41:10Z",
+  "totalStreams": 166,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby Solo Q",
-    "viewers": 142,
+    "viewers": 144,
     "startedAt": "2026-10-13T01:59:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 37,
+    "rank": 38,
     "name": "Digcron.TTV#3309",
-    "rankScore": 64813,
+    "rankScore": 64794,
     "matchedBy": "name"
    },
    {
@@ -103,24 +223,36 @@
     "login": "nousttv",
     "displayName": "nousttv",
     "title": "missing the finals",
-    "viewers": 3,
+    "viewers": 1,
     "startedAt": "2026-10-13T03:23:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
-    "rank": 316,
+    "rank": 320,
     "name": "Nous#0463",
-    "rankScore": 59452,
+    "rankScore": 59409,
     "matchedBy": "name"
    },
    {
     "login": "def_noxttv",
     "displayName": "def_noxTTV",
     "title": "Straight Chill Ranked Vibes (DROPS)",
-    "viewers": 96,
+    "viewers": 84,
     "startedAt": "2026-10-13T03:37:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
-    "rank": 379,
+    "rank": 354,
     "name": "def.nox#9033",
-    "rankScore": 59001,
+    "rankScore": 59112,
+    "matchedBy": "name"
+   },
+   {
+    "login": "acidbeef209",
+    "displayName": "acidbeef209",
+    "title": "casual with the homie on dual roller",
+    "viewers": 1,
+    "startedAt": "2026-10-13T04:35:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_acidbeef209-{width}x{height}.jpg",
+    "rank": 474,
+    "name": "Acidbeef209#2268",
+    "rankScore": 57535,
     "matchedBy": "name"
    }
   ],
@@ -129,9 +261,17 @@
     "login": "mpxnda",
     "displayName": "mpxnda",
     "title": "Ruby Grind? We Hit Affiliate!! Come join for the vibes, Lurkers Welcome <3",
-    "viewers": 5,
+    "viewers": 6,
     "startedAt": "2026-10-13T02:22:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mpxnda-{width}x{height}.jpg"
+   },
+   {
+    "login": "ttg024",
+    "displayName": "TTG024",
+    "title": "✅DROPS ON✅GETTING CARRIED TO RUBY IN FINALS | !tiktok | !ig  | !yt | !dc | !giveaway",
+    "viewers": 4,
+    "startedAt": "2026-10-13T04:33:05Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ttg024-{width}x{height}.jpg"
    },
    {
     "login": "xenaxia",
@@ -148,14 +288,6 @@
     "viewers": 2,
     "startedAt": "2026-10-13T04:12:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
-   },
-   {
-    "login": "xenaxia",
-    "displayName": "xenaxia",
-    "title": "RUBY TN 45K Diamond HELP ME GET AFFILIATE",
-    "viewers": 2,
-    "startedAt": "2026-10-13T02:14:57Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xenaxia-{width}x{height}.jpg"
    },
    {
     "login": "akame_2ez",
@@ -179,7 +311,7 @@
   "ready": false,
   "placed": {
    "ruby": 189,
-   "all": 1411
+   "all": 1418
   },
   "rubyByRegion": {
    "am": 89,
@@ -188,20 +320,20 @@
   },
   "window": {
    "am": {
-    "ruby": 4,
-    "all": 59
+    "ruby": 12,
+    "all": 97
    },
    "eu": {
     "ruby": 0,
-    "all": 1
-   },
-   "ap": {
-    "ruby": 0,
     "all": 0
    },
+   "ap": {
+    "ruby": 1,
+    "all": 6
+   },
    "unplaced": {
-    "ruby": 0,
-    "all": 26
+    "ruby": 6,
+    "all": 70
    }
   }
  },

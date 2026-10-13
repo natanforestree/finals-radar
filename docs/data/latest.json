@@ -1,93 +1,77 @@
 {
- "generatedAt": "2026-10-13T06:36:46Z",
+ "generatedAt": "2026-10-13T06:42:50Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-13T06:26:00Z",
+ "leaderboardUpdatedAt": "2026-10-13T06:41:30Z",
  "window": {
-  "from": "2026-10-13T06:09:40Z",
-  "to": "2026-10-13T06:26:00Z",
-  "minutes": 16.3
+  "from": "2026-10-13T06:26:00Z",
+  "to": "2026-10-13T06:41:30Z",
+  "minutes": 15.5
  },
- "rubyActive": 8,
- "allActive": 49,
- "rubyShare": 0.1633,
- "steamPlayers": 6660,
+ "rubyActive": 6,
+ "allActive": 109,
+ "rubyShare": 0.055,
+ "steamPlayers": 6558,
  "rubyCutoff": 56838,
  "grinding": [
   {
-   "rank": 39,
-   "name": "Digcron.TTV#3309",
-   "delta": -115,
-   "rankScore": 64699,
-   "club": "DIGA",
-   "twitch": "digcron"
-  },
-  {
-   "rank": 73,
-   "name": "ahsaha#9839",
-   "delta": 27,
-   "rankScore": 62889,
-   "club": "MORI",
+   "rank": 302,
+   "name": "CallMeJenga#3471",
+   "delta": -42,
+   "rankScore": 59591,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 123,
-   "name": "Metro#1140",
-   "delta": 81,
-   "rankScore": 61435,
-   "club": "APES",
+   "rank": 409,
+   "name": "Apples#1806",
+   "delta": 119,
+   "rankScore": 58557,
+   "club": "VEXL",
    "twitch": null
   },
   {
-   "rank": 189,
-   "name": "HadBananas#0669",
-   "delta": 95,
-   "rankScore": 60311,
-   "club": "LUMN",
+   "rank": 478,
+   "name": "TikTok-Colada#0392",
+   "delta": 136,
+   "rankScore": 57462,
+   "club": "M0RVA",
    "twitch": null
   },
   {
-   "rank": 386,
-   "name": "Nous#0463",
-   "delta": -280,
-   "rankScore": 58861,
-   "club": null,
-   "twitch": "nousttv"
-  },
-  {
-   "rank": 413,
-   "name": "colak#0003",
-   "delta": 51,
-   "rankScore": 58493,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 469,
-   "name": "Shout#7486",
-   "delta": 62,
-   "rankScore": 57663,
+   "rank": 485,
+   "name": "mini#4786",
+   "delta": 59,
+   "rankScore": 57345,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 473,
-   "name": "GetBallMunched#3928",
-   "delta": 134,
-   "rankScore": 57604,
-   "club": "ADMIN",
+   "rank": 487,
+   "name": "Ms.Jennacide#1019",
+   "delta": 139,
+   "rankScore": 57248,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 490,
+   "name": "gabyspg#1483",
+   "delta": 140,
+   "rankScore": 57197,
+   "club": "ZZ",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-13T06:36:46Z",
-  "totalStreams": 104,
+  "checkedAt": "2026-10-13T06:42:50Z",
+  "totalStreams": 98,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby Solo Q",
-    "viewers": 162,
+    "viewers": 192,
     "startedAt": "2026-10-13T01:59:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 39,
@@ -99,7 +83,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "I was gonna rest, but... | APE SQUAD | RANKED",
-    "viewers": 6,
+    "viewers": 7,
     "startedAt": "2026-10-13T03:48:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 144,
@@ -123,7 +107,7 @@
     "login": "nousttv",
     "displayName": "nousttv",
     "title": "missing the finals",
-    "viewers": 4,
+    "viewers": 6,
     "startedAt": "2026-10-13T03:23:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
     "rank": 386,
@@ -137,7 +121,7 @@
     "login": "mpxnda",
     "displayName": "mpxnda",
     "title": "Ruby Grind? We Hit Affiliate!! Come join for the vibes, Lurkers Welcome <3",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-10-13T02:22:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mpxnda-{width}x{height}.jpg"
    },
@@ -171,7 +155,7 @@
   "ready": false,
   "placed": {
    "ruby": 191,
-   "all": 1432
+   "all": 1433
   },
   "rubyByRegion": {
    "am": 91,
@@ -180,8 +164,8 @@
   },
   "window": {
    "am": {
-    "ruby": 3,
-    "all": 19
+    "ruby": 4,
+    "all": 40
    },
    "eu": {
     "ruby": 0,
@@ -189,11 +173,11 @@
    },
    "ap": {
     "ruby": 1,
-    "all": 9
+    "all": 13
    },
    "unplaced": {
-    "ruby": 4,
-    "all": 21
+    "ruby": 1,
+    "all": 56
    }
   }
  },

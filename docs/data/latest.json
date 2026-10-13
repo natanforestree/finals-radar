@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T22:01:18Z",
+ "generatedAt": "2026-10-13T22:11:25Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-13T21:50:21Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 26,
  "allActive": 277,
  "rubyShare": 0.0939,
- "steamPlayers": 12758,
+ "steamPlayers": 12466,
  "rubyCutoff": 57016,
  "grinding": [
   {
@@ -59,7 +59,7 @@
    "delta": 57,
    "rankScore": 63583,
    "club": "LUMN",
-   "twitch": "lamp"
+   "twitch": null
   },
   {
    "rank": 87,
@@ -224,14 +224,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-13T22:01:18Z",
-  "totalStreams": 154,
+  "checkedAt": "2026-10-13T22:11:25Z",
+  "totalStreams": 142,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) HEAVY GOING ON A DIET! | SWEDEN BOUND | SCRIM VS NTMR",
-    "viewers": 156,
+    "viewers": 130,
     "startedAt": "2026-10-13T17:30:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
@@ -240,22 +240,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "lamp",
-    "displayName": "lamp",
-    "title": "(dropulars) respec got me stressin !youtube | lampischiller lampisLuminon",
-    "viewers": 186,
-    "startedAt": "2026-10-13T19:22:35Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
-    "rank": 55,
-    "name": "lamp#5944",
-    "rankScore": 63583,
-    "matchedBy": "name"
-   },
-   {
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 70,
+    "viewers": 79,
     "startedAt": "2026-10-13T19:21:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 165,
@@ -266,8 +254,8 @@
    {
     "login": "jumparau",
     "displayName": "jumparau",
-    "title": "[Drops] Ruby on multiple accounts- Ranked -   fixed the quality !sens !rank !femboy  !zestfest",
-    "viewers": 12,
+    "title": "[Drops] Ruby on multiple accounts- Ranked -   fixed the quality !sens !rank !femboy  !zestfest !mouse !class !size",
+    "viewers": 15,
     "startedAt": "2026-10-13T18:19:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 244,
@@ -281,7 +269,7 @@
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "All Hope for Ruby is Lost!",
-    "viewers": 7,
+    "viewers": 8,
     "startedAt": "2026-10-13T17:52:15Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg"
    },
@@ -289,7 +277,7 @@
     "login": "v8_karma",
     "displayName": "V8_Karma",
     "title": "Pubs | Ruby S3 | PC | ITA",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-13T19:53:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    }

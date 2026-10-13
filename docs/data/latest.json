@@ -1,137 +1,105 @@
 {
- "generatedAt": "2026-10-13T06:21:29Z",
+ "generatedAt": "2026-10-13T06:36:46Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-13T06:09:40Z",
+ "leaderboardUpdatedAt": "2026-10-13T06:26:00Z",
  "window": {
-  "from": "2026-10-13T05:38:00Z",
-  "to": "2026-10-13T06:09:40Z",
-  "minutes": 31.7
+  "from": "2026-10-13T06:09:40Z",
+  "to": "2026-10-13T06:26:00Z",
+  "minutes": 16.3
  },
- "rubyActive": 12,
- "allActive": 165,
- "rubyShare": 0.0727,
- "steamPlayers": 6779,
+ "rubyActive": 8,
+ "allActive": 49,
+ "rubyShare": 0.1633,
+ "steamPlayers": 6660,
  "rubyCutoff": 56838,
  "grinding": [
   {
-   "rank": 37,
+   "rank": 39,
    "name": "Digcron.TTV#3309",
-   "delta": -19,
-   "rankScore": 64814,
+   "delta": -115,
+   "rankScore": 64699,
    "club": "DIGA",
    "twitch": "digcron"
   },
   {
-   "rank": 40,
-   "name": "jax#6927",
-   "delta": 47,
-   "rankScore": 64686,
-   "club": "SLKRO",
+   "rank": 73,
+   "name": "ahsaha#9839",
+   "delta": 27,
+   "rankScore": 62889,
+   "club": "MORI",
    "twitch": null
   },
   {
-   "rank": 45,
-   "name": "TwitchAyoKoy#7018",
-   "delta": 49,
-   "rankScore": 64378,
-   "club": null,
+   "rank": 123,
+   "name": "Metro#1140",
+   "delta": 81,
+   "rankScore": 61435,
+   "club": "APES",
    "twitch": null
   },
   {
-   "rank": 107,
-   "name": "TTV_KNOT_4_LONG#7729",
-   "delta": 77,
-   "rankScore": 61761,
-   "club": "ALL",
-   "twitch": null
-  },
-  {
-   "rank": 201,
+   "rank": 189,
    "name": "HadBananas#0669",
-   "delta": -235,
-   "rankScore": 60216,
+   "delta": 95,
+   "rankScore": 60311,
    "club": "LUMN",
    "twitch": null
   },
   {
-   "rank": 294,
-   "name": "CallMeJenga#3471",
-   "delta": -3,
-   "rankScore": 59633,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 350,
+   "rank": 386,
    "name": "Nous#0463",
-   "delta": -44,
-   "rankScore": 59141,
+   "delta": -280,
+   "rankScore": 58861,
    "club": null,
    "twitch": "nousttv"
   },
   {
-   "rank": 419,
-   "name": "Apples#1806",
-   "delta": 121,
-   "rankScore": 58438,
-   "club": "VEXL",
+   "rank": 413,
+   "name": "colak#0003",
+   "delta": 51,
+   "rankScore": 58493,
+   "club": "AYNON",
    "twitch": null
   },
   {
-   "rank": 436,
-   "name": "II#0728",
-   "delta": 123,
-   "rankScore": 58259,
+   "rank": 469,
+   "name": "Shout#7486",
+   "delta": 62,
+   "rankScore": 57663,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 456,
-   "name": "Mario_vmanTTV#9301",
-   "delta": 128,
-   "rankScore": 57973,
-   "club": "ABG4",
-   "twitch": null
-  },
-  {
-   "rank": 470,
-   "name": "Acidbeef209#2268",
-   "delta": 133,
-   "rankScore": 57638,
-   "club": "ZZ",
-   "twitch": "acidbeef209"
-  },
-  {
-   "rank": 486,
-   "name": "mini#4786",
-   "delta": 176,
-   "rankScore": 57286,
-   "club": null,
+   "rank": 473,
+   "name": "GetBallMunched#3928",
+   "delta": 134,
+   "rankScore": 57604,
+   "club": "ADMIN",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-13T06:21:29Z",
-  "totalStreams": 109,
+  "checkedAt": "2026-10-13T06:36:46Z",
+  "totalStreams": 104,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby Solo Q",
-    "viewers": 180,
+    "viewers": 162,
     "startedAt": "2026-10-13T01:59:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 37,
+    "rank": 39,
     "name": "Digcron.TTV#3309",
-    "rankScore": 64814,
+    "rankScore": 64699,
     "matchedBy": "name"
    },
    {
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "I was gonna rest, but... | APE SQUAD | RANKED",
-    "viewers": 9,
+    "viewers": 6,
     "startedAt": "2026-10-13T03:48:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 144,
@@ -155,24 +123,12 @@
     "login": "nousttv",
     "displayName": "nousttv",
     "title": "missing the finals",
-    "viewers": 11,
+    "viewers": 4,
     "startedAt": "2026-10-13T03:23:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
-    "rank": 350,
+    "rank": 386,
     "name": "Nous#0463",
-    "rankScore": 59141,
-    "matchedBy": "name"
-   },
-   {
-    "login": "acidbeef209",
-    "displayName": "acidbeef209",
-    "title": "casual with the homie on dual roller",
-    "viewers": 2,
-    "startedAt": "2026-10-13T04:35:12Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_acidbeef209-{width}x{height}.jpg",
-    "rank": 470,
-    "name": "Acidbeef209#2268",
-    "rankScore": 57638,
+    "rankScore": 58861,
     "matchedBy": "name"
    }
   ],
@@ -215,7 +171,7 @@
   "ready": false,
   "placed": {
    "ruby": 191,
-   "all": 1428
+   "all": 1432
   },
   "rubyByRegion": {
    "am": 91,
@@ -224,20 +180,20 @@
   },
   "window": {
    "am": {
-    "ruby": 6,
-    "all": 81
+    "ruby": 3,
+    "all": 19
    },
    "eu": {
     "ruby": 0,
     "all": 0
    },
    "ap": {
-    "ruby": 2,
-    "all": 17
+    "ruby": 1,
+    "all": 9
    },
    "unplaced": {
     "ruby": 4,
-    "all": 67
+    "all": 21
    }
   }
  },

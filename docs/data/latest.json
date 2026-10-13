@@ -1,79 +1,103 @@
 {
- "generatedAt": "2026-10-13T00:31:38Z",
+ "generatedAt": "2026-10-13T00:41:01Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-13T00:26:00Z",
+ "leaderboardUpdatedAt": "2026-10-13T00:40:14Z",
  "window": {
-  "from": "2026-10-13T00:10:02Z",
-  "to": "2026-10-13T00:26:00Z",
-  "minutes": 16.0
+  "from": "2026-10-13T00:26:00Z",
+  "to": "2026-10-13T00:40:14Z",
+  "minutes": 14.2
  },
- "rubyActive": 7,
- "allActive": 108,
- "rubyShare": 0.0648,
- "steamPlayers": 12746,
+ "rubyActive": 10,
+ "allActive": 139,
+ "rubyShare": 0.0719,
+ "steamPlayers": 12757,
  "rubyCutoff": 56792,
  "grinding": [
   {
-   "rank": 10,
-   "name": "Choobz#9757",
-   "delta": 13,
-   "rankScore": 69421,
+   "rank": 58,
+   "name": "GetJiggy#3035",
+   "delta": -25,
+   "rankScore": 63299,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 209,
-   "name": "FinalFractal#7181",
-   "delta": 97,
-   "rankScore": 60158,
-   "club": "UEPAR",
+   "rank": 107,
+   "name": "Pericolocote818#1005",
+   "delta": 33,
+   "rankScore": 61737,
+   "club": "ZZ",
    "twitch": null
   },
   {
-   "rank": 407,
-   "name": "DeTaaiL#7503",
-   "delta": 50,
-   "rankScore": 58526,
-   "club": "LUMN",
-   "twitch": null
-  },
-  {
-   "rank": 417,
-   "name": "Twitch-jumparau#4160",
-   "delta": 122,
-   "rankScore": 58387,
-   "club": "RDBT",
-   "twitch": null
-  },
-  {
-   "rank": 434,
-   "name": "Krome_YT#8360",
-   "delta": 124,
-   "rankScore": 58191,
+   "rank": 312,
+   "name": "Akiraa#5270",
+   "delta": 106,
+   "rankScore": 59473,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 484,
-   "name": "LePitch0uTTV#3428",
-   "delta": 59,
-   "rankScore": 57242,
+   "rank": 330,
+   "name": "SHINIGAMI#9572",
+   "delta": 108,
+   "rankScore": 59330,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 487,
-   "name": "GetBallMunched#3928",
-   "delta": 60,
-   "rankScore": 57198,
-   "club": "ADMIN",
+   "rank": 342,
+   "name": "Chrissneaks#3232",
+   "delta": 47,
+   "rankScore": 59172,
+   "club": "3PROS",
+   "twitch": null
+  },
+  {
+   "rank": 345,
+   "name": "Dixon.Mayers#0309",
+   "delta": 111,
+   "rankScore": 59157,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 369,
+   "name": "zaiah#6418",
+   "delta": 112,
+   "rankScore": 59033,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 435,
+   "name": "SUPREME#6786",
+   "delta": 125,
+   "rankScore": 58135,
+   "club": "3WEI",
+   "twitch": null
+  },
+  {
+   "rank": 456,
+   "name": "Nyctalus#8418",
+   "delta": 129,
+   "rankScore": 57898,
+   "club": "DASHN",
+   "twitch": null
+  },
+  {
+   "rank": 459,
+   "name": "Sokudo#0731",
+   "delta": 129,
+   "rankScore": 57854,
+   "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-13T00:31:38Z",
-  "totalStreams": 199,
+  "checkedAt": "2026-10-13T00:41:01Z",
+  "totalStreams": 195,
   "rubyLive": [
    {
     "login": "jumparau",
@@ -91,7 +115,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 7,
+    "viewers": 5,
     "startedAt": "2026-10-13T00:09:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 431,
@@ -113,7 +137,7 @@
     "login": "thelastniah",
     "displayName": "thelastniah",
     "title": "Finals Duo Ruby grind",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-10-12T23:52:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thelastniah-{width}x{height}.jpg"
    }
@@ -123,7 +147,7 @@
   "ready": false,
   "placed": {
    "ruby": 186,
-   "all": 1346
+   "all": 1349
   },
   "rubyByRegion": {
    "am": 86,
@@ -132,20 +156,20 @@
   },
   "window": {
    "am": {
-    "ruby": 3,
-    "all": 46
+    "ruby": 7,
+    "all": 60
    },
    "eu": {
     "ruby": 1,
-    "all": 12
+    "all": 7
    },
    "ap": {
     "ruby": 0,
-    "all": 0
+    "all": 1
    },
    "unplaced": {
-    "ruby": 3,
-    "all": 50
+    "ruby": 2,
+    "all": 71
    }
   }
  },

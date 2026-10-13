@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T15:31:43Z",
+ "generatedAt": "2026-10-13T15:46:15Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-13T15:18:23Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 16,
  "allActive": 172,
  "rubyShare": 0.093,
- "steamPlayers": 9880,
+ "steamPlayers": 10172,
  "rubyCutoff": 57016,
  "grinding": [
   {
@@ -43,7 +43,7 @@
    "delta": 25,
    "rankScore": 65304,
    "club": "PRZN",
-   "twitch": "perzzon"
+   "twitch": null
   },
   {
    "rank": 158,
@@ -144,26 +144,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-13T15:31:43Z",
+  "checkedAt": "2026-10-13T15:46:15Z",
   "totalStreams": 96,
   "rubyLive": [
-   {
-    "login": "perzzon",
-    "displayName": "Perzzon",
-    "title": "[DROPS] Ranked -> Pugs later? !Youtube !Discord !Playlist",
-    "viewers": 44,
-    "startedAt": "2026-10-13T10:14:49Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 28,
-    "name": "perzzonTTV#5485",
-    "rankScore": 65304,
-    "matchedBy": "name"
-   },
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "blablabla",
-    "viewers": 24,
+    "viewers": 44,
     "startedAt": "2026-10-13T10:54:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 47,
@@ -175,7 +163,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Embark Partner 💎 | PRACTICING & CHILL - Qualified for TGM26 !drops",
-    "viewers": 40,
+    "viewers": 152,
     "startedAt": "2026-10-13T14:10:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 177,
@@ -187,7 +175,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED et on perd pas",
-    "viewers": 6,
+    "viewers": 5,
     "startedAt": "2026-10-13T12:11:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 220,
@@ -196,34 +184,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "sitnica",
-    "displayName": "sitnica",
-    "title": "[ru] [Drops] На экране твой типичный тиммейт",
-    "viewers": 13,
-    "startedAt": "2026-10-13T13:01:51Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
-    "rank": 271,
-    "name": "Sitnica#5188",
-    "rankScore": 59967,
-    "matchedBy": "name"
-   },
-   {
-    "login": "lycommit",
-    "displayName": "lycommit",
-    "title": "[DROPS] Finals into RE4 (prolly) | Embark Partner | !wooting !lamzu",
-    "viewers": 309,
-    "startedAt": "2026-10-13T14:19:11Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
-    "rank": 278,
-    "name": "lycommit#0621",
-    "rankScore": 59863,
-    "matchedBy": "name"
-   },
-   {
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 8,
+    "viewers": 7,
     "startedAt": "2026-10-13T14:56:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 461,
@@ -237,7 +201,7 @@
     "login": "aegis_razor",
     "displayName": "aegis_razor",
     "title": "The  Finals we push to Ruby",
-    "viewers": 4,
+    "viewers": 2,
     "startedAt": "2026-10-13T14:45:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aegis_razor-{width}x{height}.jpg"
    },

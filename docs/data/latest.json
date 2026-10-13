@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T16:32:14Z",
+ "generatedAt": "2026-10-13T16:43:57Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-13T16:17:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 24,
  "allActive": 166,
  "rubyShare": 0.1446,
- "steamPlayers": 11155,
+ "steamPlayers": 11464,
  "rubyCutoff": 57016,
  "grinding": [
   {
@@ -208,14 +208,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-13T16:32:14Z",
-  "totalStreams": 101,
+  "checkedAt": "2026-10-13T16:43:57Z",
+  "totalStreams": 108,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "blablabla",
-    "viewers": 93,
+    "viewers": 85,
     "startedAt": "2026-10-13T10:54:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 47,
@@ -224,10 +224,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "yangdoun",
+    "displayName": "yangdoun",
+    "title": "Late Night Ranked | APE SQUAD | RANKED",
+    "viewers": 1,
+    "startedAt": "2026-10-13T16:30:27Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
+    "rank": 144,
+    "name": "YangDoun#0398",
+    "rankScore": 60954,
+    "matchedBy": "name"
+   },
+   {
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Embark Partner 💎 | PRACTICING & CHILL - Qualified for TGM26 !drops",
-    "viewers": 134,
+    "viewers": 121,
     "startedAt": "2026-10-13T14:10:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 159,
@@ -236,22 +248,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "ilprune",
-    "displayName": "Ilprune",
-    "title": "The Finals RANKED et on perd pas",
-    "viewers": 2,
-    "startedAt": "2026-10-13T12:11:39Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
-    "rank": 220,
-    "name": "Ilprune#5174",
-    "rankScore": 60140,
-    "matchedBy": "name"
-   },
-   {
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 12,
+    "viewers": 11,
     "startedAt": "2026-10-13T14:56:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 456,
@@ -273,7 +273,7 @@
     "login": "cameleon_100",
     "displayName": "cameleon_100",
     "title": "[DROPS] ROAD TO RUBY | rage predestined | Solo Q | DROPS  WHITE GIRL MUSIC",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-10-13T16:22:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cameleon_100-{width}x{height}.jpg"
    }

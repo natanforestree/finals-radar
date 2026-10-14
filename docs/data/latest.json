@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T06:40:41Z",
+ "generatedAt": "2026-10-14T06:50:41Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-14T06:24:18Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 26,
  "allActive": 161,
  "rubyShare": 0.1615,
- "steamPlayers": 6138,
+ "steamPlayers": 5980,
  "rubyCutoff": 56998,
  "grinding": [
   {
@@ -147,7 +147,7 @@
    "delta": -111,
    "rankScore": 58052,
    "club": "GOONU",
-   "twitch": "antiparty"
+   "twitch": null
   },
   {
    "rank": 456,
@@ -224,14 +224,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-14T06:40:41Z",
+  "checkedAt": "2026-10-14T06:50:41Z",
   "totalStreams": 87,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby",
-    "viewers": 95,
+    "viewers": 121,
     "startedAt": "2026-10-13T23:44:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 42,
@@ -255,36 +255,16 @@
     "login": "nousttv",
     "displayName": "nousttv",
     "title": "missing the finals",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-10-14T05:59:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
     "rank": 383,
     "name": "Nous#0463",
     "rankScore": 59031,
     "matchedBy": "name"
-   },
-   {
-    "login": "antiparty",
-    "displayName": "Antiparty",
-    "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 8,
-    "startedAt": "2026-10-14T02:15:25Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 455,
-    "name": "twitch-Antiparty#8470",
-    "rankScore": 58052,
-    "matchedBy": "name"
    }
   ],
   "titleMentions": [
-   {
-    "login": "xdaro_tv",
-    "displayName": "xdaro_tv",
-    "title": "GETTING TO RUBY",
-    "viewers": 3,
-    "startedAt": "2026-10-14T04:30:16Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xdaro_tv-{width}x{height}.jpg"
-   },
    {
     "login": "xaw__",
     "displayName": "xaw__",
@@ -292,6 +272,14 @@
     "viewers": 2,
     "startedAt": "2026-10-14T03:28:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xaw__-{width}x{height}.jpg"
+   },
+   {
+    "login": "xdaro_tv",
+    "displayName": "xdaro_tv",
+    "title": "GETTING TO RUBY",
+    "viewers": 1,
+    "startedAt": "2026-10-14T04:30:16Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xdaro_tv-{width}x{height}.jpg"
    },
    {
     "login": "kapatlz",

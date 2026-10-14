@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T22:40:40Z",
+ "generatedAt": "2026-10-14T22:50:43Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-14T22:40:02Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 29,
  "allActive": 223,
  "rubyShare": 0.13,
- "steamPlayers": 11987,
+ "steamPlayers": 11984,
  "rubyCutoff": 57417,
  "grinding": [
   {
@@ -67,7 +67,7 @@
    "delta": -23,
    "rankScore": 63778,
    "club": "LUMN",
-   "twitch": "lamp"
+   "twitch": null
   },
   {
    "rank": 53,
@@ -248,31 +248,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-14T22:40:40Z",
-  "totalStreams": 169,
+  "checkedAt": "2026-10-14T22:50:43Z",
+  "totalStreams": 168,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) CALM LIL STREAM | SWEDEN BOUND | SCRIM VS HF",
-    "viewers": 96,
+    "viewers": 139,
     "startedAt": "2026-10-14T21:03:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
     "name": "Balise#2431",
     "rankScore": 71187,
-    "matchedBy": "name"
-   },
-   {
-    "login": "lamp",
-    "displayName": "lamp",
-    "title": "chiller maxxing today !youtube | lampischiller lampisLuminon",
-    "viewers": 229,
-    "startedAt": "2026-10-14T19:05:33Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
-    "rank": 51,
-    "name": "lamp#5944",
-    "rankScore": 63778,
     "matchedBy": "name"
    },
    {
@@ -291,7 +279,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 132,
+    "viewers": 185,
     "startedAt": "2026-10-14T17:55:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 166,
@@ -303,7 +291,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts- Becoming SKREYDEEN 2.0 -WHITE GIRL MUSIC ON TOP- Ranked -     !sens !rank  !mouse !class !size",
-    "viewers": 14,
+    "viewers": 10,
     "startedAt": "2026-10-14T21:44:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 249,
@@ -315,7 +303,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 10,
+    "viewers": 15,
     "startedAt": "2026-10-14T21:22:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 461,
@@ -329,7 +317,7 @@
     "login": "v8_karma",
     "displayName": "V8_Karma",
     "title": "Pubs | Ruby S3 | PC | ITA",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-14T20:05:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    },
@@ -337,7 +325,7 @@
     "login": "bub1xreal",
     "displayName": "bub1xreal",
     "title": "the REAL ruby grind",
-    "viewers": 1,
+    "viewers": 0,
     "startedAt": "2026-10-14T21:38:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
    }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T02:20:41Z",
+ "generatedAt": "2026-10-14T02:30:40Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-14T02:17:31Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 14,
  "allActive": 241,
  "rubyShare": 0.0581,
- "steamPlayers": 12471,
+ "steamPlayers": 12438,
  "rubyCutoff": 56911,
  "grinding": [
   {
@@ -128,14 +128,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-14T02:20:41Z",
-  "totalStreams": 176,
+  "checkedAt": "2026-10-14T02:30:40Z",
+  "totalStreams": 184,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby",
-    "viewers": 131,
+    "viewers": 110,
     "startedAt": "2026-10-13T23:44:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 39,
@@ -147,12 +147,24 @@
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Terrorizing Ruby | The Finals | Ruby Light Secured 60k",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-14T01:09:15Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
     "rank": 177,
     "name": "bobiduity#2959",
     "rankScore": 60478,
+    "matchedBy": "name"
+   },
+   {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[drops] the ranking continues - !yt !discord !finalsRS",
+    "viewers": 4,
+    "startedAt": "2026-10-14T02:15:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 454,
+    "name": "twitch-Antiparty#8470",
+    "rankScore": 58047,
     "matchedBy": "name"
    }
   ],
@@ -166,28 +178,20 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doompr0phet-{width}x{height}.jpg"
    },
    {
-    "login": "xaw__",
-    "displayName": "xaw__",
-    "title": "PUSH TO RUBY DAY 10 CRAZY GAMING MOMENTS (I AM GOING TO DIE IF I DONT GET RUBY SO TUNE IN BEFORE ITS TOO LATE)",
-    "viewers": 1,
-    "startedAt": "2026-10-14T01:36:49Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xaw__-{width}x{height}.jpg"
-   },
-   {
-    "login": "zauvz",
-    "displayName": "zauvz",
-    "title": "Quick cash chillin or Ruby grind",
-    "viewers": 1,
-    "startedAt": "2026-10-14T01:53:27Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zauvz-{width}x{height}.jpg"
-   },
-   {
     "login": "opportunehook9",
     "displayName": "OpportuneHook9",
     "title": "Diamond Player striving for Ruby",
     "viewers": 1,
     "startedAt": "2026-10-14T01:27:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
+    "login": "xaw__",
+    "displayName": "xaw__",
+    "title": "PUSH TO RUBY DAY 10 CRAZY GAMING MOMENTS (I AM GOING TO DIE IF I DONT GET RUBY SO TUNE IN BEFORE ITS TOO LATE)",
+    "viewers": 1,
+    "startedAt": "2026-10-14T01:36:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xaw__-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T15:20:42Z",
+ "generatedAt": "2026-10-14T15:30:42Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-14T15:16:19Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 23,
  "allActive": 210,
  "rubyShare": 0.1095,
- "steamPlayers": 9740,
+ "steamPlayers": 10050,
  "rubyCutoff": 57270,
  "grinding": [
   {
@@ -200,14 +200,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-14T15:20:42Z",
-  "totalStreams": 103,
+  "checkedAt": "2026-10-14T15:30:42Z",
+  "totalStreams": 106,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "blablabla > scrim 6pm on finals",
-    "viewers": 25,
+    "viewers": 42,
     "startedAt": "2026-10-14T13:52:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 46,
@@ -219,7 +219,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Embark Partner 💎 | Practicing then SCRIM vs 5F - Qualified for TGM26 !drops",
-    "viewers": 43,
+    "viewers": 37,
     "startedAt": "2026-10-14T13:55:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 161,
@@ -231,7 +231,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[DROPS] LAST DAY OF DROPS | Embark Partner | !wooting !lamzu",
-    "viewers": 371,
+    "viewers": 408,
     "startedAt": "2026-10-14T14:00:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 283,
@@ -243,7 +243,7 @@
     "login": "extinxi",
     "displayName": "Extinxi",
     "title": "FINAL PUSH | TOP #500 IN RANKED | NEW DROPS | EXTINXI",
-    "viewers": 9,
+    "viewers": 8,
     "startedAt": "2026-10-14T10:28:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_extinxi-{width}x{height}.jpg",
     "rank": 485,
@@ -252,7 +252,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "09mooni",
+    "displayName": "09Mooni",
+    "title": "Road to Top 500 | The Finals",
+    "viewers": 1,
+    "startedAt": "2026-10-14T15:17:34Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_09mooni-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": false,

@@ -1,113 +1,133 @@
 {
- "generatedAt": "2026-10-15T01:30:40Z",
+ "generatedAt": "2026-10-15T01:40:40Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-15T01:20:00Z",
+ "leaderboardUpdatedAt": "2026-10-15T01:35:31Z",
  "window": {
-  "from": "2026-10-15T01:08:09Z",
-  "to": "2026-10-15T01:20:00Z",
-  "minutes": 11.9
+  "from": "2026-10-15T01:20:00Z",
+  "to": "2026-10-15T01:35:31Z",
+  "minutes": 15.5
  },
- "rubyActive": 9,
- "allActive": 78,
- "rubyShare": 0.1154,
- "steamPlayers": 12880,
+ "rubyActive": 13,
+ "allActive": 165,
+ "rubyShare": 0.0788,
+ "steamPlayers": 12951,
  "rubyCutoff": 57424,
  "grinding": [
   {
-   "rank": 7,
-   "name": "normalize#0130",
-   "delta": 10,
-   "rankScore": 70253,
-   "club": "LUMN",
-   "twitch": "normalize"
-  },
-  {
-   "rank": 8,
-   "name": "stewj#8610",
-   "delta": 11,
-   "rankScore": 70143,
+   "rank": 26,
+   "name": "Bizzy#0005",
+   "delta": 39,
+   "rankScore": 65553,
    "club": "NTMR",
-   "twitch": "stewj"
+   "twitch": "bizzy"
   },
   {
-   "rank": 388,
-   "name": "KesteR#3084",
-   "delta": 111,
-   "rankScore": 59086,
-   "club": "CHKSP",
+   "rank": 201,
+   "name": "ElMeroCapo#7266",
+   "delta": 95,
+   "rankScore": 60234,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 309,
+   "name": "NightTiger#7485",
+   "delta": 44,
+   "rankScore": 59635,
+   "club": "X82",
+   "twitch": null
+  },
+  {
+   "rank": 370,
+   "name": "CallMeJenga#3471",
+   "delta": -19,
+   "rankScore": 59242,
+   "club": "RS1",
    "twitch": null
   },
   {
    "rank": 396,
-   "name": "Daalfy#0018",
-   "delta": 112,
-   "rankScore": 59050,
-   "club": "KRUZT",
+   "name": "colak#0003",
+   "delta": 47,
+   "rankScore": 59056,
+   "club": "AYNON",
    "twitch": null
   },
   {
-   "rank": 438,
-   "name": "bynoir#1331",
-   "delta": 120,
-   "rankScore": 58474,
-   "club": "KOMPI",
+   "rank": 401,
+   "name": "Groesum#1462",
+   "delta": 113,
+   "rankScore": 59026,
+   "club": "YN",
    "twitch": null
   },
   {
-   "rank": 457,
-   "name": "Vega#2862",
-   "delta": -51,
-   "rankScore": 58160,
-   "club": "SCP55",
+   "rank": 420,
+   "name": "SUPREME#6786",
+   "delta": -117,
+   "rankScore": 58823,
+   "club": "3WEI",
    "twitch": null
   },
   {
-   "rank": 459,
-   "name": "BIGMIG#8364",
-   "delta": -50,
-   "rankScore": 58140,
-   "club": "UDAH0",
+   "rank": 455,
+   "name": "Aveil#1247",
+   "delta": -21,
+   "rankScore": 58264,
+   "club": "REACT",
    "twitch": null
   },
   {
-   "rank": 471,
-   "name": "Freshbattery#1495",
-   "delta": 128,
-   "rankScore": 57941,
-   "club": "KRUZT",
+   "rank": 456,
+   "name": "Velol#1623",
+   "delta": 123,
+   "rankScore": 58260,
+   "club": "THIIC",
    "twitch": null
   },
   {
-   "rank": 475,
-   "name": "EZPADRE#5220",
-   "delta": 55,
-   "rankScore": 57899,
-   "club": "WRCL",
+   "rank": 466,
+   "name": "mec#0490",
+   "delta": 54,
+   "rankScore": 58059,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 469,
+   "name": "GingerPlasma#4900",
+   "delta": -129,
+   "rankScore": 57996,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 487,
+   "name": "unfortunate#0650",
+   "delta": 131,
+   "rankScore": 57755,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 492,
+   "name": "BittyDiglett#0594",
+   "delta": 56,
+   "rankScore": 57699,
+   "club": "WINX",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T01:30:40Z",
-  "totalStreams": 227,
+  "checkedAt": "2026-10-15T01:40:40Z",
+  "totalStreams": 220,
   "rubyLive": [
-   {
-    "login": "balise",
-    "displayName": "Balise",
-    "title": "(DROPS) CALM LIL STREAM | SWEDEN BOUND | SCRIM VS HF",
-    "viewers": 254,
-    "startedAt": "2026-10-14T21:03:37Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
-    "rank": 3,
-    "name": "Balise#2431",
-    "rankScore": 71187,
-    "matchedBy": "name"
-   },
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "!DROPS | TOP 10 RANKED W STEW | !discord !sens !rank",
-    "viewers": 51,
+    "viewers": 59,
     "startedAt": "2026-10-14T23:28:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 7,
@@ -119,7 +139,7 @@
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED | VIBING",
-    "viewers": 96,
+    "viewers": 122,
     "startedAt": "2026-10-15T00:07:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 8,
@@ -131,7 +151,7 @@
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 6,
+    "viewers": 7,
     "startedAt": "2026-10-15T00:57:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 21,
@@ -143,19 +163,19 @@
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] AIMSNAP | jump scares for bits | THANK YOU GUYS FOR PARTNER PLUS 1/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 21,
+    "viewers": 38,
     "startedAt": "2026-10-15T01:21:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 26,
     "name": "Bizzy#0005",
-    "rankScore": 65514,
+    "rankScore": 65553,
     "matchedBy": "name"
    },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby",
-    "viewers": 40,
+    "viewers": 53,
     "startedAt": "2026-10-15T00:12:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 39,
@@ -167,7 +187,7 @@
     "login": "zetoniez",
     "displayName": "zetoniez",
     "title": "1# Sledge and Dagger?",
-    "viewers": 5,
+    "viewers": 9,
     "startedAt": "2026-10-14T23:55:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zetoniez-{width}x{height}.jpg",
     "rank": 64,
@@ -176,22 +196,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "yangdoun",
-    "displayName": "yangdoun",
-    "title": "Good morning NA Ranked | Korean | APE SQUAD | RANKED",
-    "viewers": 2,
-    "startedAt": "2026-10-14T20:36:46Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 145,
-    "name": "YangDoun#0398",
-    "rankScore": 60954,
-    "matchedBy": "name"
-   },
-   {
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Terrorizing Ruby | The Finals | Ruby Light Secured 60k",
-    "viewers": 3,
+    "viewers": 4,
     "startedAt": "2026-10-15T01:02:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
     "rank": 177,
@@ -203,10 +211,10 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(!drops) I'm The New VGG Coach - !Coach - Embark Partner - VGG Coach",
-    "viewers": 86,
+    "viewers": 134,
     "startedAt": "2026-10-14T23:26:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
-    "rank": 314,
+    "rank": 315,
     "name": "Appoh#9173",
     "rankScore": 59615,
     "matchedBy": "name"
@@ -214,18 +222,10 @@
   ],
   "titleMentions": [
    {
-    "login": "ollipuffs",
-    "displayName": "ollipuffs",
-    "title": "[18+] ✧ chill raids are upon us | TESTING NEW PVE MODE | ARC Raiders | !fish !tcg !ruby !hype !hug !lurk !socials",
-    "viewers": 6,
-    "startedAt": "2026-10-14T20:08:44Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ollipuffs-{width}x{height}.jpg"
-   },
-   {
     "login": "camp1033",
     "displayName": "Camp1033",
     "title": "Road to Top 500 on Power shift !!!",
-    "viewers": 6,
+    "viewers": 5,
     "startedAt": "2026-10-14T23:00:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_camp1033-{width}x{height}.jpg"
    },
@@ -233,17 +233,9 @@
     "login": "shinxjudas",
     "displayName": "SHINxJUDAS",
     "title": "i need ruby",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-10-15T00:50:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinxjudas-{width}x{height}.jpg"
-   },
-   {
-    "login": "10mode_",
-    "displayName": "10mode_",
-    "title": "The FINALS!! (Ranked Tournament's) Grind to RUBY!!",
-    "viewers": 2,
-    "startedAt": "2026-10-14T23:06:57Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
    },
    {
     "login": "doompr0phet",
@@ -276,20 +268,20 @@
   },
   "window": {
    "am": {
-    "ruby": 6,
-    "all": 44
+    "ruby": 9,
+    "all": 93
    },
    "eu": {
     "ruby": 1,
-    "all": 5
+    "all": 8
    },
    "ap": {
-    "ruby": 0,
-    "all": 1
+    "ruby": 1,
+    "all": 2
    },
    "unplaced": {
     "ruby": 2,
-    "all": 28
+    "all": 62
    }
   }
  },

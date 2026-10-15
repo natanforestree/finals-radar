@@ -1,37 +1,125 @@
 {
- "generatedAt": "2026-10-15T11:30:41Z",
+ "generatedAt": "2026-10-15T11:40:41Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-15T11:18:30Z",
+ "leaderboardUpdatedAt": "2026-10-15T11:33:34Z",
  "window": {
-  "from": "2026-10-15T11:04:01Z",
-  "to": "2026-10-15T11:18:30Z",
-  "minutes": 14.5
+  "from": "2026-10-15T11:18:30Z",
+  "to": "2026-10-15T11:33:34Z",
+  "minutes": 15.1
  },
- "rubyActive": 1,
- "allActive": 27,
- "rubyShare": 0.037,
- "steamPlayers": 6303,
+ "rubyActive": 12,
+ "allActive": 75,
+ "rubyShare": 0.16,
+ "steamPlayers": 6527,
  "rubyCutoff": 57651,
  "grinding": [
   {
-   "rank": 388,
-   "name": "GoodGirl#2247",
-   "delta": 111,
-   "rankScore": 59125,
-   "club": "PAY",
+   "rank": 18,
+   "name": "Que#2889",
+   "delta": 24,
+   "rankScore": 67526,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 323,
+   "name": "guyin#9374",
+   "delta": 104,
+   "rankScore": 59605,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 324,
+   "name": "Dizzy#3224",
+   "delta": -42,
+   "rankScore": 59603,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 361,
+   "name": "No.love#1098",
+   "delta": 109,
+   "rankScore": 59325,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 441,
+   "name": "Remember#1220",
+   "delta": 118,
+   "rankScore": 58588,
+   "club": "DMPRO",
+   "twitch": null
+  },
+  {
+   "rank": 458,
+   "name": "BittyDiglett#0594",
+   "delta": 122,
+   "rankScore": 58349,
+   "club": "WINX",
+   "twitch": null
+  },
+  {
+   "rank": 463,
+   "name": "mec#0490",
+   "delta": 123,
+   "rankScore": 58304,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 468,
+   "name": "youdead#9476",
+   "delta": 52,
+   "rankScore": 58228,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 475,
+   "name": "ToughTrap#3776",
+   "delta": 54,
+   "rankScore": 58089,
+   "club": "EXSIS",
+   "twitch": null
+  },
+  {
+   "rank": 477,
+   "name": "GrandSpark#5639",
+   "delta": -51,
+   "rankScore": 58067,
+   "club": "MOL",
+   "twitch": null
+  },
+  {
+   "rank": 487,
+   "name": "yevomsmttv#7212",
+   "delta": -52,
+   "rankScore": 57861,
+   "club": "PLSR",
+   "twitch": null
+  },
+  {
+   "rank": 490,
+   "name": "sinisterbob666#3137",
+   "delta": 131,
+   "rankScore": 57793,
+   "club": "DMA67",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T11:30:41Z",
-  "totalStreams": 53,
+  "checkedAt": "2026-10-15T11:40:41Z",
+  "totalStreams": 57,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "End of Season fun !drops !Youtube !Discord !Playlist",
-    "viewers": 28,
+    "viewers": 34,
     "startedAt": "2026-10-15T08:59:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 28,
@@ -43,7 +131,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "It's raining~ Asia Ranked | Korean | APE SQUAD | RANKED",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-10-15T05:30:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 146,
@@ -55,7 +143,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "(DROPS)!GIVEAWAY   !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 128,
+    "viewers": 133,
     "startedAt": "2026-10-15T06:52:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 171,
@@ -86,30 +174,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 214,
-   "all": 1736
+   "ruby": 213,
+   "all": 1735
   },
   "rubyByRegion": {
-   "am": 99,
+   "am": 98,
    "eu": 63,
    "ap": 52
   },
   "window": {
    "am": {
-    "ruby": 0,
-    "all": 0
+    "ruby": 1,
+    "all": 3
    },
    "eu": {
-    "ruby": 0,
-    "all": 7
+    "ruby": 3,
+    "all": 14
    },
    "ap": {
-    "ruby": 1,
-    "all": 9
+    "ruby": 4,
+    "all": 24
    },
    "unplaced": {
-    "ruby": 0,
-    "all": 11
+    "ruby": 4,
+    "all": 34
    }
   }
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T13:30:42Z",
+ "generatedAt": "2026-10-15T13:40:42Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-15T13:20:54Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 18,
  "allActive": 113,
  "rubyShare": 0.1593,
- "steamPlayers": 8125,
+ "steamPlayers": 8476,
  "rubyCutoff": 57705,
  "grinding": [
   {
@@ -160,14 +160,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T13:30:42Z",
-  "totalStreams": 73,
+  "checkedAt": "2026-10-15T13:40:42Z",
+  "totalStreams": 75,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "End of Season fun !drops !Youtube !Discord !Playlist",
-    "viewers": 61,
+    "viewers": 52,
     "startedAt": "2026-10-15T08:59:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 28,
@@ -179,7 +179,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "aaaaaaaaaaaaaaaaaaaaaaaa",
-    "viewers": 53,
+    "viewers": 41,
     "startedAt": "2026-10-15T12:14:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 47,
@@ -224,16 +224,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "bub1xreal",
-    "displayName": "bub1xreal",
-    "title": "the REAL ruby grind",
-    "viewers": 1,
-    "startedAt": "2026-10-15T12:45:44Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": false,

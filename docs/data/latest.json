@@ -1,245 +1,69 @@
 {
- "generatedAt": "2026-10-15T00:10:41Z",
+ "generatedAt": "2026-10-15T00:20:43Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-15T00:04:30Z",
+ "leaderboardUpdatedAt": "2026-10-15T00:18:19Z",
  "window": {
-  "from": "2026-10-14T23:33:30Z",
-  "to": "2026-10-15T00:04:30Z",
-  "minutes": 31.0
+  "from": "2026-10-15T00:04:30Z",
+  "to": "2026-10-15T00:18:19Z",
+  "minutes": 13.8
  },
- "rubyActive": 27,
- "allActive": 238,
- "rubyShare": 0.1134,
- "steamPlayers": 11891,
+ "rubyActive": 5,
+ "allActive": 88,
+ "rubyShare": 0.0568,
+ "steamPlayers": 12025,
  "rubyCutoff": 57424,
  "grinding": [
   {
    "rank": 2,
    "name": "BLAD3R#2825",
    "delta": 6,
-   "rankScore": 71289,
+   "rankScore": 71295,
    "club": "APES",
    "twitch": null
   },
   {
-   "rank": 7,
-   "name": "normalize#0130",
+   "rank": 6,
+   "name": "NV#8812",
    "delta": 10,
-   "rankScore": 70233,
-   "club": "LUMN",
-   "twitch": "normalize"
-  },
-  {
-   "rank": 8,
-   "name": "stewj#8610",
-   "delta": 11,
-   "rankScore": 70122,
-   "club": "NTMR",
-   "twitch": "stewj"
-  },
-  {
-   "rank": 103,
-   "name": "TwichJussAngellk#0030",
-   "delta": 73,
-   "rankScore": 62079,
-   "club": "MR",
+   "rankScore": 70251,
+   "club": "GOAT",
    "twitch": null
   },
   {
-   "rank": 117,
-   "name": "Clcfr#1949",
-   "delta": 33,
-   "rankScore": 61651,
-   "club": "DMA67",
+   "rank": 32,
+   "name": "Shadow#0466",
+   "delta": 44,
+   "rankScore": 65076,
+   "club": "LIAR",
    "twitch": null
   },
   {
-   "rank": 305,
-   "name": "NightTiger#7485",
-   "delta": 103,
-   "rankScore": 59697,
-   "club": "X82",
-   "twitch": null
-  },
-  {
-   "rank": 355,
-   "name": "hemorrhoids#5831",
-   "delta": 108,
-   "rankScore": 59328,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 358,
-   "name": "II#0728",
-   "delta": 108,
-   "rankScore": 59315,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 380,
-   "name": "colak#0003",
-   "delta": 111,
-   "rankScore": 59123,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 384,
-   "name": "marco#0514",
-   "delta": 47,
-   "rankScore": 59107,
-   "club": "ABG4",
-   "twitch": null
-  },
-  {
-   "rank": 387,
-   "name": "cz#4360",
-   "delta": 111,
-   "rankScore": 59091,
-   "club": "XME0W",
-   "twitch": null
-  },
-  {
-   "rank": 409,
+   "rank": 400,
    "name": "Az#1693",
-   "delta": 114,
-   "rankScore": 58905,
+   "delta": 112,
+   "rankScore": 59017,
    "club": "HF",
    "twitch": null
   },
   {
-   "rank": 415,
-   "name": "KesteR#3084",
-   "delta": 115,
-   "rankScore": 58862,
-   "club": "CHKSP",
-   "twitch": null
-  },
-  {
-   "rank": 419,
-   "name": "Daalfy#0018",
-   "delta": 115,
-   "rankScore": 58825,
-   "club": "KRUZT",
-   "twitch": null
-  },
-  {
-   "rank": 422,
-   "name": "Groesum#1462",
-   "delta": 115,
-   "rankScore": 58799,
-   "club": "YN",
-   "twitch": null
-  },
-  {
-   "rank": 424,
-   "name": "Mario_vmanTTV#9301",
-   "delta": 116,
-   "rankScore": 58746,
-   "club": "ABG4",
-   "twitch": null
-  },
-  {
-   "rank": 426,
-   "name": "Twitch-jumparau#4160",
-   "delta": 117,
-   "rankScore": 58724,
-   "club": "RDBT",
-   "twitch": null
-  },
-  {
-   "rank": 451,
-   "name": "bynoir#1331",
-   "delta": -98,
-   "rankScore": 58302,
-   "club": "KOMPI",
-   "twitch": null
-  },
-  {
-   "rank": 454,
-   "name": "Aveil#1247",
-   "delta": -50,
-   "rankScore": 58212,
-   "club": "REACT",
-   "twitch": null
-  },
-  {
-   "rank": 458,
-   "name": "Shout#7486",
-   "delta": 126,
-   "rankScore": 58123,
+   "rank": 434,
+   "name": "WhyYouMad#3600",
+   "delta": 129,
+   "rankScore": 58564,
    "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 464,
-   "name": "Vega#2862",
-   "delta": 126,
-   "rankScore": 58087,
-   "club": "SCP55",
-   "twitch": null
-  },
-  {
-   "rank": 465,
-   "name": "BIGMIG#8364",
-   "delta": 127,
-   "rankScore": 58066,
-   "club": "UDAH0",
-   "twitch": null
-  },
-  {
-   "rank": 468,
-   "name": "Velol#1623",
-   "delta": -76,
-   "rankScore": 58012,
-   "club": "THIIC",
-   "twitch": null
-  },
-  {
-   "rank": 479,
-   "name": "SkilledTiger#1668",
-   "delta": 155,
-   "rankScore": 57789,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 481,
-   "name": "BittyDiglett#0594",
-   "delta": 130,
-   "rankScore": 57777,
-   "club": "WINX",
-   "twitch": null
-  },
-  {
-   "rank": 490,
-   "name": "UhhhYeah999#8925",
-   "delta": 132,
-   "rankScore": 57692,
-   "club": "ZI4",
-   "twitch": null
-  },
-  {
-   "rank": 491,
-   "name": "Freshbattery#1495",
-   "delta": 132,
-   "rankScore": 57683,
-   "club": "KRUZT",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T00:10:41Z",
+  "checkedAt": "2026-10-15T00:20:43Z",
   "totalStreams": 209,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(DROPS) CALM LIL STREAM | SWEDEN BOUND | SCRIM VS HF",
-    "viewers": 216,
+    "viewers": 207,
     "startedAt": "2026-10-14T21:03:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
@@ -251,7 +75,7 @@
     "login": "normalize",
     "displayName": "normalize",
     "title": "!DROPS | TOP 10 RANKED W STEW | !discord !sens !rank",
-    "viewers": 38,
+    "viewers": 35,
     "startedAt": "2026-10-14T23:28:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 7,
@@ -263,7 +87,7 @@
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED | VIBING",
-    "viewers": 1,
+    "viewers": 33,
     "startedAt": "2026-10-15T00:07:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 8,
@@ -272,10 +96,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[Drops] Top 30 Ruby",
+    "viewers": 16,
+    "startedAt": "2026-10-15T00:12:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 39,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 64833,
+    "matchedBy": "name"
+   },
+   {
     "login": "zetoniez",
     "displayName": "zetoniez",
     "title": "1# Sledge dagger duo at it again again",
-    "viewers": 8,
+    "viewers": 18,
     "startedAt": "2026-10-14T23:55:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zetoniez-{width}x{height}.jpg",
     "rank": 64,
@@ -299,7 +135,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 205,
+    "viewers": 184,
     "startedAt": "2026-10-14T17:55:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 166,
@@ -311,7 +147,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(!drops) I'm The New VGG Coach - !Coach - Embark Partner - VGG Coach",
-    "viewers": 66,
+    "viewers": 85,
     "startedAt": "2026-10-14T23:26:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 316,
@@ -322,26 +158,26 @@
   ],
   "titleMentions": [
    {
-    "login": "ollipuffs",
-    "displayName": "ollipuffs",
-    "title": "[18+] ✧ chill raids are upon us | TESTING NEW PVE MODE | ARC Raiders | !fish !tcg !ruby !hype !hug !lurk !socials",
-    "viewers": 9,
-    "startedAt": "2026-10-14T20:08:44Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ollipuffs-{width}x{height}.jpg"
-   },
-   {
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 7,
+    "viewers": 9,
     "startedAt": "2026-10-14T23:20:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
+   },
+   {
+    "login": "ollipuffs",
+    "displayName": "ollipuffs",
+    "title": "[18+] ✧ chill raids are upon us | TESTING NEW PVE MODE | ARC Raiders | !fish !tcg !ruby !hype !hug !lurk !socials",
+    "viewers": 7,
+    "startedAt": "2026-10-14T20:08:44Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ollipuffs-{width}x{height}.jpg"
    },
    {
     "login": "camp1033",
     "displayName": "Camp1033",
     "title": "Road to Top 500 on Power shift !!!",
-    "viewers": 3,
+    "viewers": 4,
     "startedAt": "2026-10-14T23:00:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_camp1033-{width}x{height}.jpg"
    },
@@ -359,7 +195,7 @@
   "ready": false,
   "placed": {
    "ruby": 205,
-   "all": 1641
+   "all": 1643
   },
   "rubyByRegion": {
    "am": 90,
@@ -368,20 +204,20 @@
   },
   "window": {
    "am": {
-    "ruby": 18,
-    "all": 112
+    "ruby": 4,
+    "all": 34
    },
    "eu": {
-    "ruby": 3,
-    "all": 30
+    "ruby": 1,
+    "all": 5
    },
    "ap": {
-    "ruby": 1,
-    "all": 4
+    "ruby": 0,
+    "all": 1
    },
    "unplaced": {
-    "ruby": 5,
-    "all": 92
+    "ruby": 0,
+    "all": 48
    }
   }
  },

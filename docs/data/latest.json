@@ -1,103 +1,159 @@
 {
- "generatedAt": "2026-10-15T17:17:57Z",
+ "generatedAt": "2026-10-15T17:20:42Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-15T16:48:02Z",
+ "leaderboardUpdatedAt": "2026-10-15T17:18:19Z",
  "window": {
-  "from": "2026-10-15T16:21:23Z",
-  "to": "2026-10-15T16:48:02Z",
-  "minutes": 26.6
+  "from": "2026-10-15T16:48:02Z",
+  "to": "2026-10-15T17:18:19Z",
+  "minutes": 30.3
  },
- "rubyActive": 10,
- "allActive": 142,
- "rubyShare": 0.0704,
- "steamPlayers": 12625,
+ "rubyActive": 17,
+ "allActive": 235,
+ "rubyShare": 0.0723,
+ "steamPlayers": 12494,
  "rubyCutoff": 57651,
  "grinding": [
   {
+   "rank": 16,
+   "name": "AOSHI#5527",
+   "delta": 24,
+   "rankScore": 67711,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
    "rank": 18,
    "name": "Que#2889",
-   "delta": -9,
-   "rankScore": 67534,
+   "delta": 24,
+   "rankScore": 67558,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 60,
-   "name": "Best#8421",
-   "delta": 60,
-   "rankScore": 63326,
+   "rank": 39,
+   "name": "Aleksexy#5957",
+   "delta": 45,
+   "rankScore": 64837,
    "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 106,
+   "rank": 105,
    "name": "bubbo#2101",
-   "delta": 31,
-   "rankScore": 62006,
+   "delta": 32,
+   "rankScore": 62038,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 132,
+   "rank": 136,
    "name": "Midnight#3042",
-   "delta": 82,
-   "rankScore": 61273,
+   "delta": -33,
+   "rankScore": 61240,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 288,
-   "name": "NightTiger#7485",
-   "delta": 100,
-   "rankScore": 59936,
-   "club": "X82",
+   "rank": 365,
+   "name": "Borderless#0523",
+   "delta": 108,
+   "rankScore": 59322,
+   "club": "SEITN",
    "twitch": null
   },
   {
-   "rank": 329,
-   "name": "colak#0003",
-   "delta": 105,
-   "rankScore": 59590,
-   "club": "AYNON",
+   "rank": 379,
+   "name": "SandInMyHoles#9355",
+   "delta": 109,
+   "rankScore": 59235,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 447,
+   "rank": 394,
+   "name": "Snafu#3644",
+   "delta": 111,
+   "rankScore": 59124,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 442,
    "name": "tikiman#0069",
-   "delta": -31,
-   "rankScore": 58486,
+   "delta": 118,
+   "rankScore": 58604,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 460,
+   "rank": 445,
+   "name": "MVP666#8626",
+   "delta": 2,
+   "rankScore": 58569,
+   "club": "WAIM",
+   "twitch": null
+  },
+  {
+   "rank": 456,
    "name": "NumberMan#7434",
-   "delta": 52,
-   "rankScore": 58375,
+   "delta": 51,
+   "rankScore": 58426,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 466,
+   "rank": 464,
    "name": "Vedaa#5145",
    "delta": 52,
-   "rankScore": 58274,
+   "rankScore": 58326,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 498,
+   "rank": 472,
+   "name": "Lizaminusmoral#0909",
+   "delta": 130,
+   "rankScore": 58186,
+   "club": "1BFR",
+   "twitch": null
+  },
+  {
+   "rank": 485,
+   "name": "ky#0234",
+   "delta": 128,
+   "rankScore": 57925,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 488,
+   "name": "YeahHealthyTTV#0175",
+   "delta": 128,
+   "rankScore": 57913,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 492,
    "name": "ToughTrap#3776",
-   "delta": -244,
-   "rankScore": 57697,
+   "delta": 130,
+   "rankScore": 57827,
    "club": "EXSIS",
+   "twitch": null
+  },
+  {
+   "rank": 493,
+   "name": "Falcon_Yinx#4513",
+   "delta": 130,
+   "rankScore": 57811,
+   "club": "GOLOD",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T17:17:57Z",
-  "totalStreams": 141,
+  "checkedAt": "2026-10-15T17:20:42Z",
+  "totalStreams": 131,
   "rubyLive": [
    {
     "login": "skreydeen",
@@ -115,7 +171,7 @@
     "login": "straightkix",
     "displayName": "straightkix",
     "title": "Handcam Chillin until season 12 pro med !sens.",
-    "viewers": 4,
+    "viewers": 2,
     "startedAt": "2026-10-15T15:52:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_straightkix-{width}x{height}.jpg",
     "rank": 178,
@@ -127,7 +183,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED - sans lag c'est possible ouuuu",
-    "viewers": 11,
+    "viewers": 13,
     "startedAt": "2026-10-15T14:52:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 224,
@@ -151,7 +207,7 @@
   "ready": false,
   "placed": {
    "ruby": 216,
-   "all": 1749
+   "all": 1750
   },
   "rubyByRegion": {
    "am": 95,
@@ -160,20 +216,20 @@
   },
   "window": {
    "am": {
-    "ruby": 2,
-    "all": 16
+    "ruby": 1,
+    "all": 24
    },
    "eu": {
-    "ruby": 5,
-    "all": 47
+    "ruby": 8,
+    "all": 93
    },
    "ap": {
-    "ruby": 3,
-    "all": 9
+    "ruby": 5,
+    "all": 15
    },
    "unplaced": {
-    "ruby": 0,
-    "all": 70
+    "ruby": 3,
+    "all": 103
    }
   }
  },

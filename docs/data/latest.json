@@ -1,197 +1,37 @@
 {
- "generatedAt": "2026-10-15T11:10:42Z",
+ "generatedAt": "2026-10-15T11:20:41Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-15T11:04:01Z",
+ "leaderboardUpdatedAt": "2026-10-15T11:18:30Z",
  "window": {
-  "from": "2026-10-15T10:32:33Z",
-  "to": "2026-10-15T11:04:01Z",
-  "minutes": 31.5
+  "from": "2026-10-15T11:04:01Z",
+  "to": "2026-10-15T11:18:30Z",
+  "minutes": 14.5
  },
- "rubyActive": 21,
- "allActive": 105,
- "rubyShare": 0.2,
- "steamPlayers": 6145,
+ "rubyActive": 1,
+ "allActive": 27,
+ "rubyShare": 0.037,
+ "steamPlayers": 6213,
  "rubyCutoff": 57651,
  "grinding": [
   {
-   "rank": 1,
-   "name": "FreeTTV-BurkePOV#0455",
-   "delta": 5,
-   "rankScore": 71425,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 4,
-   "name": "carnifex#7330",
-   "delta": 8,
-   "rankScore": 70872,
-   "club": "5F",
-   "twitch": null
-  },
-  {
-   "rank": 18,
-   "name": "Que#2889",
-   "delta": -10,
-   "rankScore": 67502,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 28,
-   "name": "perzzonTTV#5485",
-   "delta": 40,
-   "rankScore": 65412,
-   "club": "PRZN",
-   "twitch": "perzzon"
-  },
-  {
-   "rank": 83,
-   "name": "ToastFlawlessTTV#0617",
-   "delta": 67,
-   "rankScore": 62680,
-   "club": "ZZ",
-   "twitch": null
-  },
-  {
-   "rank": 156,
-   "name": "Sly#1640",
-   "delta": 90,
-   "rankScore": 60733,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 314,
-   "name": "Dizzy#3224",
-   "delta": 104,
-   "rankScore": 59645,
-   "club": "ZZ",
-   "twitch": null
-  },
-  {
-   "rank": 335,
-   "name": "guyin#9374",
-   "delta": 106,
-   "rankScore": 59501,
-   "club": "KNGZ",
-   "twitch": null
-  },
-  {
-   "rank": 367,
-   "name": "colak#0003",
-   "delta": 109,
-   "rankScore": 59275,
-   "club": "AYNON",
-   "twitch": null
-  },
-  {
-   "rank": 377,
-   "name": "No.love#1098",
-   "delta": 109,
-   "rankScore": 59216,
-   "club": "KNGZ",
-   "twitch": null
-  },
-  {
-   "rank": 414,
-   "name": "TikTok-Colada#0392",
-   "delta": 113,
-   "rankScore": 58978,
-   "club": "M0RVA",
-   "twitch": null
-  },
-  {
-   "rank": 451,
-   "name": "Remember#1220",
-   "delta": 120,
-   "rankScore": 58470,
-   "club": "DMPRO",
-   "twitch": null
-  },
-  {
-   "rank": 459,
-   "name": "Etiquette#6690",
-   "delta": 122,
-   "rankScore": 58342,
-   "club": "OG",
-   "twitch": null
-  },
-  {
-   "rank": 464,
-   "name": "SaturdayTasogare#0030",
-   "delta": 123,
-   "rankScore": 58242,
-   "club": "TBRRW",
-   "twitch": null
-  },
-  {
-   "rank": 466,
-   "name": "BittyDiglett#0594",
-   "delta": 52,
-   "rankScore": 58227,
-   "club": "WINX",
-   "twitch": null
-  },
-  {
-   "rank": 469,
-   "name": "mec#0490",
-   "delta": 52,
-   "rankScore": 58181,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 470,
-   "name": "youdead#9476",
-   "delta": 125,
-   "rankScore": 58176,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 472,
-   "name": "GrandSpark#5639",
-   "delta": 125,
-   "rankScore": 58118,
-   "club": "MOL",
-   "twitch": null
-  },
-  {
-   "rank": 485,
-   "name": "yevomsmttv#7212",
-   "delta": 128,
-   "rankScore": 57913,
-   "club": "PLSR",
-   "twitch": null
-  },
-  {
-   "rank": 489,
-   "name": "Cinci#3449",
-   "delta": -263,
-   "rankScore": 57827,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 499,
-   "name": "sinisterbob666#3137",
-   "delta": 132,
-   "rankScore": 57662,
-   "club": "DMA67",
+   "rank": 388,
+   "name": "GoodGirl#2247",
+   "delta": 111,
+   "rankScore": 59125,
+   "club": "PAY",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T11:10:42Z",
-  "totalStreams": 48,
+  "checkedAt": "2026-10-15T11:20:41Z",
+  "totalStreams": 50,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "End of Season fun !drops !Youtube !Discord !Playlist",
-    "viewers": 35,
+    "viewers": 40,
     "startedAt": "2026-10-15T08:59:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 28,
@@ -203,7 +43,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "It's raining~ Asia Ranked | Korean | APE SQUAD | RANKED",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-10-15T05:30:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 146,
@@ -215,7 +55,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "(DROPS)!GIVEAWAY   !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 139,
+    "viewers": 137,
     "startedAt": "2026-10-15T06:52:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 171,
@@ -229,7 +69,7 @@
     "login": "aleksagamemaster",
     "displayName": "AleksaGameMaster",
     "title": "Reaching gold on my way to Ruby Day 2┃Stream 2┃",
-    "viewers": 3,
+    "viewers": 2,
     "startedAt": "2026-10-15T10:04:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aleksagamemaster-{width}x{height}.jpg"
    },
@@ -246,30 +86,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 213,
-   "all": 1735
+   "ruby": 214,
+   "all": 1736
   },
   "rubyByRegion": {
    "am": 99,
    "eu": 63,
-   "ap": 51
+   "ap": 52
   },
   "window": {
    "am": {
-    "ruby": 5,
-    "all": 5
+    "ruby": 0,
+    "all": 0
    },
    "eu": {
-    "ruby": 4,
-    "all": 19
+    "ruby": 0,
+    "all": 7
    },
    "ap": {
-    "ruby": 7,
-    "all": 31
+    "ruby": 1,
+    "all": 9
    },
    "unplaced": {
-    "ruby": 5,
-    "all": 50
+    "ruby": 0,
+    "all": 11
    }
   }
  },

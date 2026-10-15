@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T19:00:41Z",
+ "generatedAt": "2026-10-15T19:10:44Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-15T18:51:56Z",
  "window": {
@@ -152,9 +152,21 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T19:00:41Z",
-  "totalStreams": 146,
+  "checkedAt": "2026-10-15T19:10:44Z",
+  "totalStreams": 156,
   "rubyLive": [
+   {
+    "login": "balise",
+    "displayName": "Balise",
+    "title": "(DROPS) PRO PUGS | SWEDEN BOUND | SCRIM VS PULSAR",
+    "viewers": 38,
+    "startedAt": "2026-10-15T19:06:01Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
+    "rank": 3,
+    "name": "Balise#2431",
+    "rankScore": 71187,
+    "matchedBy": "name"
+   },
    {
     "login": "skreydeen",
     "displayName": "SkreyDeen",
@@ -171,7 +183,7 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "AIM AND LOVE | DROP",
-    "viewers": 31,
+    "viewers": 24,
     "startedAt": "2026-10-15T17:56:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 413,
@@ -182,6 +194,14 @@
   ],
   "titleMentions": [
    {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "light ruby / SCRIMMMMM !!!!!!!!",
+    "viewers": 2,
+    "startedAt": "2026-10-15T18:31:53Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
+   },
+   {
     "login": "egman39",
     "displayName": "egman39",
     "title": "TOP 500 GRIND W/ FOLLOWERS",
@@ -190,12 +210,12 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
    },
    {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "light ruby / SCRIMMMMM !!!!!!!!",
+    "login": "bub1xreal",
+    "displayName": "bub1xreal",
+    "title": "the REAL ruby grind",
     "viewers": 2,
-    "startedAt": "2026-10-15T18:31:53Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
+    "startedAt": "2026-10-15T19:00:14Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
    }
   ]
  },

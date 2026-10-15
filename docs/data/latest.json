@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T06:50:40Z",
+ "generatedAt": "2026-10-15T07:01:10Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-15T06:36:19Z",
  "window": {
@@ -19,7 +19,7 @@
    "delta": 9,
    "rankScore": 70340,
    "club": "LUMN",
-   "twitch": "normalize"
+   "twitch": null
   },
   {
    "rank": 8,
@@ -160,26 +160,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T06:50:40Z",
-  "totalStreams": 108,
+  "checkedAt": "2026-10-15T07:01:10Z",
+  "totalStreams": 99,
   "rubyLive": [
-   {
-    "login": "normalize",
-    "displayName": "normalize",
-    "title": "!DROPS | TOP 10 RANKED W STEW | !discord !sens !rank",
-    "viewers": 78,
-    "startedAt": "2026-10-14T23:28:28Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
-    "rank": 5,
-    "name": "normalize#0130",
-    "rankScore": 70340,
-    "matchedBy": "name"
-   },
    {
     "login": "stewj",
     "displayName": "stewj",
     "title": "(DROPS) RANKED | VIBING",
-    "viewers": 179,
+    "viewers": 191,
     "startedAt": "2026-10-15T00:07:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 8,
@@ -191,12 +179,24 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby",
-    "viewers": 67,
+    "viewers": 75,
     "startedAt": "2026-10-15T00:12:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 39,
     "name": "Digcron.TTV#3309",
     "rankScore": 64833,
+    "matchedBy": "name"
+   },
+   {
+    "login": "knot4long",
+    "displayName": "knot4long",
+    "title": "#94 RUBY PLAYER LET PLAY WITH FRIENDS🌸",
+    "viewers": 0,
+    "startedAt": "2026-10-15T06:50:02Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
+    "rank": 94,
+    "name": "TTV_KNOT_4_LONG#7729",
+    "rankScore": 62206,
     "matchedBy": "name"
    },
    {
@@ -229,7 +229,7 @@
     "login": "barbarous_tf",
     "displayName": "barbarous_tf",
     "title": "FACECAM | Ruby Grind | The Finals",
-    "viewers": 3,
+    "viewers": 2,
     "startedAt": "2026-10-15T05:16:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
    },

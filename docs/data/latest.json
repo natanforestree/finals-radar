@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T17:20:42Z",
+ "generatedAt": "2026-10-15T17:30:41Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-15T17:18:19Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 17,
  "allActive": 235,
  "rubyShare": 0.0723,
- "steamPlayers": 12494,
+ "steamPlayers": 12827,
  "rubyCutoff": 57651,
  "grinding": [
   {
@@ -152,14 +152,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T17:20:42Z",
-  "totalStreams": 131,
+  "checkedAt": "2026-10-15T17:30:41Z",
+  "totalStreams": 140,
   "rubyLive": [
    {
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Pew-Pew on ranked",
-    "viewers": 2,
+    "viewers": 4,
     "startedAt": "2026-10-15T16:43:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 130,
@@ -171,7 +171,7 @@
     "login": "straightkix",
     "displayName": "straightkix",
     "title": "Handcam Chillin until season 12 pro med !sens.",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-15T15:52:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_straightkix-{width}x{height}.jpg",
     "rank": 178,
@@ -183,7 +183,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED - sans lag c'est possible ouuuu",
-    "viewers": 13,
+    "viewers": 10,
     "startedAt": "2026-10-15T14:52:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 224,
@@ -194,12 +194,28 @@
   ],
   "titleMentions": [
    {
+    "login": "aegis_razor",
+    "displayName": "aegis_razor",
+    "title": "The Finals <> Dia,Ruby push<>VS Ruby player<> global top 10K <> Peak 2K",
+    "viewers": 2,
+    "startedAt": "2026-10-15T17:23:30Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aegis_razor-{width}x{height}.jpg"
+   },
+   {
     "login": "progamerdx1",
     "displayName": "progamerdx1",
     "title": "1vs1 KING TOP 500",
     "viewers": 1,
     "startedAt": "2026-10-15T15:04:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_progamerdx1-{width}x{height}.jpg"
+   },
+   {
+    "login": "egman39",
+    "displayName": "egman39",
+    "title": "TOP 500 GRIND W/ FOLLOWERS",
+    "viewers": 0,
+    "startedAt": "2026-10-15T17:29:51Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
    }
   ]
  },
@@ -233,5 +249,5 @@
    }
   }
  },
- "source": "embark"
+ "source": "community"
 }

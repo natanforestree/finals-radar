@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T22:00:40Z",
+ "generatedAt": "2026-10-15T22:10:41Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-15T21:50:42Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 21,
  "allActive": 250,
  "rubyShare": 0.084,
- "steamPlayers": 12864,
+ "steamPlayers": 12757,
  "rubyCutoff": 57720,
  "grinding": [
   {
@@ -184,10 +184,18 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T22:00:40Z",
-  "totalStreams": 136,
+  "checkedAt": "2026-10-15T22:10:41Z",
+  "totalStreams": 154,
   "rubyLive": [],
   "titleMentions": [
+   {
+    "login": "barbarous_tf",
+    "displayName": "barbarous_tf",
+    "title": "FACECAM | Ruby Grind | The Finals",
+    "viewers": 2,
+    "startedAt": "2026-10-15T21:24:42Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
+   },
    {
     "login": "v8_karma",
     "displayName": "V8_Karma",
@@ -195,22 +203,6 @@
     "viewers": 1,
     "startedAt": "2026-10-15T20:11:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
-   },
-   {
-    "login": "thelastniah",
-    "displayName": "thelastniah",
-    "title": "Finals Duo Ruby grind",
-    "viewers": 1,
-    "startedAt": "2026-10-15T19:56:28Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thelastniah-{width}x{height}.jpg"
-   },
-   {
-    "login": "barbarous_tf",
-    "displayName": "barbarous_tf",
-    "title": "FACECAM | Ruby Grind | The Finals",
-    "viewers": 1,
-    "startedAt": "2026-10-15T21:24:42Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
    },
    {
     "login": "hendri_ksontv",
@@ -227,6 +219,14 @@
     "viewers": 1,
     "startedAt": "2026-10-15T20:58:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omega98000-{width}x{height}.jpg"
+   },
+   {
+    "login": "thelastniah",
+    "displayName": "thelastniah",
+    "title": "Finals Duo Ruby grind",
+    "viewers": 1,
+    "startedAt": "2026-10-15T19:56:28Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thelastniah-{width}x{height}.jpg"
    },
    {
     "login": "pikatsuu7",

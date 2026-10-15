@@ -1,71 +1,95 @@
 {
- "generatedAt": "2026-10-15T08:40:42Z",
+ "generatedAt": "2026-10-15T08:50:41Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-15T08:25:00Z",
+ "leaderboardUpdatedAt": "2026-10-15T08:40:13Z",
  "window": {
-  "from": "2026-10-15T08:09:30Z",
-  "to": "2026-10-15T08:25:00Z",
-  "minutes": 15.5
+  "from": "2026-10-15T08:25:00Z",
+  "to": "2026-10-15T08:40:13Z",
+  "minutes": 15.2
  },
- "rubyActive": 6,
- "allActive": 55,
- "rubyShare": 0.1091,
- "steamPlayers": 5238,
- "rubyCutoff": 57605,
+ "rubyActive": 9,
+ "allActive": 85,
+ "rubyShare": 0.1059,
+ "steamPlayers": 5249,
+ "rubyCutoff": 57614,
  "grinding": [
   {
-   "rank": 18,
-   "name": "Que#2889",
-   "delta": -25,
-   "rankScore": 67487,
+   "rank": 103,
+   "name": "TTV_KNOT_4_LONG#7729",
+   "delta": -121,
+   "rankScore": 62085,
+   "club": "ALL",
+   "twitch": "knot4long"
+  },
+  {
+   "rank": 442,
+   "name": "GrandSpark#5639",
+   "delta": 51,
+   "rankScore": 58522,
+   "club": "MOL",
+   "twitch": null
+  },
+  {
+   "rank": 444,
+   "name": "TikTok-Colada#0392",
+   "delta": 120,
+   "rankScore": 58516,
+   "club": "M0RVA",
+   "twitch": null
+  },
+  {
+   "rank": 448,
+   "name": "NATSU#8840",
+   "delta": 51,
+   "rankScore": 58476,
+   "club": "RR",
+   "twitch": null
+  },
+  {
+   "rank": 478,
+   "name": "ToughTrap#3776",
+   "delta": 127,
+   "rankScore": 57981,
+   "club": "EXSIS",
+   "twitch": null
+  },
+  {
+   "rank": 479,
+   "name": "BittyDiglett#0594",
+   "delta": 127,
+   "rankScore": 57975,
+   "club": "WINX",
+   "twitch": null
+  },
+  {
+   "rank": 481,
+   "name": "mec#0490",
+   "delta": 128,
+   "rankScore": 57928,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 72,
-   "name": "Pericolocote818#1005",
-   "delta": 63,
-   "rankScore": 62939,
-   "club": "ZZ",
+   "rank": 486,
+   "name": "youdead#9476",
+   "delta": 129,
+   "rankScore": 57870,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 207,
-   "name": "EkaZo#5318",
-   "delta": 97,
-   "rankScore": 60182,
-   "club": "GOONU",
+   "rank": 495,
+   "name": "SaturdayTasogare#0030",
+   "delta": 132,
+   "rankScore": 57737,
+   "club": "TBRRW",
    "twitch": null
-  },
-  {
-   "rank": 332,
-   "name": "ryze#6212",
-   "delta": 106,
-   "rankScore": 59530,
-   "club": "WAIM",
-   "twitch": null
-  },
-  {
-   "rank": 382,
-   "name": "Seek#2167",
-   "delta": 111,
-   "rankScore": 59143,
-   "club": "5F",
-   "twitch": null
-  },
-  {
-   "rank": 460,
-   "name": "Antiparty#0866",
-   "delta": 122,
-   "rankScore": 58325,
-   "club": "GOONU",
-   "twitch": "antiparty"
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-15T08:40:42Z",
-  "totalStreams": 63,
+  "checkedAt": "2026-10-15T08:50:41Z",
+  "totalStreams": 71,
   "rubyLive": [
    {
     "login": "knot4long",
@@ -74,16 +98,16 @@
     "viewers": 5,
     "startedAt": "2026-10-15T06:50:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
-    "rank": 94,
+    "rank": 103,
     "name": "TTV_KNOT_4_LONG#7729",
-    "rankScore": 62206,
+    "rankScore": 62085,
     "matchedBy": "name"
    },
    {
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "It's raining~ Asia Ranked | Korean | APE SQUAD | RANKED",
-    "viewers": 2,
+    "viewers": 4,
     "startedAt": "2026-10-15T05:30:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 146,
@@ -95,7 +119,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "(DROPS)!GIVEAWAY   !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 147,
+    "viewers": 149,
     "startedAt": "2026-10-15T06:52:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 170,
@@ -107,7 +131,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 5,
+    "viewers": 7,
     "startedAt": "2026-10-14T21:22:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 460,
@@ -121,7 +145,7 @@
     "login": "barbarous_tf",
     "displayName": "barbarous_tf",
     "title": "FACECAM | Ruby Grind | The Finals",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-10-15T05:16:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
    }
@@ -130,30 +154,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 212,
-   "all": 1717
+   "ruby": 213,
+   "all": 1721
   },
   "rubyByRegion": {
    "am": 99,
    "eu": 63,
-   "ap": 50
+   "ap": 51
   },
   "window": {
    "am": {
-    "ruby": 2,
-    "all": 11
+    "ruby": 3,
+    "all": 15
    },
    "eu": {
     "ruby": 1,
-    "all": 2
+    "all": 7
    },
    "ap": {
-    "ruby": 1,
-    "all": 12
+    "ruby": 4,
+    "all": 24
    },
    "unplaced": {
-    "ruby": 2,
-    "all": 30
+    "ruby": 1,
+    "all": 39
    }
   }
  },

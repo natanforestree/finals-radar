@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T07:30:41Z",
+ "generatedAt": "2026-10-16T07:40:41Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-16T07:30:41Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 20,
  "allActive": 135,
  "rubyShare": 0.1481,
- "steamPlayers": 6623,
+ "steamPlayers": 6376,
  "rubyCutoff": 57836,
  "grinding": [
   {
@@ -176,14 +176,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-16T07:30:41Z",
-  "totalStreams": 77,
+  "checkedAt": "2026-10-16T07:40:41Z",
+  "totalStreams": 84,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[Drops] Top 30 Ruby",
-    "viewers": 83,
+    "viewers": 120,
     "startedAt": "2026-10-16T00:22:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 43,
@@ -219,12 +219,12 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 14,
+    "viewers": 6,
     "startedAt": "2026-10-16T05:00:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 498,
+    "rank": 491,
     "name": "Antiparty#0866",
-    "rankScore": 57862,
+    "rankScore": 57990,
     "matchedBy": "name"
    }
   ],
@@ -277,5 +277,5 @@
    }
   }
  },
- "source": "community"
+ "source": "embark"
 }

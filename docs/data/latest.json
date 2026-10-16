@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T21:50:42Z",
+ "generatedAt": "2026-10-16T22:00:43Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-16T21:33:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 28,
  "allActive": 231,
  "rubyShare": 0.1212,
- "steamPlayers": 15815,
+ "steamPlayers": 15540,
  "rubyCutoff": 57924,
  "grinding": [
   {
@@ -131,7 +131,7 @@
    "delta": 103,
    "rankScore": 59668,
    "club": "FRZ1",
-   "twitch": "pacolemttv"
+   "twitch": null
   },
   {
    "rank": 350,
@@ -240,14 +240,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-16T21:50:42Z",
-  "totalStreams": 208,
+  "checkedAt": "2026-10-16T22:00:43Z",
+  "totalStreams": 199,
   "rubyLive": [
    {
     "login": "lamp",
     "displayName": "lamp",
     "title": "viscous main tries the finals !youtube | lampischiller lampisLuminon",
-    "viewers": 122,
+    "viewers": 92,
     "startedAt": "2026-10-16T21:23:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 57,
@@ -259,7 +259,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Pew-Pew on ranked",
-    "viewers": 9,
+    "viewers": 12,
     "startedAt": "2026-10-16T18:36:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 118,
@@ -271,7 +271,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive on Freaky Friday | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 85,
+    "viewers": 83,
     "startedAt": "2026-10-16T20:31:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 171,
@@ -283,7 +283,7 @@
     "login": "detaail",
     "displayName": "DeTaaiL",
     "title": "Rankular",
-    "viewers": 6,
+    "viewers": 11,
     "startedAt": "2026-10-16T20:13:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_detaail-{width}x{height}.jpg",
     "rank": 279,
@@ -292,22 +292,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "pacolemttv",
-    "displayName": "PacolemTTV",
-    "title": "AIM AND LOVE | DROP",
-    "viewers": 33,
-    "startedAt": "2026-10-16T18:46:39Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
-    "rank": 326,
-    "name": "PacolemTTV#0439",
-    "rankScore": 59668,
-    "matchedBy": "name"
-   },
-   {
     "login": "standbyluke7",
     "displayName": "StandbyLuke7",
     "title": "Rare Ranked Strum",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-10-16T17:06:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_standbyluke7-{width}x{height}.jpg",
     "rank": 350,
@@ -321,7 +309,7 @@
     "login": "tmilllls",
     "displayName": "Tmilllls",
     "title": "(DROPS) SOLO Q TO RUBY DAY 3 | BITS FOR JUMPSCARES 🎃 | KCP TMILLS | MAJOR QUALIFIED",
-    "viewers": 23,
+    "viewers": 22,
     "startedAt": "2026-10-16T19:13:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tmilllls-{width}x{height}.jpg"
    },
@@ -329,17 +317,9 @@
     "login": "hershygg",
     "displayName": "HershyGG",
     "title": "[DROPS] POWERSHIFT TOP 100 - season 12 waiting room",
-    "viewers": 9,
+    "viewers": 11,
     "startedAt": "2026-10-16T17:58:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hershygg-{width}x{height}.jpg"
-   },
-   {
-    "login": "v8_karma",
-    "displayName": "V8_Karma",
-    "title": "High kill games | Ruby S3 | PC | ITA",
-    "viewers": 1,
-    "startedAt": "2026-10-16T19:08:40Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    },
    {
     "login": "progamerdx1",
@@ -348,6 +328,22 @@
     "viewers": 1,
     "startedAt": "2026-10-16T20:13:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_progamerdx1-{width}x{height}.jpg"
+   },
+   {
+    "login": "barbarous_tf",
+    "displayName": "barbarous_tf",
+    "title": "FACECAM | Ruby Grind | The Finals",
+    "viewers": 1,
+    "startedAt": "2026-10-16T21:52:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
+   },
+   {
+    "login": "v8_karma",
+    "displayName": "V8_Karma",
+    "title": "High kill games | Ruby S3 | PC | ITA",
+    "viewers": 1,
+    "startedAt": "2026-10-16T19:08:40Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    }
   ]
  },

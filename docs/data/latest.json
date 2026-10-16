@@ -1,221 +1,85 @@
 {
- "generatedAt": "2026-10-16T18:10:41Z",
+ "generatedAt": "2026-10-16T18:20:41Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-16T18:03:31Z",
+ "leaderboardUpdatedAt": "2026-10-16T18:17:52Z",
  "window": {
-  "from": "2026-10-16T17:32:34Z",
-  "to": "2026-10-16T18:03:31Z",
-  "minutes": 30.9
+  "from": "2026-10-16T18:03:31Z",
+  "to": "2026-10-16T18:17:52Z",
+  "minutes": 14.4
  },
- "rubyActive": 24,
- "allActive": 217,
- "rubyShare": 0.1106,
- "steamPlayers": 14488,
+ "rubyActive": 7,
+ "allActive": 81,
+ "rubyShare": 0.0864,
+ "steamPlayers": 14815,
  "rubyCutoff": 57905,
  "grinding": [
-  {
-   "rank": 1,
-   "name": "FreeTTV-BurkePOV#0455",
-   "delta": 5,
-   "rankScore": 71554,
-   "club": null,
-   "twitch": null
-  },
   {
    "rank": 16,
    "name": "Que#2889",
    "delta": 23,
-   "rankScore": 67724,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 25,
-   "name": "Persyble#8066",
-   "delta": 33,
-   "rankScore": 66241,
-   "club": "AUREA",
-   "twitch": null
-  },
-  {
-   "rank": 52,
-   "name": "slim#1364",
-   "delta": 55,
-   "rankScore": 63792,
-   "club": "C4RPG",
-   "twitch": null
-  },
-  {
-   "rank": 96,
-   "name": "bubbo#2101",
-   "delta": -73,
-   "rankScore": 62225,
+   "rankScore": 67747,
    "club": null,
    "twitch": null
   },
   {
    "rank": 98,
-   "name": "TaeK#3289",
-   "delta": 72,
-   "rankScore": 62203,
-   "club": "HEIMG",
-   "twitch": "taekfps"
-  },
-  {
-   "rank": 128,
-   "name": "botto#0580",
-   "delta": -83,
-   "rankScore": 61357,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 308,
-   "name": "DeTaaiL#7503",
-   "delta": 101,
-   "rankScore": 59827,
-   "club": "LUMN",
-   "twitch": null
-  },
-  {
-   "rank": 355,
-   "name": "WarDoctor#0654",
-   "delta": -108,
-   "rankScore": 59478,
-   "club": "KFOUR",
-   "twitch": null
-  },
-  {
-   "rank": 397,
-   "name": "Sadeness#1017",
-   "delta": -204,
-   "rankScore": 59205,
-   "club": "DMPRO",
-   "twitch": null
-  },
-  {
-   "rank": 407,
-   "name": "Borderless#0523",
-   "delta": -206,
-   "rankScore": 59116,
-   "club": "SEITN",
-   "twitch": null
-  },
-  {
-   "rank": 432,
-   "name": "Ojje#4485",
-   "delta": 48,
-   "rankScore": 59002,
+   "name": "bubbo#2101",
+   "delta": -29,
+   "rankScore": 62196,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 437,
+   "rank": 423,
    "name": "Lizaminusmoral#0909",
-   "delta": -46,
-   "rankScore": 58925,
+   "delta": 113,
+   "rankScore": 59038,
    "club": "1BFR",
    "twitch": null
   },
   {
-   "rank": 441,
-   "name": "StandbyLuke7#3105",
-   "delta": 114,
-   "rankScore": 58873,
-   "club": "NTMR",
+   "rank": 466,
+   "name": "Acetamer#0711",
+   "delta": 120,
+   "rankScore": 58501,
+   "club": "HAKER",
    "twitch": null
   },
   {
-   "rank": 448,
-   "name": "g1#2839",
-   "delta": 115,
-   "rankScore": 58814,
+   "rank": 471,
+   "name": "podl1ven#0525",
+   "delta": 121,
+   "rankScore": 58419,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 456,
-   "name": "Mr.RedFox#6286",
-   "delta": 80,
-   "rankScore": 58728,
+   "rank": 480,
+   "name": "Wireless_Jose#0347",
+   "delta": 124,
+   "rankScore": 58265,
    "club": "BOOKS",
    "twitch": null
   },
   {
-   "rank": 457,
-   "name": "youdead#9476",
-   "delta": 117,
-   "rankScore": 58715,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 459,
-   "name": "1_vk.ttv#0769",
-   "delta": -119,
-   "rankScore": 58688,
-   "club": "AUREA",
-   "twitch": null
-  },
-  {
-   "rank": 460,
-   "name": "Flamby#5263",
-   "delta": 117,
-   "rankScore": 58686,
-   "club": "WAIM",
-   "twitch": null
-  },
-  {
-   "rank": 474,
-   "name": "ky#0234",
-   "delta": -124,
-   "rankScore": 58332,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 476,
-   "name": "Romance#3159",
-   "delta": -275,
-   "rankScore": 58312,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 477,
-   "name": "podl1ven#0525",
-   "delta": -50,
-   "rankScore": 58298,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 478,
+   "rank": 483,
    "name": "Vedaa#5145",
-   "delta": -124,
-   "rankScore": 58276,
+   "delta": -50,
+   "rankScore": 58226,
    "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 499,
-   "name": "unemployed#5424",
-   "delta": -288,
-   "rankScore": 57912,
-   "club": "PROIT",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-16T18:10:41Z",
-  "totalStreams": 137,
+  "checkedAt": "2026-10-16T18:20:41Z",
+  "totalStreams": 140,
   "rubyLive": [
    {
     "login": "syborg57",
     "displayName": "SyBorg57",
     "title": "[DROPS] 🟢 PRO PLAYER FOR TEAM @Alliance 🟢 Qualled to TGM26 Special scrim with dyrani and roma (didn t touch game for 3 days)",
-    "viewers": 3,
+    "viewers": 12,
     "startedAt": "2026-10-16T18:06:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syborg57-{width}x{height}.jpg",
     "rank": 75,
@@ -227,10 +91,10 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "✨Testing SP 005 ✨ // VT GM COMPLETED :D !vt // !sens",
-    "viewers": 33,
+    "viewers": 24,
     "startedAt": "2026-10-16T13:11:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
-    "rank": 98,
+    "rank": 97,
     "name": "TaeK#3289",
     "rankScore": 62203,
     "matchedBy": "name"
@@ -239,7 +103,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED - TOP 230",
-    "viewers": 6,
+    "viewers": 9,
     "startedAt": "2026-10-16T12:18:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 227,
@@ -253,17 +117,9 @@
     "login": "impieux",
     "displayName": "impieux",
     "title": "Securing Ruby?!",
-    "viewers": 21,
+    "viewers": 24,
     "startedAt": "2026-10-16T17:54:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg"
-   },
-   {
-    "login": "hershygg",
-    "displayName": "HershyGG",
-    "title": "[DROPS] POWERSHIFT TOP 100 - season 12 waiting room",
-    "viewers": 1,
-    "startedAt": "2026-10-16T17:58:20Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hershygg-{width}x{height}.jpg"
    },
    {
     "login": "shinxjudas",
@@ -279,7 +135,7 @@
   "ready": false,
   "placed": {
    "ruby": 230,
-   "all": 1860
+   "all": 1864
   },
   "rubyByRegion": {
    "am": 102,
@@ -288,20 +144,20 @@
   },
   "window": {
    "am": {
-    "ruby": 4,
-    "all": 25
+    "ruby": 0,
+    "all": 9
    },
    "eu": {
-    "ruby": 11,
-    "all": 88
+    "ruby": 6,
+    "all": 33
    },
    "ap": {
-    "ruby": 2,
-    "all": 12
+    "ruby": 1,
+    "all": 5
    },
    "unplaced": {
-    "ruby": 7,
-    "all": 92
+    "ruby": 0,
+    "all": 34
    }
   }
  },

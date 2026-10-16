@@ -1,125 +1,117 @@
 {
- "generatedAt": "2026-10-16T17:30:47Z",
+ "generatedAt": "2026-10-16T17:39:47Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-16T17:29:30Z",
+ "leaderboardUpdatedAt": "2026-10-16T17:32:34Z",
  "window": {
-  "from": "2026-10-16T17:06:30Z",
-  "to": "2026-10-16T17:29:30Z",
-  "minutes": 23.0
+  "from": "2026-10-16T17:29:30Z",
+  "to": "2026-10-16T17:32:34Z",
+  "minutes": 3.1
  },
- "rubyActive": 12,
- "allActive": 99,
- "rubyShare": 0.1212,
- "steamPlayers": 13870,
+ "rubyActive": 11,
+ "allActive": 157,
+ "rubyShare": 0.0701,
+ "steamPlayers": 14036,
  "rubyCutoff": 57905,
  "grinding": [
   {
-   "rank": 7,
-   "name": "Avion#8636",
-   "delta": -24,
-   "rankScore": 70262,
+   "rank": 2,
+   "name": "BLAD3R#2825",
+   "delta": 6,
+   "rankScore": 71442,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 9,
+   "name": "MOGHWASOM#2367",
+   "delta": 11,
+   "rankScore": 69904,
+   "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 11,
+   "name": "Nov#6006",
+   "delta": 15,
+   "rankScore": 69198,
+   "club": "HIBOO",
+   "twitch": null
+  },
+  {
+   "rank": 25,
+   "name": "Persyble#8066",
+   "delta": 15,
+   "rankScore": 66208,
+   "club": "AUREA",
+   "twitch": null
+  },
+  {
+   "rank": 125,
+   "name": "botto#0580",
+   "delta": 34,
+   "rankScore": 61440,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 10,
-   "name": "Choobz#9757",
-   "delta": 13,
-   "rankScore": 69623,
-   "club": "RS1",
+   "rank": 280,
+   "name": "GodofdreamsYh#5990",
+   "delta": 99,
+   "rankScore": 60023,
+   "club": "SEITN",
    "twitch": null
   },
   {
-   "rank": 94,
-   "name": "bubbo#2101",
-   "delta": 30,
-   "rankScore": 62298,
+   "rank": 299,
+   "name": "KimchiRice#1267",
+   "delta": 100,
+   "rankScore": 59897,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 317,
+   "name": "DeTaaiL#7503",
+   "delta": 103,
+   "rankScore": 59726,
+   "club": "LUMN",
+   "twitch": null
+  },
+  {
+   "rank": 366,
+   "name": "Sadeness#1017",
+   "delta": 107,
+   "rankScore": 59409,
+   "club": "DMPRO",
+   "twitch": null
+  },
+  {
+   "rank": 392,
+   "name": "s7s#5589",
+   "delta": 109,
+   "rankScore": 59248,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 100,
-   "name": "TaeK#3289",
-   "delta": 72,
-   "rankScore": 62131,
-   "club": "HEIMG",
-   "twitch": "taekfps"
-  },
-  {
-   "rank": 107,
-   "name": "TTV_KNOT_4_LONG#7729",
-   "delta": -181,
-   "rankScore": 62038,
-   "club": "ALL",
-   "twitch": null
-  },
-  {
-   "rank": 258,
-   "name": "SHINIGAMI#9572",
-   "delta": -240,
-   "rankScore": 60067,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 303,
-   "name": "SandInMyHoles#9355",
-   "delta": 101,
-   "rankScore": 59861,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 393,
-   "name": "Snafu#3644",
-   "delta": -267,
-   "rankScore": 59237,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 397,
-   "name": "omen#4828",
-   "delta": -268,
-   "rankScore": 59208,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 423,
-   "name": "YeahHealthyTTV#0175",
-   "delta": 112,
-   "rankScore": 59037,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 473,
-   "name": "Vedaa#5145",
-   "delta": 51,
-   "rankScore": 58400,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 496,
-   "name": "Ark#6016",
-   "delta": -311,
-   "rankScore": 57956,
-   "club": null,
+   "rank": 399,
+   "name": "Remember#1220",
+   "delta": 110,
+   "rankScore": 59202,
+   "club": "DMPRO",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-16T17:30:47Z",
-  "totalStreams": 122,
+  "checkedAt": "2026-10-16T17:39:47Z",
+  "totalStreams": 125,
   "rubyLive": [
    {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "✨Testing SP 005 ✨ // VT GM COMPLETED :D !vt // !sens",
-    "viewers": 38,
+    "viewers": 36,
     "startedAt": "2026-10-16T13:11:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 100,
@@ -143,10 +135,10 @@
     "login": "sitnica",
     "displayName": "sitnica",
     "title": "[ru] [Drops] На страже порядка, птсы под защитой",
-    "viewers": 8,
+    "viewers": 9,
     "startedAt": "2026-10-16T13:56:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
-    "rank": 292,
+    "rank": 293,
     "name": "Sitnica#5188",
     "rankScore": 59967,
     "matchedBy": "name"
@@ -179,7 +171,7 @@
   "ready": false,
   "placed": {
    "ruby": 230,
-   "all": 1860
+   "all": 1861
   },
   "rubyByRegion": {
    "am": 102,
@@ -189,19 +181,19 @@
   "window": {
    "am": {
     "ruby": 3,
-    "all": 6
+    "all": 19
    },
    "eu": {
-    "ruby": 5,
-    "all": 37
+    "ruby": 3,
+    "all": 53
    },
    "ap": {
-    "ruby": 0,
-    "all": 6
+    "ruby": 1,
+    "all": 9
    },
    "unplaced": {
     "ruby": 4,
-    "all": 50
+    "all": 76
    }
   }
  },

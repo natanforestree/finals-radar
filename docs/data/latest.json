@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T19:40:42Z",
+ "generatedAt": "2026-10-16T19:50:42Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-16T19:35:03Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 23,
  "allActive": 195,
  "rubyShare": 0.1179,
- "steamPlayers": 16610,
+ "steamPlayers": 0,
  "rubyCutoff": 57930,
  "grinding": [
   {
@@ -200,26 +200,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-16T19:40:42Z",
-  "totalStreams": 195,
+  "checkedAt": "2026-10-16T19:50:42Z",
+  "totalStreams": 193,
   "rubyLive": [
-   {
-    "login": "syborg57",
-    "displayName": "SyBorg57",
-    "title": "[DROPS] 🟢 PRO PLAYER FOR TEAM @Alliance 🟢 Qualled to TGM26 Special scrim with dyrani and roma (didn t touch game for 3 days)",
-    "viewers": 26,
-    "startedAt": "2026-10-16T18:06:41Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_syborg57-{width}x{height}.jpg",
-    "rank": 75,
-    "name": "SyBorg57#2707",
-    "rankScore": 62981,
-    "matchedBy": "name"
-   },
    {
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Pew-Pew on ranked",
-    "viewers": 10,
+    "viewers": 9,
     "startedAt": "2026-10-16T18:36:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 125,
@@ -231,7 +219,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED - TOP 230",
-    "viewers": 12,
+    "viewers": 10,
     "startedAt": "2026-10-16T12:18:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 228,
@@ -243,7 +231,7 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "AIM AND LOVE | DROP",
-    "viewers": 40,
+    "viewers": 47,
     "startedAt": "2026-10-16T18:46:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 370,
@@ -281,7 +269,7 @@
     "login": "impieux",
     "displayName": "impieux",
     "title": "Securing Ruby?!",
-    "viewers": 28,
+    "viewers": 21,
     "startedAt": "2026-10-16T17:54:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg"
    },
@@ -289,7 +277,7 @@
     "login": "tmilllls",
     "displayName": "Tmilllls",
     "title": "(DROPS) SOLO Q TO RUBY DAY 3 | BITS FOR JUMPSCARES 🎃 | KCP TMILLS | MAJOR QUALIFIED",
-    "viewers": 11,
+    "viewers": 18,
     "startedAt": "2026-10-16T19:13:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tmilllls-{width}x{height}.jpg"
    },
@@ -305,15 +293,7 @@
     "login": "v8_karma",
     "displayName": "V8_Karma",
     "title": "Pubs | Ruby S3 | PC | ITA",
-    "viewers": 2,
-    "startedAt": "2026-10-16T19:08:40Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
-   },
-   {
-    "login": "v8_karma",
-    "displayName": "V8_Karma",
-    "title": "Pubs | Ruby S3 | PC | ITA",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-16T19:08:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    },
@@ -324,6 +304,14 @@
     "viewers": 1,
     "startedAt": "2026-10-16T18:14:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
+   },
+   {
+    "login": "v8_karma",
+    "displayName": "V8_Karma",
+    "title": "Pubs | Ruby S3 | PC | ITA",
+    "viewers": 1,
+    "startedAt": "2026-10-16T19:08:40Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    }
   ]
  },

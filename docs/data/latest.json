@@ -1,90 +1,186 @@
 {
- "generatedAt": "2026-10-16T11:00:41Z",
+ "generatedAt": "2026-10-16T11:10:40Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-16T10:37:40Z",
+ "leaderboardUpdatedAt": "2026-10-16T11:10:00Z",
  "window": {
-  "from": "2026-10-16T10:22:18Z",
-  "to": "2026-10-16T10:37:40Z",
-  "minutes": 15.4
+  "from": "2026-10-16T10:37:40Z",
+  "to": "2026-10-16T11:10:00Z",
+  "minutes": 32.3
  },
- "rubyActive": 7,
- "allActive": 33,
- "rubyShare": 0.2121,
+ "rubyActive": 19,
+ "allActive": 112,
+ "rubyShare": 0.1696,
  "steamPlayers": 6944,
- "rubyCutoff": 57900,
+ "rubyCutoff": 57800,
  "grinding": [
   {
    "rank": 1,
    "name": "FreeTTV-BurkePOV#0455",
-   "delta": 5,
-   "rankScore": 71509,
+   "delta": 6,
+   "rankScore": 71515,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 2,
-   "name": "BLAD3R#2825",
-   "delta": 6,
-   "rankScore": 71380,
-   "club": "APES",
+   "rank": 4,
+   "name": "carnifex#7330",
+   "delta": 7,
+   "rankScore": 70920,
+   "club": "5F",
    "twitch": null
   },
   {
-   "rank": 69,
+   "rank": 20,
+   "name": "FloridoGamingTTV#1606",
+   "delta": 29,
+   "rankScore": 66803,
+   "club": "CRU3L",
+   "twitch": "elfloridogaming"
+  },
+  {
+   "rank": 26,
+   "name": "perzzonTTV#5485",
+   "delta": 38,
+   "rankScore": 65670,
+   "club": "PRZN",
+   "twitch": "perzzon"
+  },
+  {
+   "rank": 33,
+   "name": "Aleksexy#5957",
+   "delta": 43,
+   "rankScore": 65169,
+   "club": "AVOW",
+   "twitch": null
+  },
+  {
+   "rank": 67,
    "name": "ToastFlawlessTTV#0617",
    "delta": 62,
-   "rankScore": 63092,
+   "rankScore": 63154,
    "club": "ZZ",
    "twitch": null
   },
   {
-   "rank": 317,
-   "name": "Az#1693",
-   "delta": 103,
-   "rankScore": 59704,
-   "club": "HF",
+   "rank": 409,
+   "name": "TikTok-Colada#0392",
+   "delta": 111,
+   "rankScore": 59099,
+   "club": "M0RVA",
    "twitch": null
   },
   {
-   "rank": 365,
-   "name": "Gm#4245",
-   "delta": 106,
-   "rankScore": 59432,
-   "club": "HZTOP",
+   "rank": 420,
+   "name": "GrandSpark#5639",
+   "delta": 112,
+   "rankScore": 59023,
+   "club": "MOL",
    "twitch": null
   },
   {
-   "rank": 400,
-   "name": "Latte#4227",
-   "delta": 110,
-   "rankScore": 59197,
-   "club": "HIBOO",
+   "rank": 426,
+   "name": "msndfg#6588",
+   "delta": 112,
+   "rankScore": 59011,
+   "club": "FRBGM",
    "twitch": null
   },
   {
-   "rank": 474,
+   "rank": 460,
+   "name": "MVP666#8626",
+   "delta": 51,
+   "rankScore": 58526,
+   "club": "WAIM",
+   "twitch": null
+  },
+  {
+   "rank": 464,
+   "name": "1_vk.ttv#0769",
+   "delta": 121,
+   "rankScore": 58456,
+   "club": "AUREA",
+   "twitch": null
+  },
+  {
+   "rank": 465,
+   "name": "Falcon_Yinx#4513",
+   "delta": 121,
+   "rankScore": 58433,
+   "club": "GOLOD",
+   "twitch": null
+  },
+  {
+   "rank": 466,
+   "name": "mira#1374",
+   "delta": 121,
+   "rankScore": 58428,
+   "club": "FRBGM",
+   "twitch": null
+  },
+  {
+   "rank": 467,
    "name": "Etiquette#6690",
-   "delta": 123,
-   "rankScore": 58279,
+   "delta": 121,
+   "rankScore": 58400,
    "club": "OG",
+   "twitch": null
+  },
+  {
+   "rank": 470,
+   "name": "SaturdayTasogare#0030",
+   "delta": 121,
+   "rankScore": 58375,
+   "club": "TBRRW",
+   "twitch": null
+  },
+  {
+   "rank": 471,
+   "name": "GetBallMunched#3928",
+   "delta": 122,
+   "rankScore": 58369,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 486,
+   "name": "yevomsmttv#7212",
+   "delta": -128,
+   "rankScore": 58088,
+   "club": "PLSR",
+   "twitch": null
+  },
+  {
+   "rank": 490,
+   "name": "Antiparty#0866",
+   "delta": 127,
+   "rankScore": 58035,
+   "club": "GOONU",
+   "twitch": "antiparty"
+  },
+  {
+   "rank": 499,
+   "name": "Acidbeef209#2268",
+   "delta": -131,
+   "rankScore": 57857,
+   "club": "ZZ",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-16T11:00:41Z",
-  "totalStreams": 46,
+  "checkedAt": "2026-10-16T11:10:40Z",
+  "totalStreams": 43,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 28,
+    "viewers": 24,
     "startedAt": "2026-10-16T08:01:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
-    "rank": 21,
+    "rank": 20,
     "name": "FloridoGamingTTV#1606",
-    "rankScore": 66774,
+    "rankScore": 66803,
     "matchedBy": "name"
    },
    {
@@ -96,7 +192,7 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 26,
     "name": "perzzonTTV#5485",
-    "rankScore": 65632,
+    "rankScore": 65670,
     "matchedBy": "name"
    },
    {
@@ -115,12 +211,12 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 12,
+    "viewers": 10,
     "startedAt": "2026-10-16T05:00:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 498,
+    "rank": 490,
     "name": "Antiparty#0866",
-    "rankScore": 57908,
+    "rankScore": 58035,
     "matchedBy": "name"
    }
   ],
@@ -129,7 +225,7 @@
     "login": "barbarous_tf",
     "displayName": "barbarous_tf",
     "title": "FACECAM | Ruby Grind | The Finals",
-    "viewers": 14,
+    "viewers": 15,
     "startedAt": "2026-10-16T09:05:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
    }
@@ -138,30 +234,30 @@
  "regions": {
   "ready": false,
   "placed": {
-   "ruby": 225,
-   "all": 1836
+   "ruby": 226,
+   "all": 1838
   },
   "rubyByRegion": {
    "am": 103,
-   "eu": 68,
+   "eu": 69,
    "ap": 54
   },
   "window": {
    "am": {
-    "ruby": 1,
-    "all": 2
+    "ruby": 2,
+    "all": 10
    },
    "eu": {
-    "ruby": 1,
-    "all": 3
+    "ruby": 0,
+    "all": 12
    },
    "ap": {
-    "ruby": 2,
-    "all": 17
+    "ruby": 9,
+    "all": 42
    },
    "unplaced": {
-    "ruby": 3,
-    "all": 11
+    "ruby": 8,
+    "all": 48
    }
   }
  },

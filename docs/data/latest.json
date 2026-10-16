@@ -1,173 +1,181 @@
 {
- "generatedAt": "2026-10-16T14:30:43Z",
+ "generatedAt": "2026-10-16T14:40:41Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-16T14:20:03Z",
+ "leaderboardUpdatedAt": "2026-10-16T14:35:56Z",
  "window": {
-  "from": "2026-10-16T13:40:12Z",
-  "to": "2026-10-16T14:20:03Z",
-  "minutes": 39.8
+  "from": "2026-10-16T14:20:03Z",
+  "to": "2026-10-16T14:35:56Z",
+  "minutes": 15.9
  },
- "rubyActive": 18,
- "allActive": 191,
- "rubyShare": 0.0942,
- "steamPlayers": 10826,
+ "rubyActive": 19,
+ "allActive": 155,
+ "rubyShare": 0.1226,
+ "steamPlayers": 11047,
  "rubyCutoff": 57900,
  "grinding": [
   {
    "rank": 1,
    "name": "FreeTTV-BurkePOV#0455",
-   "delta": 6,
-   "rankScore": 71534,
+   "delta": 2,
+   "rankScore": 71536,
    "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 2,
+   "name": "BLAD3R#2825",
+   "delta": 6,
+   "rankScore": 71414,
+   "club": "APES",
    "twitch": null
   },
   {
    "rank": 4,
    "name": "carnifex#7330",
    "delta": 7,
-   "rankScore": 70956,
+   "rankScore": 70963,
    "club": "5F",
    "twitch": null
   },
   {
-   "rank": 7,
-   "name": "Avion#8636",
-   "delta": -4,
-   "rankScore": 70281,
-   "club": "RS1",
+   "rank": 9,
+   "name": "MOGHWASOM#2367",
+   "delta": 12,
+   "rankScore": 69847,
+   "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 17,
+   "name": "Que#2889",
+   "delta": 24,
+   "rankScore": 67677,
+   "club": null,
    "twitch": null
   },
   {
    "rank": 26,
    "name": "perzzonTTV#5485",
-   "delta": 36,
-   "rankScore": 65856,
+   "delta": 37,
+   "rankScore": 65893,
    "club": "PRZN",
    "twitch": null
   },
   {
-   "rank": 61,
+   "rank": 60,
    "name": "ToastFlawlessTTV#0617",
-   "delta": 59,
-   "rankScore": 63370,
+   "delta": 25,
+   "rankScore": 63395,
    "club": "ZZ",
    "twitch": null
   },
   {
-   "rank": 343,
+   "rank": 74,
+   "name": "emilien#6585",
+   "delta": 63,
+   "rankScore": 62987,
+   "club": "FYYR",
+   "twitch": null
+  },
+  {
+   "rank": 304,
+   "name": "Latte#4227",
+   "delta": 101,
+   "rankScore": 59826,
+   "club": "HIBOO",
+   "twitch": null
+  },
+  {
+   "rank": 325,
    "name": "Snafu#3644",
-   "delta": 105,
-   "rankScore": 59552,
+   "delta": 104,
+   "rankScore": 59656,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 381,
+   "rank": 364,
    "name": "s7s#5589",
-   "delta": 108,
-   "rankScore": 59331,
+   "delta": 106,
+   "rankScore": 59437,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 427,
-   "name": "HorseNamedFriday#5432",
-   "delta": 113,
-   "rankScore": 59008,
-   "club": "T0GGL",
+   "rank": 390,
+   "name": "GoodGirl#2247",
+   "delta": -202,
+   "rankScore": 59292,
+   "club": "PAY",
    "twitch": null
   },
   {
-   "rank": 438,
+   "rank": 436,
+   "name": "Lizaminusmoral#0909",
+   "delta": 114,
+   "rankScore": 58917,
+   "club": "1BFR",
+   "twitch": null
+  },
+  {
+   "rank": 460,
+   "name": "YeahHealthyTTV#0175",
+   "delta": 119,
+   "rankScore": 58579,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 462,
    "name": "Flamby#5263",
-   "delta": 49,
-   "rankScore": 58858,
+   "delta": -289,
+   "rankScore": 58569,
    "club": "WAIM",
    "twitch": null
   },
   {
-   "rank": 442,
-   "name": "SaturdayTasogare#0030",
-   "delta": 115,
-   "rankScore": 58828,
-   "club": "TBRRW",
-   "twitch": null
-  },
-  {
-   "rank": 458,
-   "name": "Falcon_Yinx#4513",
-   "delta": 117,
-   "rankScore": 58668,
-   "club": "GOLOD",
-   "twitch": null
-  },
-  {
-   "rank": 468,
-   "name": "YeahHealthyTTV#0175",
-   "delta": 121,
-   "rankScore": 58460,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 469,
-   "name": "ky#0234",
-   "delta": 120,
-   "rankScore": 58442,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 470,
-   "name": "youdead#9476",
-   "delta": 121,
-   "rankScore": 58432,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 474,
+   "rank": 475,
    "name": "Etiquette#6690",
-   "delta": -296,
-   "rankScore": 58391,
+   "delta": -49,
+   "rankScore": 58342,
    "club": "OG",
    "twitch": null
   },
   {
-   "rank": 479,
-   "name": "solo_rus_player#0032",
-   "delta": 161,
-   "rankScore": 58251,
+   "rank": 477,
+   "name": "podl1ven#0525",
+   "delta": 123,
+   "rankScore": 58288,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 487,
-   "name": "unemployed#5424",
-   "delta": 126,
-   "rankScore": 58076,
-   "club": "PROIT",
+   "rank": 482,
+   "name": "ky#0234",
+   "delta": -229,
+   "rankScore": 58213,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 496,
-   "name": "Wireless_Jose#0347",
-   "delta": -294,
-   "rankScore": 57966,
-   "club": "BOOKS",
+   "rank": 485,
+   "name": "4AM.Hathaway#0265",
+   "delta": 53,
+   "rankScore": 58154,
+   "club": "HZTOP",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-16T14:30:43Z",
-  "totalStreams": 69,
+  "checkedAt": "2026-10-16T14:40:41Z",
+  "totalStreams": 74,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "SAVE YOUR STREAM-STREAK | MY BAD..",
-    "viewers": 41,
+    "viewers": 43,
     "startedAt": "2026-10-16T14:21:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 3,
@@ -179,7 +187,7 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "✨Testing SP 005 ✨ // VT GM COMPLETED :D !vt // !sens",
-    "viewers": 84,
+    "viewers": 75,
     "startedAt": "2026-10-16T13:11:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 107,
@@ -191,7 +199,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED - TOP 230",
-    "viewers": 5,
+    "viewers": 9,
     "startedAt": "2026-10-16T12:18:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 227,
@@ -203,7 +211,7 @@
     "login": "sitnica",
     "displayName": "sitnica",
     "title": "[ru] [Drops] На страже порядка, птсы под защитой",
-    "viewers": 10,
+    "viewers": 16,
     "startedAt": "2026-10-16T13:56:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
     "rank": 291,
@@ -231,16 +239,16 @@
     "all": 7
    },
    "eu": {
-    "ruby": 6,
-    "all": 65
+    "ruby": 8,
+    "all": 61
    },
    "ap": {
     "ruby": 8,
-    "all": 41
+    "all": 32
    },
    "unplaced": {
-    "ruby": 4,
-    "all": 78
+    "ruby": 3,
+    "all": 55
    }
   }
  },

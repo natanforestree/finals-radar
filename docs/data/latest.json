@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-16T17:10:41Z",
+ "generatedAt": "2026-10-16T17:20:41Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-16T17:06:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 24,
  "allActive": 212,
  "rubyShare": 0.1132,
- "steamPlayers": 13598,
+ "steamPlayers": 13716,
  "rubyCutoff": 57905,
  "grinding": [
   {
@@ -59,7 +59,7 @@
    "delta": 31,
    "rankScore": 62219,
    "club": "ALL",
-   "twitch": "knot4long"
+   "twitch": null
   },
   {
    "rank": 107,
@@ -208,26 +208,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-16T17:10:41Z",
-  "totalStreams": 121,
+  "checkedAt": "2026-10-16T17:20:41Z",
+  "totalStreams": 118,
   "rubyLive": [
-   {
-    "login": "knot4long",
-    "displayName": "knot4long",
-    "title": "#94 RUBY PLAYER LET PLAY WITH FRIENDS🌸",
-    "viewers": 11,
-    "startedAt": "2026-10-16T15:08:06Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
-    "rank": 98,
-    "name": "TTV_KNOT_4_LONG#7729",
-    "rankScore": 62219,
-    "matchedBy": "name"
-   },
    {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "✨Testing SP 005 ✨ // VT GM COMPLETED :D !vt // !sens",
-    "viewers": 39,
+    "viewers": 41,
     "startedAt": "2026-10-16T13:11:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 107,
@@ -239,7 +227,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED - TOP 230",
-    "viewers": 15,
+    "viewers": 10,
     "startedAt": "2026-10-16T12:18:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 228,
@@ -251,12 +239,24 @@
     "login": "sitnica",
     "displayName": "sitnica",
     "title": "[ru] [Drops] На страже порядка, птсы под защитой",
-    "viewers": 18,
+    "viewers": 15,
     "startedAt": "2026-10-16T13:56:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sitnica-{width}x{height}.jpg",
     "rank": 292,
     "name": "Sitnica#5188",
     "rankScore": 59967,
+    "matchedBy": "name"
+   },
+   {
+    "login": "standbyluke7",
+    "displayName": "StandbyLuke7",
+    "title": "Rare Ranked Strum",
+    "viewers": 1,
+    "startedAt": "2026-10-16T17:06:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_standbyluke7-{width}x{height}.jpg",
+    "rank": 452,
+    "name": "StandbyLuke7#3105",
+    "rankScore": 58759,
     "matchedBy": "name"
    }
   ],

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T01:50:40Z",
+ "generatedAt": "2026-10-17T02:00:42Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-17T01:37:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 16,
  "allActive": 165,
  "rubyShare": 0.097,
- "steamPlayers": 13541,
+ "steamPlayers": 13464,
  "rubyCutoff": 57969,
  "grinding": [
   {
@@ -51,7 +51,7 @@
    "delta": 94,
    "rankScore": 60396,
    "club": "APES",
-   "twitch": null
+   "twitch": "def_noxttv"
   },
   {
    "rank": 343,
@@ -144,14 +144,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-17T01:50:40Z",
-  "totalStreams": 200,
+  "checkedAt": "2026-10-17T02:00:42Z",
+  "totalStreams": 205,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "!DROPS | RANKED W STEW & JUKER | !discord !sens !rank",
-    "viewers": 33,
+    "viewers": 30,
     "startedAt": "2026-10-17T01:08:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 6,
@@ -163,7 +163,7 @@
     "login": "stewj",
     "displayName": "stewj",
     "title": "RANKED | VIBING",
-    "viewers": 31,
+    "viewers": 46,
     "startedAt": "2026-10-17T01:04:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 8,
@@ -175,7 +175,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "Rank 1 Grapple player",
-    "viewers": 21,
+    "viewers": 23,
     "startedAt": "2026-10-17T01:35:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 43,
@@ -187,31 +187,43 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive on Freaky Friday | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 55,
+    "viewers": 70,
     "startedAt": "2026-10-16T20:31:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 171,
     "name": "Sanguine#5740",
     "rankScore": 60596,
     "matchedBy": "name"
+   },
+   {
+    "login": "def_noxttv",
+    "displayName": "def_noxTTV",
+    "title": "Top 150? Chill Ranked Vibes (DROPS)",
+    "viewers": 1,
+    "startedAt": "2026-10-17T00:36:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
+    "rank": 193,
+    "name": "def.nox#9033",
+    "rankScore": 60396,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
    {
-    "login": "ollipuffs",
-    "displayName": "ollipuffs",
-    "title": "[18+] ✧ finals friday w/ tequila??? | !fish !tcg !ruby !hype !hug !lurk !socials",
-    "viewers": 7,
-    "startedAt": "2026-10-17T00:13:16Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ollipuffs-{width}x{height}.jpg"
-   },
-   {
     "login": "camp1033",
     "displayName": "Camp1033",
     "title": "Top 500 Here we come!!!",
-    "viewers": 4,
+    "viewers": 7,
     "startedAt": "2026-10-16T23:49:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_camp1033-{width}x{height}.jpg"
+   },
+   {
+    "login": "ollipuffs",
+    "displayName": "ollipuffs",
+    "title": "[18+] ✧ finals friday w/ tequila??? | !fish !tcg !ruby !hype !hug !lurk !socials",
+    "viewers": 3,
+    "startedAt": "2026-10-17T00:13:16Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ollipuffs-{width}x{height}.jpg"
    },
    {
     "login": "beckdrew",

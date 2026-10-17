@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T15:00:53Z",
+ "generatedAt": "2026-10-17T15:10:53Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-17T14:41:32Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 7,
  "allActive": 150,
  "rubyShare": 0.0467,
- "steamPlayers": 13201,
+ "steamPlayers": 13280,
  "rubyCutoff": 58155,
  "grinding": [
   {
@@ -72,14 +72,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-17T15:00:53Z",
-  "totalStreams": 78,
+  "checkedAt": "2026-10-17T15:10:53Z",
+  "totalStreams": 89,
   "rubyLive": [
+   {
+    "login": "naghostx6",
+    "displayName": "NAGHOSTX6",
+    "title": "Chauve affûté",
+    "viewers": 29,
+    "startedAt": "2026-10-17T12:56:58Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
+    "rank": 48,
+    "name": "NAGHOSTX6#0212",
+    "rankScore": 64433,
+    "matchedBy": "name"
+   },
    {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "✨Testing SP 005 ✨ // VT GM COMPLETED :D !vt // !sens",
-    "viewers": 14,
+    "viewers": 8,
     "startedAt": "2026-10-17T12:09:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 95,
@@ -117,7 +129,7 @@
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 6,
+    "viewers": 10,
     "startedAt": "2026-10-17T14:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
    },

@@ -1,253 +1,93 @@
 {
- "generatedAt": "2026-10-17T15:30:54Z",
+ "generatedAt": "2026-10-17T15:40:53Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-17T15:20:06Z",
+ "leaderboardUpdatedAt": "2026-10-17T15:34:01Z",
  "window": {
-  "from": "2026-10-17T14:41:32Z",
-  "to": "2026-10-17T15:20:06Z",
-  "minutes": 38.6
+  "from": "2026-10-17T15:20:06Z",
+  "to": "2026-10-17T15:34:01Z",
+  "minutes": 13.9
  },
- "rubyActive": 28,
- "allActive": 238,
- "rubyShare": 0.1176,
- "steamPlayers": 13500,
+ "rubyActive": 8,
+ "allActive": 152,
+ "rubyShare": 0.0526,
+ "steamPlayers": 13823,
  "rubyCutoff": 58189,
  "grinding": [
   {
-   "rank": 1,
-   "name": "FreeTTV-BurkePOV#0455",
-   "delta": 2,
-   "rankScore": 71629,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 2,
-   "name": "BLAD3R#2825",
-   "delta": 5,
-   "rankScore": 71541,
-   "club": "APES",
-   "twitch": null
-  },
-  {
-   "rank": 8,
-   "name": "Avion#8636",
-   "delta": 4,
-   "rankScore": 70295,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 9,
-   "name": "MOGHWASOM#2367",
-   "delta": 11,
-   "rankScore": 70020,
-   "club": "MTHRY",
-   "twitch": null
-  },
-  {
-   "rank": 26,
-   "name": "perzzonTTV#5485",
-   "delta": 35,
-   "rankScore": 66137,
-   "club": "PRZN",
-   "twitch": null
-  },
-  {
-   "rank": 54,
-   "name": "slim#1364",
-   "delta": 56,
-   "rankScore": 63753,
-   "club": "C4RPG",
-   "twitch": null
-  },
-  {
-   "rank": 91,
-   "name": "bubbo#2101",
-   "delta": 70,
-   "rankScore": 62437,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 154,
-   "name": "HadBananas#0669",
-   "delta": 87,
-   "rankScore": 60935,
-   "club": "LUMN",
-   "twitch": null
-  },
-  {
-   "rank": 156,
+   "rank": 155,
    "name": "Midnight#3042",
-   "delta": -89,
-   "rankScore": 60832,
+   "delta": 87,
+   "rankScore": 60919,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 235,
-   "name": "60hz#0386",
-   "delta": 97,
-   "rankScore": 60131,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 240,
-   "name": "MVP666#8626",
-   "delta": 196,
-   "rankScore": 60117,
-   "club": "WAIM",
-   "twitch": null
-  },
-  {
-   "rank": 308,
-   "name": "Wladimir#0654",
-   "delta": 201,
-   "rankScore": 59904,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 342,
-   "name": "Snafu#3644",
-   "delta": 44,
-   "rankScore": 59703,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 367,
-   "name": "Remember#1220",
-   "delta": 105,
-   "rankScore": 59531,
+   "rank": 200,
+   "name": "SHINIGAMI#9572",
+   "delta": 41,
+   "rankScore": 60300,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 379,
-   "name": "Sadeness#1017",
-   "delta": 46,
-   "rankScore": 59466,
-   "club": "DMPRO",
-   "twitch": null
-  },
-  {
-   "rank": 381,
-   "name": "Habibiy#0654",
-   "delta": 106,
-   "rankScore": 59458,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 386,
-   "name": "LOHJICKE#7790",
-   "delta": 106,
-   "rankScore": 59442,
-   "club": "MTHRY",
-   "twitch": null
-  },
-  {
-   "rank": 392,
-   "name": "Only23#6750",
-   "delta": 107,
-   "rankScore": 59410,
-   "club": "BAN",
-   "twitch": null
-  },
-  {
-   "rank": 413,
-   "name": "MAS#0686",
-   "delta": -44,
-   "rankScore": 59324,
-   "club": "BOOKS",
-   "twitch": null
-  },
-  {
-   "rank": 420,
-   "name": "SaturdayTasogare#0030",
-   "delta": 109,
-   "rankScore": 59275,
-   "club": "TBRRW",
-   "twitch": null
-  },
-  {
-   "rank": 429,
-   "name": "1ndex#1058",
-   "delta": 110,
-   "rankScore": 59229,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 443,
-   "name": "IncGII#1058",
-   "delta": 224,
-   "rankScore": 59085,
-   "club": "LZ0",
-   "twitch": "incgii"
-  },
-  {
-   "rank": 462,
+   "rank": 460,
    "name": "Wireless_Jose#0347",
-   "delta": 114,
-   "rankScore": 58875,
+   "delta": 113,
+   "rankScore": 58988,
    "club": "BOOKS",
    "twitch": null
   },
   {
-   "rank": 477,
-   "name": "4AM.Hathaway#0265",
+   "rank": 466,
+   "name": "GrandSpark#5639",
    "delta": 50,
-   "rankScore": 58549,
-   "club": "HZTOP",
+   "rankScore": 58724,
+   "club": "MOL",
    "twitch": null
   },
   {
-   "rank": 481,
-   "name": "1_vk.ttv#0769",
-   "delta": 132,
-   "rankScore": 58490,
-   "club": "AUREA",
+   "rank": 468,
+   "name": "Vedaa#5145",
+   "delta": 117,
+   "rankScore": 58707,
+   "club": null,
    "twitch": null
   },
   {
    "rank": 485,
-   "name": "Mr.RedFox#6286",
-   "delta": -48,
-   "rankScore": 58454,
-   "club": "BOOKS",
-   "twitch": null
-  },
-  {
-   "rank": 493,
    "name": "UnskilledDummy#2605",
-   "delta": 123,
-   "rankScore": 58336,
+   "delta": 120,
+   "rankScore": 58456,
    "club": "OG",
    "twitch": null
   },
   {
-   "rank": 499,
-   "name": "SLIMETIME#3167",
-   "delta": 124,
-   "rankScore": 58196,
-   "club": "FESTR",
+   "rank": 490,
+   "name": "Kazuki#0590",
+   "delta": 121,
+   "rankScore": 58417,
+   "club": "1PEEK",
+   "twitch": null
+  },
+  {
+   "rank": 495,
+   "name": "unemployed#5424",
+   "delta": 122,
+   "rankScore": 58343,
+   "club": "PROIT",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-17T15:30:54Z",
-  "totalStreams": 94,
+  "checkedAt": "2026-10-17T15:40:53Z",
+  "totalStreams": 103,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "Chauve affûté",
-    "viewers": 63,
+    "viewers": 77,
     "startedAt": "2026-10-17T12:56:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 48,
@@ -259,7 +99,7 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "✨Testing SP 005 ✨ // VT GM COMPLETED :D !vt // !sens",
-    "viewers": 6,
+    "viewers": 7,
     "startedAt": "2026-10-17T12:09:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 95,
@@ -271,7 +111,7 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "light ruby / ONLY WIN RANKEDDDDDD !!!!!!!!",
-    "viewers": 2,
+    "viewers": 4,
     "startedAt": "2026-10-17T12:14:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 443,
@@ -297,9 +137,17 @@
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 8,
+    "viewers": 6,
     "startedAt": "2026-10-17T14:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
+   },
+   {
+    "login": "10mode_",
+    "displayName": "10mode_",
+    "title": "The FINALS!! (Ranked Tournament's) Grind to RUBY!!",
+    "viewers": 3,
+    "startedAt": "2026-10-16T21:54:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
    },
    {
     "login": "opportunehook9",
@@ -310,12 +158,12 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    },
    {
-    "login": "10mode_",
-    "displayName": "10mode_",
-    "title": "The FINALS!! (Ranked Tournament's) Grind to RUBY!!",
+    "login": "buckets201338",
+    "displayName": "buckets201338",
+    "title": "Grinding lets gooooo JOIN RIGHT NOW trying to get RUBY!!",
     "viewers": 1,
-    "startedAt": "2026-10-16T21:54:04Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
+    "startedAt": "2026-10-17T15:31:02Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_buckets201338-{width}x{height}.jpg"
    }
   ]
  },
@@ -323,7 +171,7 @@
   "ready": false,
   "placed": {
    "ruby": 249,
-   "all": 1983
+   "all": 1982
   },
   "rubyByRegion": {
    "am": 109,
@@ -333,19 +181,19 @@
   "window": {
    "am": {
     "ruby": 1,
-    "all": 8
+    "all": 14
    },
    "eu": {
-    "ruby": 10,
-    "all": 72
+    "ruby": 5,
+    "all": 45
    },
    "ap": {
-    "ruby": 10,
-    "all": 40
+    "ruby": 2,
+    "all": 17
    },
    "unplaced": {
-    "ruby": 7,
-    "all": 118
+    "ruby": 0,
+    "all": 76
    }
   }
  },

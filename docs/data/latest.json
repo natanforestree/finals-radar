@@ -1,89 +1,149 @@
 {
- "generatedAt": "2026-10-17T16:30:53Z",
+ "generatedAt": "2026-10-17T16:40:54Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-17T16:22:31Z",
+ "leaderboardUpdatedAt": "2026-10-17T16:32:30Z",
  "window": {
-  "from": "2026-10-17T16:05:00Z",
-  "to": "2026-10-17T16:22:31Z",
-  "minutes": 17.5
+  "from": "2026-10-17T16:22:31Z",
+  "to": "2026-10-17T16:32:30Z",
+  "minutes": 10.0
  },
- "rubyActive": 6,
- "allActive": 92,
- "rubyShare": 0.0652,
- "steamPlayers": 14505,
+ "rubyActive": 15,
+ "allActive": 168,
+ "rubyShare": 0.0893,
+ "steamPlayers": 14556,
  "rubyCutoff": 58189,
  "grinding": [
   {
-   "rank": 90,
-   "name": "bubbo#2101",
-   "delta": 68,
-   "rankScore": 62505,
+   "rank": 1,
+   "name": "FreeTTV-BurkePOV#0455",
+   "delta": 5,
+   "rankScore": 71636,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 92,
-   "name": "TaeK#3289",
-   "delta": 69,
-   "rankScore": 62414,
-   "club": "HEIMG",
-   "twitch": "taekfps"
+   "rank": 8,
+   "name": "Avion#8636",
+   "delta": 10,
+   "rankScore": 70309,
+   "club": "RS1",
+   "twitch": null
   },
   {
-   "rank": 199,
-   "name": "SHINIGAMI#9572",
-   "delta": 40,
-   "rankScore": 60340,
+   "rank": 21,
+   "name": "Dyrani#4601",
+   "delta": 29,
+   "rankScore": 66850,
+   "club": "RADGG",
+   "twitch": null
+  },
+  {
+   "rank": 23,
+   "name": "Persyble#8066",
+   "delta": 32,
+   "rankScore": 66373,
+   "club": "AUREA",
+   "twitch": null
+  },
+  {
+   "rank": 73,
+   "name": "emilien#6585",
+   "delta": 63,
+   "rankScore": 63004,
+   "club": "FYYR",
+   "twitch": null
+  },
+  {
+   "rank": 110,
+   "name": "Palma#2038",
+   "delta": 75,
+   "rankScore": 61932,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 156,
+   "name": "Midnight#3042",
+   "delta": -90,
+   "rankScore": 60866,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 442,
-   "name": "Wireless_Jose#0347",
-   "delta": 111,
-   "rankScore": 59099,
-   "club": "BOOKS",
+   "rank": 319,
+   "name": "Snafu#3644",
+   "delta": 101,
+   "rankScore": 59848,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 464,
-   "name": "GrandSpark#5639",
+   "rank": 367,
+   "name": "Sadeness#1017",
+   "delta": 45,
+   "rankScore": 59555,
+   "club": "DMPRO",
+   "twitch": null
+  },
+  {
+   "rank": 376,
+   "name": "Y_K_S_T#0554",
+   "delta": 106,
+   "rankScore": 59494,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 389,
+   "name": "Borderless#0523",
+   "delta": 106,
+   "rankScore": 59440,
+   "club": "SEITN",
+   "twitch": null
+  },
+  {
+   "rank": 406,
+   "name": "1ndex#1058",
+   "delta": 45,
+   "rankScore": 59382,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 463,
+   "name": "Vedaa#5145",
    "delta": 115,
-   "rankScore": 58839,
-   "club": "MOL",
+   "rankScore": 58871,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 475,
-   "name": "UnskilledDummy#2605",
-   "delta": 119,
-   "rankScore": 58575,
-   "club": "OG",
+   "rank": 469,
+   "name": "4AM.Hathaway#0265",
+   "delta": 116,
+   "rankScore": 58716,
+   "club": "HZTOP",
    "twitch": null
+  },
+  {
+   "rank": 482,
+   "name": "Antiparty#0866",
+   "delta": -48,
+   "rankScore": 58483,
+   "club": "GOONU",
+   "twitch": "antiparty"
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-17T16:30:53Z",
-  "totalStreams": 139,
+  "checkedAt": "2026-10-17T16:40:54Z",
+  "totalStreams": 133,
   "rubyLive": [
-   {
-    "login": "naghostx6",
-    "displayName": "NAGHOSTX6",
-    "title": "Chauve affûté",
-    "viewers": 100,
-    "startedAt": "2026-10-17T12:56:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
-    "rank": 48,
-    "name": "NAGHOSTX6#0212",
-    "rankScore": 64433,
-    "matchedBy": "name"
-   },
    {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "✨Testing SP 005 ✨ // VT GM COMPLETED :D !vt // !sens",
-    "viewers": 11,
+    "viewers": 14,
     "startedAt": "2026-10-17T12:09:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 92,
@@ -95,7 +155,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Pew-Pew on ranked",
-    "viewers": 16,
+    "viewers": 12,
     "startedAt": "2026-10-17T15:41:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 114,
@@ -107,7 +167,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED - TOP 230",
-    "viewers": 5,
+    "viewers": 8,
     "startedAt": "2026-10-17T16:16:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 232,
@@ -131,12 +191,12 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 23,
+    "viewers": 20,
     "startedAt": "2026-10-17T09:30:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 479,
+    "rank": 482,
     "name": "Antiparty#0866",
-    "rankScore": 58531,
+    "rankScore": 58483,
     "matchedBy": "name"
    }
   ],
@@ -145,9 +205,17 @@
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 8,
+    "viewers": 12,
     "startedAt": "2026-10-17T14:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
+   },
+   {
+    "login": "10mode_",
+    "displayName": "10mode_",
+    "title": "The FINALS!! (Ranked Tournament's) Grind to RUBY!!",
+    "viewers": 3,
+    "startedAt": "2026-10-16T21:54:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
    },
    {
     "login": "buckets201338",
@@ -164,14 +232,6 @@
     "viewers": 1,
     "startedAt": "2026-10-17T15:06:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
-   },
-   {
-    "login": "10mode_",
-    "displayName": "10mode_",
-    "title": "The FINALS!! (Ranked Tournament's) Grind to RUBY!!",
-    "viewers": 1,
-    "startedAt": "2026-10-16T21:54:04Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
    }
   ]
  },
@@ -179,7 +239,7 @@
   "ready": false,
   "placed": {
    "ruby": 249,
-   "all": 1981
+   "all": 1979
   },
   "rubyByRegion": {
    "am": 109,
@@ -189,19 +249,19 @@
   "window": {
    "am": {
     "ruby": 1,
-    "all": 13
+    "all": 20
    },
    "eu": {
-    "ruby": 4,
-    "all": 22
+    "ruby": 3,
+    "all": 57
    },
    "ap": {
-    "ruby": 1,
-    "all": 12
+    "ruby": 5,
+    "all": 18
    },
    "unplaced": {
-    "ruby": 0,
-    "all": 45
+    "ruby": 6,
+    "all": 73
    }
   }
  },

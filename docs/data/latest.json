@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T23:10:53Z",
+ "generatedAt": "2026-10-17T23:20:54Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-17T23:03:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 29,
  "allActive": 279,
  "rubyShare": 0.1039,
- "steamPlayers": 14661,
+ "steamPlayers": 14313,
  "rubyCutoff": 58234,
  "grinding": [
   {
@@ -35,7 +35,7 @@
    "delta": 54,
    "rankScore": 63843,
    "club": "LUMN",
-   "twitch": "lamp"
+   "twitch": null
   },
   {
    "rank": 64,
@@ -248,31 +248,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-17T23:10:53Z",
-  "totalStreams": 203,
+  "checkedAt": "2026-10-17T23:20:54Z",
+  "totalStreams": 201,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "#6 RANKED W STN & JUKER | !discord !sens !rank",
-    "viewers": 63,
+    "viewers": 143,
     "startedAt": "2026-10-17T19:30:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 6,
     "name": "normalize#0130",
     "rankScore": 70497,
-    "matchedBy": "name"
-   },
-   {
-    "login": "lamp",
-    "displayName": "lamp",
-    "title": "need to order a fresh mousepad and skates. Locking in for s12! !youtube | lampischiller lampisLuminon",
-    "viewers": 159,
-    "startedAt": "2026-10-17T20:12:12Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
-    "rank": 54,
-    "name": "lamp#5944",
-    "rankScore": 63843,
     "matchedBy": "name"
    },
    {
@@ -303,7 +291,7 @@
     "login": "def_noxttv",
     "displayName": "def_noxTTV",
     "title": "Top 150????? Chill ranked vibes (DROPS)",
-    "viewers": 7,
+    "viewers": 10,
     "startedAt": "2026-10-17T21:10:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
     "rank": 188,
@@ -315,7 +303,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Season 12 soon. Peak is upon us - !Coach - Embark Partner - VGG Coach",
-    "viewers": 61,
+    "viewers": 58,
     "startedAt": "2026-10-17T18:27:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 366,
@@ -326,10 +314,18 @@
   ],
   "titleMentions": [
    {
+    "login": "10mode_",
+    "displayName": "10mode_",
+    "title": "The FINALS!! (Ranked Tournament's) Grind to RUBY!!",
+    "viewers": 2,
+    "startedAt": "2026-10-16T21:54:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
+   },
+   {
     "login": "1_vktf",
     "displayName": "1_vktf",
     "title": "[DROPS] secured the ruby im gonna prepare for nxt szn!",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-17T23:02:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1_vktf-{width}x{height}.jpg"
    },
@@ -340,22 +336,6 @@
     "viewers": 1,
     "startedAt": "2026-10-17T22:16:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hendri_ksontv-{width}x{height}.jpg"
-   },
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 1,
-    "startedAt": "2026-10-17T20:22:33Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
-   },
-   {
-    "login": "10mode_",
-    "displayName": "10mode_",
-    "title": "The FINALS!! (Ranked Tournament's) Grind to RUBY!!",
-    "viewers": 1,
-    "startedAt": "2026-10-16T21:54:04Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
    },
    {
     "login": "v8_karma",

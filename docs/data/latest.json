@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T01:10:41Z",
+ "generatedAt": "2026-10-17T01:20:40Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-17T01:10:45Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 20,
  "allActive": 232,
  "rubyShare": 0.0862,
- "steamPlayers": 13139,
+ "steamPlayers": 13265,
  "rubyCutoff": 57969,
  "grinding": [
   {
@@ -176,14 +176,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-17T01:10:41Z",
-  "totalStreams": 198,
+  "checkedAt": "2026-10-17T01:20:40Z",
+  "totalStreams": 208,
   "rubyLive": [
+   {
+    "login": "normalize",
+    "displayName": "normalize",
+    "title": "!DROPS | RANKED W STEW & JUKER | !discord !sens !rank",
+    "viewers": 26,
+    "startedAt": "2026-10-17T01:08:54Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
+    "rank": 6,
+    "name": "normalize#0130",
+    "rankScore": 70350,
+    "matchedBy": "name"
+   },
    {
     "login": "stewj",
     "displayName": "stewj",
     "title": "RANKED | VIBING",
-    "viewers": 22,
+    "viewers": 35,
     "startedAt": "2026-10-17T01:04:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 8,
@@ -195,7 +207,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive on Freaky Friday | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 92,
+    "viewers": 89,
     "startedAt": "2026-10-16T20:31:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 171,
@@ -207,7 +219,7 @@
     "login": "def_noxttv",
     "displayName": "def_noxTTV",
     "title": "Top 150? Chill Ranked Vibes (DROPS)",
-    "viewers": 3,
+    "viewers": 2,
     "startedAt": "2026-10-17T00:36:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
     "rank": 198,
@@ -256,6 +268,14 @@
     "viewers": 1,
     "startedAt": "2026-10-17T01:03:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckdrew-{width}x{height}.jpg"
+   },
+   {
+    "login": "shinxjudas",
+    "displayName": "SHINxJUDAS",
+    "title": "can i go to ruby pls",
+    "viewers": 1,
+    "startedAt": "2026-10-17T00:44:57Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shinxjudas-{width}x{height}.jpg"
    }
   ]
  },

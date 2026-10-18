@@ -1,90 +1,166 @@
 {
- "generatedAt": "2026-10-18T07:30:36Z",
+ "generatedAt": "2026-10-18T07:40:36Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-18T07:24:15Z",
+ "leaderboardUpdatedAt": "2026-10-18T07:39:22Z",
  "window": {
-  "from": "2026-10-18T07:10:13Z",
-  "to": "2026-10-18T07:24:15Z",
-  "minutes": 14.0
+  "from": "2026-10-18T07:24:15Z",
+  "to": "2026-10-18T07:39:22Z",
+  "minutes": 15.1
  },
- "rubyActive": 7,
- "allActive": 58,
- "rubyShare": 0.1207,
- "steamPlayers": 8651,
- "rubyCutoff": 58386,
+ "rubyActive": 15,
+ "allActive": 114,
+ "rubyShare": 0.1316,
+ "steamPlayers": 8452,
+ "rubyCutoff": 58414,
  "grinding": [
   {
-   "rank": 28,
-   "name": "TwitchAyoKoy#7018",
-   "delta": 39,
-   "rankScore": 65570,
+   "rank": 9,
+   "name": "MOGHWASOM#2367",
+   "delta": 11,
+   "rankScore": 70031,
+   "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 42,
+   "name": "Digcron.TTV#3309",
+   "delta": 46,
+   "rankScore": 64724,
+   "club": "DIGA",
+   "twitch": "digcron"
+  },
+  {
+   "rank": 43,
+   "name": "Berrence#2323",
+   "delta": 19,
+   "rankScore": 64713,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 56,
+   "name": "Pericolocote818#1005",
+   "delta": 55,
+   "rankScore": 63778,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 67,
+   "name": "tecniq#6126",
+   "delta": 25,
+   "rankScore": 63240,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 71,
+   "name": "ZeToniezTTV#1849",
+   "delta": 63,
+   "rankScore": 63077,
+   "club": "SSG",
+   "twitch": null
+  },
+  {
+   "rank": 164,
+   "name": "I_LOVE_YOU#4183",
+   "delta": 90,
+   "rankScore": 60693,
+   "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 211,
+   "name": "Fllyyii#3166",
+   "delta": 95,
+   "rankScore": 60276,
+   "club": "T400",
+   "twitch": null
+  },
+  {
+   "rank": 223,
+   "name": "Apples#1806",
+   "delta": 97,
+   "rankScore": 60177,
+   "club": "TS",
+   "twitch": null
+  },
+  {
+   "rank": 388,
+   "name": "LOHJICKE#7790",
+   "delta": 105,
+   "rankScore": 59547,
+   "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 450,
+   "name": "Ty#7000",
+   "delta": 110,
+   "rankScore": 59170,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 465,
+   "name": "SkilledTiger#1668",
+   "delta": 113,
+   "rankScore": 59034,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 466,
+   "name": "g1#2839",
+   "delta": -114,
+   "rankScore": 59021,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 98,
-   "name": "TwichJussAngellk#0030",
-   "delta": 70,
-   "rankScore": 62336,
-   "club": "MR",
+   "rank": 495,
+   "name": "WhyYouMad#3600",
+   "delta": 51,
+   "rankScore": 58460,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 201,
-   "name": "mr-bob#5491",
-   "delta": 40,
-   "rankScore": 60368,
-   "club": "L0AD",
-   "twitch": null
-  },
-  {
-   "rank": 216,
-   "name": "Spoob#0491",
-   "delta": 41,
-   "rankScore": 60202,
-   "club": "1LOAD",
-   "twitch": null
-  },
-  {
-   "rank": 331,
-   "name": "Tony_Pepperoni#1730",
-   "delta": 43,
-   "rankScore": 59842,
-   "club": "1LOAD",
-   "twitch": null
-  },
-  {
-   "rank": 423,
-   "name": "GetBallMunched#3928",
-   "delta": 108,
-   "rankScore": 59379,
-   "club": "ABG4",
-   "twitch": null
-  },
-  {
-   "rank": 488,
-   "name": "1_vk.ttv#0769",
-   "delta": -48,
-   "rankScore": 58508,
-   "club": "AUREA",
-   "twitch": null
+   "rank": 499,
+   "name": "Antiparty#0866",
+   "delta": 51,
+   "rankScore": 58423,
+   "club": "GOONU",
+   "twitch": "antiparty"
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-18T07:30:36Z",
-  "totalStreams": 117,
+  "checkedAt": "2026-10-18T07:40:36Z",
+  "totalStreams": 118,
   "rubyLive": [
+   {
+    "login": "elfloridogaming",
+    "displayName": "ElFloridoGaming",
+    "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
+    "viewers": 6,
+    "startedAt": "2026-10-18T07:32:33Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
+    "rank": 20,
+    "name": "FloridoGamingTTV#1606",
+    "rankScore": 67087,
+    "matchedBy": "name"
+   },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Top 30 Ruby",
-    "viewers": 119,
+    "viewers": 121,
     "startedAt": "2026-10-18T04:19:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 43,
+    "rank": 42,
     "name": "Digcron.TTV#3309",
-    "rankScore": 64678,
+    "rankScore": 64724,
     "matchedBy": "name"
    },
    {
@@ -115,12 +191,24 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts-early ruby grind - !sens !rank  !mouse !class !size",
-    "viewers": 2,
+    "viewers": 11,
     "startedAt": "2026-10-18T07:25:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 276,
     "name": "TTV_Jumparau#0323",
     "rankScore": 60053,
+    "matchedBy": "name"
+   },
+   {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[drops] the ranking continues - !yt !discord !finalsRS",
+    "viewers": 17,
+    "startedAt": "2026-10-18T01:23:13Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 499,
+    "name": "Antiparty#0866",
+    "rankScore": 58423,
     "matchedBy": "name"
    }
   ],
@@ -147,29 +235,29 @@
   "ready": true,
   "placed": {
    "ruby": 252,
-   "all": 2050
+   "all": 2049
   },
   "rubyByRegion": {
-   "am": 112,
+   "am": 111,
    "eu": 74,
-   "ap": 66
+   "ap": 67
   },
   "window": {
    "am": {
     "ruby": 5,
-    "all": 26
+    "all": 45
    },
    "eu": {
-    "ruby": 0,
-    "all": 3
+    "ruby": 4,
+    "all": 6
    },
    "ap": {
-    "ruby": 0,
-    "all": 8
+    "ruby": 4,
+    "all": 19
    },
    "unplaced": {
     "ruby": 2,
-    "all": 21
+    "all": 44
    }
   }
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T10:00:37Z",
+ "generatedAt": "2026-10-18T10:10:36Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-18T09:35:02Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 13,
  "allActive": 110,
  "rubyShare": 0.1182,
- "steamPlayers": 8457,
+ "steamPlayers": 8666,
  "rubyCutoff": 58423,
  "grinding": [
   {
@@ -19,7 +19,7 @@
    "delta": 20,
    "rankScore": 64817,
    "club": "DIGA",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 67,
@@ -120,14 +120,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-18T10:00:37Z",
-  "totalStreams": 73,
+  "checkedAt": "2026-10-18T10:10:36Z",
+  "totalStreams": 70,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 15,
+    "viewers": 12,
     "startedAt": "2026-10-18T07:32:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 20,
@@ -136,22 +136,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Top 30 Ruby",
-    "viewers": 101,
-    "startedAt": "2026-10-18T04:19:48Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 40,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 64817,
-    "matchedBy": "name"
-   },
-   {
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "gooners ranked RN!!!!//team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 5,
+    "viewers": 4,
     "startedAt": "2026-10-18T07:43:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg",
     "rank": 93,
@@ -160,10 +148,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Chilling | The Finals | Ruby Light Secured 60k",
+    "viewers": 47,
+    "startedAt": "2026-10-18T09:54:01Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
+    "rank": 191,
+    "name": "bobiduity#2959",
+    "rankScore": 60478,
+    "matchedBy": "name"
+   },
+   {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED - TOP 230",
-    "viewers": 8,
+    "viewers": 12,
     "startedAt": "2026-10-18T08:05:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 241,
@@ -175,7 +175,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts-early ruby grind - !sens !rank  !mouse !class !size",
-    "viewers": 16,
+    "viewers": 8,
     "startedAt": "2026-10-18T07:25:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 275,
@@ -225,5 +225,5 @@
    }
   }
  },
- "source": "embark"
+ "source": "community"
 }

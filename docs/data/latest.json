@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T19:10:36Z",
+ "generatedAt": "2026-10-18T19:20:36Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-18T19:02:34Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 26,
  "allActive": 304,
  "rubyShare": 0.0855,
- "steamPlayers": 19026,
+ "steamPlayers": 19280,
  "rubyCutoff": 58656,
  "grinding": [
   {
@@ -27,7 +27,7 @@
    "delta": 33,
    "rankScore": 66371,
    "club": "PRZN",
-   "twitch": "perzzon"
+   "twitch": null
   },
   {
    "rank": 56,
@@ -224,21 +224,9 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-18T19:10:36Z",
-  "totalStreams": 169,
+  "checkedAt": "2026-10-18T19:20:36Z",
+  "totalStreams": 174,
   "rubyLive": [
-   {
-    "login": "perzzon",
-    "displayName": "Perzzon",
-    "title": "Pls give me s12 rn !drops !Youtube !Discord !Playlist",
-    "viewers": 120,
-    "startedAt": "2026-10-18T12:11:52Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 25,
-    "name": "perzzonTTV#5485",
-    "rankScore": 66371,
-    "matchedBy": "name"
-   },
    {
     "login": "bobiduity",
     "displayName": "bobiduity",
@@ -252,10 +240,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "detaail",
+    "displayName": "DeTaaiL",
+    "title": "Rankular",
+    "viewers": 4,
+    "startedAt": "2026-10-18T17:28:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_detaail-{width}x{height}.jpg",
+    "rank": 250,
+    "name": "DeTaaiL#7503",
+    "rankScore": 60123,
+    "matchedBy": "name"
+   },
+   {
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts-Ranked/pugs - !sens !rank  !mouse !class !size",
-    "viewers": 26,
+    "viewers": 24,
     "startedAt": "2026-10-18T17:34:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 280,
@@ -267,7 +267,7 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "light ruby / scrim cashout !!!!!!!!",
-    "viewers": 4,
+    "viewers": 2,
     "startedAt": "2026-10-18T18:23:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 332,
@@ -281,7 +281,7 @@
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 22,
+    "viewers": 21,
     "startedAt": "2026-10-18T13:41:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
    },

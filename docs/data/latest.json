@@ -1,142 +1,134 @@
 {
- "generatedAt": "2026-10-18T03:30:53Z",
+ "generatedAt": "2026-10-18T03:40:52Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-18T03:18:00Z",
+ "leaderboardUpdatedAt": "2026-10-18T03:33:29Z",
  "window": {
-  "from": "2026-10-18T03:02:41Z",
-  "to": "2026-10-18T03:18:00Z",
-  "minutes": 15.3
+  "from": "2026-10-18T03:18:00Z",
+  "to": "2026-10-18T03:33:29Z",
+  "minutes": 15.5
  },
- "rubyActive": 12,
- "allActive": 96,
- "rubyShare": 0.125,
- "steamPlayers": 13787,
- "rubyCutoff": 58269,
+ "rubyActive": 11,
+ "allActive": 160,
+ "rubyShare": 0.0688,
+ "steamPlayers": 13727,
+ "rubyCutoff": 58278,
  "grinding": [
   {
-   "rank": 57,
-   "name": "Brendy#3600",
-   "delta": -106,
-   "rankScore": 63668,
-   "club": "HF",
-   "twitch": null
+   "rank": 5,
+   "name": "normalize#0130",
+   "delta": 8,
+   "rankScore": 70550,
+   "club": "LUMN",
+   "twitch": "normalize"
   },
   {
-   "rank": 59,
-   "name": "Pericolocote818#1005",
-   "delta": 25,
-   "rankScore": 63605,
-   "club": "ZZ",
-   "twitch": null
+   "rank": 7,
+   "name": "stewj#8610",
+   "delta": 10,
+   "rankScore": 70371,
+   "club": "NTMR",
+   "twitch": "stewj"
   },
   {
-   "rank": 95,
-   "name": "everyone#7531",
-   "delta": 70,
-   "rankScore": 62367,
-   "club": "IH4TE",
-   "twitch": null
-  },
-  {
-   "rank": 288,
-   "name": "sinisterbob666#3137",
-   "delta": 98,
-   "rankScore": 60030,
-   "club": "DMA67",
-   "twitch": null
-  },
-  {
-   "rank": 346,
-   "name": "J4m#3640",
-   "delta": 103,
-   "rankScore": 59735,
-   "club": "FRYD",
-   "twitch": null
-  },
-  {
-   "rank": 359,
-   "name": "Boom#6313",
-   "delta": -191,
-   "rankScore": 59696,
+   "rank": 12,
+   "name": "Juker#0771",
+   "delta": 14,
+   "rankScore": 69321,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 426,
-   "name": "ScarySoul#6803",
-   "delta": 45,
-   "rankScore": 59333,
-   "club": "T0GGL",
+   "rank": 75,
+   "name": "Morphisxx23#0991",
+   "delta": -18,
+   "rankScore": 63012,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 433,
-   "name": "TonyGunkTV#8642",
-   "delta": 108,
-   "rankScore": 59301,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 474,
-   "name": "cheattester76#0663",
-   "delta": 116,
-   "rankScore": 58752,
+   "rank": 101,
+   "name": "Clcfr#1949",
+   "delta": 71,
+   "rankScore": 62214,
    "club": "DMA67",
    "twitch": null
   },
   {
-   "rank": 477,
+   "rank": 144,
+   "name": "Jericho.TTV#9300",
+   "delta": 37,
+   "rankScore": 61047,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 393,
+   "name": "mec#0490",
+   "delta": 106,
+   "rankScore": 59494,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 476,
+   "name": "1_vk.ttv#0769",
+   "delta": 49,
+   "rankScore": 58720,
+   "club": "AUREA",
+   "twitch": null
+  },
+  {
+   "rank": 479,
+   "name": "soul#2445",
+   "delta": 118,
+   "rankScore": 58638,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 495,
    "name": "WhyYouMad#3600",
-   "delta": -217,
-   "rankScore": 58691,
+   "delta": -296,
+   "rankScore": 58395,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 483,
-   "name": "Antiparty#0866",
-   "delta": -117,
-   "rankScore": 58540,
-   "club": "GOONU",
-   "twitch": "antiparty"
-  },
-  {
-   "rank": 498,
-   "name": "bynoir#1331",
-   "delta": -287,
-   "rankScore": 58331,
-   "club": "KOMPI",
+   "rank": 500,
+   "name": "unfortunate#0650",
+   "delta": 123,
+   "rankScore": 58278,
+   "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-18T03:30:53Z",
-  "totalStreams": 194,
+  "checkedAt": "2026-10-18T03:40:52Z",
+  "totalStreams": 202,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "#6 RANKED W STEW & JUKER | !discord !sens !rank",
-    "viewers": 88,
+    "viewers": 97,
     "startedAt": "2026-10-17T19:30:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 5,
     "name": "normalize#0130",
-    "rankScore": 70542,
+    "rankScore": 70550,
     "matchedBy": "name"
    },
    {
     "login": "stewj",
     "displayName": "stewj",
     "title": "RANKED | VIBING",
-    "viewers": 61,
+    "viewers": 42,
     "startedAt": "2026-10-18T00:48:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
     "name": "stewj#8610",
-    "rankScore": 70361,
+    "rankScore": 70371,
     "matchedBy": "name"
    },
    {
@@ -181,17 +173,9 @@
     "login": "1_vktf",
     "displayName": "1_vktf",
     "title": "[DROPS] Jericho.ttv sold my ruby please let me quit this game embark",
-    "viewers": 9,
+    "viewers": 7,
     "startedAt": "2026-10-17T23:02:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1_vktf-{width}x{height}.jpg"
-   },
-   {
-    "login": "beckdrew",
-    "displayName": "BeckDrew",
-    "title": "BRONZE TO RUBY RINGING MY SKELETAL ON MY DESK RN",
-    "viewers": 2,
-    "startedAt": "2026-10-18T03:11:42Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckdrew-{width}x{height}.jpg"
    },
    {
     "login": "10mode_",
@@ -215,29 +199,29 @@
   "ready": true,
   "placed": {
    "ruby": 252,
-   "all": 2024
+   "all": 2029
   },
   "rubyByRegion": {
-   "am": 110,
-   "eu": 75,
+   "am": 111,
+   "eu": 74,
    "ap": 67
   },
   "window": {
    "am": {
-    "ruby": 11,
-    "all": 55
+    "ruby": 10,
+    "all": 94
    },
    "eu": {
     "ruby": 0,
-    "all": 2
+    "all": 1
    },
    "ap": {
     "ruby": 1,
-    "all": 6
+    "all": 9
    },
    "unplaced": {
     "ruby": 0,
-    "all": 33
+    "all": 56
    }
   }
  },

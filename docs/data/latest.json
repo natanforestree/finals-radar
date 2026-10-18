@@ -1,37 +1,117 @@
 {
- "generatedAt": "2026-10-18T04:30:53Z",
+ "generatedAt": "2026-10-18T04:40:53Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-18T04:18:30Z",
+ "leaderboardUpdatedAt": "2026-10-18T04:38:00Z",
  "window": {
-  "from": "2026-10-18T04:03:25Z",
-  "to": "2026-10-18T04:18:30Z",
-  "minutes": 15.1
+  "from": "2026-10-18T04:18:30Z",
+  "to": "2026-10-18T04:38:00Z",
+  "minutes": 19.5
  },
- "rubyActive": 1,
- "allActive": 82,
- "rubyShare": 0.0122,
- "steamPlayers": 13131,
- "rubyCutoff": 58342,
+ "rubyActive": 11,
+ "allActive": 157,
+ "rubyShare": 0.0701,
+ "steamPlayers": 12622,
+ "rubyCutoff": 58386,
  "grinding": [
   {
-   "rank": 479,
-   "name": "Antiparty#0866",
-   "delta": -47,
-   "rankScore": 58610,
-   "club": "GOONU",
-   "twitch": "antiparty"
+   "rank": 23,
+   "name": "varieyn#1933",
+   "delta": 32,
+   "rankScore": 66496,
+   "club": "KCP",
+   "twitch": null
+  },
+  {
+   "rank": 155,
+   "name": "Jericho.TTV#9300",
+   "delta": -89,
+   "rankScore": 60870,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 200,
+   "name": "Ms.Jennacide#1019",
+   "delta": 94,
+   "rankScore": 60377,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 205,
+   "name": "gabyspg#1483",
+   "delta": 95,
+   "rankScore": 60343,
+   "club": "ZZ",
+   "twitch": null
+  },
+  {
+   "rank": 315,
+   "name": "Boom#6313",
+   "delta": 100,
+   "rankScore": 59898,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 393,
+   "name": "mec#0490",
+   "delta": 45,
+   "rankScore": 59496,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 419,
+   "name": "Velol#1623",
+   "delta": 107,
+   "rankScore": 59387,
+   "club": "THIIC",
+   "twitch": null
+  },
+  {
+   "rank": 477,
+   "name": "soul#2445",
+   "delta": 50,
+   "rankScore": 58640,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 480,
+   "name": "WhyYouMad#3600",
+   "delta": 118,
+   "rankScore": 58633,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 486,
+   "name": "1_vk.ttv#0769",
+   "delta": -122,
+   "rankScore": 58478,
+   "club": "AUREA",
+   "twitch": null
+  },
+  {
+   "rank": 491,
+   "name": "LePitch0uTTV#3428",
+   "delta": 120,
+   "rankScore": 58462,
+   "club": null,
+   "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-18T04:30:53Z",
-  "totalStreams": 201,
+  "checkedAt": "2026-10-18T04:40:53Z",
+  "totalStreams": 200,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "#5 RANKED W STEW & JUKER | !discord !sens !rank",
-    "viewers": 99,
+    "viewers": 91,
     "startedAt": "2026-10-17T19:30:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 5,
@@ -43,7 +123,7 @@
     "login": "stewj",
     "displayName": "stewj",
     "title": "RANKED | VIBING",
-    "viewers": 64,
+    "viewers": 58,
     "startedAt": "2026-10-18T00:48:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
     "rank": 7,
@@ -54,8 +134,8 @@
    {
     "login": "digcron",
     "displayName": "digcron",
-    "title": "Top 30 Ruby",
-    "viewers": 25,
+    "title": "[DROPS] Top 30 Ruby",
+    "viewers": 35,
     "startedAt": "2026-10-18T04:19:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 43,
@@ -76,13 +156,25 @@
     "matchedBy": "name"
    },
    {
+    "login": "mrsack56",
+    "displayName": "mrsack56",
+    "title": "cashout and chill",
+    "viewers": 1,
+    "startedAt": "2026-10-18T01:07:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrsack56-{width}x{height}.jpg",
+    "rank": 392,
+    "name": "Mrsack#9428",
+    "rankScore": 59499,
+    "matchedBy": "name"
+   },
+   {
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[drops] the ranking continues - !yt !discord !finalsRS",
-    "viewers": 18,
+    "viewers": 14,
     "startedAt": "2026-10-18T01:23:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 479,
+    "rank": 481,
     "name": "Antiparty#0866",
     "rankScore": 58610,
     "matchedBy": "name"
@@ -90,18 +182,10 @@
   ],
   "titleMentions": [
    {
-    "login": "1_vktf",
-    "displayName": "1_vktf",
-    "title": "[DROPS] Jericho.ttv sold my ruby please let me quit this game embark",
-    "viewers": 8,
-    "startedAt": "2026-10-17T23:02:10Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_1_vktf-{width}x{height}.jpg"
-   },
-   {
     "login": "camp1033",
     "displayName": "Camp1033",
     "title": "Top 500 Here we come!!!",
-    "viewers": 2,
+    "viewers": 4,
     "startedAt": "2026-10-17T23:15:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_camp1033-{width}x{height}.jpg"
    },
@@ -109,7 +193,7 @@
     "login": "10mode_",
     "displayName": "10mode_",
     "title": "The FINALS!! (Ranked Tournament's) Grind to RUBY!!",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-16T21:54:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
    },
@@ -127,7 +211,7 @@
   "ready": true,
   "placed": {
    "ruby": 252,
-   "all": 2037
+   "all": 2036
   },
   "rubyByRegion": {
    "am": 111,
@@ -136,20 +220,20 @@
   },
   "window": {
    "am": {
-    "ruby": 0,
-    "all": 55
+    "ruby": 10,
+    "all": 99
    },
    "eu": {
     "ruby": 0,
-    "all": 0
+    "all": 2
    },
    "ap": {
     "ruby": 1,
-    "all": 5
+    "all": 7
    },
    "unplaced": {
     "ruby": 0,
-    "all": 22
+    "all": 49
    }
   }
  },

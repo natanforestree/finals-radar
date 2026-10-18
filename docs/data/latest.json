@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T00:40:52Z",
+ "generatedAt": "2026-10-18T00:50:52Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-18T00:36:26Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 30,
  "allActive": 193,
  "rubyShare": 0.1554,
- "steamPlayers": 13347,
+ "steamPlayers": 13235,
  "rubyCutoff": 58343,
  "grinding": [
   {
@@ -256,14 +256,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-18T00:40:52Z",
-  "totalStreams": 191,
+  "checkedAt": "2026-10-18T00:50:52Z",
+  "totalStreams": 195,
   "rubyLive": [
    {
     "login": "normalize",
     "displayName": "normalize",
     "title": "#6 RANKED W STN & JUKER | !discord !sens !rank",
-    "viewers": 115,
+    "viewers": 105,
     "startedAt": "2026-10-17T19:30:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
     "rank": 6,
@@ -272,10 +272,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "stewj",
+    "displayName": "stewj",
+    "title": "RANKED | VIBING",
+    "viewers": 11,
+    "startedAt": "2026-10-18T00:48:52Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stewj-{width}x{height}.jpg",
+    "rank": 7,
+    "name": "stewj#8610",
+    "rankScore": 70351,
+    "matchedBy": "name"
+   },
+   {
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 77,
+    "viewers": 80,
     "startedAt": "2026-10-17T20:08:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 174,
@@ -314,6 +326,14 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_10mode_-{width}x{height}.jpg"
    },
    {
+    "login": "camp1033",
+    "displayName": "Camp1033",
+    "title": "Top 500 Here we come!!!",
+    "viewers": 2,
+    "startedAt": "2026-10-17T23:15:11Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_camp1033-{width}x{height}.jpg"
+   },
+   {
     "login": "beckdrew",
     "displayName": "BeckDrew",
     "title": "BRONZE TO RUBY RINGING MY SKELETAL ON MY DESK RN",
@@ -336,14 +356,6 @@
     "viewers": 1,
     "startedAt": "2026-10-18T00:00:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
-   },
-   {
-    "login": "camp1033",
-    "displayName": "Camp1033",
-    "title": "Top 500 Here we come!!!",
-    "viewers": 1,
-    "startedAt": "2026-10-17T23:15:11Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_camp1033-{width}x{height}.jpg"
    }
   ]
  },

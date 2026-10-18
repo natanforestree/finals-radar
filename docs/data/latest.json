@@ -1,138 +1,270 @@
 {
- "generatedAt": "2026-10-18T21:10:36Z",
+ "generatedAt": "2026-10-18T21:20:35Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-18T20:36:00Z",
+ "leaderboardUpdatedAt": "2026-10-18T21:17:30Z",
  "window": {
-  "from": "2026-10-18T20:22:16Z",
-  "to": "2026-10-18T20:36:00Z",
-  "minutes": 13.7
+  "from": "2026-10-18T20:36:00Z",
+  "to": "2026-10-18T21:17:30Z",
+  "minutes": 41.5
  },
- "rubyActive": 13,
- "allActive": 232,
- "rubyShare": 0.056,
+ "rubyActive": 28,
+ "allActive": 387,
+ "rubyShare": 0.0724,
  "steamPlayers": 18463,
- "rubyCutoff": 58683,
+ "rubyCutoff": 58656,
  "grinding": [
   {
-   "rank": 15,
-   "name": "CoDaft#0171",
-   "delta": 21,
-   "rankScore": 67976,
-   "club": "SIN",
+   "rank": 1,
+   "name": "John15-18#6786",
+   "delta": 2,
+   "rankScore": 71710,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 22,
-   "name": "Dyrani#4601",
+   "rank": 6,
+   "name": "NV#8812",
+   "delta": 8,
+   "rankScore": 70544,
+   "club": "GOAT",
+   "twitch": null
+  },
+  {
+   "rank": 10,
+   "name": "Choobz#9757",
    "delta": 12,
-   "rankScore": 67020,
-   "club": "RADGG",
+   "rankScore": 69693,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 15,
+   "name": "CoDaft#0171",
+   "delta": 22,
+   "rankScore": 67998,
+   "club": "SIN",
    "twitch": null
   },
   {
    "rank": 56,
    "name": "Best#8421",
    "delta": 23,
-   "rankScore": 63860,
+   "rankScore": 63883,
    "club": "AVOW",
    "twitch": null
   },
   {
-   "rank": 78,
-   "name": "Papercutz99#0736",
-   "delta": -65,
-   "rankScore": 62985,
-   "club": "MORI",
+   "rank": 61,
+   "name": "Rem#0634",
+   "delta": 58,
+   "rankScore": 63523,
+   "club": "TSM",
    "twitch": null
   },
   {
-   "rank": 231,
-   "name": "StandbyLuke7#3105",
-   "delta": 97,
-   "rankScore": 60172,
-   "club": "NTMR",
+   "rank": 94,
+   "name": "Clcfr#1949",
+   "delta": 69,
+   "rankScore": 62425,
+   "club": "DMA67",
    "twitch": null
   },
   {
-   "rank": 377,
-   "name": "Falcon_Yinx#4513",
-   "delta": 104,
-   "rankScore": 59633,
-   "club": "GOLOD",
+   "rank": 143,
+   "name": "stealth#6590",
+   "delta": 37,
+   "rankScore": 61069,
+   "club": "FUFU",
    "twitch": null
   },
   {
-   "rank": 380,
-   "name": "ObeseFeline#2467",
-   "delta": 104,
-   "rankScore": 59620,
-   "club": "SIN",
+   "rank": 215,
+   "name": "Lizaminusmoral#0909",
+   "delta": 95,
+   "rankScore": 60280,
+   "club": "1BFR",
    "twitch": null
   },
   {
-   "rank": 434,
-   "name": "Mr.RedFox#6286",
-   "delta": 46,
-   "rankScore": 59391,
-   "club": "BOOKS",
-   "twitch": null
-  },
-  {
-   "rank": 452,
-   "name": "Punkidansaren420#5611",
-   "delta": 46,
-   "rankScore": 59308,
+   "rank": 216,
+   "name": "Boom#6313",
+   "delta": 112,
+   "rankScore": 60277,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 460,
-   "name": "Robinzki#2434",
-   "delta": 47,
-   "rankScore": 59244,
-   "club": "RADGG",
+   "rank": 217,
+   "name": "StandbyLuke7#3105",
+   "delta": 95,
+   "rankScore": 60267,
+   "club": "NTMR",
    "twitch": null
   },
   {
-   "rank": 463,
+   "rank": 344,
+   "name": "OneManArmy#3045",
+   "delta": 101,
+   "rankScore": 59811,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 361,
+   "name": "ObeseFeline#2467",
+   "delta": 102,
+   "rankScore": 59722,
+   "club": "SIN",
+   "twitch": null
+  },
+  {
+   "rank": 382,
+   "name": "zaiah#6418",
+   "delta": 104,
+   "rankScore": 59615,
+   "club": "SLKRO",
+   "twitch": null
+  },
+  {
+   "rank": 406,
+   "name": "VirtualCat#6013",
+   "delta": 45,
+   "rankScore": 59508,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 442,
+   "name": "podl1ven#0525",
+   "delta": 107,
+   "rankScore": 59364,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 443,
+   "name": "Punkidansaren420#5611",
+   "delta": 46,
+   "rankScore": 59354,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 450,
+   "name": "EZPADRE#5220",
+   "delta": 108,
+   "rankScore": 59324,
+   "club": "WRCL",
+   "twitch": null
+  },
+  {
+   "rank": 466,
    "name": "UnskilledDummy#2605",
-   "delta": 109,
-   "rankScore": 59232,
+   "delta": -44,
+   "rankScore": 59188,
    "club": "OG",
    "twitch": null
   },
   {
-   "rank": 480,
+   "rank": 468,
+   "name": "BittyDiglett#0594",
+   "delta": 110,
+   "rankScore": 59158,
+   "club": "WINX",
+   "twitch": null
+  },
+  {
+   "rank": 471,
+   "name": "ky#0234",
+   "delta": 111,
+   "rankScore": 59101,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 473,
+   "name": "LePitch0uTTV#3428",
+   "delta": 111,
+   "rankScore": 59086,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 474,
+   "name": "YeahHealthyTTV#0175",
+   "delta": 111,
+   "rankScore": 59082,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 477,
    "name": "Kazuki#0590",
    "delta": 48,
-   "rankScore": 58990,
+   "rankScore": 59038,
    "club": "1PEEK",
    "twitch": null
   },
   {
-   "rank": 495,
+   "rank": 488,
+   "name": "Sokudo#0731",
+   "delta": 114,
+   "rankScore": 58867,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 489,
+   "name": "cheattester76#0663",
+   "delta": 115,
+   "rankScore": 58867,
+   "club": "DMA67",
+   "twitch": null
+  },
+  {
+   "rank": 490,
    "name": "Naithehunter#1037",
-   "delta": 117,
-   "rankScore": 58734,
+   "delta": 114,
+   "rankScore": 58848,
    "club": "KNGOD",
+   "twitch": null
+  },
+  {
+   "rank": 495,
+   "name": "GrandSpark#5639",
+   "delta": -328,
+   "rankScore": 58738,
+   "club": "MOL",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-18T21:10:36Z",
-  "totalStreams": 170,
+  "checkedAt": "2026-10-18T21:20:35Z",
+  "totalStreams": 172,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "S12 24HOURS STREAM  ?",
-    "viewers": 87,
+    "viewers": 92,
     "startedAt": "2026-10-18T20:38:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 48,
     "name": "NAGHOSTX6#0212",
     "rankScore": 64433,
+    "matchedBy": "name"
+   },
+   {
+    "login": "lamp",
+    "displayName": "lamp",
+    "title": "48 hours people, trying new skates today !youtube | lampischiller lampisLuminon",
+    "viewers": 24,
+    "startedAt": "2026-10-18T21:15:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
+    "rank": 54,
+    "name": "lamp#5944",
+    "rankScore": 63898,
     "matchedBy": "name"
    },
    {
@@ -175,7 +307,7 @@
     "login": "doccboppo_",
     "displayName": "DoccBoppo_",
     "title": "wut",
-    "viewers": 11,
+    "viewers": 9,
     "startedAt": "2026-10-18T20:50:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_doccboppo_-{width}x{height}.jpg",
     "rank": 261,
@@ -189,33 +321,25 @@
     "login": "hershygg",
     "displayName": "HershyGG",
     "title": "[DROPS] POWERSHIFT TOP 100 - season 12 waiting room",
-    "viewers": 8,
+    "viewers": 4,
     "startedAt": "2026-10-18T17:59:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hershygg-{width}x{height}.jpg"
+   },
+   {
+    "login": "egman39",
+    "displayName": "egman39",
+    "title": "TOP 500 GRIND W/ FOLLOWERS",
+    "viewers": 2,
+    "startedAt": "2026-10-18T21:00:40Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
    },
    {
     "login": "v8_karma",
     "displayName": "V8_Karma",
     "title": "High kill games | Ruby S3 | PC | ITA",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-18T19:24:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
-   },
-   {
-    "login": "egman39",
-    "displayName": "egman39",
-    "title": "TOP 500 GRIND W/ FOLLOWERS",
-    "viewers": 1,
-    "startedAt": "2026-10-18T21:00:40Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
-   },
-   {
-    "login": "egman39",
-    "displayName": "egman39",
-    "title": "TOP 500 GRIND W/ FOLLOWERS",
-    "viewers": 1,
-    "startedAt": "2026-10-18T21:00:40Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
    }
   ]
  },
@@ -223,7 +347,7 @@
   "ready": false,
   "placed": {
    "ruby": 249,
-   "all": 2081
+   "all": 2082
   },
   "rubyByRegion": {
    "am": 106,
@@ -232,20 +356,20 @@
   },
   "window": {
    "am": {
-    "ruby": 1,
-    "all": 40
+    "ruby": 9,
+    "all": 92
    },
    "eu": {
-    "ruby": 8,
-    "all": 89
+    "ruby": 10,
+    "all": 129
    },
    "ap": {
-    "ruby": 0,
-    "all": 6
+    "ruby": 2,
+    "all": 8
    },
    "unplaced": {
-    "ruby": 4,
-    "all": 97
+    "ruby": 7,
+    "all": 158
    }
   }
  },

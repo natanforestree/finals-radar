@@ -1,190 +1,122 @@
 {
- "generatedAt": "2026-10-19T11:20:36Z",
+ "generatedAt": "2026-10-19T11:30:36Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-19T11:06:43Z",
+ "leaderboardUpdatedAt": "2026-10-19T11:23:07Z",
  "window": {
-  "from": "2026-10-19T10:36:13Z",
-  "to": "2026-10-19T11:06:43Z",
-  "minutes": 30.5
+  "from": "2026-10-19T11:06:43Z",
+  "to": "2026-10-19T11:23:07Z",
+  "minutes": 16.4
  },
- "rubyActive": 18,
- "allActive": 124,
- "rubyShare": 0.1452,
+ "rubyActive": 9,
+ "allActive": 73,
+ "rubyShare": 0.1233,
  "steamPlayers": 6801,
- "rubyCutoff": 58980,
+ "rubyCutoff": 58989,
  "grinding": [
-  {
-   "rank": 8,
-   "name": "Avion#8636",
-   "delta": 9,
-   "rankScore": 70335,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 19,
-   "name": "FloridoGamingTTV#1606",
-   "delta": 25,
-   "rankScore": 67324,
-   "club": "CRU3L",
-   "twitch": "elfloridogaming"
-  },
   {
    "rank": 21,
    "name": "Dyrani#4601",
-   "delta": 27,
-   "rankScore": 67102,
+   "delta": 28,
+   "rankScore": 67130,
    "club": "RADGG",
    "twitch": null
   },
   {
-   "rank": 38,
-   "name": "Berrence#2323",
-   "delta": 45,
-   "rankScore": 64968,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 81,
-   "name": "LP#8593",
-   "delta": 64,
-   "rankScore": 62968,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 127,
+   "rank": 125,
    "name": "Sly#1640",
-   "delta": -32,
-   "rankScore": 61496,
+   "delta": 79,
+   "rankScore": 61575,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 353,
+   "rank": 361,
    "name": "Fxxk.Cheater-Gua#2899",
    "delta": -41,
-   "rankScore": 59824,
+   "rankScore": 59783,
    "club": "KNGZ",
    "twitch": null
   },
   {
-   "rank": 373,
-   "name": "YKASTIN#1070",
+   "rank": 392,
+   "name": "ChitSit#1101",
    "delta": 103,
-   "rankScore": 59732,
-   "club": "KNGZ",
+   "rankScore": 59679,
+   "club": "EBL4N",
    "twitch": null
   },
   {
-   "rank": 417,
+   "rank": 393,
    "name": "Robinzki#2434",
    "delta": 104,
-   "rankScore": 59562,
+   "rankScore": 59666,
    "club": "RADGG",
-   "twitch": null
-  },
-  {
-   "rank": 418,
-   "name": "Lgn1s#1023",
-   "delta": 105,
-   "rankScore": 59560,
-   "club": "KNGZ",
-   "twitch": null
-  },
-  {
-   "rank": 422,
-   "name": "YeahHealthyTTV#0175",
-   "delta": 105,
-   "rankScore": 59555,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 430,
-   "name": "Yom1#1483",
-   "delta": 45,
-   "rankScore": 59523,
-   "club": "KNGZ",
    "twitch": null
   },
   {
    "rank": 433,
-   "name": "a1mbotziyouren#1887",
-   "delta": 45,
-   "rankScore": 59510,
-   "club": null,
+   "name": "Not_Aicey#0101",
+   "delta": 105,
+   "rankScore": 59514,
+   "club": "ALL",
    "twitch": null
   },
   {
-   "rank": 440,
-   "name": "joek#0785",
-   "delta": -43,
-   "rankScore": 59476,
-   "club": "KNUCK",
-   "twitch": null
-  },
-  {
-   "rank": 463,
-   "name": "Chudko#0292",
-   "delta": 107,
-   "rankScore": 59351,
-   "club": "777KG",
-   "twitch": null
-  },
-  {
-   "rank": 481,
+   "rank": 491,
    "name": "soul#2445",
-   "delta": 46,
-   "rankScore": 59175,
+   "delta": -113,
+   "rankScore": 59062,
    "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 484,
-   "name": "SaturdayTasogare#0030",
-   "delta": -112,
-   "rankScore": 59145,
-   "club": "TBRRW",
    "twitch": null
   },
   {
    "rank": 493,
-   "name": "Hatred#7292",
-   "delta": 112,
-   "rankScore": 59050,
-   "club": "T400",
+   "name": "Etiquette#6690",
+   "delta": 48,
+   "rankScore": 59052,
+   "club": "OG",
    "twitch": null
+  },
+  {
+   "rank": 495,
+   "name": "Antiparty#0866",
+   "delta": 112,
+   "rankScore": 59049,
+   "club": "GOONU",
+   "twitch": "antiparty"
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-19T11:20:36Z",
-  "totalStreams": 55,
+  "checkedAt": "2026-10-19T11:30:36Z",
+  "totalStreams": 53,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 55,
+    "viewers": 56,
     "startedAt": "2026-10-19T02:38:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 19,
     "name": "FloridoGamingTTV#1606",
     "rankScore": 67324,
     "matchedBy": "name"
+   },
+   {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[drops] the ranking continues - !yt !discord !finalsRS",
+    "viewers": 39,
+    "startedAt": "2026-10-19T00:57:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 495,
+    "name": "Antiparty#0866",
+    "rankScore": 59049,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
-   {
-    "login": "mdiym",
-    "displayName": "mdiym",
-    "title": "I am NOT going for ruby | !ad: 30s/1hr",
-    "viewers": 4,
-    "startedAt": "2026-10-19T06:49:44Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg"
-   },
    {
     "login": "barbarous_tf",
     "displayName": "barbarous_tf",
@@ -192,6 +124,14 @@
     "viewers": 4,
     "startedAt": "2026-10-19T11:04:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
+   },
+   {
+    "login": "mdiym",
+    "displayName": "mdiym",
+    "title": "I am NOT going for ruby | !ad: 30s/1hr",
+    "viewers": 4,
+    "startedAt": "2026-10-19T06:49:44Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg"
    },
    {
     "login": "bub1xreal",
@@ -206,30 +146,30 @@
  "regions": {
   "ready": true,
   "placed": {
-   "ruby": 251,
-   "all": 2151
+   "ruby": 250,
+   "all": 2149
   },
   "rubyByRegion": {
-   "am": 113,
-   "eu": 74,
-   "ap": 64
+   "am": 112,
+   "eu": 73,
+   "ap": 65
   },
   "window": {
    "am": {
     "ruby": 0,
-    "all": 8
+    "all": 1
    },
    "eu": {
-    "ruby": 5,
-    "all": 25
+    "ruby": 0,
+    "all": 12
    },
    "ap": {
     "ruby": 6,
-    "all": 44
+    "all": 29
    },
    "unplaced": {
-    "ruby": 7,
-    "all": 47
+    "ruby": 3,
+    "all": 31
    }
   }
  },

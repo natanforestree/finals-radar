@@ -1,106 +1,110 @@
 {
- "generatedAt": "2026-10-19T11:30:36Z",
+ "generatedAt": "2026-10-19T11:40:35Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-19T11:23:07Z",
+ "leaderboardUpdatedAt": "2026-10-19T11:37:57Z",
  "window": {
-  "from": "2026-10-19T11:06:43Z",
-  "to": "2026-10-19T11:23:07Z",
-  "minutes": 16.4
+  "from": "2026-10-19T11:23:07Z",
+  "to": "2026-10-19T11:37:57Z",
+  "minutes": 14.8
  },
- "rubyActive": 9,
- "allActive": 73,
- "rubyShare": 0.1233,
- "steamPlayers": 6801,
+ "rubyActive": 8,
+ "allActive": 51,
+ "rubyShare": 0.1569,
+ "steamPlayers": 6915,
  "rubyCutoff": 58989,
  "grinding": [
   {
-   "rank": 21,
-   "name": "Dyrani#4601",
-   "delta": 28,
-   "rankScore": 67130,
-   "club": "RADGG",
+   "rank": 19,
+   "name": "FloridoGamingTTV#1606",
+   "delta": 26,
+   "rankScore": 67350,
+   "club": "CRU3L",
+   "twitch": "elfloridogaming"
+  },
+  {
+   "rank": 38,
+   "name": "Berrence#2323",
+   "delta": -18,
+   "rankScore": 64950,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 125,
-   "name": "Sly#1640",
-   "delta": 79,
-   "rankScore": 61575,
-   "club": null,
+   "rank": 82,
+   "name": "LP#8593",
+   "delta": -26,
+   "rankScore": 62942,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 361,
-   "name": "Fxxk.Cheater-Gua#2899",
-   "delta": -41,
-   "rankScore": 59783,
-   "club": "KNGZ",
+   "rank": 330,
+   "name": "Falcon_Yinx#4513",
+   "delta": 99,
+   "rankScore": 59936,
+   "club": "GOLOD",
    "twitch": null
   },
   {
-   "rank": 392,
-   "name": "ChitSit#1101",
-   "delta": 103,
-   "rankScore": 59679,
-   "club": "EBL4N",
+   "rank": 350,
+   "name": "magic-kevin#4010",
+   "delta": 101,
+   "rankScore": 59850,
+   "club": "KL26",
    "twitch": null
   },
   {
-   "rank": 393,
-   "name": "Robinzki#2434",
-   "delta": 104,
-   "rankScore": 59666,
-   "club": "RADGG",
+   "rank": 353,
+   "name": "VELES#0643",
+   "delta": 101,
+   "rankScore": 59833,
+   "club": "KOSOY",
    "twitch": null
   },
   {
-   "rank": 433,
-   "name": "Not_Aicey#0101",
-   "delta": 105,
-   "rankScore": 59514,
-   "club": "ALL",
+   "rank": 431,
+   "name": "joek#0785",
+   "delta": 45,
+   "rankScore": 59521,
+   "club": "KNUCK",
    "twitch": null
   },
   {
-   "rank": 491,
-   "name": "soul#2445",
-   "delta": -113,
-   "rankScore": 59062,
-   "club": null,
+   "rank": 445,
+   "name": "Chudko#0292",
+   "delta": 107,
+   "rankScore": 59458,
+   "club": "777KG",
    "twitch": null
-  },
-  {
-   "rank": 493,
-   "name": "Etiquette#6690",
-   "delta": 48,
-   "rankScore": 59052,
-   "club": "OG",
-   "twitch": null
-  },
-  {
-   "rank": 495,
-   "name": "Antiparty#0866",
-   "delta": 112,
-   "rankScore": 59049,
-   "club": "GOONU",
-   "twitch": "antiparty"
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-19T11:30:36Z",
-  "totalStreams": 53,
+  "checkedAt": "2026-10-19T11:40:35Z",
+  "totalStreams": 56,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 56,
+    "viewers": 45,
     "startedAt": "2026-10-19T02:38:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 19,
     "name": "FloridoGamingTTV#1606",
-    "rankScore": 67324,
+    "rankScore": 67350,
+    "matchedBy": "name"
+   },
+   {
+    "login": "ilprune",
+    "displayName": "Ilprune",
+    "title": "The Finals RANKED - TOP 230",
+    "viewers": 5,
+    "startedAt": "2026-10-19T11:27:56Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
+    "rank": 250,
+    "name": "Ilprune#5174",
+    "rankScore": 60140,
     "matchedBy": "name"
    },
    {
@@ -121,7 +125,7 @@
     "login": "barbarous_tf",
     "displayName": "barbarous_tf",
     "title": "FACECAM | solo q ruby grind | The Finals",
-    "viewers": 4,
+    "viewers": 7,
     "startedAt": "2026-10-19T11:04:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
    },
@@ -147,7 +151,7 @@
   "ready": true,
   "placed": {
    "ruby": 250,
-   "all": 2149
+   "all": 2150
   },
   "rubyByRegion": {
    "am": 112,
@@ -156,20 +160,20 @@
   },
   "window": {
    "am": {
-    "ruby": 0,
-    "all": 1
+    "ruby": 1,
+    "all": 4
    },
    "eu": {
-    "ruby": 0,
+    "ruby": 4,
     "all": 12
    },
    "ap": {
-    "ruby": 6,
-    "all": 29
+    "ruby": 2,
+    "all": 20
    },
    "unplaced": {
-    "ruby": 3,
-    "all": 31
+    "ruby": 1,
+    "all": 15
    }
   }
  },

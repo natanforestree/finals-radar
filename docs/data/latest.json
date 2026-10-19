@@ -1,142 +1,286 @@
 {
- "generatedAt": "2026-10-19T19:00:37Z",
+ "generatedAt": "2026-10-19T19:10:38Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-19T18:32:14Z",
+ "leaderboardUpdatedAt": "2026-10-19T19:02:30Z",
  "window": {
-  "from": "2026-10-19T18:29:31Z",
-  "to": "2026-10-19T18:32:14Z",
-  "minutes": 2.7
+  "from": "2026-10-19T18:32:14Z",
+  "to": "2026-10-19T19:02:30Z",
+  "minutes": 30.3
  },
- "rubyActive": 12,
- "allActive": 166,
- "rubyShare": 0.0723,
- "steamPlayers": 16519,
+ "rubyActive": 30,
+ "allActive": 273,
+ "rubyShare": 0.1099,
+ "steamPlayers": 16621,
  "rubyCutoff": 59070,
  "grinding": [
   {
-   "rank": 11,
-   "name": "Nov#6006",
-   "delta": 14,
-   "rankScore": 69486,
-   "club": "HIBOO",
+   "rank": 8,
+   "name": "Avion#8636",
+   "delta": 4,
+   "rankScore": 70336,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 10,
+   "name": "Choobz#9757",
+   "delta": 12,
+   "rankScore": 69725,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 14,
+   "name": "CoDaft#0171",
+   "delta": 8,
+   "rankScore": 68153,
+   "club": "SIN",
+   "twitch": null
+  },
+  {
+   "rank": 23,
+   "name": "perzzonTTV#5485",
+   "delta": 31,
+   "rankScore": 66592,
+   "club": "PRZN",
+   "twitch": "perzzon"
+  },
+  {
+   "rank": 38,
+   "name": "UNI#1741",
+   "delta": 45,
+   "rankScore": 64945,
+   "club": "ENVY",
    "twitch": null
   },
   {
    "rank": 44,
    "name": "NAGHOSTX6#0212",
-   "delta": 46,
-   "rankScore": 64744,
+   "delta": -88,
+   "rankScore": 64656,
    "club": "5F",
    "twitch": "naghostx6"
   },
   {
-   "rank": 53,
-   "name": "Best#8421",
-   "delta": -54,
-   "rankScore": 64051,
-   "club": "AVOW",
+   "rank": 87,
+   "name": "Obey#6459",
+   "delta": 66,
+   "rankScore": 62787,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 158,
-   "name": "I_LOVE_YOU#4183",
-   "delta": 87,
-   "rankScore": 60869,
-   "club": "MTHRY",
+   "rank": 90,
+   "name": "Morphisxx23#0991",
+   "delta": 74,
+   "rankScore": 62681,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 175,
+   "rank": 161,
+   "name": "Kafeneio#3639",
+   "delta": 89,
+   "rankScore": 60795,
+   "club": "PLSR",
+   "twitch": null
+  },
+  {
+   "rank": 174,
    "name": "StandbyLuke7#3105",
-   "delta": -37,
-   "rankScore": 60615,
+   "delta": 38,
+   "rankScore": 60653,
    "club": "NTMR",
    "twitch": null
   },
   {
-   "rank": 199,
-   "name": "Latte#4227",
-   "delta": 93,
-   "rankScore": 60461,
-   "club": "HIBOO",
+   "rank": 337,
+   "name": "UhhhYeah999#8925",
+   "delta": 100,
+   "rankScore": 59907,
+   "club": "ZI4",
    "twitch": null
   },
   {
-   "rank": 419,
-   "name": "Raj#8506",
-   "delta": 104,
-   "rankScore": 59607,
-   "club": "LA104",
+   "rank": 367,
+   "name": "colak#0003",
+   "delta": 102,
+   "rankScore": 59797,
+   "club": "AYNON",
    "twitch": null
   },
   {
-   "rank": 447,
-   "name": "Wireless_Jose#0347",
+   "rank": 368,
+   "name": "shortbusdemon#1247",
+   "delta": 101,
+   "rankScore": 59793,
+   "club": "SIN",
+   "twitch": null
+  },
+  {
+   "rank": 377,
+   "name": "g1#2839",
+   "delta": 102,
+   "rankScore": 59739,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 383,
+   "name": "YeahHealthyTTV#0175",
+   "delta": 102,
+   "rankScore": 59725,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 400,
+   "name": "vauoni#4746",
+   "delta": 103,
+   "rankScore": 59687,
+   "club": "ZI4",
+   "twitch": null
+  },
+  {
+   "rank": 422,
+   "name": "Vedaa#5145",
+   "delta": 44,
+   "rankScore": 59597,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 429,
+   "name": "omen#4828",
+   "delta": 44,
+   "rankScore": 59560,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 439,
+   "name": "Beppo#1204",
+   "delta": 105,
+   "rankScore": 59544,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 444,
+   "name": "HER0S#0439",
+   "delta": 105,
+   "rankScore": 59515,
+   "club": "HEIMG",
+   "twitch": null
+  },
+  {
+   "rank": 452,
+   "name": "petrik#0712",
    "delta": 106,
-   "rankScore": 59498,
-   "club": "BOOKS",
+   "rankScore": 59484,
+   "club": "FYYR",
    "twitch": null
   },
   {
-   "rank": 464,
-   "name": "CRACKYY#9250",
-   "delta": 116,
-   "rankScore": 59401,
-   "club": "BOOKS",
-   "twitch": null
-  },
-  {
-   "rank": 472,
+   "rank": 458,
    "name": "MAS#0686",
-   "delta": -43,
-   "rankScore": 59338,
+   "delta": 106,
+   "rankScore": 59444,
    "club": "BOOKS",
+   "twitch": null
+  },
+  {
+   "rank": 463,
+   "name": "Madrif#4488",
+   "delta": 107,
+   "rankScore": 59428,
+   "club": "UNC6",
+   "twitch": null
+  },
+  {
+   "rank": 467,
+   "name": "Mr.RedFox#6286",
+   "delta": 107,
+   "rankScore": 59404,
+   "club": "BOOKS",
+   "twitch": null
+  },
+  {
+   "rank": 478,
+   "name": "1_vk.ttv#0769",
+   "delta": 108,
+   "rankScore": 59317,
+   "club": "AUREA",
    "twitch": null
   },
   {
    "rank": 480,
-   "name": "Mr.RedFox#6286",
-   "delta": -44,
-   "rankScore": 59297,
-   "club": "BOOKS",
+   "name": "TikTok-Colada#0392",
+   "delta": 108,
+   "rankScore": 59315,
+   "club": "PIINA",
    "twitch": null
   },
   {
-   "rank": 485,
-   "name": "1_vk.ttv#0769",
-   "delta": 119,
-   "rankScore": 59209,
-   "club": "AUREA",
+   "rank": 482,
+   "name": "DomTheCoco#9582",
+   "delta": -44,
+   "rankScore": 59265,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 487,
+   "name": "yevomsmttv#7212",
+   "delta": 110,
+   "rankScore": 59203,
+   "club": "PLSR",
+   "twitch": null
+  },
+  {
+   "rank": 491,
+   "name": "soul#2445",
+   "delta": 111,
+   "rankScore": 59154,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 493,
+   "name": "campthehills#9640",
+   "delta": 47,
+   "rankScore": 59137,
+   "club": "SIN",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-19T19:00:37Z",
-  "totalStreams": 181,
+  "checkedAt": "2026-10-19T19:10:38Z",
+  "totalStreams": 174,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "One More Day until S12.. !coaching !youtube !discord",
-    "viewers": 73,
+    "viewers": 67,
     "startedAt": "2026-10-19T15:08:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 23,
     "name": "perzzonTTV#5485",
-    "rankScore": 66561,
+    "rankScore": 66592,
     "matchedBy": "name"
    },
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "S12 24HOURS STREAM  ?",
-    "viewers": 94,
+    "viewers": 90,
     "startedAt": "2026-10-19T16:17:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 44,
     "name": "NAGHOSTX6#0212",
-    "rankScore": 64744,
+    "rankScore": 64656,
     "matchedBy": "name"
    },
    {
@@ -146,7 +290,7 @@
     "viewers": 6,
     "startedAt": "2026-10-19T15:24:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
-    "rank": 418,
+    "rank": 419,
     "name": "PrezzTTV#5132",
     "rankScore": 59613,
     "matchedBy": "name"
@@ -157,7 +301,7 @@
     "login": "impieux",
     "displayName": "impieux",
     "title": "getting really close to ruby but not getting it",
-    "viewers": 26,
+    "viewers": 25,
     "startedAt": "2026-10-19T17:10:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg"
    },
@@ -165,7 +309,7 @@
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "If I Can't Get Ruby, NO ONE IS!",
-    "viewers": 22,
+    "viewers": 21,
     "startedAt": "2026-10-19T18:05:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg"
    },
@@ -173,7 +317,7 @@
     "login": "slimedtime",
     "displayName": "slimedtime",
     "title": "choked getting ruby most likely",
-    "viewers": 15,
+    "viewers": 17,
     "startedAt": "2026-10-19T13:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimedtime-{width}x{height}.jpg"
    },
@@ -181,7 +325,7 @@
     "login": "charliesqngels",
     "displayName": "CharliesQngels",
     "title": "It's finals time! Almost 3000 Hours never hit Ruby !Present 🕊️",
-    "viewers": 10,
+    "viewers": 11,
     "startedAt": "2026-10-19T00:10:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_charliesqngels-{width}x{height}.jpg"
    },
@@ -189,7 +333,7 @@
     "login": "bub1xreal",
     "displayName": "bub1xreal",
     "title": "the final day of ruby grind",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-19T14:34:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
    }
@@ -199,29 +343,29 @@
   "ready": true,
   "placed": {
    "ruby": 251,
-   "all": 2161
+   "all": 2164
   },
   "rubyByRegion": {
    "am": 111,
-   "eu": 76,
-   "ap": 64
+   "eu": 75,
+   "ap": 65
   },
   "window": {
    "am": {
-    "ruby": 1,
-    "all": 18
+    "ruby": 5,
+    "all": 41
    },
    "eu": {
-    "ruby": 9,
-    "all": 64
+    "ruby": 12,
+    "all": 115
    },
    "ap": {
-    "ruby": 0,
-    "all": 5
+    "ruby": 4,
+    "all": 7
    },
    "unplaced": {
-    "ruby": 2,
-    "all": 79
+    "ruby": 9,
+    "all": 110
    }
   }
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T21:10:36Z",
+ "generatedAt": "2026-10-19T21:20:37Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-19T21:07:27Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 23,
  "allActive": 326,
  "rubyShare": 0.0706,
- "steamPlayers": 15925,
+ "steamPlayers": 15271,
  "rubyCutoff": 59080,
  "grinding": [
   {
@@ -200,18 +200,10 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-19T21:10:36Z",
-  "totalStreams": 162,
+  "checkedAt": "2026-10-19T21:20:37Z",
+  "totalStreams": 150,
   "rubyLive": [],
   "titleMentions": [
-   {
-    "login": "matotm",
-    "displayName": "MatoTM",
-    "title": "If I Can't Get Ruby, NO ONE IS!",
-    "viewers": 20,
-    "startedAt": "2026-10-19T18:05:18Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg"
-   },
    {
     "login": "slimedtime",
     "displayName": "slimedtime",
@@ -219,6 +211,14 @@
     "viewers": 19,
     "startedAt": "2026-10-19T13:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimedtime-{width}x{height}.jpg"
+   },
+   {
+    "login": "matotm",
+    "displayName": "MatoTM",
+    "title": "If I Can't Get Ruby, NO ONE IS!",
+    "viewers": 17,
+    "startedAt": "2026-10-19T18:05:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg"
    },
    {
     "login": "charliesqngels",
@@ -232,7 +232,7 @@
     "login": "bub1xreal",
     "displayName": "bub1xreal",
     "title": "the final day of ruby grind",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-10-19T14:34:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
    }

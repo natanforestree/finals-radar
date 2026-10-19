@@ -1,73 +1,137 @@
 {
- "generatedAt": "2026-10-19T16:40:37Z",
+ "generatedAt": "2026-10-19T16:50:37Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-19T16:25:12Z",
+ "leaderboardUpdatedAt": "2026-10-19T16:42:30Z",
  "window": {
-  "from": "2026-10-19T16:10:00Z",
-  "to": "2026-10-19T16:25:12Z",
-  "minutes": 15.2
+  "from": "2026-10-19T16:25:12Z",
+  "to": "2026-10-19T16:42:30Z",
+  "minutes": 17.3
  },
- "rubyActive": 4,
- "allActive": 85,
- "rubyShare": 0.0471,
- "steamPlayers": 13179,
- "rubyCutoff": 59058,
+ "rubyActive": 12,
+ "allActive": 148,
+ "rubyShare": 0.0811,
+ "steamPlayers": 13331,
+ "rubyCutoff": 59070,
  "grinding": [
   {
-   "rank": 67,
-   "name": "TaeK#3289",
-   "delta": 60,
-   "rankScore": 63314,
-   "club": "HEIMG",
+   "rank": 2,
+   "name": "BLAD3R#2825",
+   "delta": 5,
+   "rankScore": 71593,
+   "club": "APES",
    "twitch": null
   },
   {
-   "rank": 461,
-   "name": "HER0S#0439",
-   "delta": 107,
-   "rankScore": 59398,
-   "club": "HEIMG",
+   "rank": 11,
+   "name": "Nov#6006",
+   "delta": 14,
+   "rankScore": 69451,
+   "club": "HIBOO",
    "twitch": null
   },
   {
-   "rank": 486,
-   "name": "ky#0234",
-   "delta": 47,
-   "rankScore": 59160,
+   "rank": 20,
+   "name": "Dyrani#4601",
+   "delta": 26,
+   "rankScore": 67255,
+   "club": "RADGG",
+   "twitch": null
+  },
+  {
+   "rank": 25,
+   "name": "perzzonTTV#5485",
+   "delta": 32,
+   "rankScore": 66467,
+   "club": "PRZN",
+   "twitch": "perzzon"
+  },
+  {
+   "rank": 109,
+   "name": "SkreyDeen#2116",
+   "delta": 74,
+   "rankScore": 62072,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 131,
+   "name": "def.nox#9033",
+   "delta": 83,
+   "rankScore": 61322,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 226,
+   "name": "Latte#4227",
+   "delta": 96,
+   "rankScore": 60218,
+   "club": "HIBOO",
+   "twitch": null
+  },
+  {
+   "rank": 416,
+   "name": "Raj#8506",
+   "delta": 44,
+   "rankScore": 59610,
+   "club": "LA104",
+   "twitch": null
+  },
+  {
+   "rank": 480,
+   "name": "TTV_Sparrow2447#2196",
+   "delta": 110,
+   "rankScore": 59240,
    "club": null,
+   "twitch": "sparrow2447"
+  },
+  {
+   "rank": 484,
+   "name": "Dafiwoo#3910",
+   "delta": 111,
+   "rankScore": 59169,
+   "club": "AYNON",
    "twitch": null
   },
   {
-   "rank": 497,
-   "name": "soul#2445",
+   "rank": 488,
+   "name": "shoot4fun#1844",
+   "delta": 111,
+   "rankScore": 59150,
+   "club": "X76LG",
+   "twitch": null
+  },
+  {
+   "rank": 496,
+   "name": "DomTheCoco#9582",
    "delta": 112,
-   "rankScore": 59074,
-   "club": null,
+   "rankScore": 59091,
+   "club": "MORI",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-19T16:40:37Z",
-  "totalStreams": 125,
+  "checkedAt": "2026-10-19T16:50:37Z",
+  "totalStreams": 120,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "One More Day until S12.. !coaching !youtube !discord",
-    "viewers": 100,
+    "viewers": 104,
     "startedAt": "2026-10-19T15:08:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 25,
     "name": "perzzonTTV#5485",
-    "rankScore": 66435,
+    "rankScore": 66467,
     "matchedBy": "name"
    },
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "S12 24HOURS STREAM  ?",
-    "viewers": 41,
+    "viewers": 45,
     "startedAt": "2026-10-19T16:17:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 44,
@@ -82,7 +146,7 @@
     "viewers": 13,
     "startedAt": "2026-10-19T11:27:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
-    "rank": 251,
+    "rank": 252,
     "name": "Ilprune#5174",
     "rankScore": 60140,
     "matchedBy": "name"
@@ -91,7 +155,7 @@
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 10,
+    "viewers": 9,
     "startedAt": "2026-10-19T15:24:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 415,
@@ -103,12 +167,12 @@
     "login": "sparrow2447",
     "displayName": "Sparrow2447",
     "title": "I RANKED I WHERE IS MY REAL POOKIE AT? I",
-    "viewers": 17,
+    "viewers": 23,
     "startedAt": "2026-10-19T14:02:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sparrow2447-{width}x{height}.jpg",
-    "rank": 490,
+    "rank": 480,
     "name": "TTV_Sparrow2447#2196",
-    "rankScore": 59130,
+    "rankScore": 59240,
     "matchedBy": "name"
    }
   ],
@@ -117,7 +181,7 @@
     "login": "slimedtime",
     "displayName": "slimedtime",
     "title": "choked getting ruby most likely",
-    "viewers": 14,
+    "viewers": 12,
     "startedAt": "2026-10-19T13:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimedtime-{width}x{height}.jpg"
    },
@@ -136,14 +200,6 @@
     "viewers": 2,
     "startedAt": "2026-10-19T16:27:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogfps__-{width}x{height}.jpg"
-   },
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 1,
-    "startedAt": "2026-10-19T14:54:43Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    },
    {
     "login": "leantgames",
@@ -166,30 +222,30 @@
  "regions": {
   "ready": true,
   "placed": {
-   "ruby": 251,
-   "all": 2150
+   "ruby": 250,
+   "all": 2153
   },
   "rubyByRegion": {
    "am": 112,
-   "eu": 73,
+   "eu": 72,
    "ap": 66
   },
   "window": {
    "am": {
-    "ruby": 0,
-    "all": 3
+    "ruby": 2,
+    "all": 11
    },
    "eu": {
-    "ruby": 2,
-    "all": 28
+    "ruby": 4,
+    "all": 62
    },
    "ap": {
     "ruby": 1,
-    "all": 12
+    "all": 16
    },
    "unplaced": {
-    "ruby": 1,
-    "all": 42
+    "ruby": 5,
+    "all": 59
    }
   }
  },

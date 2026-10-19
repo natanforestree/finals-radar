@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-19T08:10:36Z",
+ "generatedAt": "2026-10-19T08:20:35Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-19T07:50:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 25,
  "allActive": 155,
  "rubyShare": 0.1613,
- "steamPlayers": 5711,
+ "steamPlayers": 5680,
  "rubyCutoff": 58931,
  "grinding": [
   {
@@ -216,14 +216,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-19T08:10:36Z",
-  "totalStreams": 79,
+  "checkedAt": "2026-10-19T08:20:35Z",
+  "totalStreams": 80,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "GOING ALL IN!!!! AKM SHOCKWAVE OTP TOP 30 IN RANKED",
-    "viewers": 33,
+    "viewers": 28,
     "startedAt": "2026-10-19T02:38:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 19,
@@ -235,7 +235,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Top 30 Ruby",
-    "viewers": 93,
+    "viewers": 101,
     "startedAt": "2026-10-19T03:36:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 40,
@@ -249,9 +249,17 @@
     "login": "mdiym",
     "displayName": "mdiym",
     "title": "I am NOT going for ruby | !ad: 30s/1hr",
-    "viewers": 8,
+    "viewers": 5,
     "startedAt": "2026-10-19T06:49:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg"
+   },
+   {
+    "login": "barbarous_tf",
+    "displayName": "barbarous_tf",
+    "title": "FACECAM | solo q ruby grind | The Finals",
+    "viewers": 2,
+    "startedAt": "2026-10-19T08:04:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
    },
    {
     "login": "opportunehook9",
@@ -260,14 +268,6 @@
     "viewers": 1,
     "startedAt": "2026-10-19T06:00:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
-   },
-   {
-    "login": "barbarous_tf",
-    "displayName": "barbarous_tf",
-    "title": "FACECAM | solo q ruby grind | The Finals",
-    "viewers": 1,
-    "startedAt": "2026-10-19T08:04:45Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_barbarous_tf-{width}x{height}.jpg"
    }
   ]
  },

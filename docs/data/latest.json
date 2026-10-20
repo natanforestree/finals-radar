@@ -1,53 +1,85 @@
 {
- "generatedAt": "2026-10-20T11:20:37Z",
+ "generatedAt": "2026-10-20T11:30:37Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-20T10:38:34Z",
+ "leaderboardUpdatedAt": "2026-10-20T11:25:02Z",
  "window": {
-  "from": "2026-10-20T10:19:30Z",
-  "to": "2026-10-20T10:38:34Z",
-  "minutes": 19.1
+  "from": "2026-10-20T10:38:34Z",
+  "to": "2026-10-20T11:25:02Z",
+  "minutes": 46.5
  },
- "rubyActive": 3,
- "allActive": 106,
- "rubyShare": 0.0283,
- "steamPlayers": 6532,
- "rubyCutoff": 59460,
+ "rubyActive": 7,
+ "allActive": 105,
+ "rubyShare": 0.0667,
+ "steamPlayers": 6448,
+ "rubyCutoff": 59491,
  "grinding": [
   {
-   "rank": 111,
+   "rank": 8,
+   "name": "Avion#8636",
+   "delta": 10,
+   "rankScore": 70327,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 114,
    "name": "SkreyDeen#2116",
-   "delta": 74,
-   "rankScore": 62033,
+   "delta": -141,
+   "rankScore": 61892,
    "club": "MORI",
    "twitch": null
   },
   {
-   "rank": 134,
+   "rank": 135,
    "name": "Sly#1640",
-   "delta": -33,
-   "rankScore": 61319,
+   "delta": -22,
+   "rankScore": 61297,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 163,
+   "name": "HadBananas#0669",
+   "delta": 37,
+   "rankScore": 60905,
+   "club": "LUMN",
+   "twitch": null
+  },
+  {
+   "rank": 376,
+   "name": "Gm#4245",
+   "delta": 101,
+   "rankScore": 59845,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 490,
+   "name": "Dixon.Mayers#0309",
+   "delta": 105,
+   "rankScore": 59531,
    "club": null,
    "twitch": null
   },
   {
    "rank": 491,
-   "name": "Rias#0186",
+   "name": "maow#6421",
    "delta": 106,
-   "rankScore": 59519,
-   "club": "PAWG",
+   "rankScore": 59524,
+   "club": "ABG4",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-20T11:20:37Z",
-  "totalStreams": 47,
+  "checkedAt": "2026-10-20T11:30:37Z",
+  "totalStreams": 50,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] <---- SEASON 12 WAITING ROOM!",
-    "viewers": 137,
+    "viewers": 120,
     "startedAt": "2026-10-19T23:52:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 41,
@@ -59,7 +91,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Finally, Season 12!  | Korean | APE SQUAD | RANKED",
-    "viewers": 3,
+    "viewers": 1,
     "startedAt": "2026-10-20T10:38:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 154,
@@ -71,7 +103,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 73,
+    "viewers": 81,
     "startedAt": "2026-10-20T06:28:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 186,
@@ -97,30 +129,30 @@
  "regions": {
   "ready": true,
   "placed": {
-   "ruby": 257,
-   "all": 2253
+   "ruby": 256,
+   "all": 2255
   },
   "rubyByRegion": {
    "am": 118,
    "eu": 78,
-   "ap": 61
+   "ap": 60
   },
   "window": {
    "am": {
-    "ruby": 0,
-    "all": 20
+    "ruby": 1,
+    "all": 14
    },
    "eu": {
     "ruby": 2,
-    "all": 27
+    "all": 20
    },
    "ap": {
-    "ruby": 1,
-    "all": 26
+    "ruby": 3,
+    "all": 31
    },
    "unplaced": {
-    "ruby": 0,
-    "all": 33
+    "ruby": 1,
+    "all": 40
    }
   }
  },

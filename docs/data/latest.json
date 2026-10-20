@@ -1,92 +1,64 @@
 {
- "generatedAt": "2026-10-20T11:30:37Z",
+ "generatedAt": "2026-10-20T11:40:36Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-20T11:25:02Z",
+ "leaderboardUpdatedAt": "2026-10-20T11:40:14Z",
  "window": {
-  "from": "2026-10-20T10:38:34Z",
-  "to": "2026-10-20T11:25:02Z",
-  "minutes": 46.5
+  "from": "2026-10-20T11:25:02Z",
+  "to": "2026-10-20T11:40:14Z",
+  "minutes": 15.2
  },
- "rubyActive": 7,
- "allActive": 105,
- "rubyShare": 0.0667,
- "steamPlayers": 6448,
- "rubyCutoff": 59491,
+ "rubyActive": 5,
+ "allActive": 61,
+ "rubyShare": 0.082,
+ "steamPlayers": 6441,
+ "rubyCutoff": 59507,
  "grinding": [
   {
    "rank": 8,
    "name": "Avion#8636",
-   "delta": 10,
-   "rankScore": 70327,
+   "delta": 9,
+   "rankScore": 70336,
    "club": "RS1",
    "twitch": null
   },
   {
    "rank": 114,
    "name": "SkreyDeen#2116",
-   "delta": -141,
-   "rankScore": 61892,
+   "delta": -30,
+   "rankScore": 61862,
    "club": "MORI",
    "twitch": null
   },
   {
-   "rank": 135,
-   "name": "Sly#1640",
-   "delta": -22,
-   "rankScore": 61297,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 163,
-   "name": "HadBananas#0669",
-   "delta": 37,
-   "rankScore": 60905,
-   "club": "LUMN",
-   "twitch": null
-  },
-  {
-   "rank": 376,
-   "name": "Gm#4245",
-   "delta": 101,
-   "rankScore": 59845,
-   "club": "HZTOP",
-   "twitch": null
-  },
-  {
-   "rank": 490,
+   "rank": 454,
    "name": "Dixon.Mayers#0309",
-   "delta": 105,
-   "rankScore": 59531,
+   "delta": 104,
+   "rankScore": 59635,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 491,
-   "name": "maow#6421",
-   "delta": 106,
-   "rankScore": 59524,
-   "club": "ABG4",
+   "rank": 487,
+   "name": "hocheshh#5088",
+   "delta": 105,
+   "rankScore": 59552,
+   "club": "USTAL",
+   "twitch": null
+  },
+  {
+   "rank": 489,
+   "name": "Wireless_Jose#0347",
+   "delta": 45,
+   "rankScore": 59543,
+   "club": "BOOKS",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-20T11:30:37Z",
-  "totalStreams": 50,
+  "checkedAt": "2026-10-20T11:40:36Z",
+  "totalStreams": 46,
   "rubyLive": [
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] <---- SEASON 12 WAITING ROOM!",
-    "viewers": 120,
-    "startedAt": "2026-10-19T23:52:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 41,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 64891,
-    "matchedBy": "name"
-   },
    {
     "login": "yangdoun",
     "displayName": "yangdoun",
@@ -103,7 +75,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 81,
+    "viewers": 86,
     "startedAt": "2026-10-20T06:28:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 186,
@@ -115,7 +87,7 @@
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] DRUNK SEASON 12 WAITING ROOM | RUBY SECURE | CEO of OCE | !discord !commands",
-    "viewers": 15,
+    "viewers": 76,
     "startedAt": "2026-10-20T09:56:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 348,
@@ -130,29 +102,29 @@
   "ready": true,
   "placed": {
    "ruby": 256,
-   "all": 2255
+   "all": 2256
   },
   "rubyByRegion": {
-   "am": 118,
-   "eu": 78,
+   "am": 117,
+   "eu": 79,
    "ap": 60
   },
   "window": {
    "am": {
-    "ruby": 1,
-    "all": 14
+    "ruby": 0,
+    "all": 6
    },
    "eu": {
-    "ruby": 2,
-    "all": 20
+    "ruby": 4,
+    "all": 17
    },
    "ap": {
-    "ruby": 3,
-    "all": 31
+    "ruby": 0,
+    "all": 14
    },
    "unplaced": {
     "ruby": 1,
-    "all": 40
+    "all": 24
    }
   }
  },

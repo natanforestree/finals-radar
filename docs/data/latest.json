@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-20T01:50:36Z",
+ "generatedAt": "2026-10-20T02:00:36Z",
  "season": "s11",
  "leaderboardUpdatedAt": "2026-10-20T01:33:05Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 14,
  "allActive": 186,
  "rubyShare": 0.0753,
- "steamPlayers": 14784,
+ "steamPlayers": 14728,
  "rubyCutoff": 59238,
  "grinding": [
   {
@@ -128,14 +128,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-20T01:50:36Z",
-  "totalStreams": 209,
+  "checkedAt": "2026-10-20T02:00:36Z",
+  "totalStreams": 201,
   "rubyLive": [
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] LAST SCRIM BEFORE NEW SEASON | jump scares for bits | THANK YOU GUYS FOR PARTNER PLUS 1/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 75,
+    "viewers": 82,
     "startedAt": "2026-10-19T23:54:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 30,
@@ -147,12 +147,24 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Top 30 Ruby",
-    "viewers": 76,
+    "viewers": 81,
     "startedAt": "2026-10-19T23:52:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 41,
     "name": "Digcron.TTV#3309",
     "rankScore": 64891,
+    "matchedBy": "name"
+   },
+   {
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Chilling | The Finals | Ruby Light Secured 60k",
+    "viewers": 1,
+    "startedAt": "2026-10-20T00:43:53Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
+    "rank": 199,
+    "name": "bobiduity#2959",
+    "rankScore": 60478,
     "matchedBy": "name"
    }
   ],
@@ -161,33 +173,25 @@
     "login": "slimedtime",
     "displayName": "slimedtime",
     "title": "choked getting ruby most likely",
-    "viewers": 14,
+    "viewers": 20,
     "startedAt": "2026-10-19T13:02:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimedtime-{width}x{height}.jpg"
-   },
-   {
-    "login": "bluecelive",
-    "displayName": "BlueceLIVE",
-    "title": "LOCKED IN!! 🔥TOP 500 CERB & SWORD | DIAMOND TONIGHT!!! Come hang!",
-    "viewers": 2,
-    "startedAt": "2026-10-20T01:17:04Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bluecelive-{width}x{height}.jpg"
-   },
-   {
-    "login": "bluecelive",
-    "displayName": "BlueceLIVE",
-    "title": "LOCKED IN!! 🔥TOP 500 CERB & SWORD | DIAMOND TONIGHT!!! Come hang!",
-    "viewers": 2,
-    "startedAt": "2026-10-20T01:17:04Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bluecelive-{width}x{height}.jpg"
    },
    {
     "login": "bub1xreal",
     "displayName": "bub1xreal",
     "title": "the final day of ruby grind",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-19T14:34:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bub1xreal-{width}x{height}.jpg"
+   },
+   {
+    "login": "bluecelive",
+    "displayName": "BlueceLIVE",
+    "title": "LOCKED IN!! 🔥TOP 500 CERB & SWORD | DIAMOND TONIGHT!!! Come hang!",
+    "viewers": 2,
+    "startedAt": "2026-10-20T01:17:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bluecelive-{width}x{height}.jpg"
    }
   ]
  },

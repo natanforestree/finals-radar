@@ -1,61 +1,149 @@
 {
- "generatedAt": "2026-10-20T10:10:37Z",
+ "generatedAt": "2026-10-20T10:20:37Z",
  "season": "s11",
- "leaderboardUpdatedAt": "2026-10-20T09:37:00Z",
+ "leaderboardUpdatedAt": "2026-10-20T10:19:30Z",
  "window": {
-  "from": "2026-10-20T09:20:36Z",
-  "to": "2026-10-20T09:37:00Z",
-  "minutes": 16.4
+  "from": "2026-10-20T09:37:00Z",
+  "to": "2026-10-20T10:19:30Z",
+  "minutes": 42.5
  },
- "rubyActive": 4,
- "allActive": 82,
- "rubyShare": 0.0488,
- "steamPlayers": 6113,
- "rubyCutoff": 59424,
+ "rubyActive": 15,
+ "allActive": 146,
+ "rubyShare": 0.1027,
+ "steamPlayers": 6176,
+ "rubyCutoff": 59476,
  "grinding": [
   {
-   "rank": 20,
-   "name": "Dyrani#4601",
-   "delta": 26,
-   "rankScore": 67231,
-   "club": "RADGG",
+   "rank": 113,
+   "name": "SkreyDeen#2116",
+   "delta": 32,
+   "rankScore": 61959,
+   "club": "MORI",
    "twitch": null
   },
   {
-   "rank": 476,
-   "name": "GrandSpark#5639",
-   "delta": 50,
-   "rankScore": 59568,
-   "club": "MOL",
+   "rank": 118,
+   "name": "StandbyLuke7#3105",
+   "delta": 77,
+   "rankScore": 61735,
+   "club": "NTMR",
    "twitch": null
   },
   {
-   "rank": 495,
-   "name": "noum#8785",
-   "delta": 106,
-   "rankScore": 59496,
+   "rank": 133,
+   "name": "Sly#1640",
+   "delta": -234,
+   "rankScore": 61352,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 213,
+   "name": "VirtualCat#6013",
+   "delta": 40,
+   "rankScore": 60370,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 402,
+   "name": "Gm#4245",
+   "delta": 103,
+   "rankScore": 59744,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 433,
+   "name": "Dixon.Mayers#0309",
+   "delta": 103,
+   "rankScore": 59687,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 452,
+   "name": "Recobs#3071",
+   "delta": 104,
+   "rankScore": 59645,
+   "club": "DK5",
+   "twitch": null
+  },
+  {
+   "rank": 456,
+   "name": "tuvastik#7623",
+   "delta": 209,
+   "rankScore": 59633,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 457,
+   "name": "Nexus_Lime#3391",
+   "delta": 104,
+   "rankScore": 59631,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 499,
+   "rank": 465,
+   "name": "Dafiwoo#3910",
+   "delta": 105,
+   "rankScore": 59616,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 468,
+   "name": "hocheshh#5088",
+   "delta": 104,
+   "rankScore": 59604,
+   "club": "USTAL",
+   "twitch": null
+  },
+  {
+   "rank": 470,
+   "name": "noum#8785",
+   "delta": 104,
+   "rankScore": 59600,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 472,
+   "name": "logan#2443",
+   "delta": 104,
+   "rankScore": 59595,
+   "club": "LUMN",
+   "twitch": null
+  },
+  {
+   "rank": 481,
    "name": "tikiman#0069",
-   "delta": 106,
-   "rankScore": 59471,
+   "delta": 105,
+   "rankScore": 59576,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 483,
+   "name": "Cinci#3449",
+   "delta": 211,
+   "rankScore": 59574,
    "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-20T10:10:37Z",
-  "totalStreams": 47,
+  "checkedAt": "2026-10-20T10:20:37Z",
+  "totalStreams": 43,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] <---- SEASON 12 WAITING ROOM!",
-    "viewers": 124,
+    "viewers": 154,
     "startedAt": "2026-10-19T23:52:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 41,
@@ -67,7 +155,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 61,
+    "viewers": 64,
     "startedAt": "2026-10-20T06:28:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 186,
@@ -79,7 +167,7 @@
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] SEASON 12 WAITING ROOM | RUBY SECURE | CEO of OCE | !discord !commands",
-    "viewers": 9,
+    "viewers": 6,
     "startedAt": "2026-10-20T09:56:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 348,
@@ -94,29 +182,29 @@
   "ready": true,
   "placed": {
    "ruby": 256,
-   "all": 2255
+   "all": 2253
   },
   "rubyByRegion": {
    "am": 118,
-   "eu": 77,
-   "ap": 61
+   "eu": 78,
+   "ap": 60
   },
   "window": {
    "am": {
-    "ruby": 1,
-    "all": 17
+    "ruby": 4,
+    "all": 30
    },
    "eu": {
-    "ruby": 0,
-    "all": 7
+    "ruby": 4,
+    "all": 24
    },
    "ap": {
-    "ruby": 1,
-    "all": 17
+    "ruby": 3,
+    "all": 33
    },
    "unplaced": {
-    "ruby": 2,
-    "all": 41
+    "ruby": 4,
+    "all": 59
    }
   }
  },

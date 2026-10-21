@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T22:10:38Z",
+ "generatedAt": "2026-10-21T22:20:37Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-21T22:06:01Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 92,
  "allActive": 1228,
  "rubyShare": 0.0749,
- "steamPlayers": 23789,
+ "steamPlayers": 23094,
  "rubyCutoff": 39575,
  "grinding": [
   {
@@ -35,7 +35,7 @@
    "delta": -47,
    "rankScore": 47567,
    "club": "BERGR",
-   "twitch": "balise"
+   "twitch": null
   },
   {
    "rank": 12,
@@ -752,26 +752,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-21T22:10:38Z",
-  "totalStreams": 287,
+  "checkedAt": "2026-10-21T22:20:37Z",
+  "totalStreams": 288,
   "rubyLive": [
    {
-    "login": "balise",
-    "displayName": "Balise",
-    "title": "(3X DROPS) TEAM ELEVATE SWEDEN BOUND | 3X BATTLEPASS GIVEAWAYS @elevategg",
-    "viewers": 143,
-    "startedAt": "2026-10-21T15:12:17Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
-    "rank": 8,
-    "name": "Balise#2431",
-    "rankScore": 47567,
+    "login": "sly_mee",
+    "displayName": "sly_mee",
+    "title": "THE FINALS SEASON 12 TOP 20 RUBY RANKED!",
+    "viewers": 1,
+    "startedAt": "2026-10-21T13:52:21Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sly_mee-{width}x{height}.jpg",
+    "rank": 11,
+    "name": "Sly#1640",
+    "rankScore": 47391,
     "matchedBy": "name"
    },
    {
     "login": "appoh",
     "displayName": "Appoh",
     "title": "!giveaway (12x !DROPS) Season 12! Peak is here - !Coach - Embark Partner - VGG Coach",
-    "viewers": 226,
+    "viewers": 240,
     "startedAt": "2026-10-21T19:35:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 24,
@@ -783,7 +783,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "SAISON 12 OUT | Ruby deagles",
-    "viewers": 13,
+    "viewers": 16,
     "startedAt": "2026-10-21T18:14:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 44,
@@ -795,7 +795,7 @@
     "login": "lamp",
     "displayName": "lamp",
     "title": "(new drops) figuring out season 12 #VerseClipContest !contest !youtube | lampischiller lampisLuminon",
-    "viewers": 243,
+    "viewers": 264,
     "startedAt": "2026-10-21T20:35:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 78,
@@ -807,7 +807,7 @@
     "login": "udrakoni",
     "displayName": "udrakoni",
     "title": "(DROPS) ELEVATE DRAK! @elevategg",
-    "viewers": 21,
+    "viewers": 22,
     "startedAt": "2026-10-21T21:10:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udrakoni-{width}x{height}.jpg",
     "rank": 92,
@@ -819,7 +819,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive on Prime Time | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 163,
+    "viewers": 148,
     "startedAt": "2026-10-21T18:51:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 103,
@@ -831,7 +831,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Rank 1 and 2 and 3 NA season 10 players",
-    "viewers": 81,
+    "viewers": 56,
     "startedAt": "2026-10-21T21:04:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 146,
@@ -843,7 +843,7 @@
     "login": "yxsable",
     "displayName": "yxsable",
     "title": "S12 IS STILL A VIBE | Vibin | Drops",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-10-21T17:59:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yxsable-{width}x{height}.jpg",
     "rank": 344,
@@ -866,10 +866,18 @@
   ],
   "titleMentions": [
    {
+    "login": "meydix",
+    "displayName": "MEYDIX",
+    "title": "SOLO Q to Ruby - Друкный мечник 2k hrs",
+    "viewers": 20,
+    "startedAt": "2026-10-21T21:53:51Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meydix-{width}x{height}.jpg"
+   },
+   {
     "login": "raphout_tv",
     "displayName": "RaphouT_TV",
     "title": "▶️ ROAD TO TOP 500 #NouvelleSaison !clip - Homme diamant 💎",
-    "viewers": 14,
+    "viewers": 15,
     "startedAt": "2026-10-21T21:00:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raphout_tv-{width}x{height}.jpg"
    },
@@ -877,7 +885,7 @@
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "[DRIP DROPS] Going for Ruby Flashbangs | Ranked Suffering",
-    "viewers": 12,
+    "viewers": 7,
     "startedAt": "2026-10-21T19:49:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg"
    },
@@ -885,7 +893,7 @@
     "login": "imissed_",
     "displayName": "iMissed_",
     "title": "NEW SEASON, FRESH RANKS, SAME DEMON | ROAD TO RUBY",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-21T21:52:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imissed_-{width}x{height}.jpg"
    },
@@ -917,7 +925,7 @@
     "login": "rawrin762",
     "displayName": "rawrin762",
     "title": "new season ruby grind",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-10-21T22:03:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rawrin762-{width}x{height}.jpg"
    }

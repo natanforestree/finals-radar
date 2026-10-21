@@ -1,134 +1,77 @@
 {
- "generatedAt": "2026-10-21T09:20:36Z",
- "season": "s11",
- "leaderboardUpdatedAt": "2026-10-20T11:40:14Z",
- "window": {
-  "from": "2026-10-20T11:25:02Z",
-  "to": "2026-10-20T11:40:14Z",
-  "minutes": 15.2
- },
- "rubyActive": 5,
- "allActive": 61,
- "rubyShare": 0.082,
- "steamPlayers": 10666,
- "rubyCutoff": 59507,
- "grinding": [
-  {
-   "rank": 8,
-   "name": "Avion#8636",
-   "delta": 9,
-   "rankScore": 70336,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 114,
-   "name": "SkreyDeen#2116",
-   "delta": -30,
-   "rankScore": 61862,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 454,
-   "name": "Dixon.Mayers#0309",
-   "delta": 104,
-   "rankScore": 59635,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 487,
-   "name": "hocheshh#5088",
-   "delta": 105,
-   "rankScore": 59552,
-   "club": "USTAL",
-   "twitch": null
-  },
-  {
-   "rank": 489,
-   "name": "Wireless_Jose#0347",
-   "delta": 45,
-   "rankScore": 59543,
-   "club": "BOOKS",
-   "twitch": null
-  }
- ],
+ "generatedAt": "2026-10-21T09:30:36Z",
+ "season": "s12",
+ "leaderboardUpdatedAt": "2026-10-21T09:26:32Z",
+ "window": null,
+ "rubyActive": null,
+ "allActive": null,
+ "rubyShare": null,
+ "steamPlayers": 10748,
+ "rubyCutoff": 38725,
+ "grinding": [],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-21T09:20:36Z",
-  "totalStreams": 143,
+  "checkedAt": "2026-10-21T09:30:36Z",
+  "totalStreams": 133,
   "rubyLive": [
+   {
+    "login": "lycommit",
+    "displayName": "lycommit",
+    "title": "[X100 DROPS] BATTLEPASS + MULTIBUCKS GIVEAWAYS + SEASON 12 RANKED GRINDAGE | Embark Partner | !wooting !lamzu",
+    "viewers": 969,
+    "startedAt": "2026-10-20T12:00:15Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
+    "rank": 4,
+    "name": "lycommit#0621",
+    "rankScore": 47312,
+    "matchedBy": "name"
+   },
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "99xDROPS+GIVEAWAYS │PRIME TIME RANK #1 GRINDING │!coaching !youtube !discord",
-    "viewers": 65,
+    "viewers": 63,
     "startedAt": "2026-10-21T05:06:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 23,
+    "rank": 25,
     "name": "perzzonTTV#5485",
-    "rankScore": 66623,
+    "rankScore": 44047,
     "matchedBy": "name"
    },
    {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Rank 1 Solo Q mode?",
-    "viewers": 106,
-    "startedAt": "2026-10-21T01:52:48Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 41,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 64891,
-    "matchedBy": "name"
-   },
-   {
-    "login": "knot4long",
-    "displayName": "knot4long",
-    "title": "S12 IS HERE🌸",
-    "viewers": 1,
-    "startedAt": "2026-10-21T04:39:09Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
-    "rank": 103,
-    "name": "TTV_KNOT_4_LONG#7729",
-    "rankScore": 62213,
-    "matchedBy": "name"
-   },
-   {
-    "login": "verysirius_ttv",
-    "displayName": "verysirius_ttv",
-    "title": "[DROPS] New Season chilling + #FREEJACOBBUMFLUFF  | (VerySirius#3049) |  Moon theory | OCE |  !sens !controller !binds !discord",
-    "viewers": 19,
-    "startedAt": "2026-10-21T04:37:37Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verysirius_ttv-{width}x{height}.jpg",
-    "rank": 105,
-    "name": "VerySirius#3049",
-    "rankScore": 62138,
+    "login": "regxntv",
+    "displayName": "RegxnTV",
+    "title": "S12 PRIMETIME",
+    "viewers": 5,
+    "startedAt": "2026-10-21T01:50:05Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_regxntv-{width}x{height}.jpg",
+    "rank": 157,
+    "name": "REGEN#4167",
+    "rankScore": 40958,
     "matchedBy": "name"
    },
    {
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "New Season, Still Learning | Korean | APE SQUAD | RANKED",
-    "viewers": 7,
+    "viewers": 8,
     "startedAt": "2026-10-21T05:42:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 154,
+    "rank": 176,
     "name": "YangDoun#0398",
-    "rankScore": 61040,
+    "rankScore": 40818,
     "matchedBy": "name"
    },
    {
-    "login": "lycommit",
-    "displayName": "lycommit",
-    "title": "[X100 DROPS] BATTLEPASS + MULTIBUCKS GIVEAWAYS + SEASON 12 RANKED GRINDAGE | Embark Partner | !wooting !lamzu",
-    "viewers": 968,
-    "startedAt": "2026-10-20T12:00:15Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
-    "rank": 367,
-    "name": "lycommit#0621",
-    "rankScore": 59863,
+    "login": "wewantzenbutv",
+    "displayName": "WeWantZenbuTv",
+    "title": "Drop The Finals Diamond Ranked Français",
+    "viewers": 1,
+    "startedAt": "2026-10-21T08:39:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wewantzenbutv-{width}x{height}.jpg",
+    "rank": 498,
+    "name": "WeWantZenbuTV#5891",
+    "rankScore": 38750,
     "matchedBy": "name"
    }
   ],
@@ -137,32 +80,15 @@
  "regions": {
   "ready": true,
   "placed": {
-   "ruby": 256,
-   "all": 2256
+   "ruby": 290,
+   "all": 1051
   },
   "rubyByRegion": {
-   "am": 117,
-   "eu": 79,
-   "ap": 60
+   "am": 155,
+   "eu": 94,
+   "ap": 41
   },
-  "window": {
-   "am": {
-    "ruby": 0,
-    "all": 6
-   },
-   "eu": {
-    "ruby": 4,
-    "all": 17
-   },
-   "ap": {
-    "ruby": 0,
-    "all": 14
-   },
-   "unplaced": {
-    "ruby": 1,
-    "all": 24
-   }
-  }
+  "window": null
  },
  "source": "embark"
 }

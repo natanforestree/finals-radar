@@ -1,24 +1,333 @@
 {
- "generatedAt": "2026-10-21T10:10:36Z",
+ "generatedAt": "2026-10-21T10:20:36Z",
  "season": "s12",
- "leaderboardUpdatedAt": "2026-10-21T09:26:32Z",
- "window": null,
- "rubyActive": null,
- "allActive": null,
- "rubyShare": null,
+ "leaderboardUpdatedAt": "2026-10-21T10:15:17Z",
+ "window": {
+  "from": "2026-10-21T09:26:32Z",
+  "to": "2026-10-21T10:15:17Z",
+  "minutes": 48.8
+ },
+ "rubyActive": 38,
+ "allActive": 477,
+ "rubyShare": 0.0797,
  "steamPlayers": 11178,
- "rubyCutoff": 38725,
- "grinding": [],
+ "rubyCutoff": 38803,
+ "grinding": [
+  {
+   "rank": 14,
+   "name": "carnifex#7330",
+   "delta": 218,
+   "rankScore": 45159,
+   "club": "5F",
+   "twitch": null
+  },
+  {
+   "rank": 21,
+   "name": "perzzonTTV#5485",
+   "delta": 232,
+   "rankScore": 44279,
+   "club": "PRZN",
+   "twitch": "perzzon"
+  },
+  {
+   "rank": 44,
+   "name": "TwitchAyoKoy#7018",
+   "delta": -259,
+   "rankScore": 42815,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 65,
+   "name": "LuiHuncho#3649",
+   "delta": 262,
+   "rankScore": 42361,
+   "club": "SIN",
+   "twitch": null
+  },
+  {
+   "rank": 68,
+   "name": "emilien#6585",
+   "delta": 734,
+   "rankScore": 42223,
+   "club": "FYYR",
+   "twitch": null
+  },
+  {
+   "rank": 71,
+   "name": "AP#8568",
+   "delta": 58,
+   "rankScore": 42150,
+   "club": "T400",
+   "twitch": null
+  },
+  {
+   "rank": 87,
+   "name": "rpf#1598",
+   "delta": 740,
+   "rankScore": 41828,
+   "club": "ONFNL",
+   "twitch": null
+  },
+  {
+   "rank": 91,
+   "name": "ThaGeeSpotClanka#1945",
+   "delta": 721,
+   "rankScore": 41693,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 104,
+   "name": "Nov#6006",
+   "delta": 365,
+   "rankScore": 41413,
+   "club": "HIBOO",
+   "twitch": null
+  },
+  {
+   "rank": 119,
+   "name": "MOGHWASOM#2367",
+   "delta": 369,
+   "rankScore": 41264,
+   "club": "MTHRY",
+   "twitch": null
+  },
+  {
+   "rank": 125,
+   "name": "petrik#0712",
+   "delta": 783,
+   "rankScore": 41220,
+   "club": "FYYR",
+   "twitch": null
+  },
+  {
+   "rank": 132,
+   "name": "YangDoun#0398",
+   "delta": 370,
+   "rankScore": 41188,
+   "club": "APES",
+   "twitch": "yangdoun"
+  },
+  {
+   "rank": 135,
+   "name": "penguin#5799",
+   "delta": 54,
+   "rankScore": 41166,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 140,
+   "name": "MrStealYoGyal#6795",
+   "delta": 379,
+   "rankScore": 41103,
+   "club": "TGYAL",
+   "twitch": null
+  },
+  {
+   "rank": 150,
+   "name": "Berrence#2323",
+   "delta": 62,
+   "rankScore": 41022,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 172,
+   "name": "Digcron.TTV#3309",
+   "delta": 711,
+   "rankScore": 40854,
+   "club": "DIGA",
+   "twitch": null
+  },
+  {
+   "rank": 185,
+   "name": "Riven#8454",
+   "delta": 56,
+   "rankScore": 40755,
+   "club": "HZTOP",
+   "twitch": null
+  },
+  {
+   "rank": 207,
+   "name": "urch#4735",
+   "delta": -294,
+   "rankScore": 40552,
+   "club": "APES",
+   "twitch": null
+  },
+  {
+   "rank": 208,
+   "name": "ItsPolar#0993",
+   "delta": -294,
+   "rankScore": 40552,
+   "club": "XME0W",
+   "twitch": null
+  },
+  {
+   "rank": 212,
+   "name": "Maisteku#1218",
+   "delta": -517,
+   "rankScore": 40534,
+   "club": "IQ777",
+   "twitch": null
+  },
+  {
+   "rank": 310,
+   "name": "SkilledTiger#1668",
+   "delta": 681,
+   "rankScore": 39929,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 318,
+   "name": "Vex#0974",
+   "delta": 97,
+   "rankScore": 39847,
+   "club": "T400",
+   "twitch": null
+  },
+  {
+   "rank": 322,
+   "name": "Miku#5339",
+   "delta": 807,
+   "rankScore": 39826,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 331,
+   "name": "Juicebox#7633",
+   "delta": 767,
+   "rankScore": 39765,
+   "club": "CUMN",
+   "twitch": null
+  },
+  {
+   "rank": 339,
+   "name": "XIAOYUAN#2041",
+   "delta": 665,
+   "rankScore": 39713,
+   "club": "SEITN",
+   "twitch": null
+  },
+  {
+   "rank": 352,
+   "name": "RichOffARisk#3599",
+   "delta": 720,
+   "rankScore": 39620,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 354,
+   "name": "lovely#2723",
+   "delta": -545,
+   "rankScore": 39605,
+   "club": "BOOKS",
+   "twitch": null
+  },
+  {
+   "rank": 362,
+   "name": "Barb#9966",
+   "delta": 734,
+   "rankScore": 39534,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 369,
+   "name": "NN#1699",
+   "delta": -689,
+   "rankScore": 39489,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 372,
+   "name": "KriegerBlue#2614",
+   "delta": -548,
+   "rankScore": 39475,
+   "club": "BOOKS",
+   "twitch": null
+  },
+  {
+   "rank": 376,
+   "name": "smurfkiller#7601",
+   "delta": 755,
+   "rankScore": 39438,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 383,
+   "name": "WeWantZenbuTV#5891",
+   "delta": 636,
+   "rankScore": 39386,
+   "club": "TF4R",
+   "twitch": null
+  },
+  {
+   "rank": 385,
+   "name": "Shxdow#7766",
+   "delta": 650,
+   "rankScore": 39369,
+   "club": "TF4R",
+   "twitch": null
+  },
+  {
+   "rank": 400,
+   "name": "ImmaMONS7ER#4319",
+   "delta": 658,
+   "rankScore": 39306,
+   "club": "DMPRO",
+   "twitch": null
+  },
+  {
+   "rank": 414,
+   "name": "Mr.Knuckle#6355",
+   "delta": 809,
+   "rankScore": 39213,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 446,
+   "name": "CUCO7#2754",
+   "delta": -1235,
+   "rankScore": 39070,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 452,
+   "name": "8laze#0105",
+   "delta": -92,
+   "rankScore": 39044,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 464,
+   "name": "sh1kk#0502",
+   "delta": 620,
+   "rankScore": 38991,
+   "club": "USTAL",
+   "twitch": null
+  }
+ ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-21T10:10:36Z",
+  "checkedAt": "2026-10-21T10:20:36Z",
   "totalStreams": 124,
   "rubyLive": [
    {
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[X100 DROPS] BATTLEPASS + MULTIBUCKS GIVEAWAYS + SEASON 12 RANKED GRINDAGE | Embark Partner | !wooting !lamzu",
-    "viewers": 947,
+    "viewers": 990,
     "startedAt": "2026-10-20T12:00:15Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 4,
@@ -30,22 +339,34 @@
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "99xDROPS+GIVEAWAYS │PRIME TIME RANK #1 GRINDING │!coaching !youtube !discord",
-    "viewers": 73,
+    "viewers": 95,
     "startedAt": "2026-10-21T05:06:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 25,
+    "rank": 21,
     "name": "perzzonTTV#5485",
-    "rankScore": 44047,
+    "rankScore": 44279,
+    "matchedBy": "name"
+   },
+   {
+    "login": "yangdoun",
+    "displayName": "yangdoun",
+    "title": "New Season, Still Learning | Korean | APE SQUAD | RANKED",
+    "viewers": 7,
+    "startedAt": "2026-10-21T05:42:39Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
+    "rank": 132,
+    "name": "YangDoun#0398",
+    "rankScore": 41188,
     "matchedBy": "name"
    },
    {
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 43,
+    "viewers": 47,
     "startedAt": "2026-10-21T09:35:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
-    "rank": 149,
+    "rank": 154,
     "name": "Snake_Nade#0401",
     "rankScore": 41004,
     "matchedBy": "name"
@@ -54,48 +375,36 @@
     "login": "regxntv",
     "displayName": "RegxnTV",
     "title": "S12 PRIMETIME",
-    "viewers": 5,
+    "viewers": 4,
     "startedAt": "2026-10-21T01:50:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_regxntv-{width}x{height}.jpg",
-    "rank": 157,
+    "rank": 160,
     "name": "REGEN#4167",
     "rankScore": 40958,
     "matchedBy": "name"
    },
    {
-    "login": "yangdoun",
-    "displayName": "yangdoun",
-    "title": "New Season, Still Learning | Korean | APE SQUAD | RANKED",
-    "viewers": 6,
-    "startedAt": "2026-10-21T05:42:39Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 176,
-    "name": "YangDoun#0398",
-    "rankScore": 40818,
+    "login": "verysirius_ttv",
+    "displayName": "verysirius_ttv",
+    "title": "[DROPS] New Season chilling + #FREEJACOBBUMFLUFF  | (VerySirius#3049) |  Moon theory | OCE |  !sens !controller !binds !discord",
+    "viewers": 61,
+    "startedAt": "2026-10-21T04:37:37Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_verysirius_ttv-{width}x{height}.jpg",
+    "rank": 244,
+    "name": "VerySirius#3049",
+    "rankScore": 40353,
     "matchedBy": "name"
    },
    {
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] LIGHT FARMIN - !yt !discord !finalsRS",
-    "viewers": 2,
+    "viewers": 7,
     "startedAt": "2026-10-21T09:31:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 442,
+    "rank": 457,
     "name": "Antiparty#0866",
     "rankScore": 39029,
-    "matchedBy": "name"
-   },
-   {
-    "login": "wewantzenbutv",
-    "displayName": "WeWantZenbuTv",
-    "title": "Drop The Finals Diamond Ranked Français",
-    "viewers": 1,
-    "startedAt": "2026-10-21T08:39:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wewantzenbutv-{width}x{height}.jpg",
-    "rank": 498,
-    "name": "WeWantZenbuTV#5891",
-    "rankScore": 38750,
     "matchedBy": "name"
    }
   ],
@@ -104,15 +413,32 @@
  "regions": {
   "ready": true,
   "placed": {
-   "ruby": 290,
-   "all": 1051
+   "ruby": 291,
+   "all": 1066
   },
   "rubyByRegion": {
-   "am": 155,
-   "eu": 94,
-   "ap": 41
+   "am": 151,
+   "eu": 93,
+   "ap": 47
   },
-  "window": null
+  "window": {
+   "am": {
+    "ruby": 6,
+    "all": 15
+   },
+   "eu": {
+    "ruby": 6,
+    "all": 17
+   },
+   "ap": {
+    "ruby": 15,
+    "all": 37
+   },
+   "unplaced": {
+    "ruby": 11,
+    "all": 408
+   }
+  }
  },
  "source": "embark"
 }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T06:10:36Z",
+ "generatedAt": "2026-10-23T06:20:36Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-23T06:04:35Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 49,
  "allActive": 568,
  "rubyShare": 0.0863,
- "steamPlayers": 13248,
+ "steamPlayers": 13012,
  "rubyCutoff": 40721,
  "grinding": [
   {
@@ -408,14 +408,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-23T06:10:36Z",
-  "totalStreams": 188,
+  "checkedAt": "2026-10-23T06:20:36Z",
+  "totalStreams": 185,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Solo Q Ruby Guy",
-    "viewers": 220,
+    "viewers": 244,
     "startedAt": "2026-10-23T01:55:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 98,
@@ -427,7 +427,7 @@
     "login": "kruhashere",
     "displayName": "kruhashere",
     "title": "top 500 riot only rip bfc",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-10-23T06:04:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kruhashere-{width}x{height}.jpg",
     "rank": 416,
@@ -446,9 +446,17 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chillykevv-{width}x{height}.jpg"
    },
    {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 2,
+    "startedAt": "2026-10-23T06:05:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
     "login": "tigerslogan34",
     "displayName": "Tigerslogan34",
-    "title": "The Finals!!!! Road to ruby!!!!",
+    "title": "The Finals!!!! Road to ruby!!!! Need a good 3rd!!!",
     "viewers": 1,
     "startedAt": "2026-10-23T01:54:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tigerslogan34-{width}x{height}.jpg"
@@ -468,14 +476,6 @@
     "viewers": 1,
     "startedAt": "2026-10-23T04:37:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_datboynar-{width}x{height}.jpg"
-   },
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 0,
-    "startedAt": "2026-10-23T06:05:00Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T17:10:33Z",
+ "generatedAt": "2026-10-23T17:20:37Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-23T17:03:39Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 68,
  "allActive": 727,
  "rubyShare": 0.0935,
- "steamPlayers": 22521,
+ "steamPlayers": 22834,
  "rubyCutoff": 40847,
  "grinding": [
   {
@@ -27,7 +27,7 @@
    "delta": 236,
    "rankScore": 52593,
    "club": "PRZN",
-   "twitch": "perzzon"
+   "twitch": null
   },
   {
    "rank": 5,
@@ -560,26 +560,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-23T17:10:33Z",
-  "totalStreams": 261,
+  "checkedAt": "2026-10-23T17:20:37Z",
+  "totalStreams": 260,
   "rubyLive": [
-   {
-    "login": "perzzon",
-    "displayName": "Perzzon",
-    "title": "[99xDROPS] RANK #1 + Giveaways! │!coaching !youtube !discord",
-    "viewers": 91,
-    "startedAt": "2026-10-23T15:12:24Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 4,
-    "name": "perzzonTTV#5485",
-    "rankScore": 52593,
-    "matchedBy": "name"
-   },
    {
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[X100 DROPS] OPERATION: UNLOCK FEET. | Embark Partner | !wooting !lamzu",
-    "viewers": 642,
+    "viewers": 730,
     "startedAt": "2026-10-23T13:54:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 12,
@@ -591,7 +579,7 @@
     "login": "zuki",
     "displayName": "zuki",
     "title": "[new drops] NTMR Coach | playing ranked, bfr or KS big think time | Embark Creator | !coaching !mouse !sens !res !femboy",
-    "viewers": 63,
+    "viewers": 59,
     "startedAt": "2026-10-23T09:18:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
     "rank": 39,
@@ -603,7 +591,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(12x !DROPS) Prop Hunt Goofin' - !Coach - Embark Partner - VGG Coach",
-    "viewers": 22,
+    "viewers": 36,
     "startedAt": "2026-10-23T16:49:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 41,
@@ -627,7 +615,7 @@
     "login": "lamp",
     "displayName": "lamp",
     "title": "(new drops) prop hunt then some solo dolo #VerseClipContest !contest !youtube | lampischiller lampisLuminon",
-    "viewers": 83,
+    "viewers": 75,
     "startedAt": "2026-10-23T16:42:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 47,
@@ -639,7 +627,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "HIDE N SEEK + POKE META YES EMBARK GOOD GOOD GOOD GOOD",
-    "viewers": 98,
+    "viewers": 116,
     "startedAt": "2026-10-23T15:55:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 80,
@@ -675,7 +663,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] Prop Till You Drop Gamer Outreach Charity | Jump Scares for Bits!   | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 40,
+    "viewers": 38,
     "startedAt": "2026-10-23T16:55:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 263,
@@ -687,39 +675,43 @@
     "login": "yxsable",
     "displayName": "yxsable",
     "title": "S12 IS STILL A VIBE | Vibin | Drops",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-23T16:36:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yxsable-{width}x{height}.jpg",
     "rank": 366,
     "name": "Sable#7917",
     "rankScore": 41794,
     "matchedBy": "name"
+   },
+   {
+    "login": "sparrow2447",
+    "displayName": "Sparrow2447",
+    "title": "I NEW SEASON DROPS I TAKEFLYTE @ 7PM EST I",
+    "viewers": 1,
+    "startedAt": "2026-10-23T15:35:10Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sparrow2447-{width}x{height}.jpg",
+    "rank": 397,
+    "name": "TTV_Sparrow2447#2196",
+    "rankScore": 41563,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
    {
+    "login": "sokicowboy",
+    "displayName": "sokicowboy",
+    "title": "working hard or hardly working (road to ruby?)",
+    "viewers": 7,
+    "startedAt": "2026-10-23T17:03:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sokicowboy-{width}x{height}.jpg"
+   },
+   {
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - BLAST OFF IS BACK - [Noobin on my toob]",
-    "viewers": 9,
+    "viewers": 7,
     "startedAt": "2026-10-23T13:29:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
-   },
-   {
-    "login": "sokicowboy",
-    "displayName": "sokicowboy",
-    "title": "working hard or hardly working (road to ruby?)",
-    "viewers": 4,
-    "startedAt": "2026-10-23T17:03:08Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sokicowboy-{width}x{height}.jpg"
-   },
-   {
-    "login": "sokicowboy",
-    "displayName": "sokicowboy",
-    "title": "working hard or hardly working (road to ruby?)",
-    "viewers": 4,
-    "startedAt": "2026-10-23T17:03:08Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sokicowboy-{width}x{height}.jpg"
    },
    {
     "login": "teoma96",

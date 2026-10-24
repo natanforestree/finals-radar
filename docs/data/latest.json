@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-24T08:20:31Z",
+ "generatedAt": "2026-10-24T08:30:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-24T08:19:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 22,
  "allActive": 234,
  "rubyShare": 0.094,
- "steamPlayers": 12657,
+ "steamPlayers": 12461,
  "rubyCutoff": 41328,
  "grinding": [
   {
@@ -192,14 +192,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-24T08:20:31Z",
-  "totalStreams": 167,
+  "checkedAt": "2026-10-24T08:30:31Z",
+  "totalStreams": 175,
   "rubyLive": [
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] #1 RUBY BFR | jump scares for bits | THANK YOU GUYS FOR PARTNER PLUS 1/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 190,
+    "viewers": 194,
     "startedAt": "2026-10-24T00:42:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 41,
@@ -223,12 +223,24 @@
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "NEW SEASON IS HERE!!!!!",
-    "viewers": 66,
+    "viewers": 60,
     "startedAt": "2026-10-24T07:21:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 153,
     "name": "FloridoGamingTTV#1606",
     "rankScore": 44612,
+    "matchedBy": "name"
+   },
+   {
+    "login": "yangdoun",
+    "displayName": "yangdoun",
+    "title": "Scrims Maybe? | Korean | APE SQUAD | RANKED",
+    "viewers": 2,
+    "startedAt": "2026-10-24T08:19:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
+    "rank": 311,
+    "name": "YangDoun#0398",
+    "rankScore": 42707,
     "matchedBy": "name"
    },
    {
@@ -246,14 +258,6 @@
   ],
   "titleMentions": [
    {
-    "login": "aezo___",
-    "displayName": "aezo___",
-    "title": "new finals sznnnn - road to ruby?",
-    "viewers": 3,
-    "startedAt": "2026-10-24T03:24:16Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aezo___-{width}x{height}.jpg"
-   },
-   {
     "login": "groovybee_",
     "displayName": "groovybee_",
     "title": "ruby grind",
@@ -262,10 +266,18 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_groovybee_-{width}x{height}.jpg"
    },
    {
+    "login": "aezo___",
+    "displayName": "aezo___",
+    "title": "new finals sznnnn - road to ruby?",
+    "viewers": 2,
+    "startedAt": "2026-10-24T03:24:16Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aezo___-{width}x{height}.jpg"
+   },
+   {
     "login": "rotationszn",
     "displayName": "rotationszn",
     "title": "MW4 is out? Don't care, we on the Finals - Ruby Rank Grind",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-24T01:26:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rotationszn-{width}x{height}.jpg"
    }

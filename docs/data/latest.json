@@ -1,288 +1,664 @@
 {
- "generatedAt": "2026-10-24T19:00:32Z",
+ "generatedAt": "2026-10-24T19:10:33Z",
  "season": "s12",
- "leaderboardUpdatedAt": "2026-10-24T18:38:32Z",
+ "leaderboardUpdatedAt": "2026-10-24T19:10:01Z",
  "window": {
-  "from": "2026-10-24T18:23:30Z",
-  "to": "2026-10-24T18:38:32Z",
-  "minutes": 15.0
+  "from": "2026-10-24T18:38:32Z",
+  "to": "2026-10-24T19:10:01Z",
+  "minutes": 31.5
  },
- "rubyActive": 32,
- "allActive": 508,
- "rubyShare": 0.063,
- "steamPlayers": 28335,
- "rubyCutoff": 41504,
+ "rubyActive": 79,
+ "allActive": 757,
+ "rubyShare": 0.1044,
+ "steamPlayers": 28604,
+ "rubyCutoff": 41538,
  "grinding": [
   {
-   "rank": 15,
-   "name": "John15-18#6786",
-   "delta": 312,
-   "rankScore": 50756,
+   "rank": 2,
+   "name": "LuiHuncho#3649",
+   "delta": 67,
+   "rankScore": 56045,
    "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 6,
+   "name": "CoDaft#0171",
+   "delta": 92,
+   "rankScore": 52881,
+   "club": "SIN",
+   "twitch": null
+  },
+  {
+   "rank": 17,
+   "name": "glitch-kaffe#1175",
+   "delta": 113,
+   "rankScore": 50388,
+   "club": "SIN",
    "twitch": null
   },
   {
    "rank": 21,
-   "name": "lycommit#0621",
-   "delta": 346,
-   "rankScore": 50223,
-   "club": "ENVY",
-   "twitch": "lycommit"
+   "name": "John15-18#6786",
+   "delta": -577,
+   "rankScore": 50179,
+   "club": null,
+   "twitch": null
   },
   {
-   "rank": 25,
+   "rank": 22,
    "name": "Balise#2431",
-   "delta": -82,
-   "rankScore": 49741,
+   "delta": 301,
+   "rankScore": 50042,
    "club": "BERGR",
    "twitch": "balise"
   },
   {
-   "rank": 43,
+   "rank": 33,
+   "name": "zuki#8633",
+   "delta": 296,
+   "rankScore": 49189,
+   "club": "NTMR",
+   "twitch": "zuki"
+  },
+  {
+   "rank": 35,
+   "name": "varieyn#1933",
+   "delta": 299,
+   "rankScore": 49039,
+   "club": "KCP",
+   "twitch": "varieyn"
+  },
+  {
+   "rank": 37,
    "name": "UNI#1741",
-   "delta": -91,
-   "rankScore": 48406,
+   "delta": 334,
+   "rankScore": 48740,
    "club": "ENVY",
    "twitch": null
   },
   {
-   "rank": 47,
-   "name": "lamp#5944",
-   "delta": 411,
-   "rankScore": 48064,
-   "club": "LUMN",
+   "rank": 44,
+   "name": "Some0ne#7487",
+   "delta": 429,
+   "rankScore": 48398,
+   "club": "SAINT",
    "twitch": null
   },
   {
-   "rank": 57,
+   "rank": 45,
+   "name": "Slothy#0360",
+   "delta": 315,
+   "rankScore": 48354,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 52,
    "name": "notBubbaa#0965",
-   "delta": -97,
-   "rankScore": 47585,
+   "delta": 355,
+   "rankScore": 47940,
    "club": "ENVY",
+   "twitch": null
+  },
+  {
+   "rank": 56,
+   "name": "Nov#6006",
+   "delta": 330,
+   "rankScore": 47745,
+   "club": "HIBOO",
+   "twitch": null
+  },
+  {
+   "rank": 65,
+   "name": "nomad#6612",
+   "delta": -200,
+   "rankScore": 47385,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 66,
+   "name": "KKKKiaR#5121",
+   "delta": 143,
+   "rankScore": 47370,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 72,
+   "name": "SkreyDeen#2116",
+   "delta": 513,
+   "rankScore": 47057,
+   "club": "MORI",
+   "twitch": "skreydeen"
+  },
+  {
+   "rank": 76,
+   "name": "petrik#0712",
+   "delta": 481,
+   "rankScore": 46909,
+   "club": "FYYR",
    "twitch": null
   },
   {
    "rank": 80,
-   "name": "i_hate_this_game#8526",
-   "delta": -468,
-   "rankScore": 46488,
+   "name": "Morphisxx23#0991",
+   "delta": 492,
+   "rankScore": 46804,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 100,
-   "name": "Sand#1602",
-   "delta": -161,
-   "rankScore": 45998,
+   "rank": 81,
+   "name": "DBChargers#0655",
+   "delta": -225,
+   "rankScore": 46472,
+   "club": "NIM",
+   "twitch": null
+  },
+  {
+   "rank": 91,
+   "name": "i_hate_this_game#8526",
+   "delta": -218,
+   "rankScore": 46270,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 93,
+   "name": "Locked#6080",
+   "delta": 62,
+   "rankScore": 46214,
+   "club": "SW0RD",
+   "twitch": null
+  },
+  {
+   "rank": 103,
+   "name": "Drippy#3855",
+   "delta": 319,
+   "rankScore": 45926,
+   "club": "SALT",
+   "twitch": null
+  },
+  {
+   "rank": 107,
+   "name": "Rubee#0501",
+   "delta": 757,
+   "rankScore": 45793,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 111,
+   "name": "TikTok-Colada#0392",
+   "delta": 323,
+   "rankScore": 45734,
+   "club": "PIINA",
+   "twitch": null
+  },
+  {
+   "rank": 114,
+   "name": "xDeaD#8104",
+   "delta": -50,
+   "rankScore": 45689,
+   "club": "PROIT",
+   "twitch": null
+  },
+  {
+   "rank": 118,
+   "name": "G-OneTyson#0229",
+   "delta": -50,
+   "rankScore": 45531,
+   "club": "PROIT",
+   "twitch": null
+  },
+  {
+   "rank": 122,
+   "name": "GetJiggy#3035",
+   "delta": 396,
+   "rankScore": 45502,
    "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 135,
-   "name": "HuskIsLive#2355",
-   "delta": 556,
-   "rankScore": 45296,
-   "club": "PND4S",
+   "rank": 127,
+   "name": "TaeK#3289",
+   "delta": 600,
+   "rankScore": 45451,
+   "club": "HEIMG",
+   "twitch": "taekfps"
+  },
+  {
+   "rank": 132,
+   "name": "breatheSA#2736",
+   "delta": 65,
+   "rankScore": 45385,
+   "club": "SSAA1",
    "twitch": null
   },
   {
-   "rank": 168,
+   "rank": 153,
+   "name": "MarinFeetLover#5564",
+   "delta": -52,
+   "rankScore": 45029,
+   "club": "PROIT",
+   "twitch": null
+  },
+  {
+   "rank": 158,
+   "name": "Silence#7503",
+   "delta": 93,
+   "rankScore": 44927,
+   "club": "BOOKS",
+   "twitch": null
+  },
+  {
+   "rank": 162,
+   "name": "YouAndMe#5474",
+   "delta": 569,
+   "rankScore": 44861,
+   "club": "AVOW",
+   "twitch": null
+  },
+  {
+   "rank": 163,
    "name": "Kamikaze#9162",
-   "delta": 323,
-   "rankScore": 44805,
+   "delta": 40,
+   "rankScore": 44845,
    "club": "FAREO",
    "twitch": null
   },
   {
-   "rank": 172,
-   "name": "Sly#1640",
-   "delta": 489,
-   "rankScore": 44776,
-   "club": null,
-   "twitch": "sly_mee"
+   "rank": 166,
+   "name": "PacolemTTV#0439",
+   "delta": 627,
+   "rankScore": 44835,
+   "club": "FRZ1",
+   "twitch": "pacolemttv"
+  },
+  {
+   "rank": 173,
+   "name": "smaler2001#3641",
+   "delta": 536,
+   "rankScore": 44769,
+   "club": "GA557",
+   "twitch": null
+  },
+  {
+   "rank": 186,
+   "name": "HuskIsLive#2355",
+   "delta": -818,
+   "rankScore": 44478,
+   "club": "PND4S",
+   "twitch": null
   },
   {
    "rank": 189,
-   "name": "Exenity#1513",
-   "delta": -538,
-   "rankScore": 44394,
-   "club": "SOLOQ",
-   "twitch": null
-  },
-  {
-   "rank": 206,
-   "name": "Cheerleader#3105",
-   "delta": -183,
-   "rankScore": 44022,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 209,
    "name": "meatGrinder1#8688",
-   "delta": -680,
-   "rankScore": 44007,
+   "delta": 426,
+   "rankScore": 44433,
    "club": "C4RPG",
    "twitch": null
   },
   {
-   "rank": 215,
+   "rank": 191,
+   "name": "RicRicardo#1763",
+   "delta": 573,
+   "rankScore": 44427,
+   "club": "WRCL",
+   "twitch": null
+  },
+  {
+   "rank": 193,
    "name": "groundBeef#4853",
-   "delta": -681,
-   "rankScore": 43996,
+   "delta": 427,
+   "rankScore": 44423,
    "club": "NUMMY",
    "twitch": null
   },
   {
-   "rank": 247,
-   "name": "bobiduity#2959",
-   "delta": 530,
-   "rankScore": 43618,
-   "club": null,
-   "twitch": "bobiduity"
+   "rank": 199,
+   "name": "I_LOVE_YOU#4183",
+   "delta": 422,
+   "rankScore": 44283,
+   "club": "MTHRY",
+   "twitch": null
   },
   {
-   "rank": 250,
+   "rank": 202,
+   "name": "Cheerleader#3105",
+   "delta": 148,
+   "rankScore": 44170,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 223,
+   "name": "Sly#1640",
+   "delta": -893,
+   "rankScore": 43883,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 234,
+   "name": "riot#1131",
+   "delta": 73,
+   "rankScore": 43729,
+   "club": "ABG4",
+   "twitch": null
+  },
+  {
+   "rank": 244,
+   "name": "Exenity#1513",
+   "delta": -788,
+   "rankScore": 43606,
+   "club": "SOLOQ",
+   "twitch": null
+  },
+  {
+   "rank": 245,
    "name": "Pook#2969",
-   "delta": 351,
-   "rankScore": 43536,
+   "delta": 43,
+   "rankScore": 43579,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 268,
-   "name": "LG15#1460",
-   "delta": 634,
-   "rankScore": 43397,
-   "club": "ALL",
+   "rank": 248,
+   "name": "Ayelekz#8224",
+   "delta": -258,
+   "rankScore": 43544,
+   "club": null,
    "twitch": null
   },
   {
-   "rank": 281,
+   "rank": 255,
+   "name": "frzst#1365",
+   "delta": 106,
+   "rankScore": 43500,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 272,
    "name": "ORC#4432",
-   "delta": 729,
-   "rankScore": 43220,
+   "delta": 114,
+   "rankScore": 43334,
    "club": "BEACH",
    "twitch": null
   },
   {
-   "rank": 300,
+   "rank": 279,
+   "name": "ElMeroMeyer#3710",
+   "delta": -460,
+   "rankScore": 43255,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 289,
+   "name": "wf#4993",
+   "delta": 172,
+   "rankScore": 43126,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 293,
    "name": "Gotti#1436",
-   "delta": 743,
-   "rankScore": 42955,
+   "delta": 116,
+   "rankScore": 43071,
    "club": "BEACH",
    "twitch": null
   },
   {
-   "rank": 339,
+   "rank": 299,
+   "name": "Jax#2451",
+   "delta": 390,
+   "rankScore": 42963,
+   "club": "FAGUR",
+   "twitch": null
+  },
+  {
+   "rank": 320,
    "name": "0377274053xoxo#5698",
-   "delta": 226,
-   "rankScore": 42636,
+   "delta": 137,
+   "rankScore": 42773,
    "club": "FCMST",
    "twitch": null
   },
   {
-   "rank": 344,
-   "name": "Grad#4550",
-   "delta": 603,
-   "rankScore": 42599,
-   "club": "LUMN",
-   "twitch": null
-  },
-  {
-   "rank": 350,
+   "rank": 327,
    "name": "CALIX#4504",
-   "delta": 228,
-   "rankScore": 42570,
+   "delta": 138,
+   "rankScore": 42708,
    "club": "CLX1",
    "twitch": null
   },
   {
-   "rank": 353,
+   "rank": 336,
+   "name": "bobiduity#2959",
+   "delta": -962,
+   "rankScore": 42656,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 345,
    "name": "airshu#5053",
-   "delta": 375,
-   "rankScore": 42538,
+   "delta": 46,
+   "rankScore": 42584,
    "club": "INZE",
    "twitch": null
   },
   {
-   "rank": 370,
+   "rank": 356,
+   "name": "LG15#1460",
+   "delta": -924,
+   "rankScore": 42473,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 357,
+   "name": "tecniq#6126",
+   "delta": -276,
+   "rankScore": 42455,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 364,
+   "name": "mdiym#9757",
+   "delta": 812,
+   "rankScore": 42346,
+   "club": "GOONU",
+   "twitch": "mdiym"
+  },
+  {
+   "rank": 368,
    "name": "HuMaL#0538",
-   "delta": 96,
-   "rankScore": 42345,
+   "delta": -19,
+   "rankScore": 42326,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 381,
-   "name": "Augustus#1741",
-   "delta": 687,
-   "rankScore": 42256,
-   "club": null,
+   "rank": 369,
+   "name": "SKY#0227",
+   "delta": -293,
+   "rankScore": 42316,
+   "club": "NIM",
    "twitch": null
   },
   {
-   "rank": 401,
-   "name": "BlackMamba#5962",
-   "delta": -615,
-   "rankScore": 42159,
-   "club": "G0LOD",
+   "rank": 371,
+   "name": "egrpk#0105",
+   "delta": 805,
+   "rankScore": 42311,
+   "club": "EBU",
    "twitch": null
   },
   {
-   "rank": 408,
-   "name": "John_Gatling_Gun#8220",
-   "delta": -746,
-   "rankScore": 42135,
-   "club": "ALL",
+   "rank": 372,
+   "name": "FinalFractal#7181",
+   "delta": 712,
+   "rankScore": 42309,
+   "club": "UEPAR",
    "twitch": null
   },
   {
-   "rank": 415,
-   "name": "v_potoke_egoist#0190",
-   "delta": -748,
-   "rankScore": 42091,
-   "club": "ALL",
-   "twitch": null
-  },
-  {
-   "rank": 429,
-   "name": "Knifer28#5206",
-   "delta": 236,
-   "rankScore": 41997,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 468,
+   "rank": 377,
    "name": "juice#0018",
-   "delta": 863,
-   "rankScore": 41676,
+   "delta": 608,
+   "rankScore": 42284,
    "club": "SYRE",
    "twitch": null
   },
   {
-   "rank": 495,
-   "name": "mdiym#9757",
-   "delta": 834,
-   "rankScore": 41534,
-   "club": "GOONU",
-   "twitch": "mdiym"
+   "rank": 388,
+   "name": "LuckyButcher#2761",
+   "delta": 142,
+   "rankScore": 42214,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 389,
+   "name": "MitchConnor#1339",
+   "delta": -588,
+   "rankScore": 42211,
+   "club": "AYNON",
+   "twitch": null
+  },
+  {
+   "rank": 395,
+   "name": "LyteTTV#5413",
+   "delta": -357,
+   "rankScore": 42183,
+   "club": "NTMR",
+   "twitch": null
+  },
+  {
+   "rank": 408,
+   "name": "JK#1818",
+   "delta": 891,
+   "rankScore": 42128,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 409,
+   "name": "CatOwner#7859",
+   "delta": 891,
+   "rankScore": 42128,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 410,
+   "name": "HisCat#7048",
+   "delta": 891,
+   "rankScore": 42128,
+   "club": "MORI",
+   "twitch": null
+  },
+  {
+   "rank": 425,
+   "name": "WangHZki#8147",
+   "delta": 207,
+   "rankScore": 42024,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 426,
+   "name": "Txlentless#0692",
+   "delta": -360,
+   "rankScore": 42022,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 434,
+   "name": "Sepstar#3539",
+   "delta": -496,
+   "rankScore": 41989,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 454,
+   "name": "F3_KindzTV#4564",
+   "delta": -600,
+   "rankScore": 41867,
+   "club": "BEAM",
+   "twitch": null
+  },
+  {
+   "rank": 455,
+   "name": "Gun#1069",
+   "delta": 625,
+   "rankScore": 41864,
+   "club": "SYRE",
+   "twitch": null
+  },
+  {
+   "rank": 456,
+   "name": "DREX0R#1294",
+   "delta": 990,
+   "rankScore": 41861,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 461,
+   "name": "Smear3#2938",
+   "delta": 840,
+   "rankScore": 41822,
+   "club": "47SUX",
+   "twitch": null
+  },
+  {
+   "rank": 468,
+   "name": "Moviex#0738",
+   "delta": 92,
+   "rankScore": 41705,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 487,
+   "name": "John_Gatling_Gun#8220",
+   "delta": -541,
+   "rankScore": 41594,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 500,
+   "name": "anti-cheat#0427",
+   "delta": 855,
+   "rankScore": 41538,
+   "club": "ADMIN",
+   "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-24T19:00:32Z",
-  "totalStreams": 293,
+  "checkedAt": "2026-10-24T19:10:33Z",
+  "totalStreams": 278,
   "rubyLive": [
    {
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[X100 DROPS] OPERATION: FEET. | Embark Partner | !wooting !lamzu",
-    "viewers": 698,
+    "viewers": 727,
     "startedAt": "2026-10-24T13:00:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
-    "rank": 21,
+    "rank": 20,
     "name": "lycommit#0621",
     "rankScore": 50223,
     "matchedBy": "name"
@@ -291,46 +667,46 @@
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) RANKED AUTOPILOT WITH @uni_ + @notbubbaa_",
-    "viewers": 90,
+    "viewers": 95,
     "startedAt": "2026-10-24T16:11:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
-    "rank": 25,
+    "rank": 22,
     "name": "Balise#2431",
-    "rankScore": 49741,
+    "rankScore": 50042,
     "matchedBy": "name"
    },
    {
     "login": "zuki",
     "displayName": "zuki",
     "title": "[new drops] NTMR Coach | playing ranked, i like smgs| Embark Creator | !coaching !mouse !sens !res !femboy",
-    "viewers": 60,
+    "viewers": 47,
     "startedAt": "2026-10-24T12:21:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
-    "rank": 34,
+    "rank": 33,
     "name": "zuki#8633",
-    "rankScore": 48893,
+    "rankScore": 49189,
     "matchedBy": "name"
    },
    {
     "login": "varieyn",
     "displayName": "varieyn",
     "title": "the early bird gets the worm #KCPWIN",
-    "viewers": 9,
+    "viewers": 10,
     "startedAt": "2026-10-24T17:07:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varieyn-{width}x{height}.jpg",
-    "rank": 36,
+    "rank": 35,
     "name": "varieyn#1933",
-    "rankScore": 48740,
+    "rankScore": 49039,
     "matchedBy": "name"
    },
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] #1 RUBY BFR  | 7th CIRCLE 3v3 TOURNEY DAY | jump scares for bits | THANK YOU GUYS FOR PARTNER PLUS 1/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 54,
+    "viewers": 56,
     "startedAt": "2026-10-24T15:59:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
-    "rank": 45,
+    "rank": 47,
     "name": "Bizzy#0005",
     "rankScore": 48161,
     "matchedBy": "name"
@@ -339,10 +715,10 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Tourney Today? sure (12x !DROPS) - !Coach - Embark Partner - VGG Coach",
-    "viewers": 58,
+    "viewers": 76,
     "startedAt": "2026-10-24T15:56:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
-    "rank": 67,
+    "rank": 68,
     "name": "Appoh#9173",
     "rankScore": 47264,
     "matchedBy": "name"
@@ -351,84 +727,60 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "SAISON 12 OUT | Ruby deagles",
-    "viewers": 10,
+    "viewers": 9,
     "startedAt": "2026-10-24T18:08:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
-    "rank": 79,
+    "rank": 72,
     "name": "SkreyDeen#2116",
-    "rankScore": 46544,
+    "rankScore": 47057,
     "matchedBy": "name"
    },
    {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "(DROP BOOST) S12 GAMING !! LETS GO // !vt // !sens",
-    "viewers": 12,
+    "viewers": 8,
     "startedAt": "2026-10-24T18:00:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
-    "rank": 161,
+    "rank": 127,
     "name": "TaeK#3289",
-    "rankScore": 44851,
-    "matchedBy": "name"
-   },
-   {
-    "login": "sly_mee",
-    "displayName": "sly_mee",
-    "title": "THE FINALS SEASON 12 TOP 20 RUBY RANKED!",
-    "viewers": 1,
-    "startedAt": "2026-10-24T17:14:43Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sly_mee-{width}x{height}.jpg",
-    "rank": 172,
-    "name": "Sly#1640",
-    "rankScore": 44776,
-    "matchedBy": "name"
-   },
-   {
-    "login": "wewantzenbutv",
-    "displayName": "WeWantZenbuTv",
-    "title": "Drop The Finals Cup 50€ cashprize Français",
-    "viewers": 3,
-    "startedAt": "2026-10-24T17:16:56Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wewantzenbutv-{width}x{height}.jpg",
-    "rank": 174,
-    "name": "WeWantZenbuTV#5891",
-    "rankScore": 44694,
-    "matchedBy": "name"
-   },
-   {
-    "login": "ilprune",
-    "displayName": "Ilprune",
-    "title": "The Finals RANKED - PETIT TOURNOI",
-    "viewers": 2,
-    "startedAt": "2026-10-24T17:42:49Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
-    "rank": 192,
-    "name": "Ilprune#5174",
-    "rankScore": 44325,
+    "rankScore": 45451,
     "matchedBy": "name"
    },
    {
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "AIM AND LOVE | DROP",
-    "viewers": 25,
+    "viewers": 33,
     "startedAt": "2026-10-24T18:18:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
-    "rank": 199,
+    "rank": 166,
     "name": "PacolemTTV#0439",
-    "rankScore": 44208,
+    "rankScore": 44835,
     "matchedBy": "name"
    },
    {
-    "login": "bobiduity",
-    "displayName": "bobiduity",
-    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 1,
-    "startedAt": "2026-10-24T14:53:31Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
-    "rank": 247,
-    "name": "bobiduity#2959",
-    "rankScore": 43618,
+    "login": "ilprune",
+    "displayName": "Ilprune",
+    "title": "The Finals RANKED - PETIT TOURNOI",
+    "viewers": 3,
+    "startedAt": "2026-10-24T17:42:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
+    "rank": 196,
+    "name": "Ilprune#5174",
+    "rankScore": 44325,
+    "matchedBy": "name"
+   },
+   {
+    "login": "mdiym",
+    "displayName": "mdiym",
+    "title": "[!drop] Solo Showdown come que snipe NA | !ad: 30s/1hr",
+    "viewers": 6,
+    "startedAt": "2026-10-24T12:19:15Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
+    "rank": 364,
+    "name": "mdiym#9757",
+    "rankScore": 42346,
     "matchedBy": "name"
    },
    {
@@ -438,21 +790,9 @@
     "viewers": 1,
     "startedAt": "2026-10-24T14:47:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
-    "rank": 490,
+    "rank": 495,
     "name": "def.nox#9033",
     "rankScore": 41548,
-    "matchedBy": "name"
-   },
-   {
-    "login": "mdiym",
-    "displayName": "mdiym",
-    "title": "[!drop] Solo Showdown come que snipe NA | !ad: 30s/1hr",
-    "viewers": 7,
-    "startedAt": "2026-10-24T12:19:15Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
-    "rank": 495,
-    "name": "mdiym#9757",
-    "rankScore": 41534,
     "matchedBy": "name"
    }
   ],
@@ -461,25 +801,17 @@
     "login": "bydame",
     "displayName": "ByDame",
     "title": "Ruby Ranked  | !gear new !montage !unc status",
-    "viewers": 6,
+    "viewers": 3,
     "startedAt": "2026-10-24T18:14:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bydame-{width}x{height}.jpg"
    },
    {
-    "login": "snusgangdk",
-    "displayName": "SnusGangDK",
-    "title": "NEW SEASON IN THE FINALS 🔥 The Road to Ruby Starts Now 💎 | Fresh Season – Fresh Grind!",
-    "viewers": 3,
-    "startedAt": "2026-10-24T17:43:18Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snusgangdk-{width}x{height}.jpg"
-   },
-   {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "light ruby / tourney !!!!!!!!",
-    "viewers": 2,
-    "startedAt": "2026-10-24T18:10:17Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
+    "login": "xenaxia",
+    "displayName": "xenaxia",
+    "title": "Ruby Grind Solo dolo LFT just trnna make it in this world",
+    "viewers": 1,
+    "startedAt": "2026-10-24T17:11:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xenaxia-{width}x{height}.jpg"
    },
    {
     "login": "egman39",
@@ -496,6 +828,14 @@
     "viewers": 1,
     "startedAt": "2026-10-24T18:29:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imissed_-{width}x{height}.jpg"
+   },
+   {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "light ruby / tourney !!!!!!!!",
+    "viewers": 1,
+    "startedAt": "2026-10-24T18:10:17Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
    }
   ]
  },
@@ -506,26 +846,26 @@
    "all": 3235
   },
   "rubyByRegion": {
-   "am": 161,
-   "eu": 156,
-   "ap": 56
+   "am": 159,
+   "eu": 157,
+   "ap": 57
   },
   "window": {
    "am": {
-    "ruby": 9,
-    "all": 68
+    "ruby": 20,
+    "all": 118
    },
    "eu": {
-    "ruby": 16,
-    "all": 164
+    "ruby": 39,
+    "all": 233
    },
    "ap": {
-    "ruby": 1,
-    "all": 11
+    "ruby": 3,
+    "all": 18
    },
    "unplaced": {
-    "ruby": 6,
-    "all": 265
+    "ruby": 17,
+    "all": 388
    }
   }
  },

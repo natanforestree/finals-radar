@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T09:50:30Z",
+ "generatedAt": "2026-10-25T10:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-25T09:34:47Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 20,
  "allActive": 264,
  "rubyShare": 0.0758,
- "steamPlayers": 12873,
+ "steamPlayers": 0,
  "rubyCutoff": 42170,
  "grinding": [
   {
@@ -176,9 +176,21 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-25T09:50:30Z",
-  "totalStreams": 112,
+  "checkedAt": "2026-10-25T10:00:31Z",
+  "totalStreams": 100,
   "rubyLive": [
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "[99xDROPS] RANK #1 GRIND + Giveaways! │!coaching !youtube !discord",
+    "viewers": 17,
+    "startedAt": "2026-10-25T09:51:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 3,
+    "name": "perzzonTTV#5485",
+    "rankScore": 55065,
+    "matchedBy": "name"
+   },
    {
     "login": "yangdoun",
     "displayName": "yangdoun",
@@ -197,7 +209,7 @@
     "login": "iri_ttv",
     "displayName": "iri_TTV",
     "title": "S12 THE FINALS ONLY RUBY M60 RANKED | NEW HANDCAM | #VGGWINS | NEW CHANNEL REWARDS | DROPPSSSSSSSS",
-    "viewers": 13,
+    "viewers": 42,
     "startedAt": "2026-10-25T06:36:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_iri_ttv-{width}x{height}.jpg"
    },
@@ -205,7 +217,7 @@
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "gooners ranked RN!!!!//team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 10,
+    "viewers": 12,
     "startedAt": "2026-10-25T08:26:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg"
    },
@@ -218,20 +230,20 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bydame-{width}x{height}.jpg"
    },
    {
-    "login": "nyxency1",
-    "displayName": "nyxency1",
-    "title": "Grinding Ruby Ranked S12, Ended Rank: 638 S11",
-    "viewers": 2,
-    "startedAt": "2026-10-25T06:50:30Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nyxency1-{width}x{height}.jpg"
-   },
-   {
     "login": "incgii",
     "displayName": "incgii",
     "title": "light ruby / rankedddd !!!!!!!!",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-25T08:42:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
+   },
+   {
+    "login": "nyxency1",
+    "displayName": "nyxency1",
+    "title": "Grinding Ruby Ranked S12, Ended Rank: 638 S11",
+    "viewers": 1,
+    "startedAt": "2026-10-25T06:50:30Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nyxency1-{width}x{height}.jpg"
    }
   ]
  },

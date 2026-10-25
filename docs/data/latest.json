@@ -1,106 +1,142 @@
 {
- "generatedAt": "2026-10-25T11:30:31Z",
+ "generatedAt": "2026-10-25T11:40:31Z",
  "season": "s12",
- "leaderboardUpdatedAt": "2026-10-25T11:18:17Z",
+ "leaderboardUpdatedAt": "2026-10-25T11:34:25Z",
  "window": {
-  "from": "2026-10-25T11:08:19Z",
-  "to": "2026-10-25T11:18:17Z",
-  "minutes": 10.0
+  "from": "2026-10-25T11:18:17Z",
+  "to": "2026-10-25T11:34:25Z",
+  "minutes": 16.1
  },
- "rubyActive": 9,
- "allActive": 165,
- "rubyShare": 0.0545,
- "steamPlayers": 16005,
+ "rubyActive": 12,
+ "allActive": 241,
+ "rubyShare": 0.0498,
+ "steamPlayers": 16188,
  "rubyCutoff": 42179,
  "grinding": [
   {
-   "rank": 1,
-   "name": "LuiHuncho#3649",
-   "delta": 143,
-   "rankScore": 56961,
-   "club": "NFNIT",
+   "rank": 32,
+   "name": "Avion#8636",
+   "delta": 278,
+   "rankScore": 49917,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 3,
-   "name": "perzzonTTV#5485",
-   "delta": 169,
-   "rankScore": 55406,
-   "club": "PRZN",
-   "twitch": "perzzon"
-  },
-  {
-   "rank": 4,
-   "name": "carnifex#7330",
-   "delta": 189,
-   "rankScore": 54310,
-   "club": "5F",
+   "rank": 64,
+   "name": "Berrence#2323",
+   "delta": 319,
+   "rankScore": 48205,
+   "club": "RS1",
    "twitch": null
   },
   {
-   "rank": 43,
-   "name": "GlebKost#5943",
-   "delta": 343,
-   "rankScore": 49191,
+   "rank": 80,
+   "name": "alli#1120",
+   "delta": 236,
+   "rankScore": 47494,
+   "club": "AVOW",
+   "twitch": null
+  },
+  {
+   "rank": 119,
+   "name": "xExotiic#2893",
+   "delta": 354,
+   "rankScore": 46351,
+   "club": "ALL",
+   "twitch": null
+  },
+  {
+   "rank": 126,
+   "name": "frzst#1365",
+   "delta": 258,
+   "rankScore": 46257,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 271,
-   "name": "i_hate_this_game#8526",
-   "delta": -759,
-   "rankScore": 43979,
+   "rank": 176,
+   "name": "m7trf#7747",
+   "delta": 651,
+   "rankScore": 45108,
+   "club": "D0GA",
+   "twitch": null
+  },
+  {
+   "rank": 181,
+   "name": "LTU#0349",
+   "delta": 652,
+   "rankScore": 45073,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 323,
-   "name": "bunny#6343",
-   "delta": 520,
-   "rankScore": 43440,
-   "club": "PL00B",
+   "rank": 182,
+   "name": "Pesku#4633",
+   "delta": 280,
+   "rankScore": 45048,
+   "club": "UEFA",
    "twitch": null
   },
   {
-   "rank": 341,
-   "name": "MommyCarry#6642",
-   "delta": 526,
-   "rankScore": 43276,
+   "rank": 219,
+   "name": "TTV_Jumparau#0323",
+   "delta": 798,
+   "rankScore": 44584,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 432,
-   "name": "Wolfx#2026",
-   "delta": 199,
-   "rankScore": 42592,
-   "club": "2OOMS",
+   "rank": 247,
+   "name": "Papercutz99#0736",
+   "delta": 110,
+   "rankScore": 44188,
+   "club": "MORI",
    "twitch": null
   },
   {
-   "rank": 453,
-   "name": "Police#6947",
-   "delta": 200,
-   "rankScore": 42457,
-   "club": null,
+   "rank": 311,
+   "name": "Pancake#3168",
+   "delta": -66,
+   "rankScore": 43558,
+   "club": "USTAL",
+   "twitch": null
+  },
+  {
+   "rank": 358,
+   "name": "Snafu#3644",
+   "delta": 458,
+   "rankScore": 43095,
+   "club": "RS1",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-25T11:30:31Z",
-  "totalStreams": 106,
+  "checkedAt": "2026-10-25T11:40:31Z",
+  "totalStreams": 109,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND + Giveaways! │!coaching !youtube !discord",
-    "viewers": 79,
+    "viewers": 94,
     "startedAt": "2026-10-25T09:51:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 3,
     "name": "perzzonTTV#5485",
     "rankScore": 55406,
+    "matchedBy": "name"
+   },
+   {
+    "login": "taekfps",
+    "displayName": "TaeKfps",
+    "title": "(DROP BOOST) FEL DAY 2 // !vt // !sens",
+    "viewers": 4,
+    "startedAt": "2026-10-25T11:37:17Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
+    "rank": 251,
+    "name": "TaeK#3289",
+    "rankScore": 44151,
     "matchedBy": "name"
    }
   ],
@@ -109,9 +145,17 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "light ruby / rankedddd !!!!!!!!",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-10-25T08:42:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
+   },
+   {
+    "login": "itzvuqx",
+    "displayName": "itzvuqx",
+    "title": "FEL tourney RN!!!!!!!!!! //team HEIMING // ruby // top 5 engimo // scrims // strong men",
+    "viewers": 1,
+    "startedAt": "2026-10-25T11:32:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg"
    }
   ]
  },
@@ -119,7 +163,7 @@
   "ready": true,
   "placed": {
    "ruby": 382,
-   "all": 3615
+   "all": 3617
   },
   "rubyByRegion": {
    "am": 164,
@@ -128,20 +172,20 @@
   },
   "window": {
    "am": {
-    "ruby": 2,
+    "ruby": 0,
     "all": 8
    },
    "eu": {
-    "ruby": 3,
-    "all": 42
+    "ruby": 7,
+    "all": 68
    },
    "ap": {
-    "ruby": 3,
-    "all": 45
+    "ruby": 1,
+    "all": 49
    },
    "unplaced": {
-    "ruby": 1,
-    "all": 70
+    "ruby": 4,
+    "all": 116
    }
   }
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T08:50:30Z",
+ "generatedAt": "2026-10-25T09:00:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-25T08:40:04Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 26,
  "allActive": 303,
  "rubyShare": 0.0858,
- "steamPlayers": 12391,
+ "steamPlayers": 12532,
  "rubyCutoff": 42025,
  "grinding": [
   {
@@ -59,7 +59,7 @@
    "delta": 317,
    "rankScore": 45943,
    "club": "DIGA",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 130,
@@ -224,46 +224,33 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-25T08:50:30Z",
-  "totalStreams": 125,
-  "rubyLive": [
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "7th Circle x NexusHorizonE Tournament winner",
-    "viewers": 201,
-    "startedAt": "2026-10-25T03:40:08Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 120,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 45943,
-    "matchedBy": "name"
-   }
-  ],
+  "checkedAt": "2026-10-25T09:00:32Z",
+  "totalStreams": 119,
+  "rubyLive": [],
   "titleMentions": [
    {
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "gooners ranked RN!!!!//team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 4,
+    "viewers": 7,
     "startedAt": "2026-10-25T08:26:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg"
-   },
-   {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "light ruby / rankedddd !!!!!!!!",
-    "viewers": 2,
-    "startedAt": "2026-10-25T08:42:49Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
    },
    {
     "login": "nyxency1",
     "displayName": "nyxency1",
     "title": "Grinding Ruby Ranked S12, Ended Rank: 638 S11",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-25T06:50:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nyxency1-{width}x{height}.jpg"
+   },
+   {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "light ruby / rankedddd !!!!!!!!",
+    "viewers": 1,
+    "startedAt": "2026-10-25T08:42:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
    },
    {
     "login": "bydame",

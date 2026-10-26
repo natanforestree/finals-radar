@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T23:10:31Z",
+ "generatedAt": "2026-10-26T23:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-26T22:50:06Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 71,
  "allActive": 736,
  "rubyShare": 0.0965,
- "steamPlayers": 22158,
+ "steamPlayers": 21922,
  "rubyCutoff": 42878,
  "grinding": [
   {
@@ -584,14 +584,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-26T23:10:31Z",
-  "totalStreams": 270,
+  "checkedAt": "2026-10-26T23:20:32Z",
+  "totalStreams": 257,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) RANKED SNOOZE | CONTRACT FARMING | ELEVATE IN SWEDEN",
-    "viewers": 206,
+    "viewers": 176,
     "startedAt": "2026-10-26T16:15:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 21,
@@ -603,7 +603,7 @@
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "NEW SEASON IS HERE!!!!!",
-    "viewers": 13,
+    "viewers": 7,
     "startedAt": "2026-10-26T22:22:16Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 58,
@@ -638,10 +638,26 @@
   ],
   "titleMentions": [
    {
+    "login": "mrllamacr",
+    "displayName": "mrllamacr",
+    "title": "AVENGERS RUBY GRIND (short stream 2day)",
+    "viewers": 35,
+    "startedAt": "2026-10-26T23:08:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrllamacr-{width}x{height}.jpg"
+   },
+   {
+    "login": "luiboolin",
+    "displayName": "luiboolin",
+    "title": "THE RUBY GRIND BEGINS  - !discord !donate !merch",
+    "viewers": 7,
+    "startedAt": "2026-10-26T22:55:54Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_luiboolin-{width}x{height}.jpg"
+   },
+   {
     "login": "bydame",
     "displayName": "ByDame",
     "title": "Ruby Ranked  | !gear new !montage !unc status",
-    "viewers": 9,
+    "viewers": 7,
     "startedAt": "2026-10-26T22:23:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bydame-{width}x{height}.jpg"
    },
@@ -649,17 +665,17 @@
     "login": "v8_karma",
     "displayName": "V8_Karma",
     "title": "Pointbreak | Ruby S3 | PC | ITA",
-    "viewers": 2,
+    "viewers": 4,
     "startedAt": "2026-10-26T20:59:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    },
    {
-    "login": "dxnor6s",
-    "displayName": "DxnoR6s",
-    "title": "day 7 from my Road To Ruby/ The Finals ranked Grind",
-    "viewers": 2,
-    "startedAt": "2026-10-26T19:23:36Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dxnor6s-{width}x{height}.jpg"
+    "login": "v8_karma",
+    "displayName": "V8_Karma",
+    "title": "Pointbreak | Ruby S3 | PC | ITA",
+    "viewers": 4,
+    "startedAt": "2026-10-26T20:59:09Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
    },
    {
     "login": "progamerdx1",
@@ -684,6 +700,14 @@
     "viewers": 1,
     "startedAt": "2026-10-26T22:20:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skizziep-{width}x{height}.jpg"
+   },
+   {
+    "login": "dxnor6s",
+    "displayName": "DxnoR6s",
+    "title": "day 7 from my Road To Ruby/ The Finals ranked Grind",
+    "viewers": 1,
+    "startedAt": "2026-10-26T19:23:36Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dxnor6s-{width}x{height}.jpg"
    },
    {
     "login": "fysxfps",
@@ -725,5 +749,5 @@
    }
   }
  },
- "source": "embark"
+ "source": "community"
 }

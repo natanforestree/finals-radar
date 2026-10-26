@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T12:10:31Z",
+ "generatedAt": "2026-10-26T12:20:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-26T12:08:38Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 29,
  "allActive": 251,
  "rubyShare": 0.1155,
- "steamPlayers": 11758,
+ "steamPlayers": 11991,
  "rubyCutoff": 42620,
  "grinding": [
   {
@@ -248,19 +248,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-26T12:10:31Z",
-  "totalStreams": 88,
+  "checkedAt": "2026-10-26T12:20:31Z",
+  "totalStreams": 93,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 116,
+    "viewers": 120,
     "startedAt": "2026-10-26T09:24:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
     "name": "perzzonTTV#5485",
     "rankScore": 56435,
+    "matchedBy": "name"
+   },
+   {
+    "login": "naghostx6",
+    "displayName": "NAGHOSTX6",
+    "title": "chat gpt claude aimer game",
+    "viewers": 17,
+    "startedAt": "2026-10-26T12:10:21Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
+    "rank": 58,
+    "name": "NAGHOSTX6#0212",
+    "rankScore": 49217,
     "matchedBy": "name"
    },
    {
@@ -279,12 +291,24 @@
     "login": "mdiym",
     "displayName": "mdiym",
     "title": "[!drop] gaming | !ad: 30s/1hr",
-    "viewers": 8,
+    "viewers": 11,
     "startedAt": "2026-10-26T11:47:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
     "rank": 270,
     "name": "mdiym#9757",
     "rankScore": 44720,
+    "matchedBy": "name"
+   },
+   {
+    "login": "taekfps",
+    "displayName": "TaeKfps",
+    "title": "(DROP BOOST) S12 gaming // !vt // !sens",
+    "viewers": 2,
+    "startedAt": "2026-10-26T12:15:41Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
+    "rank": 319,
+    "name": "TaeK#3289",
+    "rankScore": 44151,
     "matchedBy": "name"
    }
   ],

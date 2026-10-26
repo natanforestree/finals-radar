@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T11:10:32Z",
+ "generatedAt": "2026-10-26T11:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-26T11:07:11Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 34,
  "allActive": 240,
  "rubyShare": 0.1417,
- "steamPlayers": 10680,
+ "steamPlayers": 10743,
  "rubyCutoff": 42620,
  "grinding": [
   {
@@ -187,7 +187,7 @@
    "delta": -474,
    "rankScore": 44485,
    "club": "DIGA",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 300,
@@ -288,31 +288,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-26T11:10:32Z",
-  "totalStreams": 79,
+  "checkedAt": "2026-10-26T11:20:32Z",
+  "totalStreams": 73,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 82,
+    "viewers": 115,
     "startedAt": "2026-10-26T09:24:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
     "name": "perzzonTTV#5485",
     "rankScore": 56345,
-    "matchedBy": "name"
-   },
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] SOLO Q RUBY GUIDE",
-    "viewers": 53,
-    "startedAt": "2026-10-26T04:37:05Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 287,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 44485,
     "matchedBy": "name"
    }
   ],

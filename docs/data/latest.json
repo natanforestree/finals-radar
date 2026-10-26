@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-26T11:50:32Z",
+ "generatedAt": "2026-10-26T12:00:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-26T11:38:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 22,
  "allActive": 141,
  "rubyShare": 0.156,
- "steamPlayers": 11358,
+ "steamPlayers": 11758,
  "rubyCutoff": 42622,
  "grinding": [
   {
@@ -192,19 +192,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-26T11:50:32Z",
-  "totalStreams": 81,
+  "checkedAt": "2026-10-26T12:00:32Z",
+  "totalStreams": 85,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 100,
+    "viewers": 106,
     "startedAt": "2026-10-26T09:24:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
     "name": "perzzonTTV#5485",
     "rankScore": 56496,
+    "matchedBy": "name"
+   },
+   {
+    "login": "mdiym",
+    "displayName": "mdiym",
+    "title": "[!drop] gaming | !ad: 30s/1hr",
+    "viewers": 5,
+    "startedAt": "2026-10-26T11:47:27Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
+    "rank": 271,
+    "name": "mdiym#9757",
+    "rankScore": 44720,
     "matchedBy": "name"
    }
   ],

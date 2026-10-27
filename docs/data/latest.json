@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-27T22:10:32Z",
+ "generatedAt": "2026-10-27T22:20:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-27T21:50:17Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 77,
  "allActive": 712,
  "rubyShare": 0.1081,
- "steamPlayers": 23849,
+ "steamPlayers": 22554,
  "rubyCutoff": 43270,
  "grinding": [
   {
@@ -347,7 +347,7 @@
    "delta": 317,
    "rankScore": 45385,
    "club": "TMATO",
-   "twitch": "matotm"
+   "twitch": null
   },
   {
    "rank": 271,
@@ -632,14 +632,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-27T22:10:32Z",
-  "totalStreams": 254,
+  "checkedAt": "2026-10-27T22:20:33Z",
+  "totalStreams": 253,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) RANKED SNOOZE | CONTRACT FARMING | ELEVATE vs PULSAR SCRIM",
-    "viewers": 109,
+    "viewers": 113,
     "startedAt": "2026-10-27T17:16:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 35,
@@ -651,7 +651,7 @@
     "login": "lamp",
     "displayName": "lamp",
     "title": "(drops) refreshed and in good spirits #VerseClipContest !contest !youtube | lampischiller lampisLuminon",
-    "viewers": 249,
+    "viewers": 195,
     "startedAt": "2026-10-27T19:55:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
     "rank": 73,
@@ -663,24 +663,12 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Orange barrel lover",
-    "viewers": 8,
+    "viewers": 9,
     "startedAt": "2026-10-27T20:31:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 95,
     "name": "SkreyDeen#2116",
     "rankScore": 48818,
-    "matchedBy": "name"
-   },
-   {
-    "login": "matotm",
-    "displayName": "MatoTM",
-    "title": "We Need a New Rank Above Diamond",
-    "viewers": 15,
-    "startedAt": "2026-10-27T18:05:15Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
-    "rank": 264,
-    "name": "MatoTM#7141",
-    "rankScore": 45385,
     "matchedBy": "name"
    },
    {
@@ -710,44 +698,20 @@
   ],
   "titleMentions": [
    {
-    "login": "luiboolin",
-    "displayName": "luiboolin",
-    "title": "THE RUBY GRIND BEGINS  - !discord !donate !merch",
-    "viewers": 11,
-    "startedAt": "2026-10-27T21:01:28Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_luiboolin-{width}x{height}.jpg"
-   },
-   {
-    "login": "demon_ax",
-    "displayName": "demon_ax",
-    "title": "getting ruby TONIGHT",
-    "viewers": 8,
-    "startedAt": "2026-10-27T20:12:59Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_demon_ax-{width}x{height}.jpg"
-   },
-   {
-    "login": "imissed_",
-    "displayName": "iMissed_",
-    "title": "NEW SEASON, FRESH RANKS, SAME DEMON | ROAD TO RUBY",
-    "viewers": 2,
-    "startedAt": "2026-10-27T22:05:45Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_imissed_-{width}x{height}.jpg"
-   },
-   {
-    "login": "v8_karma",
-    "displayName": "V8_Karma",
-    "title": "Pointbreak | Ruby S3 | PC | ITA",
-    "viewers": 1,
-    "startedAt": "2026-10-27T20:31:00Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
-   },
-   {
     "login": "pedross",
     "displayName": "Pedross",
     "title": "SEASON 12 [CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
-    "viewers": 1,
+    "viewers": 26,
     "startedAt": "2026-10-27T17:17:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
+   },
+   {
+    "login": "luiboolin",
+    "displayName": "luiboolin",
+    "title": "THE RUBY GRIND BEGINS  - !discord !donate !merch",
+    "viewers": 13,
+    "startedAt": "2026-10-27T21:01:28Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_luiboolin-{width}x{height}.jpg"
    },
    {
     "login": "progamerdx1",
@@ -764,14 +728,6 @@
     "viewers": 1,
     "startedAt": "2026-10-27T14:26:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
-   },
-   {
-    "login": "xenaxia",
-    "displayName": "xenaxia",
-    "title": "LFT trnna get ruby lf Heavy and Medium Mains",
-    "viewers": 0,
-    "startedAt": "2026-10-27T20:29:24Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xenaxia-{width}x{height}.jpg"
    }
   ]
  },

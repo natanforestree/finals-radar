@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T14:00:33Z",
+ "generatedAt": "2026-10-28T14:10:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-28T13:50:34Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 333,
  "rubyShare": 0.1051,
- "steamPlayers": 14556,
+ "steamPlayers": 14757,
  "rubyCutoff": 43418,
  "grinding": [
   {
@@ -259,7 +259,7 @@
    "delta": 408,
    "rankScore": 44812,
    "club": "APES",
-   "twitch": "yangdoun"
+   "twitch": null
   },
   {
    "rank": 370,
@@ -296,14 +296,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-28T14:00:33Z",
-  "totalStreams": 121,
+  "checkedAt": "2026-10-28T14:10:33Z",
+  "totalStreams": 135,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 97,
+    "viewers": 87,
     "startedAt": "2026-10-28T09:55:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -315,7 +315,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[X100 DROPS] HIT 50K FOLLOWERS TY ALL <3 | Embark Partner | !wooting !lamzu",
-    "viewers": 261,
+    "viewers": 267,
     "startedAt": "2026-10-28T13:02:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 62,
@@ -327,7 +327,7 @@
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] s12 Rankage | Slothy Waiting Room is back | CEO of OCE | !discord !commands",
-    "viewers": 12,
+    "viewers": 11,
     "startedAt": "2026-10-28T09:48:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 70,
@@ -339,28 +339,25 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "(DROP BOOST) S12 Ranked // !vt // !sens",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-10-28T12:29:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 169,
     "name": "TaeK#3289",
     "rankScore": 46987,
     "matchedBy": "name"
-   },
-   {
-    "login": "yangdoun",
-    "displayName": "yangdoun",
-    "title": "Brr, It's Cold! Scrims & Ranked | Korean | APE SQUAD | RANKED",
-    "viewers": 5,
-    "startedAt": "2026-10-28T09:51:13Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 329,
-    "name": "YangDoun#0398",
-    "rankScore": 44812,
-    "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 0,
+    "startedAt": "2026-10-28T14:08:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T02:50:33Z",
+ "generatedAt": "2026-10-29T03:00:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-29T02:34:47Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 49,
  "allActive": 515,
  "rubyShare": 0.0951,
- "steamPlayers": 19415,
+ "steamPlayers": 19049,
  "rubyCutoff": 43593,
  "grinding": [
   {
@@ -299,7 +299,7 @@
    "delta": -160,
    "rankScore": 45135,
    "club": "APES",
-   "twitch": "def_noxttv"
+   "twitch": null
   },
   {
    "rank": 316,
@@ -408,9 +408,21 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-29T02:50:33Z",
-  "totalStreams": 283,
+  "checkedAt": "2026-10-29T03:00:32Z",
+  "totalStreams": 278,
   "rubyLive": [
+   {
+    "login": "normalize",
+    "displayName": "normalize",
+    "title": "!DROPS | RANKED WITH STEW & JUKER | #VerseClipContest | !discord !sens !Contest",
+    "viewers": 2,
+    "startedAt": "2026-10-29T02:59:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
+    "rank": 46,
+    "name": "normalize#0130",
+    "rankScore": 51726,
+    "matchedBy": "name"
+   },
    {
     "login": "kruhashere",
     "displayName": "kruhashere",
@@ -424,22 +436,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "def_noxttv",
-    "displayName": "def_noxTTV",
-    "title": "PUGS!?!?!?! ---> Ranked | Team Limitless (DROPS)",
-    "viewers": 3,
-    "startedAt": "2026-10-28T21:41:52Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
-    "rank": 315,
-    "name": "def.nox#9033",
-    "rankScore": 45135,
-    "matchedBy": "name"
-   },
-   {
     "login": "detaail",
     "displayName": "DeTaaiL",
     "title": "Life. Mid Ruby Player Ranked",
-    "viewers": 10,
+    "viewers": 22,
     "startedAt": "2026-10-28T23:54:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_detaail-{width}x{height}.jpg",
     "rank": 390,
@@ -465,7 +465,7 @@
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-29T00:51:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
    }

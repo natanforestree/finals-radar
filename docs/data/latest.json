@@ -1,69 +1,28 @@
 {
- "generatedAt": "2026-10-29T11:40:32Z",
+ "generatedAt": "2026-10-29T11:50:31Z",
  "season": "s12",
- "leaderboardUpdatedAt": "2026-10-29T11:29:30Z",
+ "leaderboardUpdatedAt": "2026-10-29T11:45:06Z",
  "window": {
-  "from": "2026-10-29T11:14:25Z",
-  "to": "2026-10-29T11:29:30Z",
-  "minutes": 15.1
+  "from": "2026-10-29T11:29:30Z",
+  "to": "2026-10-29T11:45:06Z",
+  "minutes": 15.6
  },
- "rubyActive": 5,
- "allActive": 35,
- "rubyShare": 0.1429,
- "steamPlayers": 8979,
+ "rubyActive": 0,
+ "allActive": 38,
+ "rubyShare": 0.0,
+ "steamPlayers": 9288,
  "rubyCutoff": 43738,
- "grinding": [
-  {
-   "rank": 18,
-   "name": "Foxtrody#0716",
-   "delta": 175,
-   "rankScore": 55048,
-   "club": "DRG",
-   "twitch": null
-  },
-  {
-   "rank": 69,
-   "name": "JonisMnkYT#3414",
-   "delta": 256,
-   "rankScore": 50961,
-   "club": "RQUIT",
-   "twitch": null
-  },
-  {
-   "rank": 259,
-   "name": "Ojje#4485",
-   "delta": 374,
-   "rankScore": 46017,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 295,
-   "name": "YECHAN#0352",
-   "delta": -690,
-   "rankScore": 45590,
-   "club": "MTHRY",
-   "twitch": null
-  },
-  {
-   "rank": 314,
-   "name": "KimChokko#0312",
-   "delta": -704,
-   "rankScore": 45295,
-   "club": "NARAE",
-   "twitch": null
-  }
- ],
+ "grinding": [],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-29T11:40:32Z",
-  "totalStreams": 69,
+  "checkedAt": "2026-10-29T11:50:31Z",
+  "totalStreams": 64,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 124,
+    "viewers": 118,
     "startedAt": "2026-10-29T07:15:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 3,
@@ -87,7 +46,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Back to Normal Life ' `| Korean | APE SQUAD | RANKED",
-    "viewers": 6,
+    "viewers": 5,
     "startedAt": "2026-10-29T10:30:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 326,
@@ -102,7 +61,7 @@
   "ready": true,
   "placed": {
    "ruby": 411,
-   "all": 4572
+   "all": 4573
   },
   "rubyByRegion": {
    "am": 185,
@@ -112,19 +71,19 @@
   "window": {
    "am": {
     "ruby": 0,
-    "all": 2
+    "all": 1
    },
    "eu": {
-    "ruby": 4,
-    "all": 13
+    "ruby": 0,
+    "all": 8
    },
    "ap": {
-    "ruby": 1,
-    "all": 10
+    "ruby": 0,
+    "all": 16
    },
    "unplaced": {
     "ruby": 0,
-    "all": 10
+    "all": 13
    }
   }
  },

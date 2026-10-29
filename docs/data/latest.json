@@ -1,28 +1,173 @@
 {
- "generatedAt": "2026-10-29T12:00:31Z",
+ "generatedAt": "2026-10-29T12:10:32Z",
  "season": "s12",
- "leaderboardUpdatedAt": "2026-10-29T11:45:06Z",
+ "leaderboardUpdatedAt": "2026-10-29T12:03:30Z",
  "window": {
-  "from": "2026-10-29T11:29:30Z",
-  "to": "2026-10-29T11:45:06Z",
-  "minutes": 15.6
+  "from": "2026-10-29T11:45:06Z",
+  "to": "2026-10-29T12:03:30Z",
+  "minutes": 18.4
  },
- "rubyActive": 0,
- "allActive": 38,
- "rubyShare": 0.0,
- "steamPlayers": 9698,
+ "rubyActive": 18,
+ "allActive": 151,
+ "rubyShare": 0.1192,
+ "steamPlayers": 10304,
  "rubyCutoff": 43738,
- "grinding": [],
+ "grinding": [
+  {
+   "rank": 17,
+   "name": "Avion#8636",
+   "delta": -69,
+   "rankScore": 55251,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 18,
+   "name": "Foxtrody#0716",
+   "delta": -71,
+   "rankScore": 54977,
+   "club": "DRG",
+   "twitch": null
+  },
+  {
+   "rank": 21,
+   "name": "GodofdreamsYh#5990",
+   "delta": 183,
+   "rankScore": 54623,
+   "club": "SEITN",
+   "twitch": null
+  },
+  {
+   "rank": 45,
+   "name": "LP#8593",
+   "delta": -91,
+   "rankScore": 52264,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 71,
+   "name": "JonisMnkYT#3414",
+   "delta": -104,
+   "rankScore": 50857,
+   "club": "RQUIT",
+   "twitch": null
+  },
+  {
+   "rank": 102,
+   "name": "FLUFFYHD#0858",
+   "delta": -114,
+   "rankScore": 49645,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 110,
+   "name": "KovaaksOnRoller#0944",
+   "delta": -116,
+   "rankScore": 49383,
+   "club": "T400",
+   "twitch": null
+  },
+  {
+   "rank": 127,
+   "name": "Snafu#3644",
+   "delta": -122,
+   "rankScore": 48762,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 128,
+   "name": "Berrence#2323",
+   "delta": -124,
+   "rankScore": 48584,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 171,
+   "name": "Agan#2391",
+   "delta": 339,
+   "rankScore": 47420,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 175,
+   "name": "gucci#0627",
+   "delta": 468,
+   "rankScore": 47268,
+   "club": "YN",
+   "twitch": null
+  },
+  {
+   "rank": 188,
+   "name": "xD0m#6014",
+   "delta": -145,
+   "rankScore": 47146,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 226,
+   "name": "Kalova#3992",
+   "delta": 352,
+   "rankScore": 46450,
+   "club": "XRP2",
+   "twitch": null
+  },
+  {
+   "rank": 236,
+   "name": "GothMommy#1359",
+   "delta": 603,
+   "rankScore": 46344,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 237,
+   "name": "Lovak#8698",
+   "delta": 355,
+   "rankScore": 46331,
+   "club": "777KG",
+   "twitch": null
+  },
+  {
+   "rank": 271,
+   "name": "Ojje#4485",
+   "delta": -149,
+   "rankScore": 45868,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 329,
+   "name": "YangDoun#0398",
+   "delta": -77,
+   "rankScore": 45131,
+   "club": "APES",
+   "twitch": "yangdoun"
+  },
+  {
+   "rank": 477,
+   "name": "RolliePollie#0844",
+   "delta": 826,
+   "rankScore": 43988,
+   "club": "NUMB",
+   "twitch": null
+  }
+ ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-29T12:00:31Z",
-  "totalStreams": 67,
+  "checkedAt": "2026-10-29T12:10:32Z",
+  "totalStreams": 71,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 125,
+    "viewers": 116,
     "startedAt": "2026-10-29T07:15:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 3,
@@ -34,7 +179,7 @@
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] s12 Rankage | Slothy Waiting Room is back | CEO of OCE | !discord !commands",
-    "viewers": 17,
+    "viewers": 16,
     "startedAt": "2026-10-29T09:41:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 47,
@@ -43,15 +188,27 @@
     "matchedBy": "name"
    },
    {
+    "login": "naghostx6",
+    "displayName": "NAGHOSTX6",
+    "title": "chat gpt claude aimer game > scrim 6PM (sickagain)",
+    "viewers": 26,
+    "startedAt": "2026-10-29T11:59:09Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
+    "rank": 76,
+    "name": "NAGHOSTX6#0212",
+    "rankScore": 50725,
+    "matchedBy": "name"
+   },
+   {
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Back to Normal Life ' `| Korean | APE SQUAD | RANKED",
-    "viewers": 7,
+    "viewers": 4,
     "startedAt": "2026-10-29T10:30:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 326,
+    "rank": 329,
     "name": "YangDoun#0398",
-    "rankScore": 45208,
+    "rankScore": 45131,
     "matchedBy": "name"
    }
   ],
@@ -60,30 +217,30 @@
  "regions": {
   "ready": true,
   "placed": {
-   "ruby": 411,
-   "all": 4573
+   "ruby": 410,
+   "all": 4575
   },
   "rubyByRegion": {
-   "am": 185,
+   "am": 184,
    "eu": 162,
    "ap": 64
   },
   "window": {
    "am": {
-    "ruby": 0,
-    "all": 1
+    "ruby": 2,
+    "all": 6
    },
    "eu": {
-    "ruby": 0,
-    "all": 8
+    "ruby": 5,
+    "all": 37
    },
    "ap": {
-    "ruby": 0,
-    "all": 16
+    "ruby": 7,
+    "all": 56
    },
    "unplaced": {
-    "ruby": 0,
-    "all": 13
+    "ruby": 4,
+    "all": 52
    }
   }
  },

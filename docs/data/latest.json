@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T02:40:31Z",
+ "generatedAt": "2026-10-29T02:50:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-29T02:34:47Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 49,
  "allActive": 515,
  "rubyShare": 0.0951,
- "steamPlayers": 19695,
+ "steamPlayers": 19415,
  "rubyCutoff": 43593,
  "grinding": [
   {
@@ -408,21 +408,9 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-29T02:40:31Z",
-  "totalStreams": 278,
+  "checkedAt": "2026-10-29T02:50:33Z",
+  "totalStreams": 283,
   "rubyLive": [
-   {
-    "login": "appoh",
-    "displayName": "Appoh",
-    "title": "Trying New !Keychron Mouse/keyboard - Cashout Chillin' (12x !DROPS) - !Coach - Embark Partner - VGG Coach",
-    "viewers": 225,
-    "startedAt": "2026-10-28T23:36:26Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
-    "rank": 149,
-    "name": "Appoh#9173",
-    "rankScore": 47783,
-    "matchedBy": "name"
-   },
    {
     "login": "kruhashere",
     "displayName": "kruhashere",
@@ -439,7 +427,7 @@
     "login": "def_noxttv",
     "displayName": "def_noxTTV",
     "title": "PUGS!?!?!?! ---> Ranked | Team Limitless (DROPS)",
-    "viewers": 1,
+    "viewers": 3,
     "startedAt": "2026-10-28T21:41:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
     "rank": 315,
@@ -451,12 +439,24 @@
     "login": "detaail",
     "displayName": "DeTaaiL",
     "title": "Life. Mid Ruby Player Ranked",
-    "viewers": 9,
+    "viewers": 10,
     "startedAt": "2026-10-28T23:54:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_detaail-{width}x{height}.jpg",
     "rank": 390,
     "name": "DeTaaiL#7503",
     "rankScore": 44465,
+    "matchedBy": "name"
+   },
+   {
+    "login": "prezzttv",
+    "displayName": "Prezzttv",
+    "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
+    "viewers": 1,
+    "startedAt": "2026-10-29T02:46:37Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
+    "rank": 404,
+    "name": "PrezzTTV#5132",
+    "rankScore": 44321,
     "matchedBy": "name"
    }
   ],
@@ -465,7 +465,7 @@
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-10-29T00:51:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
    }

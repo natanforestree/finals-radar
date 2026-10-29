@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T16:10:32Z",
+ "generatedAt": "2026-10-29T16:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-29T16:09:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 51,
  "allActive": 397,
  "rubyShare": 0.1285,
- "steamPlayers": 16422,
+ "steamPlayers": 16548,
  "rubyCutoff": 43857,
  "grinding": [
   {
@@ -35,7 +35,7 @@
    "delta": -27,
    "rankScore": 58816,
    "club": "PRZN",
-   "twitch": "perzzon"
+   "twitch": null
   },
   {
    "rank": 4,
@@ -424,26 +424,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-29T16:10:32Z",
-  "totalStreams": 178,
+  "checkedAt": "2026-10-29T16:20:32Z",
+  "totalStreams": 180,
   "rubyLive": [
-   {
-    "login": "perzzon",
-    "displayName": "Perzzon",
-    "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 176,
-    "startedAt": "2026-10-29T07:15:54Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 3,
-    "name": "perzzonTTV#5485",
-    "rankScore": 58816,
-    "matchedBy": "name"
-   },
    {
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] s12 Rankage | Slothy Waiting Room is back | CEO of OCE | !discord !commands",
-    "viewers": 14,
+    "viewers": 11,
     "startedAt": "2026-10-29T13:21:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 41,
@@ -455,7 +443,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[X100 DROPS] HIT 50K FOLLOWERS TY ALL <3 | Embark Partner | !wooting !lamzu",
-    "viewers": 427,
+    "viewers": 411,
     "startedAt": "2026-10-29T13:12:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 47,
@@ -479,7 +467,7 @@
     "login": "zuki",
     "displayName": "zuki",
     "title": "[new drops] NTMR Coach | playing some ranked, im addicted to phone games | Embark Creator | !coaching !mouse !sens !res !femboy",
-    "viewers": 23,
+    "viewers": 20,
     "startedAt": "2026-10-29T13:22:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
     "rank": 82,
@@ -491,7 +479,7 @@
     "login": "wutum",
     "displayName": "WuTum",
     "title": "TGM26 Qualified #VGGWIN // Ranked grind !sens",
-    "viewers": 11,
+    "viewers": 7,
     "startedAt": "2026-10-29T15:09:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
     "rank": 202,
@@ -503,7 +491,7 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "(DROP BOOST) Back to my best sens ? !sens // !vt // !sens",
-    "viewers": 12,
+    "viewers": 14,
     "startedAt": "2026-10-29T13:55:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 215,
@@ -539,7 +527,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] RIP Ball movement - !FinalsRS !yt !discord",
-    "viewers": 7,
+    "viewers": 6,
     "startedAt": "2026-10-29T13:24:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 380,
@@ -553,7 +541,23 @@
     "login": "teoma96",
     "displayName": "Teoma96",
     "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 2,
+    "viewers": 1,
+    "startedAt": "2026-10-29T12:24:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
+   },
+   {
+    "login": "z3rq1",
+    "displayName": "z3rq1",
+    "title": "The finals ranked come tune in!!! Grind to top 500 Trying to become an embark creator???",
+    "viewers": 1,
+    "startedAt": "2026-10-29T15:31:14Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_z3rq1-{width}x{height}.jpg"
+   },
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 1,
     "startedAt": "2026-10-29T12:24:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }

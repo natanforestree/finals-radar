@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T21:10:32Z",
+ "generatedAt": "2026-10-29T21:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-29T21:02:57Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 62,
  "allActive": 661,
  "rubyShare": 0.0938,
- "steamPlayers": 23326,
+ "steamPlayers": 23137,
  "rubyCutoff": 43934,
  "grinding": [
   {
@@ -219,7 +219,7 @@
    "delta": 142,
    "rankScore": 48099,
    "club": "NTMR",
-   "twitch": null
+   "twitch": "lytettv"
   },
   {
    "rank": 149,
@@ -451,7 +451,7 @@
    "delta": 410,
    "rankScore": 44731,
    "club": "LUMN",
-   "twitch": null
+   "twitch": "prezzttv"
   },
   {
    "rank": 382,
@@ -512,14 +512,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-29T21:10:32Z",
-  "totalStreams": 260,
+  "checkedAt": "2026-10-29T21:20:32Z",
+  "totalStreams": 267,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "NEW SEASON IS HERE!!!!!",
-    "viewers": 10,
+    "viewers": 9,
     "startedAt": "2026-10-29T19:34:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 26,
@@ -528,10 +528,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "balise",
+    "displayName": "Balise",
+    "title": "(3X DROPS) SHORT LIL STREAM | FAILED RESPEC = TGM META | SCRIM VS TAKE FLYTE",
+    "viewers": 0,
+    "startedAt": "2026-10-29T21:20:02Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
+    "rank": 41,
+    "name": "Balise#2431",
+    "rankScore": 52707,
+    "matchedBy": "name"
+   },
+   {
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Orange barrel lover",
-    "viewers": 7,
+    "viewers": 10,
     "startedAt": "2026-10-29T19:41:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 99,
@@ -543,7 +555,7 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "AIM AND LOVE | DROP",
-    "viewers": 45,
+    "viewers": 50,
     "startedAt": "2026-10-29T19:42:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 125,
@@ -555,7 +567,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Maybe Gain RS? (12x !DROPS) #1 Charge n' Slammer  - !Coach - Embark Partner - VGG Coach",
-    "viewers": 169,
+    "viewers": 156,
     "startedAt": "2026-10-29T18:33:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 144,
@@ -567,12 +579,24 @@
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "My Peater Feels Weak | Ranked Cashout Suffering",
-    "viewers": 4,
+    "viewers": 7,
     "startedAt": "2026-10-29T17:58:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 145,
     "name": "MatoTM#7141",
     "rankScore": 48172,
+    "matchedBy": "name"
+   },
+   {
+    "login": "lytettv",
+    "displayName": "LyteTTV",
+    "title": "DROPS | Spooky Solo Q Ranked",
+    "viewers": 1,
+    "startedAt": "2026-10-29T21:19:27Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lytettv-{width}x{height}.jpg",
+    "rank": 147,
+    "name": "LyteTTV#5413",
+    "rankScore": 48099,
     "matchedBy": "name"
    },
    {
@@ -588,27 +612,31 @@
     "matchedBy": "name"
    },
    {
-    "login": "mdiym",
-    "displayName": "mdiym",
-    "title": "[!drop] #1 Solo Showdown NA que snipe me | LFT Ranked | !ad: 30s/1hr",
+    "login": "prezzttv",
+    "displayName": "Prezzttv",
+    "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
     "viewers": 4,
-    "startedAt": "2026-10-29T14:20:59Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
-    "rank": 378,
-    "name": "mdiym#9757",
-    "rankScore": 44720,
+    "startedAt": "2026-10-29T19:47:13Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
+    "rank": 377,
+    "name": "PrezzTTV#5132",
+    "rankScore": 44731,
+    "matchedBy": "name"
+   },
+   {
+    "login": "standbyluke7",
+    "displayName": "StandbyLuke7",
+    "title": "PB With Stream Buddies",
+    "viewers": 1,
+    "startedAt": "2026-10-29T21:14:24Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_standbyluke7-{width}x{height}.jpg",
+    "rank": 420,
+    "name": "StandbyLuke7#3105",
+    "rankScore": 44405,
     "matchedBy": "name"
    }
   ],
   "titleMentions": [
-   {
-    "login": "leantgames",
-    "displayName": "LeAntGames",
-    "title": "Washed Ruby Back On",
-    "viewers": 2,
-    "startedAt": "2026-10-29T20:13:59Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leantgames-{width}x{height}.jpg"
-   },
    {
     "login": "v8_karma",
     "displayName": "V8_Karma",
@@ -616,6 +644,14 @@
     "viewers": 1,
     "startedAt": "2026-10-29T20:33:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_v8_karma-{width}x{height}.jpg"
+   },
+   {
+    "login": "leantgames",
+    "displayName": "LeAntGames",
+    "title": "Washed Ruby Back On",
+    "viewers": 1,
+    "startedAt": "2026-10-29T20:13:59Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leantgames-{width}x{height}.jpg"
    },
    {
     "login": "pedross",

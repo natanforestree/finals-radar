@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T23:50:31Z",
+ "generatedAt": "2026-10-30T00:00:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-29T23:32:20Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 47,
  "allActive": 472,
  "rubyShare": 0.0996,
- "steamPlayers": 19775,
+ "steamPlayers": 19563,
  "rubyCutoff": 43974,
  "grinding": [
   {
@@ -299,7 +299,7 @@
    "delta": 473,
    "rankScore": 45732,
    "club": null,
-   "twitch": "paquerette_0515"
+   "twitch": null
   },
   {
    "rank": 290,
@@ -392,8 +392,8 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-29T23:50:31Z",
-  "totalStreams": 268,
+  "checkedAt": "2026-10-30T00:00:32Z",
+  "totalStreams": 255,
   "rubyLive": [
    {
     "login": "elfloridogaming",
@@ -411,7 +411,7 @@
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) SHORT LIL STREAM | FAILED RESPEC = TGM META | ELEVATE VS TAKE FLYTE",
-    "viewers": 108,
+    "viewers": 120,
     "startedAt": "2026-10-29T21:20:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 42,
@@ -423,7 +423,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Orange barrel lover",
-    "viewers": 6,
+    "viewers": 4,
     "startedAt": "2026-10-29T19:41:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 113,
@@ -435,7 +435,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Maybe Gain RS? (12x !DROPS) #1 Charge n' Slammer  - !Coach - Embark Partner - VGG Coach",
-    "viewers": 183,
+    "viewers": 173,
     "startedAt": "2026-10-29T18:33:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 155,
@@ -444,22 +444,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "paquerette_0515",
-    "displayName": "paquerette_0515",
-    "title": "The finals top 5OO player",
-    "viewers": 1,
-    "startedAt": "2026-10-29T17:27:44Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
-    "rank": 289,
-    "name": "paquerette#3586",
-    "rankScore": 45732,
-    "matchedBy": "name"
-   },
-   {
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 16,
+    "viewers": 17,
     "startedAt": "2026-10-29T19:47:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 338,
@@ -471,36 +459,16 @@
     "login": "mdiym",
     "displayName": "mdiym",
     "title": "[!drop] #1 Solo Showdown NA que snipe me | LFT Ranked | !ad: 30s/1hr",
-    "viewers": 5,
+    "viewers": 9,
     "startedAt": "2026-10-29T14:20:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
     "rank": 387,
     "name": "mdiym#9757",
     "rankScore": 44720,
     "matchedBy": "name"
-   },
-   {
-    "login": "standbyluke7",
-    "displayName": "StandbyLuke7",
-    "title": "PB With Stream Buddies",
-    "viewers": 2,
-    "startedAt": "2026-10-29T21:14:24Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_standbyluke7-{width}x{height}.jpg",
-    "rank": 430,
-    "name": "StandbyLuke7#3105",
-    "rankScore": 44405,
-    "matchedBy": "name"
    }
   ],
   "titleMentions": [
-   {
-    "login": "saladinttv",
-    "displayName": "SaladinTTV",
-    "title": "DUO queue THE FINALS DIAMOND GAMEPLAY---- TOP 500 BOUND",
-    "viewers": 1,
-    "startedAt": "2026-10-29T21:53:09Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saladinttv-{width}x{height}.jpg"
-   },
    {
     "login": "leantgames",
     "displayName": "LeAntGames",
@@ -508,6 +476,14 @@
     "viewers": 1,
     "startedAt": "2026-10-29T20:13:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leantgames-{width}x{height}.jpg"
+   },
+   {
+    "login": "saladinttv",
+    "displayName": "SaladinTTV",
+    "title": "TRIO queue THE FINALS DIAMOND GAMEPLAY---- TOP 500 BOUND",
+    "viewers": 1,
+    "startedAt": "2026-10-29T21:53:09Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saladinttv-{width}x{height}.jpg"
    },
    {
     "login": "bobiduity",

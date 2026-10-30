@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T14:30:33Z",
+ "generatedAt": "2026-10-30T14:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-30T14:28:06Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 46,
  "allActive": 381,
  "rubyShare": 0.1207,
- "steamPlayers": 15115,
+ "steamPlayers": 15532,
  "rubyCutoff": 44017,
  "grinding": [
   {
@@ -227,7 +227,7 @@
    "delta": 496,
    "rankScore": 46350,
    "club": "GOONU",
-   "twitch": "antiparty"
+   "twitch": null
   },
   {
    "rank": 264,
@@ -384,14 +384,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-30T14:30:33Z",
-  "totalStreams": 120,
+  "checkedAt": "2026-10-30T14:40:32Z",
+  "totalStreams": 131,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 104,
+    "viewers": 108,
     "startedAt": "2026-10-30T09:30:15Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 4,
@@ -403,7 +403,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[X100 DROPS] HIT 50K FOLLOWERS TY ALL <3 | Embark Partner | !wooting !lamzu",
-    "viewers": 204,
+    "viewers": 282,
     "startedAt": "2026-10-30T13:51:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 54,
@@ -415,8 +415,8 @@
     "login": "lytettv",
     "displayName": "LyteTTV",
     "title": "DROPS | Spooky Solo Q Ranked",
-    "viewers": 1,
-    "startedAt": "2026-10-30T14:08:47Z",
+    "viewers": 2,
+    "startedAt": "2026-10-30T14:35:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lytettv-{width}x{height}.jpg",
     "rank": 129,
     "name": "LyteTTV#5413",
@@ -427,7 +427,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts-New Szn grind  - !sens !rank  !mouse !class !size",
-    "viewers": 6,
+    "viewers": 5,
     "startedAt": "2026-10-30T13:42:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 142,
@@ -448,18 +448,6 @@
     "matchedBy": "name"
    },
    {
-    "login": "antiparty",
-    "displayName": "Antiparty",
-    "title": "[DROPS] solo queue is impossible geeg - !FinalsRS !yt !discord",
-    "viewers": 12,
-    "startedAt": "2026-10-30T11:29:37Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 259,
-    "name": "Antiparty#0866",
-    "rankScore": 46350,
-    "matchedBy": "name"
-   },
-   {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "(DROP BOOST) Back to my best sens ? !sens // !vt // !sens",
@@ -477,7 +465,7 @@
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 6,
+    "viewers": 5,
     "startedAt": "2026-10-30T13:12:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
    },
@@ -493,9 +481,17 @@
     "login": "pedross",
     "displayName": "Pedross",
     "title": "SEASON 12 [CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-10-30T12:47:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
+   },
+   {
+    "login": "queen_dashie",
+    "displayName": "Queen_Dashie",
+    "title": "надеюсь TOP #1 RUBY (по морали) не уйдет через 15 минут",
+    "viewers": 1,
+    "startedAt": "2026-10-30T14:35:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_dashie-{width}x{height}.jpg"
    }
   ]
  },

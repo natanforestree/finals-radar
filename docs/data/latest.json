@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T07:00:31Z",
+ "generatedAt": "2026-10-31T07:10:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-31T06:55:04Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 372,
  "rubyShare": 0.0941,
- "steamPlayers": 12112,
+ "steamPlayers": 11668,
  "rubyCutoff": 44243,
  "grinding": [
   {
@@ -275,7 +275,7 @@
    "delta": 119,
    "rankScore": 44771,
    "club": "ABG4",
-   "twitch": "getballmunched"
+   "twitch": null
   },
   {
    "rank": 430,
@@ -296,8 +296,8 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-31T07:00:31Z",
-  "totalStreams": 175,
+  "checkedAt": "2026-10-31T07:10:31Z",
+  "totalStreams": 170,
   "rubyLive": [
    {
     "login": "elfloridogaming",
@@ -315,7 +315,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Solo Q ruby, Repeater is dead again booooo",
-    "viewers": 204,
+    "viewers": 211,
     "startedAt": "2026-10-31T02:41:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 143,
@@ -327,7 +327,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 45,
+    "viewers": 48,
     "startedAt": "2026-10-31T04:29:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 241,
@@ -346,38 +346,9 @@
     "name": "PrezzTTV#5132",
     "rankScore": 46168,
     "matchedBy": "name"
-   },
-   {
-    "login": "getballmunched",
-    "displayName": "GetBallMunched",
-    "title": "carrying AyoGoy in RANKED",
-    "viewers": 1,
-    "startedAt": "2026-10-31T04:22:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_getballmunched-{width}x{height}.jpg",
-    "rank": 424,
-    "name": "GetBallMunched#3928",
-    "rankScore": 44771,
-    "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "leantgames",
-    "displayName": "LeAntGames",
-    "title": "Washed Ruby Back On",
-    "viewers": 1,
-    "startedAt": "2026-10-31T06:14:12Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leantgames-{width}x{height}.jpg"
-   },
-   {
-    "login": "leantgames",
-    "displayName": "LeAntGames",
-    "title": "Washed Ruby Back On",
-    "viewers": 1,
-    "startedAt": "2026-10-31T06:14:12Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_leantgames-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

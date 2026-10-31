@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T23:20:35Z",
+ "generatedAt": "2026-10-31T23:30:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-31T23:19:47Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 71,
  "allActive": 678,
  "rubyShare": 0.1047,
- "steamPlayers": 19649,
+ "steamPlayers": 19165,
  "rubyCutoff": 44501,
  "grinding": [
   {
@@ -584,14 +584,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-31T23:20:35Z",
-  "totalStreams": 217,
+  "checkedAt": "2026-10-31T23:30:33Z",
+  "totalStreams": 210,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 133,
+    "viewers": 143,
     "startedAt": "2026-10-31T10:29:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 5,
@@ -603,7 +603,7 @@
     "login": "lasagnattv",
     "displayName": "LasagnaTTV",
     "title": "(DROPS)boo spooky, bfr demon |TGM25 WINNER",
-    "viewers": 53,
+    "viewers": 52,
     "startedAt": "2026-10-31T22:50:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
     "rank": 118,
@@ -627,7 +627,7 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "(DROP BOOST) Halloween ranked !sens // !vt // !sens",
-    "viewers": 16,
+    "viewers": 17,
     "startedAt": "2026-10-31T19:34:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 222,
@@ -637,14 +637,6 @@
    }
   ],
   "titleMentions": [
-   {
-    "login": "crumbxzz",
-    "displayName": "crumbxzz",
-    "title": "🏆 BRONZE TO RUBY GRIND 🏆 | ROAD TO PARTNER 👀👀 | SEASON 12 GRIND",
-    "viewers": 2,
-    "startedAt": "2026-10-31T23:01:46Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crumbxzz-{width}x{height}.jpg"
-   },
    {
     "login": "progamerdx1",
     "displayName": "progamerdx1",
@@ -657,9 +649,17 @@
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-10-31T22:12:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
+   },
+   {
+    "login": "crumbxzz",
+    "displayName": "crumbxzz",
+    "title": "🏆 BRONZE TO RUBY GRIND 🏆 | ROAD TO PARTNER 👀👀 | SEASON 12 GRIND",
+    "viewers": 1,
+    "startedAt": "2026-10-31T23:01:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crumbxzz-{width}x{height}.jpg"
    }
   ]
  },

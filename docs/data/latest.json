@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T20:30:32Z",
+ "generatedAt": "2026-10-31T20:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-31T20:19:14Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 63,
  "allActive": 690,
  "rubyShare": 0.0913,
- "steamPlayers": 23674,
+ "steamPlayers": 23694,
  "rubyCutoff": 44443,
  "grinding": [
   {
@@ -171,7 +171,7 @@
    "delta": 380,
    "rankScore": 48688,
    "club": "WAIM",
-   "twitch": "ilprune"
+   "twitch": null
   },
   {
    "rank": 172,
@@ -520,14 +520,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-31T20:30:32Z",
-  "totalStreams": 241,
+  "checkedAt": "2026-10-31T20:40:32Z",
+  "totalStreams": 239,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 116,
+    "viewers": 129,
     "startedAt": "2026-10-31T10:29:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 5,
@@ -536,39 +536,43 @@
     "matchedBy": "name"
    },
    {
-    "login": "ilprune",
-    "displayName": "Ilprune",
-    "title": "The Finals RANKED",
-    "viewers": 3,
-    "startedAt": "2026-10-31T14:24:02Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
-    "rank": 164,
-    "name": "Ilprune#5174",
-    "rankScore": 48688,
+    "login": "jumparau",
+    "displayName": "jumparau",
+    "title": "[Drops] Ruby on multiple accounts-New Szn grind- asia ranked -  !sens !rank !mouse !class !size",
+    "viewers": 5,
+    "startedAt": "2026-10-31T20:34:16Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
+    "rank": 132,
+    "name": "TTV_Jumparau#0323",
+    "rankScore": 49347,
     "matchedBy": "name"
    },
    {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "(DROP BOOST) Halloween ranked !sens // !vt // !sens",
-    "viewers": 11,
+    "viewers": 12,
     "startedAt": "2026-10-31T19:34:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 269,
     "name": "TaeK#3289",
     "rankScore": 46793,
     "matchedBy": "name"
+   },
+   {
+    "login": "uvinity_",
+    "displayName": "Uvinity_",
+    "title": "[DROPS] AHHHHHHH...scary time with @zsarakin | LFT",
+    "viewers": 3,
+    "startedAt": "2026-10-31T20:14:58Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
+    "rank": 343,
+    "name": "Uvinity#2250",
+    "rankScore": 45843,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
-   {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "LIGNE ZERO / light ruby / scrimmmmmm !!!!!!!!",
-    "viewers": 1,
-    "startedAt": "2026-10-31T17:40:38Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
-   },
    {
     "login": "dinesdemon",
     "displayName": "dinesdemon",

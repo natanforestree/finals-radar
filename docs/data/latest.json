@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T23:30:33Z",
+ "generatedAt": "2026-10-31T23:37:36Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-31T23:19:47Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 71,
  "allActive": 678,
  "rubyShare": 0.1047,
- "steamPlayers": 19165,
+ "steamPlayers": 18710,
  "rubyCutoff": 44501,
  "grinding": [
   {
@@ -275,7 +275,7 @@
    "delta": 331,
    "rankScore": 48798,
    "club": null,
-   "twitch": null
+   "twitch": "elmeromeyer"
   },
   {
    "rank": 173,
@@ -584,14 +584,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-31T23:30:33Z",
-  "totalStreams": 210,
+  "checkedAt": "2026-10-31T23:37:36Z",
+  "totalStreams": 205,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 143,
+    "viewers": 165,
     "startedAt": "2026-10-31T10:29:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 5,
@@ -603,12 +603,24 @@
     "login": "lasagnattv",
     "displayName": "LasagnaTTV",
     "title": "(DROPS)boo spooky, bfr demon |TGM25 WINNER",
-    "viewers": 52,
+    "viewers": 55,
     "startedAt": "2026-10-31T22:50:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
     "rank": 118,
     "name": "LasagnaTTV#4865",
     "rankScore": 50150,
+    "matchedBy": "name"
+   },
+   {
+    "login": "elmeromeyer",
+    "displayName": "elmeromeyer",
+    "title": "Rankeds",
+    "viewers": 0,
+    "startedAt": "2026-10-31T23:36:13Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmeromeyer-{width}x{height}.jpg",
+    "rank": 159,
+    "name": "GGS#1020",
+    "rankScore": 48798,
     "matchedBy": "name"
    },
    {
@@ -638,6 +650,14 @@
   ],
   "titleMentions": [
    {
+    "login": "crumbxzz",
+    "displayName": "crumbxzz",
+    "title": "🏆 BRONZE TO RUBY GRIND 🏆 | ROAD TO PARTNER 👀👀 | SEASON 12 GRIND",
+    "viewers": 2,
+    "startedAt": "2026-10-31T23:01:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crumbxzz-{width}x{height}.jpg"
+   },
+   {
     "login": "progamerdx1",
     "displayName": "progamerdx1",
     "title": "1vs1 KING The Finals top 500",
@@ -652,14 +672,6 @@
     "viewers": 1,
     "startedAt": "2026-10-31T22:12:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
-   },
-   {
-    "login": "crumbxzz",
-    "displayName": "crumbxzz",
-    "title": "🏆 BRONZE TO RUBY GRIND 🏆 | ROAD TO PARTNER 👀👀 | SEASON 12 GRIND",
-    "viewers": 1,
-    "startedAt": "2026-10-31T23:01:46Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_crumbxzz-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T21:50:31Z",
+ "generatedAt": "2026-10-31T22:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-31T21:48:55Z",
  "window": {
@@ -267,7 +267,7 @@
    "delta": -869,
    "rankScore": 47583,
    "club": null,
-   "twitch": null
+   "twitch": "sepstar"
   },
   {
    "rank": 230,
@@ -456,14 +456,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-31T21:50:31Z",
-  "totalStreams": 223,
+  "checkedAt": "2026-10-31T22:00:31Z",
+  "totalStreams": 227,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 135,
+    "viewers": 124,
     "startedAt": "2026-10-31T10:29:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 5,
@@ -475,7 +475,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts-New Szn grind- asia ranked -  !sens !rank !mouse !class !size",
-    "viewers": 11,
+    "viewers": 10,
     "startedAt": "2026-10-31T20:34:16Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 121,
@@ -484,31 +484,39 @@
     "matchedBy": "name"
    },
    {
+    "login": "sepstar",
+    "displayName": "Sepstar",
+    "title": "RankS  🎈✨",
+    "viewers": 7,
+    "startedAt": "2026-10-31T21:34:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
+    "rank": 223,
+    "name": "Sepstar#3539",
+    "rankScore": 47583,
+    "matchedBy": "name"
+   },
+   {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "(DROP BOOST) Halloween ranked !sens // !vt // !sens",
-    "viewers": 16,
+    "viewers": 18,
     "startedAt": "2026-10-31T19:34:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 256,
     "name": "TaeK#3289",
     "rankScore": 47028,
     "matchedBy": "name"
-   },
-   {
-    "login": "uvinity_",
-    "displayName": "Uvinity_",
-    "title": "[DROPS] AHHHHHHH...scary time with @zsarakin | LFT",
-    "viewers": 3,
-    "startedAt": "2026-10-31T20:14:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
-    "rank": 347,
-    "name": "Uvinity#2250",
-    "rankScore": 45843,
-    "matchedBy": "name"
    }
   ],
   "titleMentions": [
+   {
+    "login": "444_mellly",
+    "displayName": "444_mellly",
+    "title": "Light build (only) ta Top500 day 5",
+    "viewers": 1,
+    "startedAt": "2026-10-31T21:47:11Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_444_mellly-{width}x{height}.jpg"
+   },
    {
     "login": "dinesdemon",
     "displayName": "dinesdemon",
@@ -518,12 +526,12 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dinesdemon-{width}x{height}.jpg"
    },
    {
-    "login": "444_mellly",
-    "displayName": "444_mellly",
-    "title": "Light build (only) ta Top500 day 5",
-    "viewers": 0,
-    "startedAt": "2026-10-31T21:47:11Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_444_mellly-{width}x{height}.jpg"
+    "login": "progamerdx1",
+    "displayName": "progamerdx1",
+    "title": "1vs1 KING The Finals top 500",
+    "viewers": 1,
+    "startedAt": "2026-10-31T21:51:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_progamerdx1-{width}x{height}.jpg"
    }
   ]
  },

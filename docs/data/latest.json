@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T16:30:33Z",
+ "generatedAt": "2026-10-31T16:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-31T16:23:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 50,
  "allActive": 522,
  "rubyShare": 0.0958,
- "steamPlayers": 20119,
+ "steamPlayers": 20479,
  "rubyCutoff": 44383,
  "grinding": [
   {
@@ -123,7 +123,7 @@
    "delta": -474,
    "rankScore": 49246,
    "club": "NTMR",
-   "twitch": "lytettv"
+   "twitch": null
   },
   {
    "rank": 138,
@@ -416,14 +416,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-31T16:30:33Z",
-  "totalStreams": 157,
+  "checkedAt": "2026-10-31T16:40:32Z",
+  "totalStreams": 162,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 138,
+    "viewers": 117,
     "startedAt": "2026-10-31T10:29:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 5,
@@ -435,7 +435,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[X100 DROPS] HIT 50K FOLLOWERS TY ALL <3 | Embark Partner | !wooting !lamzu",
-    "viewers": 319,
+    "viewers": 348,
     "startedAt": "2026-10-31T13:13:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg",
     "rank": 63,
@@ -447,24 +447,12 @@
     "login": "zuki",
     "displayName": "zuki",
     "title": "[new drops] NTMR Coach | merry halloween, new meta is settling and its not good | Embark Creator | !coaching !mouse !sens !res !femboy",
-    "viewers": 17,
+    "viewers": 11,
     "startedAt": "2026-10-31T16:09:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
     "rank": 76,
     "name": "zuki#8633",
     "rankScore": 51651,
-    "matchedBy": "name"
-   },
-   {
-    "login": "lytettv",
-    "displayName": "LyteTTV",
-    "title": "DROPS | Spooky Duo Q Ranked",
-    "viewers": 2,
-    "startedAt": "2026-10-31T15:08:49Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lytettv-{width}x{height}.jpg",
-    "rank": 133,
-    "name": "LyteTTV#5413",
-    "rankScore": 49246,
     "matchedBy": "name"
    },
    {
@@ -483,7 +471,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 5,
+    "viewers": 4,
     "startedAt": "2026-10-31T14:24:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 245,
@@ -495,7 +483,7 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "(DROP BOOST) Back to my best sens ? !sens // !vt // !sens",
-    "viewers": 11,
+    "viewers": 12,
     "startedAt": "2026-10-31T12:24:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 261,
@@ -506,20 +494,20 @@
   ],
   "titleMentions": [
    {
-    "login": "queen_dashie",
-    "displayName": "Queen_Dashie",
-    "title": "надеюсь TOP #1 RUBY (по морали) не уйдет через 15 минут",
-    "viewers": 3,
-    "startedAt": "2026-10-31T14:44:34Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_dashie-{width}x{height}.jpg"
-   },
-   {
     "login": "rigoswisscheeseem",
     "displayName": "rigoswisscheeseem",
     "title": "road to ruby",
     "viewers": 2,
     "startedAt": "2026-10-31T15:50:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rigoswisscheeseem-{width}x{height}.jpg"
+   },
+   {
+    "login": "queen_dashie",
+    "displayName": "Queen_Dashie",
+    "title": "надеюсь TOP #1 RUBY (по морали) не уйдет через 15 минут",
+    "viewers": 2,
+    "startedAt": "2026-10-31T14:44:34Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_dashie-{width}x{height}.jpg"
    }
   ]
  },

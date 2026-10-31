@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T01:30:32Z",
+ "generatedAt": "2026-10-31T01:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-31T01:18:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 55,
  "allActive": 640,
  "rubyShare": 0.0859,
- "steamPlayers": 19580,
+ "steamPlayers": 19547,
  "rubyCutoff": 44162,
  "grinding": [
   {
@@ -131,7 +131,7 @@
    "delta": 288,
    "rankScore": 49792,
    "club": null,
-   "twitch": "jumparau"
+   "twitch": null
   },
   {
    "rank": 120,
@@ -456,8 +456,8 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-31T01:30:32Z",
-  "totalStreams": 275,
+  "checkedAt": "2026-10-31T01:40:32Z",
+  "totalStreams": 296,
   "rubyLive": [
    {
     "login": "skreydeen",
@@ -472,22 +472,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "jumparau",
-    "displayName": "jumparau",
-    "title": "[Drops] Ruby on multiple accounts-New Szn grind  - !sens !rank  !mouse !class !size",
-    "viewers": 3,
-    "startedAt": "2026-10-30T23:33:10Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
-    "rank": 118,
-    "name": "TTV_Jumparau#0323",
-    "rankScore": 49792,
-    "matchedBy": "name"
-   },
-   {
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Solo Ranked - Charge n Slam Main (12x !DROPS) - !Coach - Embark Partner - VGG Coach",
-    "viewers": 188,
+    "viewers": 193,
     "startedAt": "2026-10-30T17:02:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 120,
@@ -534,10 +522,18 @@
   ],
   "titleMentions": [
    {
+    "login": "lostboykaleido",
+    "displayName": "LostboyKaleido",
+    "title": "(DROPS) RUBY LEVEL POI SPINNER",
+    "viewers": 5,
+    "startedAt": "2026-10-31T01:12:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostboykaleido-{width}x{height}.jpg"
+   },
+   {
     "login": "bluecelive",
     "displayName": "BlueceLIVE",
     "title": "LOCKED IN!! 🔥TOP 500 CERB & SWORD | DIAMOND TONIGHT!!! Come hang!",
-    "viewers": 1,
+    "viewers": 3,
     "startedAt": "2026-10-31T00:05:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bluecelive-{width}x{height}.jpg"
    },
@@ -545,9 +541,17 @@
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 1,
+    "viewers": 0,
     "startedAt": "2026-10-31T00:52:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 0,
+    "startedAt": "2026-10-31T01:38:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }
   ]
  },

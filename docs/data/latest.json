@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T03:20:31Z",
+ "generatedAt": "2026-10-31T03:30:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-10-31T03:18:01Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 63,
  "allActive": 563,
  "rubyShare": 0.1119,
- "steamPlayers": 19373,
+ "steamPlayers": 19078,
  "rubyCutoff": 44206,
  "grinding": [
   {
@@ -163,7 +163,7 @@
    "delta": 325,
    "rankScore": 49291,
    "club": "VGG",
-   "twitch": "appoh"
+   "twitch": null
   },
   {
    "rank": 134,
@@ -520,26 +520,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-10-31T03:20:31Z",
-  "totalStreams": 272,
+  "checkedAt": "2026-10-31T03:30:33Z",
+  "totalStreams": 284,
   "rubyLive": [
-   {
-    "login": "appoh",
-    "displayName": "Appoh",
-    "title": "Solo Ranked - Charge n Slam Main (12x !DROPS) - !Coach - Embark Partner - VGG Coach",
-    "viewers": 132,
-    "startedAt": "2026-10-30T17:02:31Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
-    "rank": 132,
-    "name": "Appoh#9173",
-    "rankScore": 49291,
-    "matchedBy": "name"
-   },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Solo Q ruby, Repeater is dead again booooo",
-    "viewers": 58,
+    "viewers": 123,
     "startedAt": "2026-10-31T02:41:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 133,
@@ -563,7 +551,7 @@
     "login": "paquerette_0515",
     "displayName": "paquerette_0515",
     "title": "The finals top 5OO player",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-10-30T17:04:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
     "rank": 297,
@@ -577,17 +565,9 @@
     "login": "lostboykaleido",
     "displayName": "LostboyKaleido",
     "title": "(DROPS) RUBY LEVEL POI SPINNER",
-    "viewers": 8,
+    "viewers": 11,
     "startedAt": "2026-10-31T01:12:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostboykaleido-{width}x{height}.jpg"
-   },
-   {
-    "login": "bluecelive",
-    "displayName": "BlueceLIVE",
-    "title": "LOCKED IN!! 🔥TOP 500 CERB & SWORD | DIAMOND TONIGHT!!! Come hang!",
-    "viewers": 3,
-    "startedAt": "2026-10-31T00:05:14Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bluecelive-{width}x{height}.jpg"
    },
    {
     "login": "skizziep",
@@ -596,6 +576,14 @@
     "viewers": 3,
     "startedAt": "2026-10-31T02:42:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skizziep-{width}x{height}.jpg"
+   },
+   {
+    "login": "bluecelive",
+    "displayName": "BlueceLIVE",
+    "title": "LOCKED IN!! 🔥TOP 500 CERB & SWORD | DIAMOND TONIGHT!!! Come hang!",
+    "viewers": 3,
+    "startedAt": "2026-10-31T00:05:14Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bluecelive-{width}x{height}.jpg"
    },
    {
     "login": "opportunehook9",

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T00:30:31Z",
+ "generatedAt": "2026-11-01T00:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-01T00:20:35Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 75,
  "allActive": 602,
  "rubyShare": 0.1246,
- "steamPlayers": 17042,
+ "steamPlayers": 16670,
  "rubyCutoff": 44519,
  "grinding": [
   {
@@ -323,7 +323,7 @@
    "delta": 448,
    "rankScore": 47988,
    "club": null,
-   "twitch": null
+   "twitch": "isogodlegend"
   },
   {
    "rank": 211,
@@ -616,14 +616,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-01T00:30:31Z",
-  "totalStreams": 193,
+  "checkedAt": "2026-11-01T00:40:32Z",
+  "totalStreams": 202,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 152,
+    "viewers": 138,
     "startedAt": "2026-10-31T10:29:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 5,
@@ -632,19 +632,51 @@
     "matchedBy": "name"
    },
    {
+    "login": "ttvmorningstar_qc",
+    "displayName": "TTvMorningStar_Qc",
+    "title": "RANKED GRIND [50K ](FR/ENG) (XIMRZ CLUB)",
+    "viewers": 1,
+    "startedAt": "2026-11-01T00:36:51Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ttvmorningstar_qc-{width}x{height}.jpg",
+    "rank": 61,
+    "name": "MORNINGSTAR_QC#7193",
+    "rankScore": 52173,
+    "matchedBy": "name"
+   },
+   {
     "login": "sepstar",
     "displayName": "Sepstar",
     "title": "RankS  🎈✨",
-    "viewers": 14,
+    "viewers": 16,
     "startedAt": "2026-10-31T21:34:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
     "rank": 174,
     "name": "Sepstar#3539",
     "rankScore": 48528,
     "matchedBy": "name"
+   },
+   {
+    "login": "isogodlegend",
+    "displayName": "IsoGodLegend",
+    "title": "Diamond 1 - season 12 top",
+    "viewers": 0,
+    "startedAt": "2026-11-01T00:37:24Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_isogodlegend-{width}x{height}.jpg",
+    "rank": 206,
+    "name": "Iso#7371",
+    "rankScore": 47988,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
+   {
+    "login": "chalutos",
+    "displayName": "chalutos",
+    "title": "POV ruby rolling on ranked. XIMRZ clan",
+    "viewers": 1,
+    "startedAt": "2026-11-01T00:33:40Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chalutos-{width}x{height}.jpg"
+   },
    {
     "login": "progamerdx1",
     "displayName": "progamerdx1",

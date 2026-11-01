@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T23:20:31Z",
+ "generatedAt": "2026-11-01T23:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-01T23:19:28Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 76,
  "allActive": 688,
  "rubyShare": 0.1105,
- "steamPlayers": 21234,
+ "steamPlayers": 21022,
  "rubyCutoff": 44971,
  "grinding": [
   {
@@ -107,7 +107,7 @@
    "delta": 207,
    "rankScore": 53390,
    "club": "XIMRZ",
-   "twitch": "ttvmorningstar_qc"
+   "twitch": null
   },
   {
    "rank": 53,
@@ -235,7 +235,7 @@
    "delta": 30,
    "rankScore": 50076,
    "club": "MORI",
-   "twitch": "skreydeen"
+   "twitch": null
   },
   {
    "rank": 138,
@@ -624,14 +624,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-01T23:20:31Z",
-  "totalStreams": 209,
+  "checkedAt": "2026-11-01T23:30:32Z",
+  "totalStreams": 215,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 169,
+    "viewers": 150,
     "startedAt": "2026-11-01T15:25:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -640,22 +640,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "ttvmorningstar_qc",
-    "displayName": "TTvMorningStar_Qc",
-    "title": "RANKED GRIND [50K ](FR/ENG) (XIMRZ CLUB)",
-    "viewers": 1,
-    "startedAt": "2026-11-01T15:14:20Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ttvmorningstar_qc-{width}x{height}.jpg",
-    "rank": 49,
-    "name": "MORNINGSTAR_QC#7193",
-    "rankScore": 53390,
-    "matchedBy": "name"
-   },
-   {
     "login": "zuki",
     "displayName": "zuki",
     "title": "[new drops] NTMR Coach | ranked, practicing something | Embark Creator | !coaching !mouse !sens !res !femboy",
-    "viewers": 63,
+    "viewers": 58,
     "startedAt": "2026-11-01T17:44:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
     "rank": 80,
@@ -674,18 +662,6 @@
     "name": "GetJiggy#3035",
     "rankScore": 50706,
     "matchedBy": "name"
-   },
-   {
-    "login": "skreydeen",
-    "displayName": "SkreyDeen",
-    "title": "With Dom the leader of the wall of shame",
-    "viewers": 12,
-    "startedAt": "2026-11-01T20:16:21Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
-    "rank": 134,
-    "name": "SkreyDeen#2116",
-    "rankScore": 50076,
-    "matchedBy": "name"
    }
   ],
   "titleMentions": [
@@ -693,7 +669,7 @@
     "login": "beautoria",
     "displayName": "Beautoria",
     "title": "not sick anymore | Practicing Light | Top 100 PB | EMBARK CREATOR ❤️ | KCP CREATOR 💛 | ENG/ESP",
-    "viewers": 40,
+    "viewers": 34,
     "startedAt": "2026-11-01T21:59:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beautoria-{width}x{height}.jpg"
    },

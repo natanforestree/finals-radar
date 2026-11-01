@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T02:40:32Z",
+ "generatedAt": "2026-11-01T02:50:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-01T02:40:33Z",
  "window": {
@@ -392,19 +392,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-01T02:40:32Z",
-  "totalStreams": 213,
+  "checkedAt": "2026-11-01T02:50:31Z",
+  "totalStreams": 210,
   "rubyLive": [
    {
     "login": "ttvmorningstar_qc",
     "displayName": "TTvMorningStar_Qc",
     "title": "RANKED GRIND [50K ](FR/ENG) (XIMRZ CLUB)",
-    "viewers": 4,
+    "viewers": 2,
     "startedAt": "2026-11-01T00:36:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ttvmorningstar_qc-{width}x{height}.jpg",
     "rank": 58,
     "name": "MORNINGSTAR_QC#7193",
     "rankScore": 52531,
+    "matchedBy": "name"
+   },
+   {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[DROPS} ranking on it perhaps - !FinalsRS !yt !discord",
+    "viewers": 2,
+    "startedAt": "2026-11-01T02:45:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 199,
+    "name": "Antiparty#0866",
+    "rankScore": 48135,
     "matchedBy": "name"
    },
    {
@@ -423,7 +435,7 @@
     "login": "mdiym",
     "displayName": "mdiym",
     "title": "[!drop] Games | !ad: 30s/1hr",
-    "viewers": 5,
+    "viewers": 6,
     "startedAt": "2026-11-01T01:57:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
     "rank": 296,
@@ -433,14 +445,6 @@
    }
   ],
   "titleMentions": [
-   {
-    "login": "wright4gaming",
-    "displayName": "Wright4Gaming",
-    "title": "Top 500 PB | 5F Club | Cancer Free!",
-    "viewers": 5,
-    "startedAt": "2026-11-01T02:26:01Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wright4gaming-{width}x{height}.jpg"
-   },
    {
     "login": "chalutos",
     "displayName": "chalutos",
@@ -472,6 +476,14 @@
     "viewers": 1,
     "startedAt": "2026-11-01T02:37:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zekkxy-{width}x{height}.jpg"
+   },
+   {
+    "login": "lordgrillcheese",
+    "displayName": "LordGrillCheese",
+    "title": "INTENSE GAMING in The Finals come watch and hit RUBY",
+    "viewers": 0,
+    "startedAt": "2026-11-01T02:41:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lordgrillcheese-{width}x{height}.jpg"
    }
   ]
  },

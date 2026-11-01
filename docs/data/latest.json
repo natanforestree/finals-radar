@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T10:50:32Z",
+ "generatedAt": "2026-11-01T11:00:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-01T10:50:07Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 23,
  "allActive": 183,
  "rubyShare": 0.1257,
- "steamPlayers": 11821,
+ "steamPlayers": 12262,
  "rubyCutoff": 44772,
  "grinding": [
   {
@@ -200,14 +200,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-01T10:50:32Z",
-  "totalStreams": 80,
+  "checkedAt": "2026-11-01T11:00:32Z",
+  "totalStreams": 78,
   "rubyLive": [
+   {
+    "login": "etelco",
+    "displayName": "Etelco",
+    "title": "NEW APARTMENT, LIFE 2.0 in Paris | Embark Partner 💎",
+    "viewers": 8,
+    "startedAt": "2026-11-01T10:55:37Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
+    "rank": 57,
+    "name": "Etelco#8323",
+    "rankScore": 52817,
+    "matchedBy": "name"
+   },
    {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 10,
+    "viewers": 8,
     "startedAt": "2026-11-01T07:53:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 140,
@@ -231,7 +243,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 132,
+    "viewers": 115,
     "startedAt": "2026-11-01T05:10:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 229,
@@ -243,7 +255,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "It's Already November | APE SQUAD | RANKED",
-    "viewers": 3,
+    "viewers": 5,
     "startedAt": "2026-11-01T09:49:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 403,
@@ -255,7 +267,7 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby / FEL GRAND FINAL 2PM !!!!!!!!",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-11-01T10:31:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 485,
@@ -269,17 +281,9 @@
     "login": "wright4gaming",
     "displayName": "Wright4Gaming",
     "title": "Top 500 PB | 5F Club | Cancer Free!",
-    "viewers": 48,
+    "viewers": 46,
     "startedAt": "2026-11-01T03:26:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wright4gaming-{width}x{height}.jpg"
-   },
-   {
-    "login": "kingqueenttv",
-    "displayName": "KingQueenTTV",
-    "title": "THE FINALS: RU\\EN | repeater rip? cashout gameplay, Let’s destroy the ruby lobbies",
-    "viewers": 1,
-    "startedAt": "2026-11-01T09:42:01Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kingqueenttv-{width}x{height}.jpg"
    }
   ]
  },

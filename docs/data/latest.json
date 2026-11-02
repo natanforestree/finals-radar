@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T21:20:32Z",
+ "generatedAt": "2026-11-02T21:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-02T21:20:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 53,
  "allActive": 629,
  "rubyShare": 0.0843,
- "steamPlayers": 21105,
+ "steamPlayers": 20875,
  "rubyCutoff": 45127,
  "grinding": [
   {
@@ -440,14 +440,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-02T21:20:32Z",
-  "totalStreams": 226,
+  "checkedAt": "2026-11-02T21:30:32Z",
+  "totalStreams": 241,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) DUO WITH @kafeneio | ELEVATE VS PULSAR @ 8PM EST",
-    "viewers": 88,
+    "viewers": 102,
     "startedAt": "2026-11-02T20:15:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 58,
@@ -459,7 +459,7 @@
     "login": "notbubbaa_",
     "displayName": "notbubbaa_",
     "title": "[DROPS 100x] IM ALIVEEE kinda... | SOLO Q RANKED | Road to Partner |  !yt !insta",
-    "viewers": 149,
+    "viewers": 160,
     "startedAt": "2026-11-02T17:32:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
     "rank": 86,
@@ -471,12 +471,36 @@
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] KING IN GAME PEASANT IRL | THANK YOU GUYS FOR PARTNER PLUS 2/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 96,
+    "viewers": 110,
     "startedAt": "2026-11-02T17:59:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 95,
     "name": "Bizzy#0005",
     "rankScore": 51808,
+    "matchedBy": "name"
+   },
+   {
+    "login": "mdiym",
+    "displayName": "mdiym",
+    "title": "[!drop] #1 solo showdown | !ad: 30s/1hr",
+    "viewers": 3,
+    "startedAt": "2026-11-02T21:16:39Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
+    "rank": 184,
+    "name": "mdiym#9757",
+    "rankScore": 49097,
+    "matchedBy": "name"
+   },
+   {
+    "login": "angelxttv",
+    "displayName": "angelxttv",
+    "title": "Rankeeeeeed DAY 2.....| 🎁 !drops | 💬 !discord | 🎵 !tiktok | ▶️ !youtube |",
+    "viewers": 7,
+    "startedAt": "2026-11-02T20:40:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelxttv-{width}x{height}.jpg",
+    "rank": 247,
+    "name": "angelxTTV#1346",
+    "rankScore": 47898,
     "matchedBy": "name"
    },
    {
@@ -495,24 +519,28 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] Light Arc | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 83,
+    "viewers": 118,
     "startedAt": "2026-11-02T19:51:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 363,
     "name": "Sanguine#5740",
     "rankScore": 46467,
     "matchedBy": "name"
+   },
+   {
+    "login": "grad",
+    "displayName": "Grad",
+    "title": "morning bird gets wormed or whatever | TRYING TO GET PARTNER PLUS! !song !prime !newvid",
+    "viewers": 12,
+    "startedAt": "2026-11-02T19:16:14Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grad-{width}x{height}.jpg",
+    "rank": 400,
+    "name": "Grad#4550",
+    "rankScore": 46135,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
-   {
-    "login": "teoma96",
-    "displayName": "Teoma96",
-    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 3,
-    "startedAt": "2026-11-02T18:47:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
-   },
    {
     "login": "egman39",
     "displayName": "egman39",
@@ -520,6 +548,14 @@
     "viewers": 2,
     "startedAt": "2026-11-02T19:58:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
+   },
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 2,
+    "startedAt": "2026-11-02T18:47:58Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-02T10:30:33Z",
+ "generatedAt": "2026-11-02T10:40:49Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-02T10:23:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 193,
  "rubyShare": 0.1813,
- "steamPlayers": 8191,
+ "steamPlayers": 8435,
  "rubyCutoff": 45136,
  "grinding": [
   {
@@ -43,7 +43,7 @@
    "delta": 142,
    "rankScore": 57033,
    "club": "CRU3L",
-   "twitch": "elfloridogaming"
+   "twitch": null
   },
   {
    "rank": 23,
@@ -296,26 +296,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-02T10:30:33Z",
-  "totalStreams": 53,
+  "checkedAt": "2026-11-02T10:40:49Z",
+  "totalStreams": 51,
   "rubyLive": [
-   {
-    "login": "elfloridogaming",
-    "displayName": "ElFloridoGaming",
-    "title": "NEW SEASON IS HERE!!!!!",
-    "viewers": 26,
-    "startedAt": "2026-11-02T00:56:24Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
-    "rank": 22,
-    "name": "FloridoGamingTTV#1606",
-    "rankScore": 57033,
-    "matchedBy": "name"
-   },
    {
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 129,
+    "viewers": 119,
     "startedAt": "2026-11-02T06:28:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 213,
@@ -327,24 +315,12 @@
     "login": "uvinity_",
     "displayName": "Uvinity_",
     "title": "[DROPS] Ruby Ranked | LFT",
-    "viewers": 5,
+    "viewers": 10,
     "startedAt": "2026-11-02T06:43:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
     "rank": 239,
     "name": "Uvinity#2250",
     "rankScore": 47926,
-    "matchedBy": "name"
-   },
-   {
-    "login": "prezzttv",
-    "displayName": "Prezzttv",
-    "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 7,
-    "startedAt": "2026-11-02T08:44:02Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
-    "rank": 344,
-    "name": "PrezzTTV#5132",
-    "rankScore": 46528,
     "matchedBy": "name"
    }
   ],

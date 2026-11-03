@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T13:20:33Z",
+ "generatedAt": "2026-11-03T13:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-03T13:18:09Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 40,
  "allActive": 354,
  "rubyShare": 0.113,
- "steamPlayers": 10557,
+ "steamPlayers": 10996,
  "rubyCutoff": 45401,
  "grinding": [
   {
@@ -195,7 +195,7 @@
    "delta": 172,
    "rankScore": 49366,
    "club": "GOONU",
-   "twitch": "antiparty"
+   "twitch": null
   },
   {
    "rank": 199,
@@ -336,14 +336,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-03T13:20:33Z",
-  "totalStreams": 66,
+  "checkedAt": "2026-11-03T13:30:32Z",
+  "totalStreams": 73,
   "rubyLive": [
    {
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] s12 Rankage | Slothy Waiting Room is back | CEO of OCE | !discord !commands",
-    "viewers": 16,
+    "viewers": 12,
     "startedAt": "2026-11-03T10:19:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 36,
@@ -355,7 +355,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "[!Drops] Farming & Training | Embark Partner 💎",
-    "viewers": 20,
+    "viewers": 26,
     "startedAt": "2026-11-03T12:45:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 58,
@@ -367,7 +367,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "2x major + bald",
-    "viewers": 49,
+    "viewers": 62,
     "startedAt": "2026-11-03T12:36:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 65,
@@ -379,7 +379,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts-New Szn grind-  !sens !rank !mouse !class !size",
-    "viewers": 9,
+    "viewers": 14,
     "startedAt": "2026-11-03T11:58:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 97,
@@ -391,24 +391,12 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Ranked & 8 PM Scrims / Korean / APE SQUAD /",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-11-03T08:48:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 113,
     "name": "YangDoun#0398",
     "rankScore": 51270,
-    "matchedBy": "name"
-   },
-   {
-    "login": "antiparty",
-    "displayName": "Antiparty",
-    "title": "[DROPS] POV: pov - !FinalsRS !yt !discord",
-    "viewers": 22,
-    "startedAt": "2026-11-03T10:04:09Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 187,
-    "name": "Antiparty#0866",
-    "rankScore": 49366,
     "matchedBy": "name"
    }
   ],
@@ -417,25 +405,25 @@
     "login": "some0nefps",
     "displayName": "Some0nefps",
     "title": "[DROPS] RUBY THERMAL BORE ANGLE?",
-    "viewers": 7,
+    "viewers": 6,
     "startedAt": "2026-11-03T12:37:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
-   },
-   {
-    "login": "teoma96",
-    "displayName": "Teoma96",
-    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 3,
-    "startedAt": "2026-11-03T12:05:18Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    },
    {
     "login": "queen_dashie",
     "displayName": "Queen_Dashie",
     "title": "надеюсь TOP #1 RUBY (по морали) не уйдет через 15 минут",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-11-03T12:05:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_dashie-{width}x{height}.jpg"
+   },
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 1,
+    "startedAt": "2026-11-03T12:05:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }
   ]
  },

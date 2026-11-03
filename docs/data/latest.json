@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T11:20:33Z",
+ "generatedAt": "2026-11-03T11:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-03T11:18:20Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 29,
  "allActive": 184,
  "rubyShare": 0.1576,
- "steamPlayers": 8642,
+ "steamPlayers": 0,
  "rubyCutoff": 45410,
  "grinding": [
   {
@@ -248,14 +248,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-03T11:20:33Z",
-  "totalStreams": 61,
+  "checkedAt": "2026-11-03T11:30:32Z",
+  "totalStreams": 65,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 94,
+    "viewers": 88,
     "startedAt": "2026-11-03T07:24:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 3,
@@ -267,7 +267,7 @@
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] s12 Rankage | Slothy Waiting Room is back | CEO of OCE | !discord !commands",
-    "viewers": 9,
+    "viewers": 8,
     "startedAt": "2026-11-03T10:19:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 43,
@@ -279,12 +279,12 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Ranked & 8 PM Scrims / Korean / APE SQUAD /",
-    "viewers": 4,
+    "viewers": 1,
     "startedAt": "2026-11-03T08:48:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 110,
+    "rank": 124,
     "name": "YangDoun#0398",
-    "rankScore": 51270,
+    "rankScore": 51021,
     "matchedBy": "name"
    },
    {
@@ -294,13 +294,22 @@
     "viewers": 5,
     "startedAt": "2026-11-03T10:04:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 202,
+    "rank": 200,
     "name": "Antiparty#0866",
-    "rankScore": 49068,
+    "rankScore": 49134,
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "queen_dashie",
+    "displayName": "Queen_Dashie",
+    "title": "надеюсь TOP #1 RUBY (по морали) не уйдет через 15 минут",
+    "viewers": 3,
+    "startedAt": "2026-11-03T11:17:20Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_dashie-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

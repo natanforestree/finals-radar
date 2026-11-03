@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T12:30:32Z",
+ "generatedAt": "2026-11-03T12:40:35Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-03T12:17:43Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 249,
  "rubyShare": 0.1406,
- "steamPlayers": 9660,
+ "steamPlayers": 9776,
  "rubyCutoff": 45406,
  "grinding": [
   {
@@ -19,7 +19,7 @@
    "delta": 71,
    "rankScore": 62296,
    "club": "PRZN",
-   "twitch": "perzzon"
+   "twitch": null
   },
   {
    "rank": 4,
@@ -296,26 +296,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-03T12:30:32Z",
-  "totalStreams": 71,
+  "checkedAt": "2026-11-03T12:40:35Z",
+  "totalStreams": 64,
   "rubyLive": [
-   {
-    "login": "perzzon",
-    "displayName": "Perzzon",
-    "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 73,
-    "startedAt": "2026-11-03T07:24:51Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 3,
-    "name": "perzzonTTV#5485",
-    "rankScore": 62296,
-    "matchedBy": "name"
-   },
    {
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] s12 Rankage | Slothy Waiting Room is back | CEO of OCE | !discord !commands",
-    "viewers": 8,
+    "viewers": 16,
     "startedAt": "2026-11-03T10:19:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 39,
@@ -327,7 +315,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts-New Szn grind-  !sens !rank !mouse !class !size",
-    "viewers": 6,
+    "viewers": 9,
     "startedAt": "2026-11-03T11:58:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 104,
@@ -339,7 +327,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Ranked & 8 PM Scrims / Korean / APE SQUAD /",
-    "viewers": 3,
+    "viewers": 7,
     "startedAt": "2026-11-03T08:48:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 112,
@@ -351,7 +339,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] POV: pov - !FinalsRS !yt !discord",
-    "viewers": 23,
+    "viewers": 15,
     "startedAt": "2026-11-03T10:04:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 194,
@@ -362,20 +350,20 @@
   ],
   "titleMentions": [
    {
-    "login": "teoma96",
-    "displayName": "Teoma96",
-    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 1,
-    "startedAt": "2026-11-03T12:05:18Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
-   },
-   {
     "login": "queen_dashie",
     "displayName": "Queen_Dashie",
     "title": "надеюсь TOP #1 RUBY (по морали) не уйдет через 15 минут",
     "viewers": 1,
     "startedAt": "2026-11-03T12:05:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_dashie-{width}x{height}.jpg"
+   },
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 1,
+    "startedAt": "2026-11-03T12:05:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }
   ]
  },

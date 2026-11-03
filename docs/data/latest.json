@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T04:10:41Z",
+ "generatedAt": "2026-11-03T04:20:42Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-03T03:56:02Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 42,
  "allActive": 463,
  "rubyShare": 0.0907,
- "steamPlayers": 16852,
+ "steamPlayers": 16260,
  "rubyCutoff": 45292,
  "grinding": [
   {
@@ -352,10 +352,43 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-03T04:10:41Z",
-  "totalStreams": 205,
-  "rubyLive": [],
+  "checkedAt": "2026-11-03T04:20:42Z",
+  "totalStreams": 207,
+  "rubyLive": [
+   {
+    "login": "knot4long",
+    "displayName": "knot4long",
+    "title": "RANK",
+    "viewers": 2,
+    "startedAt": "2026-11-03T04:01:41Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
+    "rank": 86,
+    "name": "TTV_KNOT_4_LONG#7729",
+    "rankScore": 52154,
+    "matchedBy": "name"
+   },
+   {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[DROPS] Solo Q ruby, Repeater is dead again booooo",
+    "viewers": 19,
+    "startedAt": "2026-11-03T04:14:13Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 153,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 49922,
+    "matchedBy": "name"
+   }
+  ],
   "titleMentions": [
+   {
+    "login": "mcdonut_ttv",
+    "displayName": "Mcdonut_ttv",
+    "title": "Top 500 Ranked grind",
+    "viewers": 1,
+    "startedAt": "2026-11-03T03:58:01Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mcdonut_ttv-{width}x{height}.jpg"
+   },
    {
     "login": "shinxjudas",
     "displayName": "SHINxJUDAS",

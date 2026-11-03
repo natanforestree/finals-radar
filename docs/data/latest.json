@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T09:30:33Z",
+ "generatedAt": "2026-11-03T09:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-03T09:29:14Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 95,
  "allActive": 984,
  "rubyShare": 0.0965,
- "steamPlayers": 7318,
+ "steamPlayers": 7337,
  "rubyCutoff": 45406,
  "grinding": [
   {
@@ -299,7 +299,7 @@
    "delta": 296,
    "rankScore": 49166,
    "club": "DIGA",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 202,
@@ -776,14 +776,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-03T09:30:33Z",
+  "checkedAt": "2026-11-03T09:40:32Z",
   "totalStreams": 81,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 100,
+    "viewers": 108,
     "startedAt": "2026-11-03T07:24:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 4,
@@ -795,7 +795,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Ranked & 8 PM Scrims / Korean / APE SQUAD /",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-11-03T08:48:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 123,
@@ -807,24 +807,12 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 36,
+    "viewers": 26,
     "startedAt": "2026-11-03T06:58:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 184,
     "name": "Snake_Nade#0401",
     "rankScore": 49371,
-    "matchedBy": "name"
-   },
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Solo Q only!",
-    "viewers": 101,
-    "startedAt": "2026-11-03T04:14:13Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 195,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 49166,
     "matchedBy": "name"
    }
   ],

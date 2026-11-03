@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-03T15:20:33Z",
+ "generatedAt": "2026-11-03T15:30:54Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-03T15:19:50Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 42,
  "allActive": 347,
  "rubyShare": 0.121,
- "steamPlayers": 13549,
+ "steamPlayers": 13656,
  "rubyCutoff": 45406,
  "grinding": [
   {
@@ -163,7 +163,7 @@
    "delta": -113,
    "rankScore": 49656,
    "club": "VGG",
-   "twitch": "wutum"
+   "twitch": null
   },
   {
    "rank": 183,
@@ -352,14 +352,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-03T15:20:33Z",
-  "totalStreams": 129,
+  "checkedAt": "2026-11-03T15:30:54Z",
+  "totalStreams": 117,
   "rubyLive": [
    {
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "[DROPS] s12 Rankage | Slothy Waiting Room is back | CEO of OCE | !discord !commands",
-    "viewers": 12,
+    "viewers": 10,
     "startedAt": "2026-11-03T10:19:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 33,
@@ -371,7 +371,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "[!Drops] Farming & Training | Embark Partner 💎",
-    "viewers": 41,
+    "viewers": 38,
     "startedAt": "2026-11-03T12:45:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 54,
@@ -383,7 +383,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "2x major + bald",
-    "viewers": 51,
+    "viewers": 76,
     "startedAt": "2026-11-03T12:36:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 61,
@@ -395,7 +395,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Ranked & 8 PM Scrims / Korean / APE SQUAD /",
-    "viewers": 5,
+    "viewers": 6,
     "startedAt": "2026-11-03T08:48:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 129,
@@ -404,22 +404,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "wutum",
-    "displayName": "WuTum",
-    "title": "TGM26 Qualified #VGGWIN // Ranked grind !sens",
-    "viewers": 12,
-    "startedAt": "2026-11-03T14:30:47Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
-    "rank": 171,
-    "name": "WuTum#7032",
-    "rankScore": 49656,
-    "matchedBy": "name"
-   },
-   {
     "login": "he_talent",
     "displayName": "He_TaLenT",
     "title": "[𝐑𝐔] ☯ Возвращение прайма ☯ !Commands",
-    "viewers": 6,
+    "viewers": 7,
     "startedAt": "2026-11-03T15:00:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_he_talent-{width}x{height}.jpg",
     "rank": 470,
@@ -433,17 +421,9 @@
     "login": "some0nefps",
     "displayName": "Some0nefps",
     "title": "[DROPS] RUBY THERMAL BORE ANGLE?",
-    "viewers": 6,
+    "viewers": 7,
     "startedAt": "2026-11-03T12:37:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
-   },
-   {
-    "login": "queen_dashie",
-    "displayName": "Queen_Dashie",
-    "title": "надеюсь TOP #1 RUBY (по морали) не уйдет через 15 минут",
-    "viewers": 3,
-    "startedAt": "2026-11-03T12:05:00Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_dashie-{width}x{height}.jpg"
    },
    {
     "login": "teoma96",
@@ -452,6 +432,14 @@
     "viewers": 2,
     "startedAt": "2026-11-03T12:05:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
+   },
+   {
+    "login": "queen_dashie",
+    "displayName": "Queen_Dashie",
+    "title": "надеюсь TOP #1 RUBY (по морали) не уйдет через 15 минут",
+    "viewers": 1,
+    "startedAt": "2026-11-03T12:05:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_queen_dashie-{width}x{height}.jpg"
    }
   ]
  },

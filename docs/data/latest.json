@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T18:30:33Z",
+ "generatedAt": "2026-11-04T18:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T18:19:09Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 58,
  "allActive": 440,
  "rubyShare": 0.1318,
- "steamPlayers": 17931,
+ "steamPlayers": 17867,
  "rubyCutoff": 45620,
  "grinding": [
   {
@@ -411,7 +411,7 @@
    "delta": 392,
    "rankScore": 45846,
    "club": "LZ0",
-   "twitch": "incgii"
+   "twitch": null
   },
   {
    "rank": 477,
@@ -480,14 +480,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T18:30:33Z",
-  "totalStreams": 186,
+  "checkedAt": "2026-11-04T18:40:32Z",
+  "totalStreams": 190,
   "rubyLive": [
    {
     "login": "etelco",
     "displayName": "Etelco",
     "title": "[!Drops] Scrim vs RAD | Embark Partner 💎",
-    "viewers": 47,
+    "viewers": 43,
     "startedAt": "2026-11-04T12:17:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 57,
@@ -499,7 +499,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "LLL META SOON W EMBARK",
-    "viewers": 1,
+    "viewers": 34,
     "startedAt": "2026-11-04T18:29:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 73,
@@ -511,7 +511,7 @@
     "login": "notbubbaa_",
     "displayName": "notbubbaa_",
     "title": "[DROPS 100x] Major Prep | SOLO Q RANKED | Vid later | !insta !dicord",
-    "viewers": 68,
+    "viewers": 78,
     "startedAt": "2026-11-04T16:13:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
     "rank": 84,
@@ -523,7 +523,7 @@
     "login": "zuki",
     "displayName": "zuki",
     "title": "[new drops] NTMR Coach | ranked | Embark Creator | !coaching !mouse !sens !res !femboy",
-    "viewers": 19,
+    "viewers": 20,
     "startedAt": "2026-11-04T16:59:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
     "rank": 87,
@@ -532,19 +532,36 @@
     "matchedBy": "name"
    },
    {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "LIGNE ZERO / light ruby / RANKEDDDDDDDD !!!!!!!!",
-    "viewers": 3,
-    "startedAt": "2026-11-04T14:59:15Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
-    "rank": 476,
-    "name": "IncGII#1058",
-    "rankScore": 45846,
+    "login": "lasagnattv",
+    "displayName": "LasagnaTTV",
+    "title": "(DROPS)ranked |TGM25 WINNER",
+    "viewers": 11,
+    "startedAt": "2026-11-04T18:28:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
+    "rank": 101,
+    "name": "LasagnaTTV#4865",
+    "rankScore": 52209,
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "astrowwwwwww",
+    "displayName": "astrowwwwwww",
+    "title": "Daddy's back! Top 500 grind! controller",
+    "viewers": 1,
+    "startedAt": "2026-11-04T18:37:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_astrowwwwwww-{width}x{height}.jpg"
+   },
+   {
+    "login": "pedross",
+    "displayName": "Pedross",
+    "title": "SEASON 12 [CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
+    "viewers": 0,
+    "startedAt": "2026-11-04T18:32:36Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T06:50:32Z",
+ "generatedAt": "2026-11-04T07:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T06:50:04Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 34,
  "allActive": 310,
  "rubyShare": 0.1097,
- "steamPlayers": 9864,
+ "steamPlayers": 9410,
  "rubyCutoff": 45526,
  "grinding": [
   {
@@ -288,14 +288,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T06:50:32Z",
-  "totalStreams": 123,
+  "checkedAt": "2026-11-04T07:00:31Z",
+  "totalStreams": 118,
   "rubyLive": [
+   {
+    "login": "sepstar",
+    "displayName": "Sepstar",
+    "title": "RankS🎈✨",
+    "viewers": 5,
+    "startedAt": "2026-11-04T05:04:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
+    "rank": 126,
+    "name": "Sepstar#3539",
+    "rankScore": 51187,
+    "matchedBy": "name"
+   },
    {
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] solo attempt - !FinalsRS !yt !discord",
-    "viewers": 12,
+    "viewers": 18,
     "startedAt": "2026-11-04T05:39:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 198,
@@ -307,7 +319,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 16,
+    "viewers": 25,
     "startedAt": "2026-11-04T06:39:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 199,
@@ -331,7 +343,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Gaming!",
-    "viewers": 149,
+    "viewers": 210,
     "startedAt": "2026-11-04T01:25:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 274,
@@ -345,7 +357,7 @@
     "login": "beautoria",
     "displayName": "Beautoria",
     "title": "Top 50 Point Break Chud | Practicing Light | Top 100 PB | EMBARK CREATOR ❤️ | KCP CREATOR 💛 | ENG/ESP",
-    "viewers": 49,
+    "viewers": 36,
     "startedAt": "2026-11-04T00:58:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beautoria-{width}x{height}.jpg"
    },
@@ -356,6 +368,14 @@
     "viewers": 1,
     "startedAt": "2026-11-04T06:25:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_rxthedon-{width}x{height}.jpg"
+   },
+   {
+    "login": "profpenes",
+    "displayName": "profpenes",
+    "title": "Finals Ranked-Ruby run-Bow",
+    "viewers": 0,
+    "startedAt": "2026-11-04T06:58:53Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_profpenes-{width}x{height}.jpg"
    }
   ]
  },

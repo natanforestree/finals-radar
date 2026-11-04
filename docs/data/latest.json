@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T05:00:32Z",
+ "generatedAt": "2026-11-04T05:10:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T04:53:33Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 41,
  "allActive": 493,
  "rubyShare": 0.0832,
- "steamPlayers": 14779,
+ "steamPlayers": 14129,
  "rubyCutoff": 45488,
  "grinding": [
   {
@@ -344,19 +344,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T05:00:32Z",
-  "totalStreams": 183,
+  "checkedAt": "2026-11-04T05:10:31Z",
+  "totalStreams": 185,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Gaming!",
-    "viewers": 179,
+    "viewers": 147,
     "startedAt": "2026-11-04T01:25:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 224,
     "name": "Digcron.TTV#3309",
     "rankScore": 48884,
+    "matchedBy": "name"
+   },
+   {
+    "login": "lostorlucky",
+    "displayName": "LostOrLucky",
+    "title": "yea sure i missed that",
+    "viewers": 1,
+    "startedAt": "2026-11-04T05:07:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostorlucky-{width}x{height}.jpg",
+    "rank": 351,
+    "name": "LOL#0453",
+    "rankScore": 46986,
     "matchedBy": "name"
    },
    {
@@ -377,15 +389,23 @@
     "login": "beautoria",
     "displayName": "Beautoria",
     "title": "Top 50 Point Break Chud | Practicing Light | Top 100 PB | EMBARK CREATOR ❤️ | KCP CREATOR 💛 | ENG/ESP",
-    "viewers": 45,
+    "viewers": 47,
     "startedAt": "2026-11-04T00:58:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beautoria-{width}x{height}.jpg"
+   },
+   {
+    "login": "cl_bubbles",
+    "displayName": "cl_bubbles",
+    "title": "The only ruby cl-40 - [Noobin on my toob]",
+    "viewers": 4,
+    "startedAt": "2026-11-04T04:01:11Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
    },
    {
     "login": "enigmawipedyou",
     "displayName": "EnigmaWipedYou",
     "title": "Ranked✨ New Season 😍 Ruby Flame?💫",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-11-04T04:07:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_enigmawipedyou-{width}x{height}.jpg"
    },

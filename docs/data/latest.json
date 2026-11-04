@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T13:50:33Z",
+ "generatedAt": "2026-11-04T14:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T13:33:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 7,
  "allActive": 171,
  "rubyShare": 0.0409,
- "steamPlayers": 11420,
+ "steamPlayers": 11838,
  "rubyCutoff": 45603,
  "grinding": [
   {
@@ -72,14 +72,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T13:50:33Z",
-  "totalStreams": 88,
+  "checkedAt": "2026-11-04T14:00:31Z",
+  "totalStreams": 83,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 89,
+    "viewers": 94,
     "startedAt": "2026-11-04T09:44:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -91,12 +91,24 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "[!Drops] AKM/P90??? | Embark Partner 💎",
-    "viewers": 48,
+    "viewers": 50,
     "startedAt": "2026-11-04T12:17:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 60,
     "name": "Etelco#8323",
     "rankScore": 53756,
+    "matchedBy": "name"
+   },
+   {
+    "login": "wutum",
+    "displayName": "WuTum",
+    "title": "TGM26 Qualified #VGGWIN // Ranked grind !sens",
+    "viewers": 6,
+    "startedAt": "2026-11-04T13:48:37Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
+    "rank": 171,
+    "name": "WuTum#7032",
+    "rankScore": 50044,
     "matchedBy": "name"
    }
   ],

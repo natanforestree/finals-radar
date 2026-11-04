@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T00:20:33Z",
+ "generatedAt": "2026-11-04T00:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T00:17:59Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 40,
  "allActive": 484,
  "rubyShare": 0.0826,
- "steamPlayers": 16294,
+ "steamPlayers": 16335,
  "rubyCutoff": 45424,
  "grinding": [
   {
@@ -267,7 +267,7 @@
    "delta": -209,
    "rankScore": 47209,
    "club": "TMATO",
-   "twitch": "matotm"
+   "twitch": null
   },
   {
    "rank": 339,
@@ -336,14 +336,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T00:20:33Z",
-  "totalStreams": 204,
+  "checkedAt": "2026-11-04T00:30:32Z",
+  "totalStreams": 203,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) YES.",
-    "viewers": 200,
+    "viewers": 216,
     "startedAt": "2026-11-03T18:59:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 43,
@@ -355,24 +355,12 @@
     "login": "knot4long",
     "displayName": "knot4long",
     "title": "MY FIRST STREAM ANNIVERSARY | LETS PLAY THE FINALS",
-    "viewers": 3,
+    "viewers": 1,
     "startedAt": "2026-11-03T20:41:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
     "rank": 83,
     "name": "TTV_KNOT_4_LONG#7729",
     "rankScore": 52606,
-    "matchedBy": "name"
-   },
-   {
-    "login": "matotm",
-    "displayName": "MatoTM",
-    "title": "Turning Off My Recoil Scripts Today",
-    "viewers": 13,
-    "startedAt": "2026-11-03T21:05:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
-    "rank": 326,
-    "name": "MatoTM#7141",
-    "rankScore": 47209,
     "matchedBy": "name"
    }
   ],

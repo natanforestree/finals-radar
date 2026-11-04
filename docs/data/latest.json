@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T00:00:31Z",
+ "generatedAt": "2026-11-04T00:10:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-03T23:53:45Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 60,
  "allActive": 532,
  "rubyShare": 0.1128,
- "steamPlayers": 16334,
+ "steamPlayers": 16307,
  "rubyCutoff": 45424,
  "grinding": [
   {
@@ -355,7 +355,7 @@
    "delta": -619,
    "rankScore": 47844,
    "club": "SCP48",
-   "twitch": "sanguine"
+   "twitch": null
   },
   {
    "rank": 282,
@@ -483,7 +483,7 @@
    "delta": -204,
    "rankScore": 45915,
    "club": null,
-   "twitch": null
+   "twitch": "paquerette_0515"
   },
   {
    "rank": 456,
@@ -496,14 +496,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T00:00:31Z",
-  "totalStreams": 176,
+  "checkedAt": "2026-11-04T00:10:31Z",
+  "totalStreams": 196,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) YES.",
-    "viewers": 211,
+    "viewers": 180,
     "startedAt": "2026-11-03T18:59:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 44,
@@ -512,39 +512,39 @@
     "matchedBy": "name"
    },
    {
-    "login": "udrakoni",
-    "displayName": "udrakoni",
-    "title": "(DROPS) VERY short face cam stream! @elevategg",
-    "viewers": 35,
-    "startedAt": "2026-11-03T22:33:57Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udrakoni-{width}x{height}.jpg",
-    "rank": 172,
-    "name": "udrakoni#9522",
-    "rankScore": 49770,
-    "matchedBy": "name"
-   },
-   {
-    "login": "sanguine",
-    "displayName": "Sanguine",
-    "title": "[!Drops] Light Arc | T2 Subs for Gifs! | Embark Creator | !clip",
-    "viewers": 150,
-    "startedAt": "2026-11-03T19:32:25Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
-    "rank": 279,
-    "name": "Sanguine#5740",
-    "rankScore": 47844,
+    "login": "knot4long",
+    "displayName": "knot4long",
+    "title": "MY FIRST STREAM ANNIVERSARY | LETS PLAY THE FINALS",
+    "viewers": 2,
+    "startedAt": "2026-11-03T20:41:29Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
+    "rank": 84,
+    "name": "TTV_KNOT_4_LONG#7729",
+    "rankScore": 52606,
     "matchedBy": "name"
    },
    {
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "Turning Off My Recoil Scripts Today",
-    "viewers": 23,
+    "viewers": 19,
     "startedAt": "2026-11-03T21:05:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 312,
     "name": "MatoTM#7141",
     "rankScore": 47418,
+    "matchedBy": "name"
+   },
+   {
+    "login": "paquerette_0515",
+    "displayName": "paquerette_0515",
+    "title": "The finals top 5OO player",
+    "viewers": 2,
+    "startedAt": "2026-11-03T21:24:56Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
+    "rank": 453,
+    "name": "paquerette#3586",
+    "rankScore": 45915,
     "matchedBy": "name"
    }
   ],

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T02:00:32Z",
+ "generatedAt": "2026-11-04T02:10:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T01:50:33Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 50,
  "allActive": 504,
  "rubyShare": 0.0992,
- "steamPlayers": 17891,
+ "steamPlayers": 17965,
  "rubyCutoff": 45446,
  "grinding": [
   {
@@ -107,7 +107,7 @@
    "delta": 276,
    "rankScore": 51334,
    "club": null,
-   "twitch": null
+   "twitch": "elmeromeyer"
   },
   {
    "rank": 124,
@@ -416,8 +416,8 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T02:00:32Z",
-  "totalStreams": 257,
+  "checkedAt": "2026-11-04T02:10:32Z",
+  "totalStreams": 252,
   "rubyLive": [
    {
     "login": "knot4long",
@@ -432,10 +432,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "elmeromeyer",
+    "displayName": "elmeromeyer",
+    "title": "Rankeds",
+    "viewers": 1,
+    "startedAt": "2026-11-04T02:08:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmeromeyer-{width}x{height}.jpg",
+    "rank": 117,
+    "name": "GGS#1020",
+    "rankScore": 51334,
+    "matchedBy": "name"
+   },
+   {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Solo Q only!",
-    "viewers": 56,
+    "viewers": 60,
     "startedAt": "2026-11-04T01:25:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 193,

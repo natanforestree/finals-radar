@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T17:00:33Z",
+ "generatedAt": "2026-11-04T17:10:40Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T16:47:17Z",
  "window": {
@@ -179,7 +179,7 @@
    "delta": 271,
    "rankScore": 50239,
    "club": "VGG",
-   "twitch": null
+   "twitch": "wutum"
   },
   {
    "rank": 176,
@@ -344,14 +344,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T17:00:33Z",
-  "totalStreams": 140,
+  "checkedAt": "2026-11-04T17:10:40Z",
+  "totalStreams": 152,
   "rubyLive": [
    {
     "login": "etelco",
     "displayName": "Etelco",
     "title": "[!Drops] Scrim vs RAD | Embark Partner 💎",
-    "viewers": 39,
+    "viewers": 54,
     "startedAt": "2026-11-04T12:17:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 57,
@@ -363,7 +363,7 @@
     "login": "notbubbaa_",
     "displayName": "notbubbaa_",
     "title": "[DROPS 100x] Major Prep | SOLO Q RANKED | Vid later | !insta !dicord",
-    "viewers": 93,
+    "viewers": 98,
     "startedAt": "2026-11-04T16:13:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
     "rank": 76,
@@ -372,15 +372,39 @@
     "matchedBy": "name"
    },
    {
+    "login": "zuki",
+    "displayName": "zuki",
+    "title": "[new drops] NTMR Coach | ranked | Embark Creator | !coaching !mouse !sens !res !femboy",
+    "viewers": 5,
+    "startedAt": "2026-11-04T16:59:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
+    "rank": 100,
+    "name": "zuki#8633",
+    "rankScore": 52157,
+    "matchedBy": "name"
+   },
+   {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 9,
+    "viewers": 11,
     "startedAt": "2026-11-04T14:55:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 127,
     "name": "Ilprune#5174",
     "rankScore": 51300,
+    "matchedBy": "name"
+   },
+   {
+    "login": "wutum",
+    "displayName": "WuTum",
+    "title": "TGM26 Qualified #VGGWIN // Scrim vs RAD !sens",
+    "viewers": 1,
+    "startedAt": "2026-11-04T17:02:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
+    "rank": 167,
+    "name": "WuTum#7032",
+    "rankScore": 50239,
     "matchedBy": "name"
    },
    {

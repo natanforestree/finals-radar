@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T16:10:32Z",
+ "generatedAt": "2026-11-04T16:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T16:01:31Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 24,
  "allActive": 289,
  "rubyShare": 0.083,
- "steamPlayers": 14227,
+ "steamPlayers": 14115,
  "rubyCutoff": 45603,
  "grinding": [
   {
@@ -208,14 +208,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T16:10:32Z",
-  "totalStreams": 124,
+  "checkedAt": "2026-11-04T16:20:32Z",
+  "totalStreams": 135,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 162,
+    "viewers": 163,
     "startedAt": "2026-11-04T09:44:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -227,7 +227,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "[!Drops] AKM/P90??? | Embark Partner 💎",
-    "viewers": 55,
+    "viewers": 56,
     "startedAt": "2026-11-04T12:17:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 63,
@@ -236,10 +236,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "notbubbaa_",
+    "displayName": "notbubbaa_",
+    "title": "[DROPS 100x] Major Prep | SOLO Q RANKED | Vid later | !insta !dicord",
+    "viewers": 14,
+    "startedAt": "2026-11-04T16:13:03Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
+    "rank": 78,
+    "name": "notBubbaa#0965",
+    "rankScore": 52922,
+    "matchedBy": "name"
+   },
+   {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 4,
+    "viewers": 7,
     "startedAt": "2026-11-04T14:55:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 116,
@@ -251,7 +263,7 @@
     "login": "basiics",
     "displayName": "basiics",
     "title": "S5 Number 1 rated pro | #1 Solo Q Record Holder | S7 Top 10 Rank finish",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-11-04T15:27:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_basiics-{width}x{height}.jpg",
     "rank": 143,
@@ -263,7 +275,7 @@
     "login": "wutum",
     "displayName": "WuTum",
     "title": "TGM26 Qualified #VGGWIN // Ranked grind !sens",
-    "viewers": 12,
+    "viewers": 14,
     "startedAt": "2026-11-04T13:48:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
     "rank": 189,
@@ -296,7 +308,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "the_bouncerttv",
+    "displayName": "The_BouncerTTV",
+    "title": "{DROPS} Road To Ruby With The Bouncer",
+    "viewers": 4,
+    "startedAt": "2026-11-04T16:16:10Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_the_bouncerttv-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

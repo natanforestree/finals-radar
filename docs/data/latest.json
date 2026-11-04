@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T15:00:33Z",
+ "generatedAt": "2026-11-04T15:10:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-04T14:03:17Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 34,
  "allActive": 301,
  "rubyShare": 0.113,
- "steamPlayers": 12749,
+ "steamPlayers": 12977,
  "rubyCutoff": 45603,
  "grinding": [
   {
@@ -288,14 +288,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-04T15:00:33Z",
-  "totalStreams": 88,
+  "checkedAt": "2026-11-04T15:10:33Z",
+  "totalStreams": 108,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 91,
+    "viewers": 92,
     "startedAt": "2026-11-04T09:44:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -307,7 +307,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "[!Drops] AKM/P90??? | Embark Partner 💎",
-    "viewers": 55,
+    "viewers": 48,
     "startedAt": "2026-11-04T12:17:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 60,
@@ -316,19 +316,52 @@
     "matchedBy": "name"
    },
    {
+    "login": "ilprune",
+    "displayName": "Ilprune",
+    "title": "The Finals RANKED",
+    "viewers": 1,
+    "startedAt": "2026-11-04T14:55:50Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
+    "rank": 131,
+    "name": "Ilprune#5174",
+    "rankScore": 51158,
+    "matchedBy": "name"
+   },
+   {
     "login": "wutum",
     "displayName": "WuTum",
     "title": "TGM26 Qualified #VGGWIN // Ranked grind !sens",
-    "viewers": 11,
+    "viewers": 14,
     "startedAt": "2026-11-04T13:48:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
     "rank": 172,
     "name": "WuTum#7032",
     "rankScore": 50044,
     "matchedBy": "name"
+   },
+   {
+    "login": "regularfishie",
+    "displayName": "RegularFishie",
+    "title": "[DROPS!!] Sword onetrick hitting Diamond 1 today!🔥🔥🔥!clips",
+    "viewers": 5,
+    "startedAt": "2026-11-04T14:55:16Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_regularfishie-{width}x{height}.jpg",
+    "rank": 459,
+    "name": "RegularFishieTTV#2069",
+    "rankScore": 46027,
+    "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "LIGNE ZERO / light ruby / RANKEDDDDDDDD !!!!!!!!",
+    "viewers": 3,
+    "startedAt": "2026-11-04T14:59:15Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

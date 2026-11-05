@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T04:20:31Z",
+ "generatedAt": "2026-11-05T04:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-05T04:19:19Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 40,
  "allActive": 430,
  "rubyShare": 0.093,
- "steamPlayers": 14646,
+ "steamPlayers": 14433,
  "rubyCutoff": 45698,
  "grinding": [
   {
@@ -131,7 +131,7 @@
    "delta": 271,
    "rankScore": 50268,
    "club": "VGG",
-   "twitch": "appoh"
+   "twitch": null
   },
   {
    "rank": 185,
@@ -336,14 +336,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-05T04:20:31Z",
-  "totalStreams": 233,
+  "checkedAt": "2026-11-05T04:30:32Z",
+  "totalStreams": 224,
   "rubyLive": [
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] THEY FREED CC THEY FINALLY FREED CC | THANK YOU GUYS FOR PARTNER PLUS 2/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 130,
+    "viewers": 135,
     "startedAt": "2026-11-05T01:27:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 76,
@@ -352,22 +352,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "appoh",
-    "displayName": "Appoh",
-    "title": "(!Drops) Yerp - !Coach - Embark Partner - VGG Coach",
-    "viewers": 108,
-    "startedAt": "2026-11-05T01:32:52Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
-    "rank": 172,
-    "name": "Appoh#9173",
-    "rankScore": 50268,
-    "matchedBy": "name"
-   },
-   {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Duo Q Ranked in Ruby",
-    "viewers": 143,
+    "viewers": 129,
     "startedAt": "2026-11-05T01:48:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 368,
@@ -389,7 +377,7 @@
     "login": "chickenduckee",
     "displayName": "ChickenDuckee",
     "title": "somehow playing against ruby and diamond in norms (I am not that good)",
-    "viewers": 3,
+    "viewers": 4,
     "startedAt": "2026-11-05T03:31:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_chickenduckee-{width}x{height}.jpg"
    },

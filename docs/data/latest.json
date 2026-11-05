@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T10:10:35Z",
+ "generatedAt": "2026-11-05T10:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-05T09:47:54Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 28,
  "allActive": 204,
  "rubyShare": 0.1373,
- "steamPlayers": 6831,
+ "steamPlayers": 7139,
  "rubyCutoff": 45698,
  "grinding": [
   {
@@ -240,14 +240,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-05T10:10:35Z",
-  "totalStreams": 77,
+  "checkedAt": "2026-11-05T10:20:32Z",
+  "totalStreams": 76,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND // FCAR BUFF WATDAHELLY│!coaching !youtube !discord",
-    "viewers": 79,
+    "viewers": 90,
     "startedAt": "2026-11-05T08:44:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -268,7 +268,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "laiiird",
+    "displayName": "laiiird",
+    "title": "GRIND TO RUBY SOLOQ",
+    "viewers": 0,
+    "startedAt": "2026-11-05T10:13:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_laiiird-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

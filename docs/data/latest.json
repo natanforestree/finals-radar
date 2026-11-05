@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T09:50:32Z",
+ "generatedAt": "2026-11-05T10:00:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-05T09:47:54Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 28,
  "allActive": 204,
  "rubyShare": 0.1373,
- "steamPlayers": 6779,
+ "steamPlayers": 6793,
  "rubyCutoff": 45698,
  "grinding": [
   {
@@ -195,7 +195,7 @@
    "delta": 169,
    "rankScore": 48435,
    "club": "DIGA",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 284,
@@ -240,14 +240,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-05T09:50:32Z",
+  "checkedAt": "2026-11-05T10:00:32Z",
   "totalStreams": 76,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 58,
+    "viewers": 61,
     "startedAt": "2026-11-05T08:44:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -259,24 +259,12 @@
     "login": "mdiym",
     "displayName": "mdiym",
     "title": "[!drop] og larp | !ad: 30s/1hr",
-    "viewers": 5,
+    "viewers": 6,
     "startedAt": "2026-11-05T04:32:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
     "rank": 234,
     "name": "mdiym#9757",
     "rankScore": 49070,
-    "matchedBy": "name"
-   },
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] SoloQ Ruby in Ranked",
-    "viewers": 71,
-    "startedAt": "2026-11-05T01:48:25Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 282,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 48435,
     "matchedBy": "name"
    }
   ],

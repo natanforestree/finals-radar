@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T06:20:31Z",
+ "generatedAt": "2026-11-05T06:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-05T06:19:46Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 36,
  "allActive": 343,
  "rubyShare": 0.105,
- "steamPlayers": 10230,
+ "steamPlayers": 9822,
  "rubyCutoff": 45694,
  "grinding": [
   {
@@ -304,14 +304,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-05T06:20:31Z",
-  "totalStreams": 153,
+  "checkedAt": "2026-11-05T06:30:32Z",
+  "totalStreams": 150,
   "rubyLive": [
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] THEY FREED CC THEY FINALLY FREED CC | THANK YOU GUYS FOR PARTNER PLUS 2/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 182,
+    "viewers": 180,
     "startedAt": "2026-11-05T01:27:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 74,
@@ -320,10 +320,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[DROPS] short strem - !FinalsRS !yt !discord",
+    "viewers": 2,
+    "startedAt": "2026-11-05T06:26:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 212,
+    "name": "Antiparty#0866",
+    "rankScore": 49397,
+    "matchedBy": "name"
+   },
+   {
     "login": "kruhashere",
     "displayName": "kruhashere",
     "title": "top 500 riot only rip bfc",
-    "viewers": 4,
+    "viewers": 1,
     "startedAt": "2026-11-05T05:38:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kruhashere-{width}x{height}.jpg",
     "rank": 323,
@@ -335,7 +347,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby godstack in Ranked",
-    "viewers": 145,
+    "viewers": 127,
     "startedAt": "2026-11-05T01:48:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 393,
@@ -349,9 +361,17 @@
     "login": "mcdonut_ttv",
     "displayName": "Mcdonut_ttv",
     "title": "Top 500 Ranked grind",
-    "viewers": 1,
+    "viewers": 3,
     "startedAt": "2026-11-05T05:25:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mcdonut_ttv-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 3,
+    "startedAt": "2026-11-05T06:24:24Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }
   ]
  },

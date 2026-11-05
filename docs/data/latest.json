@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T08:40:32Z",
+ "generatedAt": "2026-11-05T08:50:34Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-05T08:26:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 41,
  "allActive": 243,
  "rubyShare": 0.1687,
- "steamPlayers": 7033,
+ "steamPlayers": 6925,
  "rubyCutoff": 45692,
  "grinding": [
   {
@@ -195,7 +195,7 @@
    "delta": -355,
    "rankScore": 49716,
    "club": "GOONU",
-   "twitch": "antiparty"
+   "twitch": null
   },
   {
    "rank": 214,
@@ -344,9 +344,21 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-05T08:40:32Z",
-  "totalStreams": 103,
+  "checkedAt": "2026-11-05T08:50:34Z",
+  "totalStreams": 99,
   "rubyLive": [
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
+    "viewers": 19,
+    "startedAt": "2026-11-05T08:44:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 2,
+    "name": "perzzonTTV#5485",
+    "rankScore": 63002,
+    "matchedBy": "name"
+   },
    {
     "login": "sly_mee",
     "displayName": "sly_mee",
@@ -360,22 +372,22 @@
     "matchedBy": "name"
    },
    {
-    "login": "antiparty",
-    "displayName": "Antiparty",
-    "title": "[DROPS] short strem - !FinalsRS !yt !discord",
-    "viewers": 12,
-    "startedAt": "2026-11-05T06:26:49Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 202,
-    "name": "Antiparty#0866",
-    "rankScore": 49716,
+    "login": "mdiym",
+    "displayName": "mdiym",
+    "title": "[!drop] og larp | !ad: 30s/1hr",
+    "viewers": 11,
+    "startedAt": "2026-11-05T04:32:37Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
+    "rank": 232,
+    "name": "mdiym#9757",
+    "rankScore": 49097,
     "matchedBy": "name"
    },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] SoloQ Ruby in Ranked",
-    "viewers": 135,
+    "viewers": 130,
     "startedAt": "2026-11-05T01:48:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 308,

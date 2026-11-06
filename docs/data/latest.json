@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T00:40:32Z",
+ "generatedAt": "2026-11-06T00:50:34Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T00:32:36Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 27,
  "allActive": 323,
  "rubyShare": 0.0836,
- "steamPlayers": 15254,
+ "steamPlayers": 15335,
  "rubyCutoff": 45903,
  "grinding": [
   {
@@ -51,7 +51,7 @@
    "delta": 201,
    "rankScore": 53672,
    "club": "MORI",
-   "twitch": "skreydeen"
+   "twitch": null
   },
   {
    "rank": 83,
@@ -232,26 +232,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T00:40:32Z",
+  "checkedAt": "2026-11-06T00:50:34Z",
   "totalStreams": 215,
   "rubyLive": [
-   {
-    "login": "skreydeen",
-    "displayName": "SkreyDeen",
-    "title": "Lil stream and lil ranked",
-    "viewers": 7,
-    "startedAt": "2026-11-05T21:51:27Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
-    "rank": 78,
-    "name": "SkreyDeen#2116",
-    "rankScore": 53672,
-    "matchedBy": "name"
-   },
    {
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(!Drops) Ranked stuff - !Coach - Embark Partner - VGG Coach",
-    "viewers": 131,
+    "viewers": 101,
     "startedAt": "2026-11-05T18:45:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 248,
@@ -263,7 +251,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] MEDIUM BUFFS!?!? | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 104,
+    "viewers": 91,
     "startedAt": "2026-11-05T21:22:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 277,
@@ -287,7 +275,7 @@
     "login": "detaail",
     "displayName": "DeTaaiL",
     "title": "GOON SQUAD RANKED",
-    "viewers": 5,
+    "viewers": 7,
     "startedAt": "2026-11-06T00:19:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_detaail-{width}x{height}.jpg",
     "rank": 445,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T16:10:32Z",
+ "generatedAt": "2026-11-06T16:20:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T16:08:03Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 39,
  "allActive": 354,
  "rubyShare": 0.1102,
- "steamPlayers": 13878,
+ "steamPlayers": 13984,
  "rubyCutoff": 46156,
  "grinding": [
   {
@@ -328,14 +328,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T16:10:32Z",
-  "totalStreams": 124,
+  "checkedAt": "2026-11-06T16:20:33Z",
+  "totalStreams": 120,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 114,
+    "viewers": 120,
     "startedAt": "2026-11-06T14:54:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -347,7 +347,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "2x major",
-    "viewers": 87,
+    "viewers": 70,
     "startedAt": "2026-11-06T13:44:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 36,
@@ -356,10 +356,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "asht0ta",
+    "displayName": "ASHT0TA",
+    "title": "chilling",
+    "viewers": 0,
+    "startedAt": "2026-11-06T16:10:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asht0ta-{width}x{height}.jpg",
+    "rank": 384,
+    "name": "ASHT0TA#1939",
+    "rankScore": 47228,
+    "matchedBy": "name"
+   },
+   {
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 5,
+    "viewers": 7,
     "startedAt": "2026-11-06T14:46:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 426,
@@ -374,7 +386,7 @@
     "displayName": "Teoma96",
     "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
     "viewers": 1,
-    "startedAt": "2026-11-06T15:50:07Z",
+    "startedAt": "2026-11-06T16:19:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }
   ]

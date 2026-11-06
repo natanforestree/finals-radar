@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T21:50:32Z",
+ "generatedAt": "2026-11-06T22:00:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T21:36:44Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 39,
  "allActive": 345,
  "rubyShare": 0.113,
- "steamPlayers": 19429,
+ "steamPlayers": 19332,
  "rubyCutoff": 46215,
  "grinding": [
   {
@@ -19,7 +19,7 @@
    "delta": -102,
    "rankScore": 63826,
    "club": "PRZN",
-   "twitch": "perzzon"
+   "twitch": null
   },
   {
    "rank": 31,
@@ -328,26 +328,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T21:50:32Z",
-  "totalStreams": 225,
+  "checkedAt": "2026-11-06T22:00:32Z",
+  "totalStreams": 229,
   "rubyLive": [
-   {
-    "login": "perzzon",
-    "displayName": "Perzzon",
-    "title": "[99xDROPS] I lost my RANK #1, so now its time to get it back│!coaching !youtube !discord",
-    "viewers": 120,
-    "startedAt": "2026-11-06T14:54:45Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 2,
-    "name": "perzzonTTV#5485",
-    "rankScore": 63826,
-    "matchedBy": "name"
-   },
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "2x major",
-    "viewers": 151,
+    "viewers": 174,
     "startedAt": "2026-11-06T19:39:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 36,
@@ -371,7 +359,7 @@
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "My RS is Gone, But My Determination Isn't!",
-    "viewers": 12,
+    "viewers": 13,
     "startedAt": "2026-11-06T21:16:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 406,
@@ -385,7 +373,7 @@
     "login": "teoma96",
     "displayName": "Teoma96",
     "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 2,
+    "viewers": 4,
     "startedAt": "2026-11-06T17:48:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T14:10:33Z",
+ "generatedAt": "2026-11-06T14:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T14:07:57Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 280,
  "rubyShare": 0.125,
- "steamPlayers": 11365,
+ "steamPlayers": 11652,
  "rubyCutoff": 46156,
  "grinding": [
   {
@@ -155,7 +155,7 @@
    "delta": -52,
    "rankScore": 49549,
    "club": "GOONU",
-   "twitch": "mdiym"
+   "twitch": null
   },
   {
    "rank": 230,
@@ -296,14 +296,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T14:10:33Z",
-  "totalStreams": 79,
+  "checkedAt": "2026-11-06T14:20:32Z",
+  "totalStreams": 80,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "2x major",
-    "viewers": 62,
+    "viewers": 48,
     "startedAt": "2026-11-06T13:44:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 39,
@@ -315,24 +315,12 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Back on 4:3? Training EVERYDAY | Embark Partner 💎",
-    "viewers": 57,
+    "viewers": 51,
     "startedAt": "2026-11-06T09:47:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 62,
     "name": "Etelco#8323",
     "rankScore": 54571,
-    "matchedBy": "name"
-   },
-   {
-    "login": "mdiym",
-    "displayName": "mdiym",
-    "title": "[!drop] games | !ad: 30s/1hr",
-    "viewers": 26,
-    "startedAt": "2026-11-06T13:25:14Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
-    "rank": 217,
-    "name": "mdiym#9757",
-    "rankScore": 49549,
     "matchedBy": "name"
    }
   ],

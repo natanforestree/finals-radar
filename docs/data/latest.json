@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T09:50:31Z",
+ "generatedAt": "2026-11-06T10:00:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T09:32:15Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 21,
  "allActive": 156,
  "rubyShare": 0.1346,
- "steamPlayers": 7122,
+ "steamPlayers": 7081,
  "rubyCutoff": 46129,
  "grinding": [
   {
@@ -184,14 +184,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T09:50:31Z",
-  "totalStreams": 76,
+  "checkedAt": "2026-11-06T10:00:33Z",
+  "totalStreams": 79,
   "rubyLive": [
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "[99xDROPS] RANK #1 GRIND // Chimera Gaming│!coaching !youtube !discord",
+    "viewers": 19,
+    "startedAt": "2026-11-06T09:51:26Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 2,
+    "name": "perzzonTTV#5485",
+    "rankScore": 63485,
+    "matchedBy": "name"
+   },
    {
     "login": "knot4long",
     "displayName": "knot4long",
     "title": "FINALS🌸",
-    "viewers": 6,
+    "viewers": 3,
     "startedAt": "2026-11-06T08:41:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
     "rank": 67,
@@ -200,10 +212,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "etelco",
+    "displayName": "Etelco",
+    "title": "Back on 4:3? Training EVERYDAY | Embark Partner 💎",
+    "viewers": 26,
+    "startedAt": "2026-11-06T09:47:54Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
+    "rank": 79,
+    "name": "Etelco#8323",
+    "rankScore": 53814,
+    "matchedBy": "name"
+   },
+   {
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "I got some good rest / Korean / APE SQUAD /",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-11-06T09:18:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 125,
@@ -229,7 +253,7 @@
     "login": "iri_ttv",
     "displayName": "iri_TTV",
     "title": "S12 THE FINALS #1 RUBY M60 SOLOQ RAWNK | CANT SLEEP? JOIN ME! | #VGGWINS | NEW YT VIDEO (!vid !yt)| DROPPSSSSSSSS",
-    "viewers": 28,
+    "viewers": 24,
     "startedAt": "2026-11-06T07:37:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_iri_ttv-{width}x{height}.jpg"
    }

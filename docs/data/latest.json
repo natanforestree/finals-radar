@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T17:10:32Z",
+ "generatedAt": "2026-11-06T17:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T17:10:09Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 42,
  "allActive": 394,
  "rubyShare": 0.1066,
- "steamPlayers": 15169,
+ "steamPlayers": 15403,
  "rubyCutoff": 46162,
  "grinding": [
   {
@@ -352,14 +352,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T17:10:32Z",
-  "totalStreams": 152,
+  "checkedAt": "2026-11-06T17:20:32Z",
+  "totalStreams": 150,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
-    "viewers": 109,
+    "viewers": 133,
     "startedAt": "2026-11-06T14:54:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -371,7 +371,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Scrim vs Alliance (with our sub) | Embark Partner 💎",
-    "viewers": 29,
+    "viewers": 33,
     "startedAt": "2026-11-06T16:56:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 63,
@@ -392,34 +392,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "appoh",
-    "displayName": "Appoh",
-    "title": "EU Scrim Fill Suffering :'( - !Coach - Embark Partner - VGG Coach",
-    "viewers": 56,
-    "startedAt": "2026-11-06T16:26:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
-    "rank": 192,
-    "name": "Appoh#9173",
-    "rankScore": 50116,
-    "matchedBy": "name"
-   },
-   {
-    "login": "asht0ta",
-    "displayName": "ASHT0TA",
-    "title": "chilling",
-    "viewers": 0,
-    "startedAt": "2026-11-06T16:10:35Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asht0ta-{width}x{height}.jpg",
-    "rank": 386,
-    "name": "ASHT0TA#1939",
-    "rankScore": 47228,
-    "matchedBy": "name"
-   },
-   {
     "login": "prezzttv",
     "displayName": "Prezzttv",
     "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-11-06T14:46:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
     "rank": 431,
@@ -431,7 +407,7 @@
     "login": "he_talent",
     "displayName": "He_TaLenT",
     "title": "[𝐑𝐔] ☯ Мотивацию надо подняьб ☯ !Commands",
-    "viewers": 1,
+    "viewers": 5,
     "startedAt": "2026-11-06T14:37:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_he_talent-{width}x{height}.jpg",
     "rank": 445,
@@ -440,7 +416,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "ginooss",
+    "displayName": "GinooSS",
+    "title": "Top500.",
+    "viewers": 1,
+    "startedAt": "2026-11-06T17:17:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ginooss-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

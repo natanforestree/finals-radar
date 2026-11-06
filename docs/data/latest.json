@@ -1,273 +1,89 @@
 {
- "generatedAt": "2026-11-06T11:10:32Z",
+ "generatedAt": "2026-11-06T11:20:32Z",
  "season": "s12",
- "leaderboardUpdatedAt": "2026-11-06T11:03:03Z",
+ "leaderboardUpdatedAt": "2026-11-06T11:18:09Z",
  "window": {
-  "from": "2026-11-06T10:18:44Z",
-  "to": "2026-11-06T11:03:03Z",
-  "minutes": 44.3
+  "from": "2026-11-06T11:03:03Z",
+  "to": "2026-11-06T11:18:09Z",
+  "minutes": 15.1
  },
- "rubyActive": 29,
- "allActive": 255,
- "rubyShare": 0.1137,
+ "rubyActive": 6,
+ "allActive": 95,
+ "rubyShare": 0.0632,
  "steamPlayers": 8219,
- "rubyCutoff": 46128,
+ "rubyCutoff": 46129,
  "grinding": [
   {
    "rank": 2,
    "name": "perzzonTTV#5485",
-   "delta": 25,
-   "rankScore": 63510,
+   "delta": 24,
+   "rankScore": 63534,
    "club": "PRZN",
    "twitch": "perzzon"
   },
   {
    "rank": 8,
    "name": "carnifex#7330",
-   "delta": 34,
-   "rankScore": 61601,
+   "delta": 33,
+   "rankScore": 61634,
    "club": "5F",
    "twitch": null
   },
   {
-   "rank": 17,
-   "name": "shaman#4170",
-   "delta": 60,
-   "rankScore": 59806,
-   "club": "ENVY",
-   "twitch": null
-  },
-  {
-   "rank": 19,
+   "rank": 18,
    "name": "Deadplate_ttv#7083",
-   "delta": 46,
-   "rankScore": 59476,
+   "delta": 44,
+   "rankScore": 59520,
    "club": "NFNIT",
    "twitch": null
   },
   {
-   "rank": 42,
-   "name": "Msj#5683",
-   "delta": 154,
-   "rankScore": 56261,
-   "club": "T0GGL",
-   "twitch": null
-  },
-  {
-   "rank": 51,
-   "name": "nomad#6612",
-   "delta": 169,
-   "rankScore": 55439,
-   "club": "ABG4",
-   "twitch": null
-  },
-  {
-   "rank": 127,
-   "name": "YangDoun#0398",
-   "delta": -205,
-   "rankScore": 51788,
-   "club": "APES",
-   "twitch": "yangdoun"
-  },
-  {
-   "rank": 133,
-   "name": "Morphisxx23#0991",
-   "delta": 104,
-   "rankScore": 51457,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 153,
-   "name": "Antiparty#0866",
-   "delta": 256,
-   "rankScore": 50970,
-   "club": "GOONU",
-   "twitch": "antiparty"
-  },
-  {
-   "rank": 171,
-   "name": "pharaoh#0939",
-   "delta": 155,
-   "rankScore": 50648,
-   "club": "PYR",
-   "twitch": null
-  },
-  {
-   "rank": 176,
-   "name": "IgnisAeternus#5551",
-   "delta": 308,
-   "rankScore": 50543,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 188,
-   "name": "mdiym#9757",
-   "delta": 272,
-   "rankScore": 50231,
-   "club": "GOONU",
-   "twitch": "mdiym"
-  },
-  {
-   "rank": 196,
-   "name": "CallMeJenga#3471",
-   "delta": 275,
-   "rankScore": 50096,
-   "club": "RS1",
-   "twitch": null
-  },
-  {
-   "rank": 211,
-   "name": "rAcC0oNs#1814",
-   "delta": 224,
-   "rankScore": 49691,
-   "club": "Z333",
-   "twitch": null
-  },
-  {
-   "rank": 216,
-   "name": "QT#2379",
-   "delta": 334,
-   "rankScore": 49555,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 254,
-   "name": "7res#5114",
-   "delta": -284,
-   "rankScore": 49054,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 265,
-   "name": "TikTok-Colada#0392",
-   "delta": 303,
-   "rankScore": 48870,
-   "club": "PIINA",
-   "twitch": null
-  },
-  {
-   "rank": 269,
-   "name": "Mantra#6657",
-   "delta": 305,
-   "rankScore": 48792,
-   "club": "YN",
-   "twitch": null
-  },
-  {
-   "rank": 277,
-   "name": "Killer#0498",
-   "delta": 244,
-   "rankScore": 48570,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 278,
-   "name": "21SWAGES#7146",
-   "delta": -295,
-   "rankScore": 48540,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 296,
-   "name": "Barb#9966",
-   "delta": 318,
-   "rankScore": 48265,
-   "club": "ABG4",
-   "twitch": null
-  },
-  {
-   "rank": 302,
-   "name": "WinchHunteRr#1033",
-   "delta": -304,
-   "rankScore": 48141,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 303,
-   "name": "Swerzie#5982",
-   "delta": 321,
-   "rankScore": 48127,
-   "club": "T0GGL",
-   "twitch": null
-  },
-  {
-   "rank": 313,
-   "name": "TheFinalist#1927",
-   "delta": 376,
-   "rankScore": 48025,
-   "club": null,
-   "twitch": null
-  },
-  {
-   "rank": 331,
+   "rank": 297,
    "name": "Shxdow#7766",
-   "delta": -646,
-   "rankScore": 47851,
+   "delta": 389,
+   "rankScore": 48240,
    "club": "TF4R",
    "twitch": null
   },
   {
-   "rank": 341,
-   "name": "bigdmuscleman#0736",
-   "delta": 140,
-   "rankScore": 47742,
+   "rank": 310,
+   "name": "Genjuu#2082",
+   "delta": 522,
+   "rankScore": 48096,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 377,
-   "name": "SoloQnnn#9460",
-   "delta": 340,
-   "rankScore": 47370,
-   "club": "CRU3L",
-   "twitch": null
-  },
-  {
-   "rank": 398,
-   "name": "MatoTM#7141",
-   "delta": 767,
-   "rankScore": 47133,
-   "club": "TMATO",
-   "twitch": null
-  },
-  {
-   "rank": 495,
-   "name": "xExotiic#2893",
-   "delta": -363,
-   "rankScore": 46160,
-   "club": "ALL",
+   "rank": 463,
+   "name": "STAMPEDE#4845",
+   "delta": 365,
+   "rankScore": 46393,
+   "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T11:10:32Z",
-  "totalStreams": 66,
+  "checkedAt": "2026-11-06T11:20:32Z",
+  "totalStreams": 64,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND // Chimera Gaming│!coaching !youtube !discord",
-    "viewers": 74,
+    "viewers": 86,
     "startedAt": "2026-11-06T09:51:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
     "name": "perzzonTTV#5485",
-    "rankScore": 63510,
+    "rankScore": 63534,
     "matchedBy": "name"
    },
    {
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Back on 4:3? Training EVERYDAY | Embark Partner 💎",
-    "viewers": 17,
+    "viewers": 12,
     "startedAt": "2026-11-06T09:47:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 79,
@@ -279,7 +95,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "I got some good rest / Korean / APE SQUAD /",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-11-06T09:18:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 127,
@@ -291,7 +107,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] short strem - !FinalsRS !yt !discord",
-    "viewers": 9,
+    "viewers": 6,
     "startedAt": "2026-11-06T10:07:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 153,
@@ -318,7 +134,7 @@
   "ready": true,
   "placed": {
    "ruby": 437,
-   "all": 5435
+   "all": 5433
   },
   "rubyByRegion": {
    "am": 210,
@@ -327,20 +143,20 @@
   },
   "window": {
    "am": {
-    "ruby": 5,
-    "all": 31
+    "ruby": 0,
+    "all": 9
    },
    "eu": {
-    "ruby": 5,
-    "all": 45
+    "ruby": 3,
+    "all": 28
    },
    "ap": {
-    "ruby": 15,
-    "all": 87
+    "ruby": 3,
+    "all": 35
    },
    "unplaced": {
-    "ruby": 4,
-    "all": 92
+    "ruby": 0,
+    "all": 23
    }
   }
  },

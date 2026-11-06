@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T00:10:34Z",
+ "generatedAt": "2026-11-06T00:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T00:02:22Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 42,
  "allActive": 439,
  "rubyShare": 0.0957,
- "steamPlayers": 15021,
+ "steamPlayers": 0,
  "rubyCutoff": 45876,
  "grinding": [
   {
@@ -99,7 +99,7 @@
    "delta": -387,
    "rankScore": 52701,
    "club": null,
-   "twitch": "elmeromeyer"
+   "twitch": null
   },
   {
    "rank": 116,
@@ -195,7 +195,7 @@
    "delta": 296,
    "rankScore": 48610,
    "club": null,
-   "twitch": "angelxttv"
+   "twitch": null
   },
   {
    "rank": 269,
@@ -352,14 +352,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T00:10:34Z",
+  "checkedAt": "2026-11-06T00:20:32Z",
   "totalStreams": 212,
   "rubyLive": [
    {
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "CHIMERA META",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-11-05T22:44:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 28,
@@ -371,7 +371,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Lil stream and lil ranked",
-    "viewers": 9,
+    "viewers": 8,
     "startedAt": "2026-11-05T21:51:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 82,
@@ -380,22 +380,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "elmeromeyer",
-    "displayName": "elmeromeyer",
-    "title": "Rankeds",
-    "viewers": 2,
-    "startedAt": "2026-11-06T00:08:30Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmeromeyer-{width}x{height}.jpg",
-    "rank": 103,
-    "name": "GGS#1020",
-    "rankScore": 52701,
-    "matchedBy": "name"
-   },
-   {
     "login": "sinthonize",
     "displayName": "sinthonize",
     "title": "Freak Peak We Grinding Contracts 🙈The Finals Season 12🫪| THE FINALS",
-    "viewers": 3,
+    "viewers": 2,
     "startedAt": "2026-11-05T23:32:30Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sinthonize-{width}x{height}.jpg",
     "rank": 157,
@@ -406,8 +394,8 @@
    {
     "login": "appoh",
     "displayName": "Appoh",
-    "title": "(!Drops) Solo Ranked? - !Coach - Embark Partner - VGG Coach",
-    "viewers": 128,
+    "title": "(!Drops) Ranked stuff - !Coach - Embark Partner - VGG Coach",
+    "viewers": 118,
     "startedAt": "2026-11-05T18:45:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 213,
@@ -416,27 +404,27 @@
     "matchedBy": "name"
    },
    {
-    "login": "angelxttv",
-    "displayName": "angelxttv",
-    "title": "Rankeeeeeed DAY 4.....| 🎁 !drops | 💬 !discord | 🎵 !tiktok | ▶️ !youtube |",
-    "viewers": 4,
-    "startedAt": "2026-11-05T20:32:14Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelxttv-{width}x{height}.jpg",
-    "rank": 267,
-    "name": "angelxTTV#1346",
-    "rankScore": 48610,
-    "matchedBy": "name"
-   },
-   {
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] MEDIUM BUFFS!?!? | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 97,
+    "viewers": 106,
     "startedAt": "2026-11-05T21:22:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 278,
     "name": "Sanguine#5740",
     "rankScore": 48469,
+    "matchedBy": "name"
+   },
+   {
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
+    "viewers": 2,
+    "startedAt": "2026-11-06T00:11:32Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
+    "rank": 353,
+    "name": "bobiduity#2959",
+    "rankScore": 47557,
     "matchedBy": "name"
    },
    {
@@ -454,20 +442,20 @@
   ],
   "titleMentions": [
    {
-    "login": "aniskw",
-    "displayName": "AniSkw",
-    "title": "Ani ROAD TO RUBY 💎 Heavy gameplay  w/ zute",
-    "viewers": 3,
-    "startedAt": "2026-11-05T19:50:28Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aniskw-{width}x{height}.jpg"
-   },
-   {
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 1,
+    "viewers": 5,
     "startedAt": "2026-11-05T23:41:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
+   },
+   {
+    "login": "aniskw",
+    "displayName": "AniSkw",
+    "title": "Ani ROAD TO RUBY 💎 Heavy gameplay  w/ zute",
+    "viewers": 4,
+    "startedAt": "2026-11-05T19:50:28Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_aniskw-{width}x{height}.jpg"
    },
    {
     "login": "asorxy",

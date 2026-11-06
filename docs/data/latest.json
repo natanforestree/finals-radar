@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T22:20:32Z",
+ "generatedAt": "2026-11-06T22:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T22:17:59Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 24,
  "allActive": 299,
  "rubyShare": 0.0803,
- "steamPlayers": 19063,
+ "steamPlayers": 18700,
  "rubyCutoff": 46212,
  "grinding": [
   {
@@ -208,14 +208,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T22:20:32Z",
-  "totalStreams": 235,
+  "checkedAt": "2026-11-06T22:30:32Z",
+  "totalStreams": 230,
   "rubyLive": [
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "2x major",
-    "viewers": 159,
+    "viewers": 142,
     "startedAt": "2026-11-06T19:39:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 34,
@@ -227,12 +227,24 @@
     "login": "paquerette_0515",
     "displayName": "paquerette_0515",
     "title": "The finals top 5OO player",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-11-06T21:15:06Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
     "rank": 365,
     "name": "paquerette#3586",
     "rankScore": 47504,
+    "matchedBy": "name"
+   },
+   {
+    "login": "cueteepai",
+    "displayName": "cueteepai",
+    "title": "spear spear spear spear WITH @ZESTYYmoose",
+    "viewers": 2,
+    "startedAt": "2026-11-06T22:25:40Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
+    "rank": 432,
+    "name": "cueteepai.tv#9915",
+    "rankScore": 46930,
     "matchedBy": "name"
    },
    {
@@ -264,14 +276,6 @@
     "viewers": 1,
     "startedAt": "2026-11-06T21:16:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_progamerdx1-{width}x{height}.jpg"
-   },
-   {
-    "login": "reb0rntitan16",
-    "displayName": "Reb0rnTitan16",
-    "title": "Washed Up Top 500 Player Tries Season 12",
-    "viewers": 1,
-    "startedAt": "2026-11-06T21:41:23Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_reb0rntitan16-{width}x{height}.jpg"
    }
   ]
  },

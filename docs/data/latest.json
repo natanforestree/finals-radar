@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T10:10:33Z",
+ "generatedAt": "2026-11-06T10:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T10:02:37Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 24,
  "allActive": 208,
  "rubyShare": 0.1154,
- "steamPlayers": 7238,
+ "steamPlayers": 7350,
  "rubyCutoff": 46129,
  "grinding": [
   {
@@ -59,7 +59,7 @@
    "delta": -436,
    "rankScore": 50714,
    "club": "GOONU",
-   "twitch": null
+   "twitch": "antiparty"
   },
   {
    "rank": 182,
@@ -208,14 +208,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T10:10:33Z",
-  "totalStreams": 72,
+  "checkedAt": "2026-11-06T10:20:32Z",
+  "totalStreams": 74,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 GRIND // Chimera Gaming│!coaching !youtube !discord",
-    "viewers": 27,
+    "viewers": 39,
     "startedAt": "2026-11-06T09:51:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -227,7 +227,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Back on 4:3? Training EVERYDAY | Embark Partner 💎",
-    "viewers": 30,
+    "viewers": 31,
     "startedAt": "2026-11-06T09:47:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 79,
@@ -239,7 +239,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "I got some good rest / Korean / APE SQUAD /",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-11-06T09:18:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 125,
@@ -248,15 +248,27 @@
     "matchedBy": "name"
    },
    {
-    "login": "isogodlegend",
-    "displayName": "IsoGodLegend",
-    "title": "Diamond 1 - season 12 top",
-    "viewers": 1,
-    "startedAt": "2026-11-06T06:46:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_isogodlegend-{width}x{height}.jpg",
-    "rank": 222,
-    "name": "Iso#7371",
-    "rankScore": 49447,
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[DROPS] short strem - !FinalsRS !yt !discord",
+    "viewers": 3,
+    "startedAt": "2026-11-06T10:07:38Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 168,
+    "name": "Antiparty#0866",
+    "rankScore": 50714,
+    "matchedBy": "name"
+   },
+   {
+    "login": "mdiym",
+    "displayName": "mdiym",
+    "title": "[!drop] games | !ad: 30s/1hr",
+    "viewers": 4,
+    "startedAt": "2026-11-06T06:30:07Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
+    "rank": 200,
+    "name": "mdiym#9757",
+    "rankScore": 49959,
     "matchedBy": "name"
    }
   ],

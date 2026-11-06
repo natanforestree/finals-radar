@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T14:50:33Z",
+ "generatedAt": "2026-11-06T15:00:34Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-06T14:36:29Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 27,
  "allActive": 197,
  "rubyShare": 0.1371,
- "steamPlayers": 12506,
+ "steamPlayers": 12650,
  "rubyCutoff": 46151,
  "grinding": [
   {
@@ -232,9 +232,21 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-06T14:50:33Z",
-  "totalStreams": 76,
+  "checkedAt": "2026-11-06T15:00:34Z",
+  "totalStreams": 91,
   "rubyLive": [
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "[99xDROPS] RANK #1 GRIND│!coaching !youtube !discord",
+    "viewers": 5,
+    "startedAt": "2026-11-06T14:54:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 2,
+    "name": "perzzonTTV#5485",
+    "rankScore": 63704,
+    "matchedBy": "name"
+   },
    {
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
@@ -251,16 +263,37 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Back on 4:3? Training EVERYDAY | Embark Partner 💎",
-    "viewers": 49,
+    "viewers": 50,
     "startedAt": "2026-11-06T09:47:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 62,
     "name": "Etelco#8323",
     "rankScore": 54571,
     "matchedBy": "name"
+   },
+   {
+    "login": "prezzttv",
+    "displayName": "Prezzttv",
+    "title": "👑 PREZZ 👁️ | TOP PLAYER IN THE WORLD | ROAD TO #1 🔥 ELITE THE FINALS GAMEPLAY SOLO Q GOD!!!",
+    "viewers": 1,
+    "startedAt": "2026-11-06T14:46:39Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_prezzttv-{width}x{height}.jpg",
+    "rank": 429,
+    "name": "PrezzTTV#5132",
+    "rankScore": 46798,
+    "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 1,
+    "startedAt": "2026-11-06T14:48:50Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

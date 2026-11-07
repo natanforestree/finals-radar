@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T18:00:31Z",
+ "generatedAt": "2026-11-07T18:10:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-07T17:54:58Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 51,
  "allActive": 437,
  "rubyShare": 0.1167,
- "steamPlayers": 18337,
+ "steamPlayers": 18518,
  "rubyCutoff": 46490,
  "grinding": [
   {
@@ -163,7 +163,7 @@
    "delta": 134,
    "rankScore": 51512,
    "club": "WAIM",
-   "twitch": "ilprune"
+   "twitch": null
   },
   {
    "rank": 157,
@@ -424,14 +424,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-07T18:00:31Z",
-  "totalStreams": 149,
+  "checkedAt": "2026-11-07T18:10:31Z",
+  "totalStreams": 163,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "RANK #1 Grind // New !Video │!coaching !youtube !discord",
-    "viewers": 100,
+    "viewers": 98,
     "startedAt": "2026-11-07T14:43:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -443,7 +443,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Scrim vs Nfinite | Embark Partner 💎 !coaching",
-    "viewers": 70,
+    "viewers": 60,
     "startedAt": "2026-11-07T15:08:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 74,
@@ -455,7 +455,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Skrey and his little friends",
-    "viewers": 9,
+    "viewers": 10,
     "startedAt": "2026-11-07T16:10:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 84,
@@ -476,22 +476,22 @@
     "matchedBy": "name"
    },
    {
-    "login": "ilprune",
-    "displayName": "Ilprune",
-    "title": "The Finals RANKED",
-    "viewers": 3,
-    "startedAt": "2026-11-07T07:03:41Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
-    "rank": 151,
-    "name": "Ilprune#5174",
-    "rankScore": 51512,
+    "login": "kafeneio",
+    "displayName": "KAFENEIO",
+    "title": "XA25 Kovaaks / Ranked - Qualified TGM26 Sweden - Signed To Pulsar!",
+    "viewers": 23,
+    "startedAt": "2026-11-07T15:53:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kafeneio-{width}x{height}.jpg",
+    "rank": 118,
+    "name": "Kafeneio#3639",
+    "rankScore": 52730,
     "matchedBy": "name"
    },
    {
     "login": "wutum",
     "displayName": "WuTum",
     "title": "TGM26 Qualified #VGGWIN // Scrim vs Nfinite (apollo filling) !sens",
-    "viewers": 13,
+    "viewers": 15,
     "startedAt": "2026-11-07T17:06:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
     "rank": 210,
@@ -552,6 +552,14 @@
     "viewers": 1,
     "startedAt": "2026-11-07T17:45:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_toxic_onii-{width}x{height}.jpg"
+   },
+   {
+    "login": "headhonshow",
+    "displayName": "headhonshow",
+    "title": "The Finals Top After 500 Ruby Medium Matches!!",
+    "viewers": 0,
+    "startedAt": "2026-11-07T18:05:07Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_headhonshow-{width}x{height}.jpg"
    }
   ]
  },

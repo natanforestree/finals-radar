@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T18:40:31Z",
+ "generatedAt": "2026-11-08T18:50:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-08T18:18:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 51,
  "allActive": 510,
  "rubyShare": 0.1,
- "steamPlayers": 19935,
+ "steamPlayers": 20187,
  "rubyCutoff": 46854,
  "grinding": [
   {
@@ -19,7 +19,7 @@
    "delta": 45,
    "rankScore": 64857,
    "club": "PRZN",
-   "twitch": "perzzon"
+   "twitch": null
   },
   {
    "rank": 6,
@@ -424,26 +424,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-08T18:40:31Z",
-  "totalStreams": 177,
+  "checkedAt": "2026-11-08T18:50:31Z",
+  "totalStreams": 172,
   "rubyLive": [
-   {
-    "login": "perzzon",
-    "displayName": "Perzzon",
-    "title": "RANK #1 // New !Video │!coaching !youtube !discord",
-    "viewers": 129,
-    "startedAt": "2026-11-08T10:14:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
-    "rank": 1,
-    "name": "perzzonTTV#5485",
-    "rankScore": 64857,
-    "matchedBy": "name"
-   },
    {
     "login": "lasagnattv",
     "displayName": "LasagnaTTV",
     "title": "(DROPS)MEGA ranked |TGM25 WINNER",
-    "viewers": 16,
+    "viewers": 38,
     "startedAt": "2026-11-08T18:28:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
     "rank": 73,
@@ -455,7 +443,7 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Late Night Ranked  / Korean / APE SQUAD /",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-11-08T16:38:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 93,
@@ -464,10 +452,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "lytettv",
+    "displayName": "LyteTTV",
+    "title": "DROPS | Solo Q Ranked",
+    "viewers": 1,
+    "startedAt": "2026-11-08T18:44:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lytettv-{width}x{height}.jpg",
+    "rank": 112,
+    "name": "Lyte#5886",
+    "rankScore": 53246,
+    "matchedBy": "name"
+   },
+   {
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby /RANKEDDDDDDDDD",
-    "viewers": 7,
+    "viewers": 3,
     "startedAt": "2026-11-08T13:34:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 291,
@@ -491,7 +491,7 @@
     "login": "paquerette_0515",
     "displayName": "paquerette_0515",
     "title": "The finals top 5OO player",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-11-08T17:52:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
     "rank": 372,
@@ -505,9 +505,17 @@
     "login": "grimkhan67",
     "displayName": "Grimkhan67",
     "title": "top 100 cashout gameplay | bf6 or rlcraft later? terraria?",
-    "viewers": 6,
+    "viewers": 5,
     "startedAt": "2026-11-08T17:13:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grimkhan67-{width}x{height}.jpg"
+   },
+   {
+    "login": "toxic_onii",
+    "displayName": "TOXIC_ONII",
+    "title": "🎯 LIVE! Road to Ruby: Today We Rank till Gold, or we die trying T-T🎤 !TTS",
+    "viewers": 3,
+    "startedAt": "2026-11-08T17:22:47Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_toxic_onii-{width}x{height}.jpg"
    },
    {
     "login": "progamerdx1",
@@ -524,14 +532,6 @@
     "viewers": 1,
     "startedAt": "2026-11-08T16:49:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
-   },
-   {
-    "login": "toxic_onii",
-    "displayName": "TOXIC_ONII",
-    "title": "🎯 LIVE! Road to Ruby: Today We Rank till Gold, or we die trying T-T🎤 !TTS",
-    "viewers": 1,
-    "startedAt": "2026-11-08T17:22:47Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_toxic_onii-{width}x{height}.jpg"
    }
   ]
  },

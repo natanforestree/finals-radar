@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T20:30:33Z",
+ "generatedAt": "2026-11-08T20:40:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-08T20:25:27Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 57,
  "allActive": 576,
  "rubyShare": 0.099,
- "steamPlayers": 21918,
+ "steamPlayers": 21877,
  "rubyCutoff": 46861,
  "grinding": [
   {
@@ -275,7 +275,7 @@
    "delta": 330,
    "rankScore": 49987,
    "club": "LZ0",
-   "twitch": "incgii"
+   "twitch": null
   },
   {
    "rank": 259,
@@ -472,14 +472,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-08T20:30:33Z",
-  "totalStreams": 216,
+  "checkedAt": "2026-11-08T20:40:33Z",
+  "totalStreams": 205,
   "rubyLive": [
    {
     "login": "lasagnattv",
     "displayName": "LasagnaTTV",
     "title": "(DROPS)MEGA ranked |TGM25 WINNER",
-    "viewers": 61,
+    "viewers": 57,
     "startedAt": "2026-11-08T18:28:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
     "rank": 62,
@@ -503,24 +503,12 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "JE VAIS TOUT CRAMé | DROP",
-    "viewers": 47,
+    "viewers": 35,
     "startedAt": "2026-11-08T19:17:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 191,
     "name": "PacolemTTV#0439",
     "rankScore": 51233,
-    "matchedBy": "name"
-   },
-   {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "LIGNE ZERO / light ruby /RANKEDDDDDDDDD",
-    "viewers": 2,
-    "startedAt": "2026-11-08T13:34:37Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
-    "rank": 246,
-    "name": "IncGII#1058",
-    "rankScore": 49987,
     "matchedBy": "name"
    },
    {
@@ -541,7 +529,7 @@
     "login": "grimkhan67",
     "displayName": "Grimkhan67",
     "title": "top 100 cashout gameplay | bf6 or rlcraft later? terraria?",
-    "viewers": 11,
+    "viewers": 12,
     "startedAt": "2026-11-08T17:13:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grimkhan67-{width}x{height}.jpg"
    },
@@ -589,7 +577,7 @@
     "login": "zestyshadow_",
     "displayName": "zestyshadow_",
     "title": "Road to RUBY (wish me luck)",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-11-08T20:20:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zestyshadow_-{width}x{height}.jpg"
    }

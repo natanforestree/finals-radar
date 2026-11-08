@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T06:00:31Z",
+ "generatedAt": "2026-11-08T06:10:34Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-08T05:52:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 55,
  "allActive": 431,
  "rubyShare": 0.1276,
- "steamPlayers": 14746,
+ "steamPlayers": 14359,
  "rubyCutoff": 46664,
  "grinding": [
   {
@@ -456,19 +456,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-08T06:00:31Z",
-  "totalStreams": 213,
+  "checkedAt": "2026-11-08T06:10:34Z",
+  "totalStreams": 202,
   "rubyLive": [
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] iems broke | THANK YOU GUYS FOR PARTNER PLUS 2/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 73,
+    "viewers": 74,
     "startedAt": "2026-11-08T02:05:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 61,
     "name": "Bizzy#0005",
     "rankScore": 55454,
+    "matchedBy": "name"
+   },
+   {
+    "login": "sepstar",
+    "displayName": "Sepstar",
+    "title": "RankS de nochesita  🚀",
+    "viewers": 1,
+    "startedAt": "2026-11-08T06:06:37Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
+    "rank": 122,
+    "name": "Sepstar#3539",
+    "rankScore": 52756,
     "matchedBy": "name"
    },
    {
@@ -487,7 +499,7 @@
     "login": "cueteepai",
     "displayName": "cueteepai",
     "title": "FACE CAM!!? Just Hanging Out 💗 | Maybe Ranked Later?",
-    "viewers": 16,
+    "viewers": 17,
     "startedAt": "2026-11-08T03:08:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
     "rank": 340,
@@ -499,7 +511,7 @@
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 63,
+    "viewers": 64,
     "startedAt": "2026-11-08T03:20:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 344,
@@ -518,22 +530,6 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_beckdrew-{width}x{height}.jpg"
    },
    {
-    "login": "commitedd",
-    "displayName": "commitedd",
-    "title": "The finals|ranked top 500 rnn|",
-    "viewers": 2,
-    "startedAt": "2026-11-08T05:41:03Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_commitedd-{width}x{height}.jpg"
-   },
-   {
-    "login": "bobiduity",
-    "displayName": "bobiduity",
-    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 2,
-    "startedAt": "2026-11-08T00:08:48Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
-   },
-   {
     "login": "bluecelive",
     "displayName": "BlueceLIVE",
     "title": "LOCKED IN!! 🔥TOP 500 CERB & SWORD | DIAMOND TONIGHT!!! Come hang!",
@@ -548,6 +544,22 @@
     "viewers": 1,
     "startedAt": "2026-11-08T01:47:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soreloserg-{width}x{height}.jpg"
+   },
+   {
+    "login": "commitedd",
+    "displayName": "commitedd",
+    "title": "The finals|ranked top 500 rnn|",
+    "viewers": 1,
+    "startedAt": "2026-11-08T05:41:03Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_commitedd-{width}x{height}.jpg"
+   },
+   {
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
+    "viewers": 1,
+    "startedAt": "2026-11-08T00:08:48Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
    }
   ]
  },

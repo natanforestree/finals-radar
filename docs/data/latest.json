@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T19:30:32Z",
+ "generatedAt": "2026-11-08T19:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-08T19:20:05Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 63,
  "allActive": 523,
  "rubyShare": 0.1205,
- "steamPlayers": 21282,
+ "steamPlayers": 21633,
  "rubyCutoff": 46861,
  "grinding": [
   {
@@ -171,7 +171,7 @@
    "delta": 205,
    "rankScore": 53451,
    "club": "NTMR",
-   "twitch": "lytettv"
+   "twitch": null
   },
   {
    "rank": 116,
@@ -520,14 +520,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-08T19:30:32Z",
-  "totalStreams": 190,
+  "checkedAt": "2026-11-08T19:40:32Z",
+  "totalStreams": 182,
   "rubyLive": [
    {
     "login": "lasagnattv",
     "displayName": "LasagnaTTV",
     "title": "(DROPS)MEGA ranked |TGM25 WINNER",
-    "viewers": 40,
+    "viewers": 44,
     "startedAt": "2026-11-08T18:28:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
     "rank": 70,
@@ -548,22 +548,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "lytettv",
-    "displayName": "LyteTTV",
-    "title": "DROPS | Solo Q Ranked",
-    "viewers": 1,
-    "startedAt": "2026-11-08T18:44:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lytettv-{width}x{height}.jpg",
-    "rank": 106,
-    "name": "Lyte#5886",
-    "rankScore": 53451,
-    "matchedBy": "name"
-   },
-   {
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "JE VAIS TOUT CRAMé | DROP",
-    "viewers": 19,
+    "viewers": 24,
     "startedAt": "2026-11-08T19:17:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 189,
@@ -575,7 +563,7 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby /RANKEDDDDDDDDD",
-    "viewers": 5,
+    "viewers": 3,
     "startedAt": "2026-11-08T13:34:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 262,
@@ -601,9 +589,17 @@
     "login": "grimkhan67",
     "displayName": "Grimkhan67",
     "title": "top 100 cashout gameplay | bf6 or rlcraft later? terraria?",
-    "viewers": 15,
+    "viewers": 12,
     "startedAt": "2026-11-08T17:13:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grimkhan67-{width}x{height}.jpg"
+   },
+   {
+    "login": "lordgrillcheese",
+    "displayName": "LordGrillCheese",
+    "title": "DIAMOND RIOT MAIN / ROAD TO RUBY in The Finals",
+    "viewers": 3,
+    "startedAt": "2026-11-08T19:28:20Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lordgrillcheese-{width}x{height}.jpg"
    },
    {
     "login": "bobiduity",
@@ -628,14 +624,6 @@
     "viewers": 1,
     "startedAt": "2026-11-08T18:58:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_omega98000-{width}x{height}.jpg"
-   },
-   {
-    "login": "lordgrillcheese",
-    "displayName": "LordGrillCheese",
-    "title": "DIAMOND RIOT MAIN / ROAD TO RUBY in The Finals",
-    "viewers": 1,
-    "startedAt": "2026-11-08T19:28:20Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lordgrillcheese-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T21:00:31Z",
+ "generatedAt": "2026-11-08T21:10:38Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-08T20:51:55Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 48,
  "allActive": 595,
  "rubyShare": 0.0807,
- "steamPlayers": 21595,
+ "steamPlayers": 21525,
  "rubyCutoff": 46861,
  "grinding": [
   {
@@ -75,7 +75,7 @@
    "delta": -519,
    "rankScore": 55037,
    "club": "NTMR",
-   "twitch": "lasagnattv"
+   "twitch": null
   },
   {
    "rank": 75,
@@ -400,26 +400,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-08T21:00:31Z",
-  "totalStreams": 230,
+  "checkedAt": "2026-11-08T21:10:38Z",
+  "totalStreams": 237,
   "rubyLive": [
-   {
-    "login": "lasagnattv",
-    "displayName": "LasagnaTTV",
-    "title": "(DROPS)MEGA ranked |TGM25 WINNER",
-    "viewers": 43,
-    "startedAt": "2026-11-08T18:28:27Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
-    "rank": 74,
-    "name": "LasagnaTTV#4865",
-    "rankScore": 55037,
-    "matchedBy": "name"
-   },
    {
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Late Night Ranked  / Korean / APE SQUAD /",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-11-08T16:38:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 89,
@@ -431,7 +419,7 @@
     "login": "pacolemttv",
     "displayName": "PacolemTTV",
     "title": "JE VAIS TOUT CRAMé | DROP",
-    "viewers": 35,
+    "viewers": 34,
     "startedAt": "2026-11-08T19:17:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pacolemttv-{width}x{height}.jpg",
     "rank": 190,
@@ -457,9 +445,17 @@
     "login": "grimkhan67",
     "displayName": "Grimkhan67",
     "title": "top 100 cashout gameplay | bf6 or rlcraft later? terraria?",
-    "viewers": 9,
+    "viewers": 14,
     "startedAt": "2026-11-08T17:13:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grimkhan67-{width}x{height}.jpg"
+   },
+   {
+    "login": "zestyshadow_",
+    "displayName": "zestyshadow_",
+    "title": "Road to RUBY (wish me luck)",
+    "viewers": 3,
+    "startedAt": "2026-11-08T20:20:29Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zestyshadow_-{width}x{height}.jpg"
    },
    {
     "login": "bobiduity",
@@ -486,14 +482,6 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
    },
    {
-    "login": "zestyshadow_",
-    "displayName": "zestyshadow_",
-    "title": "Road to RUBY (wish me luck)",
-    "viewers": 1,
-    "startedAt": "2026-11-08T20:20:29Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zestyshadow_-{width}x{height}.jpg"
-   },
-   {
     "login": "omega98000",
     "displayName": "omega98000",
     "title": "The finals road to top 500 aka cupcake",
@@ -510,12 +498,12 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lordgrillcheese-{width}x{height}.jpg"
    },
    {
-    "login": "kyojho_e",
-    "displayName": "Kyojho_e",
-    "title": "The Finals!!... Road To Ruby!! 💎",
-    "viewers": 1,
-    "startedAt": "2026-11-08T20:31:53Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kyojho_e-{width}x{height}.jpg"
+    "login": "headhonshow",
+    "displayName": "headhonshow",
+    "title": "The Finals Top After 500 Ruby Medium Matches!!",
+    "viewers": 0,
+    "startedAt": "2026-11-08T21:05:44Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_headhonshow-{width}x{height}.jpg"
    }
   ]
  },

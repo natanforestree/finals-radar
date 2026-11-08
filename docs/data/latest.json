@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T23:30:31Z",
+ "generatedAt": "2026-11-08T23:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-08T23:20:35Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 72,
  "allActive": 576,
  "rubyShare": 0.125,
- "steamPlayers": 16990,
+ "steamPlayers": 16709,
  "rubyCutoff": 46916,
  "grinding": [
   {
@@ -592,19 +592,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-08T23:30:31Z",
-  "totalStreams": 191,
+  "checkedAt": "2026-11-08T23:40:32Z",
+  "totalStreams": 202,
   "rubyLive": [
    {
     "login": "paquerette_0515",
     "displayName": "paquerette_0515",
     "title": "The finals top 5OO player",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-11-08T17:52:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
     "rank": 405,
     "name": "paquerette#3586",
     "rankScore": 47809,
+    "matchedBy": "name"
+   },
+   {
+    "login": "kdkiller6021",
+    "displayName": "KDKiller6021",
+    "title": "[DROPS] Stalling for face reveal...",
+    "viewers": 20,
+    "startedAt": "2026-11-08T23:35:14Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdkiller6021-{width}x{height}.jpg",
+    "rank": 436,
+    "name": "KDKiller6021#4000",
+    "rankScore": 47543,
     "matchedBy": "name"
    }
   ],
@@ -632,6 +644,22 @@
     "viewers": 1,
     "startedAt": "2026-11-08T16:49:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 0,
+    "startedAt": "2026-11-08T23:30:32Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
+    "login": "ymandalorian",
+    "displayName": "ymandalorian",
+    "title": "Top 500 Forcing PIKE META??, Sweaty Shifters - PRIME TIME! [DROPS ON]",
+    "viewers": 0,
+    "startedAt": "2026-11-08T23:36:47Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ymandalorian-{width}x{height}.jpg"
    }
   ]
  },

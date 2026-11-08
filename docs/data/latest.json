@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T08:00:32Z",
+ "generatedAt": "2026-11-08T08:10:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-08T07:47:31Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 54,
  "allActive": 357,
  "rubyShare": 0.1513,
- "steamPlayers": 10762,
+ "steamPlayers": 10357,
  "rubyCutoff": 46645,
  "grinding": [
   {
@@ -131,7 +131,7 @@
    "delta": -184,
    "rankScore": 53376,
    "club": null,
-   "twitch": "elmeromeyer"
+   "twitch": null
   },
   {
    "rank": 119,
@@ -267,7 +267,7 @@
    "delta": -435,
    "rankScore": 50239,
    "club": "NADE",
-   "twitch": null
+   "twitch": "snake_nade"
   },
   {
    "rank": 242,
@@ -448,26 +448,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-08T08:00:32Z",
-  "totalStreams": 156,
+  "checkedAt": "2026-11-08T08:10:32Z",
+  "totalStreams": 143,
   "rubyLive": [
-   {
-    "login": "elmeromeyer",
-    "displayName": "elmeromeyer",
-    "title": "Rankeds",
-    "viewers": 1,
-    "startedAt": "2026-11-08T06:14:06Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmeromeyer-{width}x{height}.jpg",
-    "rank": 108,
-    "name": "GGS#1020",
-    "rankScore": 53376,
-    "matchedBy": "name"
-   },
    {
     "login": "sepstar",
     "displayName": "Sepstar",
     "title": "RankS de nochesita  🚀",
-    "viewers": 23,
+    "viewers": 17,
     "startedAt": "2026-11-08T06:06:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
     "rank": 124,
@@ -476,10 +464,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "snake_nade",
+    "displayName": "Snake_Nade",
+    "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
+    "viewers": 7,
+    "startedAt": "2026-11-08T08:03:27Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
+    "rank": 221,
+    "name": "Snake_Nade#0401",
+    "rankScore": 50239,
+    "matchedBy": "name"
+   },
+   {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 89,
+    "viewers": 82,
     "startedAt": "2026-11-08T03:20:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 333,
@@ -493,7 +493,7 @@
     "login": "vipermonster6",
     "displayName": "vipermonster6",
     "title": "HAMMER TO RUBY SOLO Q RANKED",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-11-08T06:12:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vipermonster6-{width}x{height}.jpg"
    }

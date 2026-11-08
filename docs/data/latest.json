@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T22:00:33Z",
+ "generatedAt": "2026-11-08T22:10:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-08T21:47:53Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 39,
  "allActive": 614,
  "rubyShare": 0.0635,
- "steamPlayers": 19944,
+ "steamPlayers": 19374,
  "rubyCutoff": 46898,
  "grinding": [
   {
@@ -59,7 +59,7 @@
    "delta": 182,
    "rankScore": 54722,
    "club": "APES",
-   "twitch": "yangdoun"
+   "twitch": null
   },
   {
    "rank": 92,
@@ -328,26 +328,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-08T22:00:33Z",
-  "totalStreams": 234,
+  "checkedAt": "2026-11-08T22:10:33Z",
+  "totalStreams": 236,
   "rubyLive": [
-   {
-    "login": "yangdoun",
-    "displayName": "yangdoun",
-    "title": "Late Night Ranked  / Korean / APE SQUAD /",
-    "viewers": 1,
-    "startedAt": "2026-11-08T16:38:55Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 82,
-    "name": "YangDoun#0398",
-    "rankScore": 54722,
-    "matchedBy": "name"
-   },
    {
     "login": "paquerette_0515",
     "displayName": "paquerette_0515",
     "title": "The finals top 5OO player",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-11-08T17:52:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
     "rank": 355,
@@ -361,25 +349,25 @@
     "login": "grimkhan67",
     "displayName": "Grimkhan67",
     "title": "top 100 cashout gameplay | bf6 or rlcraft later? terraria?",
-    "viewers": 9,
+    "viewers": 10,
     "startedAt": "2026-11-08T17:13:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grimkhan67-{width}x{height}.jpg"
-   },
-   {
-    "login": "ymandalorian",
-    "displayName": "ymandalorian",
-    "title": "Top 500 Forcing PIKE META??, Sweaty Shifters - PRIME TIME! [DROPS ON]",
-    "viewers": 3,
-    "startedAt": "2026-11-08T21:14:27Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ymandalorian-{width}x{height}.jpg"
    },
    {
     "login": "zestyshadow_",
     "displayName": "zestyshadow_",
     "title": "Road to RUBY (wish me luck)",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-11-08T20:20:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zestyshadow_-{width}x{height}.jpg"
+   },
+   {
+    "login": "ymandalorian",
+    "displayName": "ymandalorian",
+    "title": "Top 500 Forcing PIKE META??, Sweaty Shifters - PRIME TIME! [DROPS ON]",
+    "viewers": 2,
+    "startedAt": "2026-11-08T21:14:27Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ymandalorian-{width}x{height}.jpg"
    },
    {
     "login": "headhonshow",

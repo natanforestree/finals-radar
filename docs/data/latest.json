@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T04:10:34Z",
+ "generatedAt": "2026-11-09T04:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-09T03:50:33Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 40,
  "allActive": 400,
  "rubyShare": 0.1,
- "steamPlayers": 14769,
+ "steamPlayers": 14178,
  "rubyCutoff": 46984,
  "grinding": [
   {
@@ -75,7 +75,7 @@
    "delta": 162,
    "rankScore": 55808,
    "club": "NTMR",
-   "twitch": "lasagnattv"
+   "twitch": null
   },
   {
    "rank": 78,
@@ -336,14 +336,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-09T04:10:34Z",
-  "totalStreams": 182,
+  "checkedAt": "2026-11-09T04:20:32Z",
+  "totalStreams": 184,
   "rubyLive": [
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] New Montage SOON™ | THANK YOU GUYS FOR PARTNER PLUS 2/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 59,
+    "viewers": 73,
     "startedAt": "2026-11-09T01:51:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 57,
@@ -352,22 +352,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "lasagnattv",
-    "displayName": "LasagnaTTV",
-    "title": "(DROPS)back for ranked |TGM25 WINNER",
-    "viewers": 49,
-    "startedAt": "2026-11-09T00:18:40Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
-    "rank": 61,
-    "name": "LasagnaTTV#4865",
-    "rankScore": 55808,
-    "matchedBy": "name"
-   },
-   {
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Charge Ks or Bow Frag - !Coach - Embark Partner - VGG Coach",
-    "viewers": 65,
+    "viewers": 70,
     "startedAt": "2026-11-09T01:16:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 230,
@@ -391,7 +379,7 @@
     "login": "detaail",
     "displayName": "DeTaaiL",
     "title": "LARPING back to roller | Life.",
-    "viewers": 1,
+    "viewers": 3,
     "startedAt": "2026-11-09T01:30:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_detaail-{width}x{height}.jpg",
     "rank": 309,
@@ -403,12 +391,24 @@
     "login": "cueteepai",
     "displayName": "cueteepai",
     "title": "FACE CAM!!? RANKED TIME! 💗 |  With Apples & Ty",
-    "viewers": 11,
+    "viewers": 13,
     "startedAt": "2026-11-09T02:18:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
     "rank": 318,
     "name": "cueteepai.tv#9915",
     "rankScore": 48841,
+    "matchedBy": "name"
+   },
+   {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[DROPS] Ruby Flex Player",
+    "viewers": 0,
+    "startedAt": "2026-11-09T04:20:26Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 323,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 48779,
     "matchedBy": "name"
    },
    {
@@ -429,7 +429,7 @@
     "login": "mrllamacr",
     "displayName": "mrllamacr",
     "title": "RUBY PUSH! | 2x Major qualifier",
-    "viewers": 63,
+    "viewers": 56,
     "startedAt": "2026-11-09T01:56:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mrllamacr-{width}x{height}.jpg"
    },
@@ -437,7 +437,7 @@
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 - [Noobin on my toob]",
-    "viewers": 5,
+    "viewers": 7,
     "startedAt": "2026-11-09T03:34:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
    },
@@ -454,16 +454,8 @@
     "displayName": "ymandalorian",
     "title": "Top 500 Forcing PIKE META??, Sweaty Shifters - PRIME TIME! [DROPS ON]",
     "viewers": 4,
-    "startedAt": "2026-11-09T00:06:51Z",
+    "startedAt": "2026-11-09T04:19:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ymandalorian-{width}x{height}.jpg"
-   },
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 2,
-    "startedAt": "2026-11-08T23:30:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    },
    {
     "login": "sushxy",
@@ -472,6 +464,14 @@
     "viewers": 1,
     "startedAt": "2026-11-09T01:20:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 1,
+    "startedAt": "2026-11-08T23:30:32Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    },
    {
     "login": "bobiduity",

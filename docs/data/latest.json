@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T11:40:32Z",
+ "generatedAt": "2026-11-09T11:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-09T11:18:24Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 17,
  "allActive": 155,
  "rubyShare": 0.1097,
- "steamPlayers": 7440,
+ "steamPlayers": 7502,
  "rubyCutoff": 47167,
  "grinding": [
   {
@@ -152,14 +152,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-09T11:40:32Z",
-  "totalStreams": 63,
+  "checkedAt": "2026-11-09T11:50:32Z",
+  "totalStreams": 64,
   "rubyLive": [
+   {
+    "login": "etelco",
+    "displayName": "Etelco",
+    "title": "GRIND | Embark Partner 💎 !coaching",
+    "viewers": 4,
+    "startedAt": "2026-11-09T11:41:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
+    "rank": 92,
+    "name": "Etelco#8323",
+    "rankScore": 54571,
+    "matchedBy": "name"
+   },
    {
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 66,
+    "viewers": 69,
     "startedAt": "2026-11-09T06:04:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 169,

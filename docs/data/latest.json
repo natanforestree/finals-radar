@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T01:10:31Z",
+ "generatedAt": "2026-11-09T01:20:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-09T00:52:31Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 63,
  "allActive": 502,
  "rubyShare": 0.1255,
- "steamPlayers": 15900,
+ "steamPlayers": 15883,
  "rubyCutoff": 46969,
  "grinding": [
   {
@@ -520,14 +520,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-09T01:10:31Z",
-  "totalStreams": 184,
+  "checkedAt": "2026-11-09T01:20:31Z",
+  "totalStreams": 194,
   "rubyLive": [
    {
     "login": "lasagnattv",
     "displayName": "LasagnaTTV",
     "title": "(DROPS)back for ranked |TGM25 WINNER",
-    "viewers": 59,
+    "viewers": 56,
     "startedAt": "2026-11-09T00:18:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lasagnattv-{width}x{height}.jpg",
     "rank": 70,
@@ -539,7 +539,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] short strem - !FinalsRS !yt !discord",
-    "viewers": 6,
+    "viewers": 9,
     "startedAt": "2026-11-08T23:40:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 153,
@@ -551,12 +551,24 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Charge Ks or Bow Frag - !Coach - Embark Partner - VGG Coach",
-    "viewers": 80,
-    "startedAt": "2026-11-09T00:00:19Z",
+    "viewers": 27,
+    "startedAt": "2026-11-09T01:16:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 276,
     "name": "Appoh#9173",
     "rankScore": 49531,
+    "matchedBy": "name"
+   },
+   {
+    "login": "lostorlucky",
+    "displayName": "LostOrLucky",
+    "title": "rankeddd",
+    "viewers": 1,
+    "startedAt": "2026-11-09T01:14:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostorlucky-{width}x{height}.jpg",
+    "rank": 300,
+    "name": "LOL#0453",
+    "rankScore": 49037,
     "matchedBy": "name"
    },
    {
@@ -612,6 +624,14 @@
     "viewers": 1,
     "startedAt": "2026-11-08T23:46:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_limnl_-{width}x{height}.jpg"
+   },
+   {
+    "login": "sushxy",
+    "displayName": "Sushxy",
+    "title": "The Finals | Top 100 ranked (Evil Chimera user)",
+    "viewers": 0,
+    "startedAt": "2026-11-09T01:20:02Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T10:30:32Z",
+ "generatedAt": "2026-11-09T10:40:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-09T10:20:06Z",
  "window": {
@@ -147,7 +147,7 @@
    "delta": -68,
    "rankScore": 50665,
    "club": "DIGA",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 236,
@@ -224,44 +224,23 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-09T10:30:32Z",
-  "totalStreams": 63,
+  "checkedAt": "2026-11-09T10:40:33Z",
+  "totalStreams": 60,
   "rubyLive": [
    {
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 54,
+    "viewers": 58,
     "startedAt": "2026-11-09T06:04:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 169,
     "name": "Snake_Nade#0401",
     "rankScore": 51889,
     "matchedBy": "name"
-   },
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Ruby Flex Player",
-    "viewers": 78,
-    "startedAt": "2026-11-09T04:20:26Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 220,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 50665,
-    "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "bono001",
-    "displayName": "bono001",
-    "title": "top 250 cod top 500 the finlas",
-    "viewers": 1,
-    "startedAt": "2026-11-09T09:39:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bono001-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

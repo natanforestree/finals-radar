@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T06:30:33Z",
+ "generatedAt": "2026-11-09T06:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-09T06:19:34Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 27,
  "allActive": 304,
  "rubyShare": 0.0888,
- "steamPlayers": 9738,
+ "steamPlayers": 9529,
  "rubyCutoff": 47023,
  "grinding": [
   {
@@ -155,7 +155,7 @@
    "delta": 267,
    "rankScore": 50446,
    "club": null,
-   "twitch": "lostorlucky"
+   "twitch": null
   },
   {
    "rank": 231,
@@ -232,14 +232,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-09T06:30:33Z",
-  "totalStreams": 133,
+  "checkedAt": "2026-11-09T06:40:32Z",
+  "totalStreams": 130,
   "rubyLive": [
    {
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 28,
+    "viewers": 29,
     "startedAt": "2026-11-09T06:04:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 179,
@@ -248,22 +248,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "lostorlucky",
-    "displayName": "LostOrLucky",
-    "title": "rankeddd",
-    "viewers": 1,
-    "startedAt": "2026-11-09T01:14:31Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lostorlucky-{width}x{height}.jpg",
-    "rank": 230,
-    "name": "LOL#0453",
-    "rankScore": 50446,
-    "matchedBy": "name"
-   },
-   {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 87,
+    "viewers": 92,
     "startedAt": "2026-11-09T04:20:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 286,
@@ -274,20 +262,20 @@
   ],
   "titleMentions": [
    {
+    "login": "ogmudbone_10",
+    "displayName": "ogmudbone_10",
+    "title": "#1 Ruby player The Finals",
+    "viewers": 1,
+    "startedAt": "2026-11-09T06:15:24Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
+   },
+   {
     "login": "lordgrillcheese",
     "displayName": "LordGrillCheese",
     "title": "DIAMOND RIOT MAIN / ROAD TO RUBY in The Finals",
     "viewers": 1,
     "startedAt": "2026-11-09T01:44:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lordgrillcheese-{width}x{height}.jpg"
-   },
-   {
-    "login": "ogmudbone_10",
-    "displayName": "ogmudbone_10",
-    "title": "#1 Ruby player The Finals",
-    "viewers": 0,
-    "startedAt": "2026-11-09T06:15:24Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
    }
   ]
  },

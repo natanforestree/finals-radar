@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T18:20:32Z",
+ "generatedAt": "2026-11-10T18:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T18:03:32Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 36,
  "allActive": 453,
  "rubyShare": 0.0795,
- "steamPlayers": 15023,
+ "steamPlayers": 15241,
  "rubyCutoff": 47369,
  "grinding": [
   {
@@ -99,7 +99,7 @@
    "delta": -191,
    "rankScore": 54261,
    "club": "MORI",
-   "twitch": "skreydeen"
+   "twitch": null
   },
   {
    "rank": 112,
@@ -304,14 +304,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T18:20:32Z",
-  "totalStreams": 157,
+  "checkedAt": "2026-11-10T18:30:32Z",
+  "totalStreams": 163,
   "rubyLive": [
    {
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Scrim vs Nfinite | Embark Partner 💎 !coaching",
-    "viewers": 66,
+    "viewers": 72,
     "startedAt": "2026-11-10T11:08:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 84,
@@ -320,22 +320,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "skreydeen",
-    "displayName": "SkreyDeen",
-    "title": "Rankedddd yeyyy",
-    "viewers": 18,
-    "startedAt": "2026-11-10T13:38:33Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
-    "rank": 101,
-    "name": "SkreyDeen#2116",
-    "rankScore": 54261,
-    "matchedBy": "name"
-   },
-   {
     "login": "notbubbaa_",
     "displayName": "notbubbaa_",
     "title": "[DROPS 100x] Swedem SOON | Medium METHOD |Major Prep| !insta !discord",
-    "viewers": 115,
+    "viewers": 140,
     "startedAt": "2026-11-10T15:53:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
     "rank": 108,
@@ -356,16 +344,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "teoma96",
-    "displayName": "Teoma96",
-    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 2,
-    "startedAt": "2026-11-10T14:06:34Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

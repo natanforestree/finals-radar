@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T23:40:32Z",
+ "generatedAt": "2026-11-10T23:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T23:33:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 49,
  "allActive": 482,
  "rubyShare": 0.1017,
- "steamPlayers": 14270,
+ "steamPlayers": 14275,
  "rubyCutoff": 47481,
  "grinding": [
   {
@@ -219,7 +219,7 @@
    "delta": 335,
    "rankScore": 50955,
    "club": null,
-   "twitch": "angelxttv"
+   "twitch": null
   },
   {
    "rank": 233,
@@ -408,31 +408,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T23:40:32Z",
-  "totalStreams": 177,
+  "checkedAt": "2026-11-10T23:50:32Z",
+  "totalStreams": 181,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) RANKED | BERGER IN SWEDEN | ELEVATE VS TAKE FLYTE",
-    "viewers": 116,
+    "viewers": 108,
     "startedAt": "2026-11-10T19:20:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 57,
     "name": "Balise#2431",
     "rankScore": 56675,
-    "matchedBy": "name"
-   },
-   {
-    "login": "angelxttv",
-    "displayName": "angelxttv",
-    "title": "Rankeeeeeed DAY 8....| 🎁 !drops | 💬 !discord | 🎵 !tiktok | ▶️ !youtube |",
-    "viewers": 3,
-    "startedAt": "2026-11-10T21:12:57Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelxttv-{width}x{height}.jpg",
-    "rank": 221,
-    "name": "angelxTTV#1346",
-    "rankScore": 50955,
     "matchedBy": "name"
    },
    {
@@ -451,7 +439,7 @@
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "Oops! It's All Crossbows!",
-    "viewers": 9,
+    "viewers": 8,
     "startedAt": "2026-11-10T20:56:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 399,
@@ -465,7 +453,7 @@
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 -Belly slappin - [Noobin on my toob]",
-    "viewers": 2,
+    "viewers": 9,
     "startedAt": "2026-11-10T21:45:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
    },

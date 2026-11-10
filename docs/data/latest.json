@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T21:50:32Z",
+ "generatedAt": "2026-11-10T22:00:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T21:39:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 37,
  "allActive": 522,
  "rubyShare": 0.0709,
- "steamPlayers": 16644,
+ "steamPlayers": 0,
  "rubyCutoff": 47385,
  "grinding": [
   {
@@ -155,7 +155,7 @@
    "delta": -106,
    "rankScore": 50560,
    "club": "CROL",
-   "twitch": "hatedvii"
+   "twitch": null
   },
   {
    "rank": 259,
@@ -312,14 +312,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T21:50:32Z",
-  "totalStreams": 207,
+  "checkedAt": "2026-11-10T22:00:33Z",
+  "totalStreams": 198,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) RANKED | BERGER IN SWEDEN | ELEVATE VS TAKE FLYTE",
-    "viewers": 93,
+    "viewers": 161,
     "startedAt": "2026-11-10T19:20:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 60,
@@ -331,7 +331,7 @@
     "login": "angelxttv",
     "displayName": "angelxttv",
     "title": "Rankeeeeeed DAY 8....| 🎁 !drops | 💬 !discord | 🎵 !tiktok | ▶️ !youtube |",
-    "viewers": 3,
+    "viewers": 4,
     "startedAt": "2026-11-10T21:12:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_angelxttv-{width}x{height}.jpg",
     "rank": 238,
@@ -340,22 +340,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "hatedvii",
-    "displayName": "HatedVII",
-    "title": "(DROPS) TOP CHILEAN PLAYER WITH 200MS LAG ROAD TO RUBY!!!",
-    "viewers": 5,
-    "startedAt": "2026-11-10T20:09:11Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_hatedvii-{width}x{height}.jpg",
-    "rank": 244,
-    "name": "HatedVII#1647",
-    "rankScore": 50560,
-    "matchedBy": "name"
-   },
-   {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "Beaming & Sponsoring !sens !vt",
-    "viewers": 13,
+    "viewers": 11,
     "startedAt": "2026-11-10T19:03:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 363,
@@ -367,7 +355,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 71,
+    "viewers": 68,
     "startedAt": "2026-11-10T20:32:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 391,
@@ -378,10 +366,18 @@
   ],
   "titleMentions": [
    {
+    "login": "shmurdahhhhhhh",
+    "displayName": "shmurdahhhhhhh",
+    "title": "SOLO Q TO RUBY!!!!!!",
+    "viewers": 3,
+    "startedAt": "2026-11-10T19:12:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shmurdahhhhhhh-{width}x{height}.jpg"
+   },
+   {
     "login": "teoma96",
     "displayName": "Teoma96",
     "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 4,
+    "viewers": 2,
     "startedAt": "2026-11-10T21:39:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    },
@@ -408,14 +404,6 @@
     "viewers": 1,
     "startedAt": "2026-11-10T19:07:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ultrafizz_tv-{width}x{height}.jpg"
-   },
-   {
-    "login": "shmurdahhhhhhh",
-    "displayName": "shmurdahhhhhhh",
-    "title": "SOLO Q TO RUBY!!!!!!",
-    "viewers": 1,
-    "startedAt": "2026-11-10T19:12:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shmurdahhhhhhh-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T19:50:32Z",
+ "generatedAt": "2026-11-10T20:00:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T19:35:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 38,
  "allActive": 446,
  "rubyShare": 0.0852,
- "steamPlayers": 16891,
+ "steamPlayers": 16983,
  "rubyCutoff": 47385,
  "grinding": [
   {
@@ -67,7 +67,7 @@
    "delta": 241,
    "rankScore": 55389,
    "club": "LUMN",
-   "twitch": "normalize"
+   "twitch": null
   },
   {
    "rank": 104,
@@ -275,7 +275,7 @@
    "delta": 453,
    "rankScore": 48212,
    "club": "LUMN",
-   "twitch": "grad"
+   "twitch": null
   },
   {
    "rank": 410,
@@ -320,14 +320,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T19:50:32Z",
-  "totalStreams": 193,
+  "checkedAt": "2026-11-10T20:00:32Z",
+  "totalStreams": 199,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) UHH IDK | BERGER IN SWEDEN | ELEVATE VS TAKE FLYTE",
-    "viewers": 50,
+    "viewers": 56,
     "startedAt": "2026-11-10T19:20:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 60,
@@ -336,22 +336,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "normalize",
-    "displayName": "normalize",
-    "title": "PUSHING FOR PARTNER PLUS HELP PLS! | RANKED | #VerseClipContest | !discord !sens !Contest",
-    "viewers": 49,
-    "startedAt": "2026-11-10T18:41:34Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
-    "rank": 84,
-    "name": "normalize#0130",
-    "rankScore": 55389,
-    "matchedBy": "name"
-   },
-   {
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Scrim vs Nfinite | Embark Partner 💎 !coaching",
-    "viewers": 53,
+    "viewers": 82,
     "startedAt": "2026-11-10T11:08:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 85,
@@ -375,28 +363,40 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "Beaming & Sponsoring !sens !vt",
-    "viewers": 5,
+    "viewers": 3,
     "startedAt": "2026-11-10T19:03:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 407,
     "name": "TaeK#3289",
     "rankScore": 48230,
     "matchedBy": "name"
-   },
-   {
-    "login": "grad",
-    "displayName": "Grad",
-    "title": "BELLOOOOO | TRYING TO GET PARTNER PLUS! !song !prime !newvid",
-    "viewers": 30,
-    "startedAt": "2026-11-10T17:53:46Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_grad-{width}x{height}.jpg",
-    "rank": 409,
-    "name": "Grad#4550",
-    "rankScore": 48212,
-    "matchedBy": "name"
    }
   ],
   "titleMentions": [
+   {
+    "login": "shmurdahhhhhhh",
+    "displayName": "shmurdahhhhhhh",
+    "title": "SOLO Q to RUBY",
+    "viewers": 3,
+    "startedAt": "2026-11-10T19:12:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shmurdahhhhhhh-{width}x{height}.jpg"
+   },
+   {
+    "login": "ultrafizz_tv",
+    "displayName": "UltraFizz_TV",
+    "title": "THE FINALS | solo ranked queue pain | road to ruby",
+    "viewers": 2,
+    "startedAt": "2026-11-10T19:07:28Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ultrafizz_tv-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 1,
+    "startedAt": "2026-11-10T19:12:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
    {
     "login": "egman39",
     "displayName": "egman39",
@@ -412,22 +412,6 @@
     "viewers": 1,
     "startedAt": "2026-11-10T19:12:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
-   },
-   {
-    "login": "ultrafizz_tv",
-    "displayName": "UltraFizz_TV",
-    "title": "THE FINALS | solo ranked queue pain | road to ruby",
-    "viewers": 1,
-    "startedAt": "2026-11-10T19:07:28Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ultrafizz_tv-{width}x{height}.jpg"
-   },
-   {
-    "login": "shmurdahhhhhhh",
-    "displayName": "shmurdahhhhhhh",
-    "title": "SOLO Q to RUBY",
-    "viewers": 1,
-    "startedAt": "2026-11-10T19:12:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shmurdahhhhhhh-{width}x{height}.jpg"
    }
   ]
  },

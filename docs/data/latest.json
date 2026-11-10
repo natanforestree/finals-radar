@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T22:20:32Z",
+ "generatedAt": "2026-11-10T22:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T22:09:25Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 44,
  "allActive": 530,
  "rubyShare": 0.083,
- "steamPlayers": 16105,
+ "steamPlayers": 15934,
  "rubyCutoff": 47415,
  "grinding": [
   {
@@ -275,7 +275,7 @@
    "delta": 277,
    "rankScore": 49037,
    "club": "HEIMG",
-   "twitch": "taekfps"
+   "twitch": null
   },
   {
    "rank": 350,
@@ -368,19 +368,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T22:20:32Z",
-  "totalStreams": 209,
+  "checkedAt": "2026-11-10T22:30:32Z",
+  "totalStreams": 199,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) RANKED | BERGER IN SWEDEN | ELEVATE VS TAKE FLYTE",
-    "viewers": 143,
+    "viewers": 134,
     "startedAt": "2026-11-10T19:20:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 62,
     "name": "Balise#2431",
     "rankScore": 56377,
+    "matchedBy": "name"
+   },
+   {
+    "login": "elmeromeyer",
+    "displayName": "elmeromeyer",
+    "title": "(DROPS)TOP ECUADORIAN ROAD TO RUBY SOLO Q!",
+    "viewers": 0,
+    "startedAt": "2026-11-10T22:23:30Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmeromeyer-{width}x{height}.jpg",
+    "rank": 171,
+    "name": "GGS#1020",
+    "rankScore": 52360,
     "matchedBy": "name"
    },
    {
@@ -396,22 +408,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "taekfps",
-    "displayName": "TaeKfps",
-    "title": "Beaming & Sponsoring !sens !vt",
-    "viewers": 8,
-    "startedAt": "2026-11-10T19:03:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
-    "rank": 343,
-    "name": "TaeK#3289",
-    "rankScore": 49037,
-    "matchedBy": "name"
-   },
-   {
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 83,
+    "viewers": 82,
     "startedAt": "2026-11-10T20:32:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 391,
@@ -423,7 +423,7 @@
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "Oops! It's All Crossbows!",
-    "viewers": 5,
+    "viewers": 8,
     "startedAt": "2026-11-10T20:56:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 487,
@@ -434,20 +434,20 @@
   ],
   "titleMentions": [
    {
-    "login": "teoma96",
-    "displayName": "Teoma96",
-    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 4,
-    "startedAt": "2026-11-10T21:39:46Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
-   },
-   {
     "login": "cl_bubbles",
     "displayName": "cl_bubbles",
     "title": "The only ruby cl-40 -Belly slappin - [Noobin on my toob]",
     "viewers": 3,
     "startedAt": "2026-11-10T21:45:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
+   },
+   {
+    "login": "shmurdahhhhhhh",
+    "displayName": "shmurdahhhhhhh",
+    "title": "SOLO Q TO RUBY!!!!!!",
+    "viewers": 3,
+    "startedAt": "2026-11-10T19:12:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shmurdahhhhhhh-{width}x{height}.jpg"
    },
    {
     "login": "ultrafizz_tv",
@@ -466,12 +466,12 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    },
    {
-    "login": "shmurdahhhhhhh",
-    "displayName": "shmurdahhhhhhh",
-    "title": "SOLO Q TO RUBY!!!!!!",
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
     "viewers": 1,
-    "startedAt": "2026-11-10T19:12:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_shmurdahhhhhhh-{width}x{height}.jpg"
+    "startedAt": "2026-11-10T21:39:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T18:40:34Z",
+ "generatedAt": "2026-11-10T18:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T18:35:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 398,
  "rubyShare": 0.0879,
- "steamPlayers": 15459,
+ "steamPlayers": 15595,
  "rubyCutoff": 47382,
  "grinding": [
   {
@@ -296,14 +296,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T18:40:34Z",
-  "totalStreams": 167,
+  "checkedAt": "2026-11-10T18:50:32Z",
+  "totalStreams": 162,
   "rubyLive": [
    {
     "login": "etelco",
     "displayName": "Etelco",
     "title": "Scrim vs Nfinite | Embark Partner 💎 !coaching",
-    "viewers": 78,
+    "viewers": 81,
     "startedAt": "2026-11-10T11:08:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 85,
@@ -312,10 +312,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "normalize",
+    "displayName": "normalize",
+    "title": "PUSHING FOR PARTNER PLUS HELP PLS! | RANKED | #VerseClipContest | !discord !sens !Contest",
+    "viewers": 17,
+    "startedAt": "2026-11-10T18:41:34Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_normalize-{width}x{height}.jpg",
+    "rank": 88,
+    "name": "normalize#0130",
+    "rankScore": 55148,
+    "matchedBy": "name"
+   },
+   {
     "login": "notbubbaa_",
     "displayName": "notbubbaa_",
     "title": "[DROPS 100x] Swedem SOON | Medium METHOD |Major Prep| !insta !discord",
-    "viewers": 139,
+    "viewers": 122,
     "startedAt": "2026-11-10T15:53:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
     "rank": 104,
@@ -336,7 +348,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "egman39",
+    "displayName": "egman39",
+    "title": "TOP 500 GRIND W/ FOLLOWERS",
+    "viewers": 0,
+    "startedAt": "2026-11-10T18:46:27Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

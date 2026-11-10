@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T22:40:32Z",
+ "generatedAt": "2026-11-10T22:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T22:33:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 51,
  "allActive": 538,
  "rubyShare": 0.0948,
- "steamPlayers": 15580,
+ "steamPlayers": 15419,
  "rubyCutoff": 47415,
  "grinding": [
   {
@@ -424,31 +424,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T22:40:32Z",
+  "checkedAt": "2026-11-10T22:50:32Z",
   "totalStreams": 186,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) RANKED | BERGER IN SWEDEN | ELEVATE VS TAKE FLYTE",
-    "viewers": 153,
+    "viewers": 147,
     "startedAt": "2026-11-10T19:20:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 60,
     "name": "Balise#2431",
     "rankScore": 56527,
-    "matchedBy": "name"
-   },
-   {
-    "login": "elmeromeyer",
-    "displayName": "elmeromeyer",
-    "title": "(DROPS)TOP ECUADORIAN ROAD TO RUBY SOLO Q!",
-    "viewers": 1,
-    "startedAt": "2026-11-10T22:23:30Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmeromeyer-{width}x{height}.jpg",
-    "rank": 171,
-    "name": "GGS#1020",
-    "rankScore": 52360,
     "matchedBy": "name"
    },
    {
@@ -467,7 +455,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 88,
+    "viewers": 77,
     "startedAt": "2026-11-10T20:32:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 392,
@@ -479,7 +467,7 @@
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "Oops! It's All Crossbows!",
-    "viewers": 10,
+    "viewers": 13,
     "startedAt": "2026-11-10T20:56:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 459,
@@ -490,14 +478,6 @@
   ],
   "titleMentions": [
    {
-    "login": "cl_bubbles",
-    "displayName": "cl_bubbles",
-    "title": "The only ruby cl-40 -Belly slappin - [Noobin on my toob]",
-    "viewers": 2,
-    "startedAt": "2026-11-10T21:45:46Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
-   },
-   {
     "login": "ultrafizz_tv",
     "displayName": "UltraFizz_TV",
     "title": "THE FINALS | solo ranked queue pain | road to ruby",
@@ -506,12 +486,28 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ultrafizz_tv-{width}x{height}.jpg"
    },
    {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 2,
+    "startedAt": "2026-11-10T21:39:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
+   },
+   {
     "login": "opportunehook9",
     "displayName": "OpportuneHook9",
     "title": "Diamond Player striving for Ruby",
     "viewers": 1,
     "startedAt": "2026-11-10T19:12:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
+    "login": "cl_bubbles",
+    "displayName": "cl_bubbles",
+    "title": "The only ruby cl-40 -Belly slappin - [Noobin on my toob]",
+    "viewers": 1,
+    "startedAt": "2026-11-10T21:45:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
    }
   ]
  },

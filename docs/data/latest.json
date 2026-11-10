@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T08:10:32Z",
+ "generatedAt": "2026-11-10T08:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T08:05:04Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 29,
  "allActive": 236,
  "rubyShare": 0.1229,
- "steamPlayers": 6894,
+ "steamPlayers": 6775,
  "rubyCutoff": 47282,
  "grinding": [
   {
@@ -147,7 +147,7 @@
    "delta": 3,
    "rankScore": 51086,
    "club": "DIGA",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 270,
@@ -171,7 +171,7 @@
    "delta": 4,
    "rankScore": 49304,
    "club": null,
-   "twitch": "nousttv"
+   "twitch": null
   },
   {
    "rank": 326,
@@ -248,14 +248,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T08:10:32Z",
-  "totalStreams": 99,
+  "checkedAt": "2026-11-10T08:20:32Z",
+  "totalStreams": 98,
   "rubyLive": [
    {
     "login": "bizzy",
     "displayName": "Bizzy",
     "title": "[DROPS] #FreeCC for a second time | solo q to ruby ep. 1 | THANK YOU GUYS FOR PARTNER PLUS 2/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 72,
+    "viewers": 132,
     "startedAt": "2026-11-10T04:35:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
     "rank": 60,
@@ -274,42 +274,9 @@
     "name": "YangDoun#0398",
     "rankScore": 54679,
     "matchedBy": "name"
-   },
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Ruby Flex Player",
-    "viewers": 115,
-    "startedAt": "2026-11-10T03:36:08Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 210,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 51086,
-    "matchedBy": "name"
-   },
-   {
-    "login": "nousttv",
-    "displayName": "nousttv",
-    "title": "ranked w da hamies",
-    "viewers": 3,
-    "startedAt": "2026-11-10T04:25:56Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
-    "rank": 316,
-    "name": "Nous#0463",
-    "rankScore": 49304,
-    "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 1,
-    "startedAt": "2026-11-10T06:36:38Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

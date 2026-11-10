@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T12:30:32Z",
+ "generatedAt": "2026-11-10T12:40:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-10T12:06:23Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 22,
  "allActive": 211,
  "rubyShare": 0.1043,
- "steamPlayers": 7789,
+ "steamPlayers": 8119,
  "rubyCutoff": 47334,
  "grinding": [
   {
@@ -192,19 +192,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-10T12:30:32Z",
-  "totalStreams": 61,
+  "checkedAt": "2026-11-10T12:40:31Z",
+  "totalStreams": 70,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "RANK #1 // New !Video │!coaching !youtube !discord",
-    "viewers": 73,
+    "viewers": 49,
     "startedAt": "2026-11-10T09:42:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
     "name": "perzzonTTV#5485",
     "rankScore": 65077,
+    "matchedBy": "name"
+   },
+   {
+    "login": "etelco",
+    "displayName": "Etelco",
+    "title": "THE FINALS | Embark Partner 💎 !coaching",
+    "viewers": 14,
+    "startedAt": "2026-11-10T11:08:44Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
+    "rank": 83,
+    "name": "Etelco#8323",
+    "rankScore": 55320,
     "matchedBy": "name"
    },
    {

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T05:10:31Z",
+ "generatedAt": "2026-11-11T05:20:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-11T05:02:35Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 45,
  "allActive": 456,
  "rubyShare": 0.0987,
- "steamPlayers": 12729,
+ "steamPlayers": 12153,
  "rubyCutoff": 47500,
  "grinding": [
   {
@@ -243,7 +243,7 @@
    "delta": -511,
    "rankScore": 49819,
    "club": "NTMR",
-   "twitch": "cueteepai"
+   "twitch": null
   },
   {
    "rank": 318,
@@ -376,14 +376,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-11T05:10:31Z",
-  "totalStreams": 168,
+  "checkedAt": "2026-11-11T05:20:31Z",
+  "totalStreams": 174,
   "rubyLive": [
    {
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 21,
+    "viewers": 24,
     "startedAt": "2026-11-11T04:41:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 191,
@@ -395,24 +395,12 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Short Late Night Vibes - !Coach - Embark Partner - VGG Coach",
-    "viewers": 78,
+    "viewers": 90,
     "startedAt": "2026-11-11T00:56:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 258,
     "name": "Appoh#9173",
     "rankScore": 50425,
-    "matchedBy": "name"
-   },
-   {
-    "login": "cueteepai",
-    "displayName": "cueteepai",
-    "title": "SPEAR RANKED TIME! 💗 |  With Apples",
-    "viewers": 24,
-    "startedAt": "2026-11-11T02:45:28Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
-    "rank": 296,
-    "name": "cueteepai.tv#9915",
-    "rankScore": 49819,
     "matchedBy": "name"
    }
   ],

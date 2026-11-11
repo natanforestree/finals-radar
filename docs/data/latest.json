@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T23:20:32Z",
+ "generatedAt": "2026-11-11T23:30:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-11T23:19:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 65,
  "allActive": 508,
  "rubyShare": 0.128,
- "steamPlayers": 14466,
+ "steamPlayers": 14245,
  "rubyCutoff": 47668,
  "grinding": [
   {
@@ -283,7 +283,7 @@
    "delta": -97,
    "rankScore": 51511,
    "club": "LZ0",
-   "twitch": "incgii"
+   "twitch": null
   },
   {
    "rank": 219,
@@ -536,14 +536,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-11T23:20:32Z",
-  "totalStreams": 201,
+  "checkedAt": "2026-11-11T23:30:33Z",
+  "totalStreams": 194,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "BUNDLE TOMORROW | SHORT STREAM | ELEVATE VS AIMERZ+",
-    "viewers": 89,
+    "viewers": 82,
     "startedAt": "2026-11-11T22:12:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 58,
@@ -564,22 +564,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "LIGNE ZERO / light ruby / RANKEDDDDDDDDDDDD",
-    "viewers": 2,
-    "startedAt": "2026-11-11T22:14:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
-    "rank": 215,
-    "name": "IncGII#1058",
-    "rankScore": 51511,
-    "matchedBy": "name"
-   },
-   {
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "Repeater? Nerfed. Pike? Nerfed. Crossbow????",
-    "viewers": 10,
+    "viewers": 14,
     "startedAt": "2026-11-11T21:01:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 478,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T06:50:31Z",
+ "generatedAt": "2026-11-12T07:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-12T06:49:58Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 36,
  "allActive": 310,
  "rubyShare": 0.1161,
- "steamPlayers": 8615,
+ "steamPlayers": 8308,
  "rubyCutoff": 47668,
  "grinding": [
   {
@@ -304,14 +304,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-12T06:50:31Z",
-  "totalStreams": 118,
+  "checkedAt": "2026-11-12T07:00:31Z",
+  "totalStreams": 115,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 85,
+    "viewers": 75,
     "startedAt": "2026-11-12T00:21:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 148,
@@ -323,7 +323,7 @@
     "login": "nousttv",
     "displayName": "nousttv",
     "title": "ranked w da hamies",
-    "viewers": 6,
+    "viewers": 9,
     "startedAt": "2026-11-12T06:09:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
     "rank": 444,
@@ -332,7 +332,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "ogmudbone_10",
+    "displayName": "ogmudbone_10",
+    "title": "#1 Ruby player The Finals",
+    "viewers": 0,
+    "startedAt": "2026-11-12T06:52:23Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

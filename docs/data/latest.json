@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T00:00:33Z",
+ "generatedAt": "2026-11-12T00:10:35Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-11T23:49:58Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 53,
  "allActive": 498,
  "rubyShare": 0.1064,
- "steamPlayers": 13970,
+ "steamPlayers": 13991,
  "rubyCutoff": 47649,
  "grinding": [
   {
@@ -440,14 +440,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-12T00:00:33Z",
-  "totalStreams": 194,
+  "checkedAt": "2026-11-12T00:10:35Z",
+  "totalStreams": 201,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "BUNDLE TOMORROW | SHORT STREAM | ELEVATE VS AIMERZ+",
-    "viewers": 111,
+    "viewers": 99,
     "startedAt": "2026-11-11T22:12:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 57,
@@ -456,10 +456,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "isogodlegend",
+    "displayName": "IsoGodLegend",
+    "title": "The Finals ^^",
+    "viewers": 0,
+    "startedAt": "2026-11-12T00:04:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_isogodlegend-{width}x{height}.jpg",
+    "rank": 329,
+    "name": "Iso#7371",
+    "rankScore": 49528,
+    "matchedBy": "name"
+   },
+   {
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "Repeater? Nerfed. Pike? Nerfed. Crossbow????",
-    "viewers": 8,
+    "viewers": 5,
     "startedAt": "2026-11-11T21:01:02Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 455,
@@ -473,7 +485,7 @@
     "login": "opportunehook9",
     "displayName": "OpportuneHook9",
     "title": "Diamond Player striving for Ruby",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-11-11T23:47:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }

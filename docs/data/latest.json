@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T03:00:33Z",
+ "generatedAt": "2026-11-12T03:10:34Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-12T02:49:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 34,
  "allActive": 414,
  "rubyShare": 0.0821,
- "steamPlayers": 14947,
+ "steamPlayers": 14974,
  "rubyCutoff": 47709,
  "grinding": [
   {
@@ -288,14 +288,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-12T03:00:33Z",
+  "checkedAt": "2026-11-12T03:10:34Z",
   "totalStreams": 218,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 83,
+    "viewers": 66,
     "startedAt": "2026-11-12T00:21:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 168,
@@ -307,7 +307,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "Does anything change tomorrow? - !Coach - Embark Partner - VGG Coach",
-    "viewers": 74,
+    "viewers": 79,
     "startedAt": "2026-11-12T00:29:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 280,
@@ -318,20 +318,28 @@
   ],
   "titleMentions": [
    {
-    "login": "kaneyuuu",
-    "displayName": "kaneyuuu",
-    "title": "road to ruby stream part one (the finals)",
-    "viewers": 2,
-    "startedAt": "2026-11-12T01:36:01Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaneyuuu-{width}x{height}.jpg"
-   },
-   {
     "login": "sushxy",
     "displayName": "Sushxy",
     "title": "The Finals | Top 100 ranked (Evil Chimera user)",
     "viewers": 1,
     "startedAt": "2026-11-12T02:24:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
+   },
+   {
+    "login": "kaneyuuu",
+    "displayName": "kaneyuuu",
+    "title": "road to ruby stream part one (the finals)",
+    "viewers": 1,
+    "startedAt": "2026-11-12T01:36:01Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaneyuuu-{width}x{height}.jpg"
+   },
+   {
+    "login": "volt_iniquity",
+    "displayName": "Volt_Iniquity",
+    "title": "Extremely slow grind to Ruby",
+    "viewers": 0,
+    "startedAt": "2026-11-12T03:07:36Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_volt_iniquity-{width}x{height}.jpg"
    }
   ]
  },

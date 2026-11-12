@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T06:10:32Z",
+ "generatedAt": "2026-11-12T06:20:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-12T05:49:21Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 39,
  "allActive": 316,
  "rubyShare": 0.1234,
- "steamPlayers": 9915,
+ "steamPlayers": 9597,
  "rubyCutoff": 47649,
  "grinding": [
   {
@@ -328,19 +328,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-12T06:10:32Z",
-  "totalStreams": 133,
+  "checkedAt": "2026-11-12T06:20:31Z",
+  "totalStreams": 128,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 81,
+    "viewers": 75,
     "startedAt": "2026-11-12T00:21:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 155,
     "name": "Digcron.TTV#3309",
     "rankScore": 53147,
+    "matchedBy": "name"
+   },
+   {
+    "login": "nousttv",
+    "displayName": "nousttv",
+    "title": "ranked w da hamies",
+    "viewers": 3,
+    "startedAt": "2026-11-12T06:09:10Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
+    "rank": 442,
+    "name": "Nous#0463",
+    "rankScore": 48280,
     "matchedBy": "name"
    }
   ],

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T15:50:34Z",
+ "generatedAt": "2026-11-12T16:00:34Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-12T15:41:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 45,
  "allActive": 316,
  "rubyShare": 0.1424,
- "steamPlayers": 11135,
+ "steamPlayers": 11423,
  "rubyCutoff": 47716,
  "grinding": [
   {
@@ -179,7 +179,7 @@
    "delta": 99,
    "rankScore": 55540,
    "club": "NTMR",
-   "twitch": "bizzy"
+   "twitch": null
   },
   {
    "rank": 102,
@@ -376,14 +376,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-12T15:50:34Z",
-  "totalStreams": 136,
+  "checkedAt": "2026-11-12T16:00:34Z",
+  "totalStreams": 141,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[DROPS] RANK #1 // Nfinite Bundle Giveaway│!coaching !youtube !discord",
-    "viewers": 163,
+    "viewers": 129,
     "startedAt": "2026-11-12T09:30:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 2,
@@ -395,7 +395,7 @@
     "login": "naghostx6",
     "displayName": "NAGHOSTX6",
     "title": "#newskates",
-    "viewers": 66,
+    "viewers": 54,
     "startedAt": "2026-11-12T14:55:50Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
     "rank": 41,
@@ -407,7 +407,7 @@
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) TGM PATCH LOCKED | ELEVATE BUNDLE OUT NOW! | FLYTE & LUMINON DOUBLE",
-    "viewers": 0,
+    "viewers": 33,
     "startedAt": "2026-11-12T15:50:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 57,
@@ -419,7 +419,7 @@
     "login": "etelco",
     "displayName": "Etelco",
     "title": "[!Drops] NEW BUNDLE VANGUARD GAMING (#1 Esport Bundle) AVAILABLE | Embark Partner 💎 !coaching",
-    "viewers": 115,
+    "viewers": 93,
     "startedAt": "2026-11-12T12:35:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_etelco-{width}x{height}.jpg",
     "rank": 82,
@@ -428,22 +428,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "bizzy",
-    "displayName": "Bizzy",
-    "title": "[NEW DROPS] NTMR BUNDLE OUT NOW!!! | SOLO Q TO RUBY EP 2 | #FREECC | THANK YOU GUYS FOR PARTNER PLUS 2/3 | NEW EMOTES FOR T2 !cat",
-    "viewers": 69,
-    "startedAt": "2026-11-12T10:54:40Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
-    "rank": 94,
-    "name": "Bizzy#0005",
-    "rankScore": 55540,
-    "matchedBy": "name"
-   },
-   {
     "login": "notbubbaa_",
     "displayName": "notbubbaa_",
     "title": "[DROPS 100x] ESPORTS BUNDLE HERE | 12.3 RANKED| Sweden soon | !insta !discord",
-    "viewers": 76,
+    "viewers": 83,
     "startedAt": "2026-11-12T14:01:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
     "rank": 102,
@@ -455,7 +443,7 @@
     "login": "zuki",
     "displayName": "zuki",
     "title": "[DROPS] NTMR Coach | Last stream until after Major, just chilling. NTMR BUNDLE OUT | Embark Creator | !coaching !mouse !sens !res !femboy",
-    "viewers": 19,
+    "viewers": 51,
     "startedAt": "2026-11-12T14:19:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zuki-{width}x{height}.jpg",
     "rank": 203,
@@ -467,7 +455,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 7,
+    "viewers": 15,
     "startedAt": "2026-11-12T14:50:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 249,
@@ -479,29 +467,33 @@
     "login": "wutum",
     "displayName": "WuTum",
     "title": "!BUNDLE IS OUT #VGGWIN // Ranked !sens",
-    "viewers": 9,
+    "viewers": 17,
     "startedAt": "2026-11-12T13:19:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
     "rank": 269,
     "name": "WuTum#7032",
     "rankScore": 50579,
     "matchedBy": "name"
+   },
+   {
+    "login": "standbyluke7",
+    "displayName": "StandbyLuke7",
+    "title": "PB With Da Duo",
+    "viewers": 1,
+    "startedAt": "2026-11-12T15:50:38Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_standbyluke7-{width}x{height}.jpg",
+    "rank": 477,
+    "name": "StandbyLuke7#3105",
+    "rankScore": 47959,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
    {
-    "login": "sound2570",
-    "displayName": "sound2570",
-    "title": "TOP 500 WORST LIGHT | !socials !discord. | (THE FINALS - ARKNIGHTS)",
-    "viewers": 5,
-    "startedAt": "2026-11-12T15:20:10Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sound2570-{width}x{height}.jpg"
-   },
-   {
     "login": "teoma96",
     "displayName": "Teoma96",
     "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 4,
+    "viewers": 2,
     "startedAt": "2026-11-12T15:41:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    },
@@ -512,6 +504,14 @@
     "viewers": 1,
     "startedAt": "2026-11-12T15:17:16Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wholehorsejj-{width}x{height}.jpg"
+   },
+   {
+    "login": "sound2570",
+    "displayName": "sound2570",
+    "title": "TOP 500 WORST LIGHT | !socials !discord. | (THE FINALS - ARKNIGHTS)",
+    "viewers": 1,
+    "startedAt": "2026-11-12T15:20:10Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sound2570-{width}x{height}.jpg"
    }
   ]
  },

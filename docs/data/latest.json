@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T01:00:33Z",
+ "generatedAt": "2026-11-13T01:10:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-13T00:39:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 49,
  "allActive": 463,
  "rubyShare": 0.1058,
- "steamPlayers": 13872,
+ "steamPlayers": 13899,
  "rubyCutoff": 47858,
  "grinding": [
   {
@@ -379,7 +379,7 @@
    "delta": 387,
    "rankScore": 48426,
    "club": "TMATO",
-   "twitch": "matotm"
+   "twitch": null
   },
   {
    "rank": 448,
@@ -408,14 +408,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-13T01:00:33Z",
-  "totalStreams": 203,
+  "checkedAt": "2026-11-13T01:10:31Z",
+  "totalStreams": 209,
   "rubyLive": [
    {
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) TGM PATCH LOCKED | ELEVATE BUNDLE OUT NOW! | FLYTE & LUMINON DOUBLE",
-    "viewers": 191,
+    "viewers": 192,
     "startedAt": "2026-11-12T15:50:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 47,
@@ -424,39 +424,31 @@
     "matchedBy": "name"
    },
    {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[DROPS] Ruby Flex Player",
+    "viewers": 2,
+    "startedAt": "2026-11-13T01:06:14Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 137,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 53796,
+    "matchedBy": "name"
+   },
+   {
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 152,
+    "viewers": 157,
     "startedAt": "2026-11-12T22:10:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 435,
     "name": "Sanguine#5740",
     "rankScore": 48469,
     "matchedBy": "name"
-   },
-   {
-    "login": "matotm",
-    "displayName": "MatoTM",
-    "title": "[DRIP DROPS] When We Lose All Our RS, We Get Back Up And Do it Again!",
-    "viewers": 13,
-    "startedAt": "2026-11-12T21:01:07Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
-    "rank": 442,
-    "name": "MatoTM#7141",
-    "rankScore": 48426,
-    "matchedBy": "name"
    }
   ],
   "titleMentions": [
-   {
-    "login": "bullpapi",
-    "displayName": "bullpapi",
-    "title": "Road to RUBY w/ SPRITE",
-    "viewers": 1,
-    "startedAt": "2026-11-12T22:06:31Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bullpapi-{width}x{height}.jpg"
-   },
    {
     "login": "progamerdx1",
     "displayName": "progamerdx1",

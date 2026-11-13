@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T05:20:37Z",
+ "generatedAt": "2026-11-13T05:30:39Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-13T05:05:59Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 43,
  "allActive": 432,
  "rubyShare": 0.0995,
- "steamPlayers": 12295,
+ "steamPlayers": 11724,
  "rubyCutoff": 47865,
  "grinding": [
   {
@@ -360,14 +360,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-13T05:20:37Z",
+  "checkedAt": "2026-11-13T05:30:39Z",
   "totalStreams": 196,
   "rubyLive": [
+   {
+    "login": "yangdoun",
+    "displayName": "yangdoun",
+    "title": "APES Bundle, Let's Go / APE SQUAD / Korean /",
+    "viewers": 1,
+    "startedAt": "2026-11-13T05:26:07Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
+    "rank": 110,
+    "name": "YangDoun#0398",
+    "rankScore": 54875,
+    "matchedBy": "name"
+   },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 209,
+    "viewers": 210,
     "startedAt": "2026-11-13T01:06:14Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 113,
@@ -390,6 +402,14 @@
   ],
   "titleMentions": [
    {
+    "login": "ogmudbone_10",
+    "displayName": "ogmudbone_10",
+    "title": "#1 Ruby player The Finals",
+    "viewers": 1,
+    "startedAt": "2026-11-13T04:41:17Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
+   },
+   {
     "login": "mcdonut_ttv",
     "displayName": "Mcdonut_ttv",
     "title": "We hit ruby today",
@@ -404,14 +424,6 @@
     "viewers": 1,
     "startedAt": "2026-11-13T03:37:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lordgrillcheese-{width}x{height}.jpg"
-   },
-   {
-    "login": "ogmudbone_10",
-    "displayName": "ogmudbone_10",
-    "title": "#1 Ruby player The Finals",
-    "viewers": 0,
-    "startedAt": "2026-11-13T04:41:17Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
    }
   ]
  },

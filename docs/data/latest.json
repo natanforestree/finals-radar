@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T17:40:33Z",
+ "generatedAt": "2026-11-14T17:50:35Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-14T17:32:55Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 45,
  "allActive": 430,
  "rubyShare": 0.1047,
- "steamPlayers": 17091,
+ "steamPlayers": 17215,
  "rubyCutoff": 48153,
  "grinding": [
   {
@@ -376,14 +376,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-14T17:40:33Z",
-  "totalStreams": 151,
+  "checkedAt": "2026-11-14T17:50:35Z",
+  "totalStreams": 169,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 │!coaching !youtube !discord",
-    "viewers": 204,
+    "viewers": 182,
     "startedAt": "2026-11-14T09:50:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -407,7 +407,7 @@
     "login": "notbubbaa_",
     "displayName": "notbubbaa_",
     "title": "[DROPS 100x] ESPORTS BUNDLE HERE | Major Prep | !insta !discord",
-    "viewers": 65,
+    "viewers": 68,
     "startedAt": "2026-11-14T16:53:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
     "rank": 98,
@@ -419,12 +419,24 @@
     "login": "yangdoun",
     "displayName": "yangdoun",
     "title": "Late Night Ranked / APE SQUAD / Korean /",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-11-14T15:53:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
     "rank": 103,
     "name": "YangDoun#0398",
     "rankScore": 55690,
+    "matchedBy": "name"
+   },
+   {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "making billions - !FinalsRS !yt !discord",
+    "viewers": 3,
+    "startedAt": "2026-11-14T17:33:51Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 186,
+    "name": "Antiparty#0866",
+    "rankScore": 52759,
     "matchedBy": "name"
    },
    {
@@ -455,7 +467,7 @@
     "login": "regularfishie",
     "displayName": "RegularFishie",
     "title": "[DROPS ON!!] ruby sword gaming!!! !clips",
-    "viewers": 10,
+    "viewers": 6,
     "startedAt": "2026-11-14T14:57:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_regularfishie-{width}x{height}.jpg",
     "rank": 279,
@@ -478,12 +490,36 @@
   ],
   "titleMentions": [
    {
+    "login": "ginooss",
+    "displayName": "GinooSS",
+    "title": "Top500.",
+    "viewers": 2,
+    "startedAt": "2026-11-14T17:31:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ginooss-{width}x{height}.jpg"
+   },
+   {
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
+    "viewers": 2,
+    "startedAt": "2026-11-14T16:18:05Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
+   },
+   {
     "login": "udvalewastaken",
     "displayName": "udvalewastaken",
     "title": "[DROPS ON!] TKS grind to ruby",
     "viewers": 2,
     "startedAt": "2026-11-14T17:07:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udvalewastaken-{width}x{height}.jpg"
+   },
+   {
+    "login": "ultrafizz_tv",
+    "displayName": "UltraFizz_TV",
+    "title": "THE FINALS | solo ranked queue pain | road to ruby",
+    "viewers": 0,
+    "startedAt": "2026-11-14T17:50:11Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ultrafizz_tv-{width}x{height}.jpg"
    }
   ]
  },

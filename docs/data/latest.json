@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T02:10:31Z",
+ "generatedAt": "2026-11-14T02:20:30Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-14T02:08:08Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 56,
  "allActive": 444,
  "rubyShare": 0.1261,
- "steamPlayers": 14973,
+ "steamPlayers": 14997,
  "rubyCutoff": 48045,
  "grinding": [
   {
@@ -464,14 +464,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-14T02:10:31Z",
+  "checkedAt": "2026-11-14T02:20:30Z",
   "totalStreams": 226,
   "rubyLive": [
+   {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[DROPS] Ruby Flex Player",
+    "viewers": 10,
+    "startedAt": "2026-11-14T02:15:39Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 115,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 54894,
+    "matchedBy": "name"
+   },
    {
     "login": "kdkiller6021",
     "displayName": "KDKiller6021",
     "title": "[DROPS] No more ball shenanigans :(",
-    "viewers": 51,
+    "viewers": 44,
     "startedAt": "2026-11-14T01:33:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdkiller6021-{width}x{height}.jpg",
     "rank": 370,
@@ -483,7 +495,7 @@
     "login": "detaail",
     "displayName": "DeTaaiL",
     "title": "GAYMES, MUSIC AND VIBES",
-    "viewers": 3,
+    "viewers": 5,
     "startedAt": "2026-11-13T23:58:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_detaail-{width}x{height}.jpg",
     "rank": 407,
@@ -495,7 +507,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 157,
+    "viewers": 143,
     "startedAt": "2026-11-13T23:18:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 464,
@@ -506,20 +518,28 @@
   ],
   "titleMentions": [
    {
+    "login": "bigkev599",
+    "displayName": "bigkev599",
+    "title": "Road to Ruby 1",
+    "viewers": 2,
+    "startedAt": "2026-11-14T01:41:19Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bigkev599-{width}x{height}.jpg"
+   },
+   {
     "login": "dubziebbx",
     "displayName": "DubzieBBX",
     "title": "(drops enabled) the grind to diamond continues road to ruby !!!(ROAD TO EMBARK CREATOR) !commands !discord !tangia !misteay",
-    "viewers": 3,
+    "viewers": 1,
     "startedAt": "2026-11-14T00:52:15Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dubziebbx-{width}x{height}.jpg"
    },
    {
-    "login": "bigkev599",
-    "displayName": "bigkev599",
-    "title": "Road to Ruby 1",
+    "login": "thetato8k",
+    "displayName": "TheTato8k",
+    "title": "ROAD TO RUBY EPISODE 3!!!!!!1",
     "viewers": 1,
-    "startedAt": "2026-11-14T01:41:19Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bigkev599-{width}x{height}.jpg"
+    "startedAt": "2026-11-14T01:20:47Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_thetato8k-{width}x{height}.jpg"
    },
    {
     "login": "progamerdx1",
@@ -533,7 +553,7 @@
     "login": "headhonshow",
     "displayName": "headhonshow",
     "title": "The Finals: Top After 500 Ruby Medium Matches!",
-    "viewers": 0,
+    "viewers": 1,
     "startedAt": "2026-11-14T02:09:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_headhonshow-{width}x{height}.jpg"
    }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T04:20:31Z",
+ "generatedAt": "2026-11-14T04:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-14T04:04:45Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 53,
  "allActive": 401,
  "rubyShare": 0.1322,
- "steamPlayers": 15220,
+ "steamPlayers": 15121,
  "rubyCutoff": 48073,
  "grinding": [
   {
@@ -440,19 +440,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-14T04:20:31Z",
-  "totalStreams": 214,
+  "checkedAt": "2026-11-14T04:30:32Z",
+  "totalStreams": 213,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 69,
+    "viewers": 73,
     "startedAt": "2026-11-14T02:15:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 110,
     "name": "Digcron.TTV#3309",
     "rankScore": 55254,
+    "matchedBy": "name"
+   },
+   {
+    "login": "elmerocapo_",
+    "displayName": "elmerocapo_",
+    "title": "terrorizing cashout pilgrims",
+    "viewers": 0,
+    "startedAt": "2026-11-14T04:28:54Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmerocapo_-{width}x{height}.jpg",
+    "rank": 174,
+    "name": "ElMeroCapo#7266",
+    "rankScore": 52922,
     "matchedBy": "name"
    },
    {
@@ -471,7 +483,7 @@
     "login": "kdkiller6021",
     "displayName": "KDKiller6021",
     "title": "[DROPS] No more ball shenanigans :(",
-    "viewers": 40,
+    "viewers": 37,
     "startedAt": "2026-11-14T01:33:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdkiller6021-{width}x{height}.jpg",
     "rank": 346,
@@ -483,7 +495,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 179,
+    "viewers": 162,
     "startedAt": "2026-11-13T23:18:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 465,
@@ -516,6 +528,14 @@
     "viewers": 1,
     "startedAt": "2026-11-14T03:34:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_egman39-{width}x{height}.jpg"
+   },
+   {
+    "login": "kuriswrld",
+    "displayName": "KurisWRLD",
+    "title": "Can an average play grind to Ruby?",
+    "viewers": 1,
+    "startedAt": "2026-11-14T04:25:51Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kuriswrld-{width}x{height}.jpg"
    },
    {
     "login": "tristanly",

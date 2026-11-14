@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T03:50:35Z",
+ "generatedAt": "2026-11-14T04:00:35Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-14T03:39:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 47,
  "allActive": 416,
  "rubyShare": 0.113,
- "steamPlayers": 15419,
+ "steamPlayers": 15459,
  "rubyCutoff": 48101,
  "grinding": [
   {
@@ -392,14 +392,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-14T03:50:35Z",
+  "checkedAt": "2026-11-14T04:00:35Z",
   "totalStreams": 216,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 65,
+    "viewers": 55,
     "startedAt": "2026-11-14T02:15:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 113,
@@ -408,10 +408,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "mdiym",
+    "displayName": "mdiym",
+    "title": "chud pov | !ad: 30s/1hr",
+    "viewers": 2,
+    "startedAt": "2026-11-14T03:03:55Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_mdiym-{width}x{height}.jpg",
+    "rank": 293,
+    "name": "mdiym#9757",
+    "rankScore": 50557,
+    "matchedBy": "name"
+   },
+   {
     "login": "kdkiller6021",
     "displayName": "KDKiller6021",
     "title": "[DROPS] No more ball shenanigans :(",
-    "viewers": 52,
+    "viewers": 48,
     "startedAt": "2026-11-14T01:33:43Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdkiller6021-{width}x{height}.jpg",
     "rank": 346,
@@ -446,14 +458,6 @@
   ],
   "titleMentions": [
    {
-    "login": "tristanly",
-    "displayName": "Tristanly",
-    "title": "top 100 ranked silver player",
-    "viewers": 3,
-    "startedAt": "2026-11-14T03:14:04Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tristanly-{width}x{height}.jpg"
-   },
-   {
     "login": "egman39",
     "displayName": "egman39",
     "title": "TOP 500 GRIND W/ FOLLOWERS",
@@ -468,6 +472,14 @@
     "viewers": 2,
     "startedAt": "2026-11-14T02:09:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_headhonshow-{width}x{height}.jpg"
+   },
+   {
+    "login": "tristanly",
+    "displayName": "Tristanly",
+    "title": "top 100 ranked silver player",
+    "viewers": 2,
+    "startedAt": "2026-11-14T03:14:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tristanly-{width}x{height}.jpg"
    },
    {
     "login": "bradygainz",

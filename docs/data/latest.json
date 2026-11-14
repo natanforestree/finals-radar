@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T19:40:32Z",
+ "generatedAt": "2026-11-14T19:50:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-14T19:35:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 475,
  "rubyShare": 0.0737,
- "steamPlayers": 18524,
+ "steamPlayers": 18757,
  "rubyCutoff": 48252,
  "grinding": [
   {
@@ -59,7 +59,7 @@
    "delta": 128,
    "rankScore": 57944,
    "club": null,
-   "twitch": "sly_mee"
+   "twitch": null
   },
   {
    "rank": 75,
@@ -296,26 +296,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-14T19:40:32Z",
-  "totalStreams": 171,
+  "checkedAt": "2026-11-14T19:50:31Z",
+  "totalStreams": 176,
   "rubyLive": [
-   {
-    "login": "sly_mee",
-    "displayName": "sly_mee",
-    "title": "THE FINALS SEASON 12 TOP 50 RANKED PLAYER SOLO QS",
-    "viewers": 1,
-    "startedAt": "2026-11-14T16:41:39Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sly_mee-{width}x{height}.jpg",
-    "rank": 55,
-    "name": "Sly#1640",
-    "rankScore": 57944,
-    "matchedBy": "name"
-   },
    {
     "login": "notbubbaa_",
     "displayName": "notbubbaa_",
     "title": "[DROPS 100x] ESPORTS BUNDLE HERE | Major Prep | !insta !discord",
-    "viewers": 82,
+    "viewers": 81,
     "startedAt": "2026-11-14T16:53:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notbubbaa_-{width}x{height}.jpg",
     "rank": 91,
@@ -327,7 +315,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] making billions - !FinalsRS !yt !discord",
-    "viewers": 7,
+    "viewers": 8,
     "startedAt": "2026-11-14T17:33:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 186,
@@ -336,10 +324,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "lamp",
+    "displayName": "lamp",
+    "title": "(DROPS CUH) its cold as a mf out here #VerseClipContest !contest !youtube | lampischiller lampisLuminon",
+    "viewers": 31,
+    "startedAt": "2026-11-14T19:36:11Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lamp-{width}x{height}.jpg",
+    "rank": 195,
+    "name": "lamp#5944",
+    "rankScore": 52448,
+    "matchedBy": "name"
+   },
+   {
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby / SCRIM against VANGUARD",
-    "viewers": 8,
+    "viewers": 11,
     "startedAt": "2026-11-14T16:01:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 212,
@@ -351,7 +351,7 @@
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "Tryhard and Sponsoring !vt !sens",
-    "viewers": 9,
+    "viewers": 7,
     "startedAt": "2026-11-14T18:24:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 378,
@@ -363,7 +363,7 @@
     "login": "sanguine",
     "displayName": "Sanguine",
     "title": "[!Drops] The Fastest Medium Alive | T2 Subs for Gifs! | Embark Creator | !clip !mineelim",
-    "viewers": 77,
+    "viewers": 73,
     "startedAt": "2026-11-14T18:59:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sanguine-{width}x{height}.jpg",
     "rank": 477,
@@ -374,20 +374,20 @@
   ],
   "titleMentions": [
    {
-    "login": "teoma96",
-    "displayName": "Teoma96",
-    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 9,
-    "startedAt": "2026-11-14T17:57:28Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
-   },
-   {
     "login": "udvalewastaken",
     "displayName": "udvalewastaken",
     "title": "[DROPS ON!] TKS grind to ruby",
     "viewers": 5,
     "startedAt": "2026-11-14T17:07:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_udvalewastaken-{width}x{height}.jpg"
+   },
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 4,
+    "startedAt": "2026-11-14T17:57:28Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    },
    {
     "login": "bobiduity",

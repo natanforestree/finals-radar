@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T09:40:36Z",
+ "generatedAt": "2026-11-14T09:50:37Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-14T09:33:58Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 74,
  "allActive": 704,
  "rubyShare": 0.1051,
- "steamPlayers": 8656,
+ "steamPlayers": 8594,
  "rubyCutoff": 48149,
  "grinding": [
   {
@@ -608,14 +608,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-14T09:40:36Z",
-  "totalStreams": 99,
+  "checkedAt": "2026-11-14T09:50:37Z",
+  "totalStreams": 94,
   "rubyLive": [
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "[99xDROPS] RANK #1 │!coaching !youtube !discord",
+    "viewers": 0,
+    "startedAt": "2026-11-14T09:50:03Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 1,
+    "name": "perzzonTTV#5485",
+    "rankScore": 66175,
+    "matchedBy": "name"
+   },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 247,
+    "viewers": 266,
     "startedAt": "2026-11-14T08:36:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 124,
@@ -627,7 +639,7 @@
     "login": "sepstar",
     "displayName": "Sepstar",
     "title": "Ruby Jugando PointBreak y RankS  !!!   🚀✨",
-    "viewers": 24,
+    "viewers": 21,
     "startedAt": "2026-11-14T06:56:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
     "rank": 170,
@@ -639,7 +651,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 11,
+    "viewers": 12,
     "startedAt": "2026-11-14T06:19:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 265,
@@ -653,7 +665,7 @@
     "login": "iri_ttv",
     "displayName": "iri_TTV",
     "title": "S12 THE FINALS  #1 RUBY M60 | CANT SLEEP? JOIN ME! | NEW VGG BUNDLE!!! | TESTING NEW SETUP | !sponsor !download",
-    "viewers": 69,
+    "viewers": 73,
     "startedAt": "2026-11-14T07:56:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_iri_ttv-{width}x{height}.jpg"
    },
@@ -661,7 +673,7 @@
     "login": "drrozetta",
     "displayName": "DrRozetta",
     "title": "Grinding for top 500 OspUze rank | MixItUp needs rebuilding",
-    "viewers": 3,
+    "viewers": 4,
     "startedAt": "2026-11-14T05:42:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_drrozetta-{width}x{height}.jpg"
    },

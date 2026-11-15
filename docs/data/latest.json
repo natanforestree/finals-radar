@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T18:20:38Z",
+ "generatedAt": "2026-11-15T18:30:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-15T18:12:31Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 53,
  "allActive": 482,
  "rubyShare": 0.11,
- "steamPlayers": 18654,
+ "steamPlayers": 18746,
  "rubyCutoff": 48480,
  "grinding": [
   {
@@ -291,7 +291,7 @@
    "delta": -140,
    "rankScore": 51505,
    "club": "LZ0",
-   "twitch": null
+   "twitch": "incgii"
   },
   {
    "rank": 269,
@@ -440,14 +440,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-15T18:20:38Z",
-  "totalStreams": 166,
+  "checkedAt": "2026-11-15T18:30:31Z",
+  "totalStreams": 172,
   "rubyLive": [
    {
     "login": "varieyn",
     "displayName": "varieyn",
     "title": "high cortisol ranked | KCP BUNDLE OUT NOW BUY BUY BUY  | #KCPWIN",
-    "viewers": 3,
+    "viewers": 5,
     "startedAt": "2026-11-15T18:17:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_varieyn-{width}x{height}.jpg",
     "rank": 97,
@@ -459,12 +459,24 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 39,
+    "viewers": 35,
     "startedAt": "2026-11-15T09:13:23Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 202,
     "name": "Ilprune#5174",
     "rankScore": 52566,
+    "matchedBy": "name"
+   },
+   {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "LIGNE ZERO / light ruby / SCRIM against VANGUARD",
+    "viewers": 0,
+    "startedAt": "2026-11-15T18:28:54Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
+    "rank": 255,
+    "name": "IncGII#1058",
+    "rankScore": 51505,
     "matchedBy": "name"
    },
    {
@@ -495,7 +507,7 @@
     "login": "paquerette_0515",
     "displayName": "paquerette_0515",
     "title": "The finals top 5OO player",
-    "viewers": 5,
+    "viewers": 3,
     "startedAt": "2026-11-15T11:48:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
     "rank": 493,
@@ -505,14 +517,6 @@
    }
   ],
   "titleMentions": [
-   {
-    "login": "cl_bubbles",
-    "displayName": "cl_bubbles",
-    "title": "The only ruby cl-40 -Belly slappin - [Noobin on my toob]",
-    "viewers": 1,
-    "startedAt": "2026-11-15T18:16:45Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cl_bubbles-{width}x{height}.jpg"
-   },
    {
     "login": "curse_brick",
     "displayName": "curse_brick",

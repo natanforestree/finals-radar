@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T07:50:37Z",
+ "generatedAt": "2026-11-15T08:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-15T07:37:57Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 37,
  "allActive": 330,
  "rubyShare": 0.1121,
- "steamPlayers": 10689,
+ "steamPlayers": 10208,
  "rubyCutoff": 48345,
  "grinding": [
   {
@@ -312,14 +312,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-15T07:50:37Z",
-  "totalStreams": 153,
+  "checkedAt": "2026-11-15T08:00:31Z",
+  "totalStreams": 140,
   "rubyLive": [
+   {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[DROPS] Ruby Flex Player",
+    "viewers": 35,
+    "startedAt": "2026-11-15T07:52:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 128,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 54957,
+    "matchedBy": "name"
+   },
    {
     "login": "uvinity_",
     "displayName": "Uvinity_",
     "title": "[DROPS] Ruby ranked vibes | LFT",
-    "viewers": 19,
+    "viewers": 23,
     "startedAt": "2026-11-15T04:57:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
     "rank": 193,
@@ -343,7 +355,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 118,
+    "viewers": 132,
     "startedAt": "2026-11-15T04:36:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 302,

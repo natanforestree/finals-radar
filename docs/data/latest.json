@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T06:10:36Z",
+ "generatedAt": "2026-11-15T06:20:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-15T06:04:01Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 43,
  "allActive": 377,
  "rubyShare": 0.1141,
- "steamPlayers": 12836,
+ "steamPlayers": 12750,
  "rubyCutoff": 48330,
  "grinding": [
   {
@@ -211,7 +211,7 @@
    "delta": 195,
    "rankScore": 51661,
    "club": "RATAZ",
-   "twitch": "kdkiller6021"
+   "twitch": null
   },
   {
    "rank": 249,
@@ -235,7 +235,7 @@
    "delta": 210,
    "rankScore": 50788,
    "club": "VGG",
-   "twitch": "appoh"
+   "twitch": null
   },
   {
    "rank": 305,
@@ -347,7 +347,7 @@
    "delta": 307,
    "rankScore": 48664,
    "club": "AUREA",
-   "twitch": "bobiduity"
+   "twitch": null
   },
   {
    "rank": 471,
@@ -360,14 +360,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-15T06:10:36Z",
-  "totalStreams": 210,
+  "checkedAt": "2026-11-15T06:20:31Z",
+  "totalStreams": 205,
   "rubyLive": [
    {
     "login": "uvinity_",
     "displayName": "Uvinity_",
     "title": "[DROPS] Ruby ranked vibes | LFT",
-    "viewers": 6,
+    "viewers": 8,
     "startedAt": "2026-11-15T04:57:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_uvinity_-{width}x{height}.jpg",
     "rank": 193,
@@ -376,34 +376,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "kdkiller6021",
-    "displayName": "KDKiller6021",
-    "title": "[DROPS] Testing out Restream",
-    "viewers": 61,
-    "startedAt": "2026-11-14T22:52:37Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kdkiller6021-{width}x{height}.jpg",
-    "rank": 239,
-    "name": "KDKiller6021#4000",
-    "rankScore": 51661,
-    "matchedBy": "name"
-   },
-   {
-    "login": "appoh",
-    "displayName": "Appoh",
-    "title": "(!drops) Late Night Chillin' - Buy The VGG !bundle - !Coach - Embark Partner - VGG Coach",
-    "viewers": 243,
-    "startedAt": "2026-11-15T00:30:34Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
-    "rank": 287,
-    "name": "Appoh#9173",
-    "rankScore": 50788,
-    "matchedBy": "name"
-   },
-   {
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 36,
+    "viewers": 33,
     "startedAt": "2026-11-15T04:36:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 300,
@@ -415,7 +391,7 @@
     "login": "kruhashere",
     "displayName": "kruhashere",
     "title": "#3 riot in rankedtop 300 riot only rip bfc",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-11-15T02:18:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kruhashere-{width}x{height}.jpg",
     "rank": 314,
@@ -434,21 +410,17 @@
     "name": "DeTaaiL#7503",
     "rankScore": 48977,
     "matchedBy": "name"
-   },
-   {
-    "login": "bobiduity",
-    "displayName": "bobiduity",
-    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 2,
-    "startedAt": "2026-11-15T02:31:25Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
-    "rank": 464,
-    "name": "bobiduity#2959",
-    "rankScore": 48664,
-    "matchedBy": "name"
    }
   ],
   "titleMentions": [
+   {
+    "login": "vipermonster6",
+    "displayName": "vipermonster6",
+    "title": "HAMMER TO RUBY",
+    "viewers": 2,
+    "startedAt": "2026-11-15T06:13:42Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vipermonster6-{width}x{height}.jpg"
+   },
    {
     "login": "sushxy",
     "displayName": "Sushxy",
@@ -466,20 +438,20 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sxbasiic-{width}x{height}.jpg"
    },
    {
-    "login": "commitedd",
-    "displayName": "commitedd",
-    "title": "The finals|ranked top 500 rnn|",
-    "viewers": 1,
-    "startedAt": "2026-11-15T04:49:59Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_commitedd-{width}x{height}.jpg"
-   },
-   {
     "login": "clariity416",
     "displayName": "Clariity416",
     "title": "SOLO RANKED TO RUBY",
     "viewers": 1,
     "startedAt": "2026-11-15T02:11:32Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_clariity416-{width}x{height}.jpg"
+   },
+   {
+    "login": "ogmudbone_10",
+    "displayName": "ogmudbone_10",
+    "title": "#1 Ruby player The Finals",
+    "viewers": 0,
+    "startedAt": "2026-11-15T06:19:39Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
    }
   ]
  },

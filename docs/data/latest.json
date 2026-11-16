@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T08:10:38Z",
+ "generatedAt": "2026-11-16T08:20:42Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-16T08:01:45Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 38,
  "allActive": 231,
  "rubyShare": 0.1645,
- "steamPlayers": 7256,
+ "steamPlayers": 7093,
  "rubyCutoff": 48621,
  "grinding": [
   {
@@ -320,14 +320,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-16T08:10:38Z",
-  "totalStreams": 98,
+  "checkedAt": "2026-11-16T08:20:42Z",
+  "totalStreams": 96,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player / Moon Theory Content Creator",
-    "viewers": 258,
+    "viewers": 238,
     "startedAt": "2026-11-16T00:46:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 132,
@@ -339,7 +339,7 @@
     "login": "vankog404",
     "displayName": "vankog404",
     "title": "MGl32 платиновый рекс солоку",
-    "viewers": 42,
+    "viewers": 53,
     "startedAt": "2026-11-15T23:32:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vankog404-{width}x{height}.jpg",
     "rank": 410,
@@ -362,20 +362,20 @@
   ],
   "titleMentions": [
    {
-    "login": "vipermonster6",
-    "displayName": "vipermonster6",
-    "title": "ROAD TO RUBY",
-    "viewers": 4,
-    "startedAt": "2026-11-16T06:44:15Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vipermonster6-{width}x{height}.jpg"
-   },
-   {
     "login": "opportunehook9",
     "displayName": "OpportuneHook9",
     "title": "Diamond Player striving for Ruby",
     "viewers": 1,
     "startedAt": "2026-11-16T05:01:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
+    "login": "vipermonster6",
+    "displayName": "vipermonster6",
+    "title": "ROAD TO RUBY",
+    "viewers": 1,
+    "startedAt": "2026-11-16T06:44:15Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vipermonster6-{width}x{height}.jpg"
    }
   ]
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T07:50:35Z",
+ "generatedAt": "2026-11-16T08:00:37Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-16T07:33:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 38,
  "allActive": 254,
  "rubyShare": 0.1496,
- "steamPlayers": 7739,
+ "steamPlayers": 7256,
  "rubyCutoff": 48593,
  "grinding": [
   {
@@ -320,14 +320,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-16T07:50:35Z",
-  "totalStreams": 105,
+  "checkedAt": "2026-11-16T08:00:37Z",
+  "totalStreams": 104,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player / Moon Theory Content Creator",
-    "viewers": 230,
+    "viewers": 248,
     "startedAt": "2026-11-16T00:46:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 142,
@@ -339,12 +339,24 @@
     "login": "vankog404",
     "displayName": "vankog404",
     "title": "MGl32 платиновый рекс солоку",
-    "viewers": 38,
+    "viewers": 36,
     "startedAt": "2026-11-15T23:32:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vankog404-{width}x{height}.jpg",
     "rank": 396,
     "name": "ttv-vankog404#7659",
     "rankScore": 49929,
+    "matchedBy": "name"
+   },
+   {
+    "login": "revern_",
+    "displayName": "Revern_",
+    "title": "Научите меня играть",
+    "viewers": 0,
+    "startedAt": "2026-11-16T07:58:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_revern_-{width}x{height}.jpg",
+    "rank": 452,
+    "name": "Revern#7068",
+    "rankScore": 49083,
     "matchedBy": "name"
    }
   ],

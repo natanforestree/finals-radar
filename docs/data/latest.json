@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T06:10:34Z",
+ "generatedAt": "2026-11-17T06:20:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-17T05:54:45Z",
  "window": {
@@ -267,7 +267,7 @@
    "delta": 378,
    "rankScore": 49536,
    "club": "AUREA",
-   "twitch": "bobiduity"
+   "twitch": null
   },
   {
    "rank": 435,
@@ -344,31 +344,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-17T06:10:34Z",
-  "totalStreams": 142,
+  "checkedAt": "2026-11-17T06:20:31Z",
+  "totalStreams": 129,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 218,
+    "viewers": 219,
     "startedAt": "2026-11-17T03:31:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 157,
     "name": "Digcron.TTV#3309",
     "rankScore": 54569,
-    "matchedBy": "name"
-   },
-   {
-    "login": "bobiduity",
-    "displayName": "bobiduity",
-    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 1,
-    "startedAt": "2026-11-17T02:12:34Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
-    "rank": 430,
-    "name": "bobiduity#2959",
-    "rankScore": 49536,
     "matchedBy": "name"
    },
    {
@@ -394,12 +382,12 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_trainerbillbob-{width}x{height}.jpg"
    },
    {
-    "login": "cannedgo0d",
-    "displayName": "cannedgo0d",
-    "title": "going ruby",
-    "viewers": 2,
-    "startedAt": "2026-11-17T02:40:08Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cannedgo0d-{width}x{height}.jpg"
+    "login": "ogmudbone_10",
+    "displayName": "ogmudbone_10",
+    "title": "#1 Ruby player The Finals",
+    "viewers": 1,
+    "startedAt": "2026-11-17T06:12:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
    },
    {
     "login": "opportunehook9",
@@ -408,6 +396,14 @@
     "viewers": 1,
     "startedAt": "2026-11-17T04:51:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
+    "login": "cannedgo0d",
+    "displayName": "cannedgo0d",
+    "title": "going ruby",
+    "viewers": 1,
+    "startedAt": "2026-11-17T02:40:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cannedgo0d-{width}x{height}.jpg"
    }
   ]
  },

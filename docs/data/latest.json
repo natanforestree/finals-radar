@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T08:30:32Z",
+ "generatedAt": "2026-11-17T08:40:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-17T08:18:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 23,
  "allActive": 208,
  "rubyShare": 0.1106,
- "steamPlayers": 6273,
+ "steamPlayers": 6247,
  "rubyCutoff": 48735,
  "grinding": [
   {
@@ -200,14 +200,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-17T08:30:32Z",
-  "totalStreams": 91,
+  "checkedAt": "2026-11-17T08:40:32Z",
+  "totalStreams": 84,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 206,
+    "viewers": 193,
     "startedAt": "2026-11-17T03:31:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 146,
@@ -219,7 +219,7 @@
     "login": "nousttv",
     "displayName": "nousttv",
     "title": "ranked w friends",
-    "viewers": 4,
+    "viewers": 9,
     "startedAt": "2026-11-17T06:25:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
     "rank": 365,
@@ -240,16 +240,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "cannedgo0d",
-    "displayName": "cannedgo0d",
-    "title": "going ruby",
-    "viewers": 3,
-    "startedAt": "2026-11-17T02:40:08Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cannedgo0d-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

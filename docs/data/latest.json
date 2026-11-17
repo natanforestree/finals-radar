@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T07:00:31Z",
+ "generatedAt": "2026-11-17T07:10:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-17T06:55:42Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 30,
  "allActive": 229,
  "rubyShare": 0.131,
- "steamPlayers": 8057,
+ "steamPlayers": 7760,
  "rubyCutoff": 48715,
  "grinding": [
   {
@@ -256,14 +256,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-17T07:00:31Z",
-  "totalStreams": 117,
+  "checkedAt": "2026-11-17T07:10:32Z",
+  "totalStreams": 111,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player",
-    "viewers": 175,
+    "viewers": 159,
     "startedAt": "2026-11-17T03:31:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 156,
@@ -275,7 +275,7 @@
     "login": "nousttv",
     "displayName": "nousttv",
     "title": "ranked w friends",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-11-17T06:25:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
     "rank": 407,
@@ -301,17 +301,9 @@
     "login": "cannedgo0d",
     "displayName": "cannedgo0d",
     "title": "going ruby",
-    "viewers": 3,
+    "viewers": 2,
     "startedAt": "2026-11-17T02:40:08Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cannedgo0d-{width}x{height}.jpg"
-   },
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 2,
-    "startedAt": "2026-11-17T04:51:48Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    },
    {
     "login": "ogmudbone_10",
@@ -320,6 +312,14 @@
     "viewers": 1,
     "startedAt": "2026-11-17T06:12:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ogmudbone_10-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 1,
+    "startedAt": "2026-11-17T04:51:48Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }
   ]
  },

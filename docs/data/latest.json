@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T10:30:33Z",
+ "generatedAt": "2026-11-17T10:40:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-17T10:12:41Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 149,
  "allActive": 1891,
  "rubyShare": 0.0788,
- "steamPlayers": 6250,
+ "steamPlayers": 6480,
  "rubyCutoff": 48794,
  "grinding": [
   {
@@ -1208,14 +1208,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-17T10:30:33Z",
-  "totalStreams": 61,
+  "checkedAt": "2026-11-17T10:40:31Z",
+  "totalStreams": 55,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 │!coaching !youtube !discord",
-    "viewers": 64,
+    "viewers": 83,
     "startedAt": "2026-11-17T10:11:24Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -1236,10 +1236,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "snake_nade",
+    "displayName": "Snake_Nade",
+    "title": "!GIVEAWAY !drops💎🧙‍♂️👅Embark Partner👅",
+    "viewers": 11,
+    "startedAt": "2026-11-17T10:32:01Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
+    "rank": 359,
+    "name": "Snake_Nade#0401",
+    "rankScore": 50635,
+    "matchedBy": "name"
+   },
+   {
     "login": "nousttv",
     "displayName": "nousttv",
     "title": "ranked w friends",
-    "viewers": 122,
+    "viewers": 113,
     "startedAt": "2026-11-17T06:25:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_nousttv-{width}x{height}.jpg",
     "rank": 365,
@@ -1265,7 +1277,7 @@
     "login": "some0nefps",
     "displayName": "Some0nefps",
     "title": "[NEW DROPS] RUBY GRAPPLE MESSIAH",
-    "viewers": 9,
+    "viewers": 15,
     "startedAt": "2026-11-17T10:11:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
    }

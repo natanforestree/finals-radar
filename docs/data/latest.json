@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T11:30:31Z",
+ "generatedAt": "2026-11-18T11:40:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-18T11:28:07Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 25,
  "allActive": 160,
  "rubyShare": 0.1562,
- "steamPlayers": 6838,
+ "steamPlayers": 6902,
  "rubyCutoff": 49054,
  "grinding": [
   {
@@ -216,14 +216,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-18T11:30:31Z",
-  "totalStreams": 52,
+  "checkedAt": "2026-11-18T11:40:31Z",
+  "totalStreams": 60,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 │!coaching !youtube !discord",
-    "viewers": 121,
+    "viewers": 143,
     "startedAt": "2026-11-18T09:34:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -235,12 +235,24 @@
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "Ruby Secure so now we chill until comp season | CEO of OCE | !discord !commands",
-    "viewers": 5,
+    "viewers": 4,
     "startedAt": "2026-11-18T10:01:53Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 25,
     "name": "YeahHealthyTTV#0175",
     "rankScore": 61678,
+    "matchedBy": "name"
+   },
+   {
+    "login": "jumparau",
+    "displayName": "jumparau",
+    "title": "[Drops] Ruby on multiple accounts-Top 1 mimic-  !sens !rank !mouse !class !size",
+    "viewers": 1,
+    "startedAt": "2026-11-18T11:33:38Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
+    "rank": 90,
+    "name": "TTV_Jumparau#0323",
+    "rankScore": 57174,
     "matchedBy": "name"
    }
   ],
@@ -257,7 +269,7 @@
     "login": "cewisegg",
     "displayName": "Cewisegg",
     "title": "RANKED RUBY",
-    "viewers": 2,
+    "viewers": 4,
     "startedAt": "2026-11-18T11:12:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cewisegg-{width}x{height}.jpg"
    }

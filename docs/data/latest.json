@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T16:10:34Z",
+ "generatedAt": "2026-11-18T16:20:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-18T15:36:21Z",
  "window": {
@@ -67,7 +67,7 @@
    "delta": 77,
    "rankScore": 61830,
    "club": "TF",
-   "twitch": "yeahhealthy"
+   "twitch": null
   },
   {
    "rank": 29,
@@ -243,7 +243,7 @@
    "delta": 218,
    "rankScore": 52807,
    "club": "VGG",
-   "twitch": "wutum"
+   "twitch": null
   },
   {
    "rank": 274,
@@ -400,31 +400,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-18T16:10:34Z",
-  "totalStreams": 109,
+  "checkedAt": "2026-11-18T16:20:33Z",
+  "totalStreams": 105,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 │!coaching !youtube !discord",
-    "viewers": 162,
+    "viewers": 186,
     "startedAt": "2026-11-18T09:34:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
     "name": "perzzonTTV#5485",
     "rankScore": 67292,
-    "matchedBy": "name"
-   },
-   {
-    "login": "yeahhealthy",
-    "displayName": "YeahHealthy",
-    "title": "Ruby Secure so now we chill until comp season | CEO of OCE | !discord !commands",
-    "viewers": 8,
-    "startedAt": "2026-11-18T10:01:53Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
-    "rank": 24,
-    "name": "YeahHealthyTTV#0175",
-    "rankScore": 61830,
     "matchedBy": "name"
    },
    {
@@ -437,18 +425,6 @@
     "rank": 160,
     "name": "Ilprune#5174",
     "rankScore": 54739,
-    "matchedBy": "name"
-   },
-   {
-    "login": "wutum",
-    "displayName": "WuTum",
-    "title": "!BUNDLE IS OUT #VGGWIN // Ranked !sens",
-    "viewers": 11,
-    "startedAt": "2026-11-18T12:41:23Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_wutum-{width}x{height}.jpg",
-    "rank": 222,
-    "name": "WuTum#7032",
-    "rankScore": 52807,
     "matchedBy": "name"
    },
    {
@@ -481,7 +457,7 @@
     "login": "jaydenneirbo",
     "displayName": "jaydenneirbo",
     "title": "GENERATIONAL GAMER GAMING | !newvid | TOP 100 CASHOUT PLAYER | !youtube ! discord !patch",
-    "viewers": 9,
+    "viewers": 11,
     "startedAt": "2026-11-18T15:41:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaydenneirbo-{width}x{height}.jpg"
    },
@@ -489,7 +465,7 @@
     "login": "readmyname_",
     "displayName": "ReadMyName_",
     "title": "FINALS Ruby grind",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-11-18T12:06:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
    }

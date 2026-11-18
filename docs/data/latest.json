@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T09:40:32Z",
+ "generatedAt": "2026-11-18T09:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-18T09:25:57Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 51,
  "allActive": 603,
  "rubyShare": 0.0846,
- "steamPlayers": 6287,
+ "steamPlayers": 6355,
  "rubyCutoff": 49024,
  "grinding": [
   {
@@ -171,7 +171,7 @@
    "delta": 337,
    "rankScore": 55556,
    "club": "MOON",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 138,
@@ -424,14 +424,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-18T09:40:32Z",
-  "totalStreams": 70,
+  "checkedAt": "2026-11-18T09:50:32Z",
+  "totalStreams": 67,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 │!coaching !youtube !discord",
-    "viewers": 28,
+    "viewers": 53,
     "startedAt": "2026-11-18T09:34:47Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -440,22 +440,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Ruby Flex Player | Buy the MOON THEORY BUNDLE!",
-    "viewers": 243,
-    "startedAt": "2026-11-18T00:36:43Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 136,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 55556,
-    "matchedBy": "name"
-   },
-   {
     "login": "revern_",
     "displayName": "Revern_",
     "title": "Top 510 -> bronze, Боже спаси и сохрани",
-    "viewers": 4,
+    "viewers": 2,
     "startedAt": "2026-11-18T05:25:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_revern_-{width}x{height}.jpg",
     "rank": 479,
@@ -466,20 +454,20 @@
   ],
   "titleMentions": [
    {
+    "login": "some0nefps",
+    "displayName": "Some0nefps",
+    "title": "[NEW DROPS] GRAPPLE IN RUBY RAHHH",
+    "viewers": 7,
+    "startedAt": "2026-11-18T09:35:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
+   },
+   {
     "login": "vipermonster6",
     "displayName": "vipermonster6",
     "title": "ROAD TO RUBY",
     "viewers": 2,
     "startedAt": "2026-11-18T07:12:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vipermonster6-{width}x{height}.jpg"
-   },
-   {
-    "login": "some0nefps",
-    "displayName": "Some0nefps",
-    "title": "[NEW DROPS] GRAPPLE IN RUBY RAHHH",
-    "viewers": 1,
-    "startedAt": "2026-11-18T09:35:31Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
    }
   ]
  },

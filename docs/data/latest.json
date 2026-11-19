@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T22:10:32Z",
+ "generatedAt": "2026-11-19T22:20:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-19T21:53:01Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 351,
  "rubyShare": 0.0997,
- "steamPlayers": 12686,
+ "steamPlayers": 12420,
  "rubyCutoff": 49445,
  "grinding": [
   {
@@ -51,7 +51,7 @@
    "delta": 136,
    "rankScore": 57427,
    "club": "NTMR",
-   "twitch": null
+   "twitch": "lytettv"
   },
   {
    "rank": 99,
@@ -195,7 +195,7 @@
    "delta": 243,
    "rankScore": 51567,
    "club": null,
-   "twitch": "elmeromeyer"
+   "twitch": null
   },
   {
    "rank": 352,
@@ -296,14 +296,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-19T22:10:32Z",
-  "totalStreams": 135,
+  "checkedAt": "2026-11-19T22:20:31Z",
+  "totalStreams": 137,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 141,
+    "viewers": 146,
     "startedAt": "2026-11-19T10:52:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -315,7 +315,7 @@
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) SWEDEN SO SOON | MEET BERGER INA WEEK | ELEVATE VS FLYTE & 5FEARS",
-    "viewers": 87,
+    "viewers": 95,
     "startedAt": "2026-11-19T20:20:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 62,
@@ -324,10 +324,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "lytettv",
+    "displayName": "LyteTTV",
+    "title": "DROPS | Solo Q Ranked of Doom",
+    "viewers": 1,
+    "startedAt": "2026-11-19T20:16:32Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lytettv-{width}x{height}.jpg",
+    "rank": 94,
+    "name": "Lyte#5886",
+    "rankScore": 57427,
+    "matchedBy": "name"
+   },
+   {
     "login": "vankog404",
     "displayName": "vankog404",
     "title": "MGL32 Ruby?????🤪",
-    "viewers": 31,
+    "viewers": 33,
     "startedAt": "2026-11-19T07:24:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vankog404-{width}x{height}.jpg",
     "rank": 326,
@@ -336,22 +348,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "elmeromeyer",
-    "displayName": "elmeromeyer",
-    "title": "(DROPS)TOP ECUADORIAN ROAD TO RUBY SOLO Q!",
-    "viewers": 8,
-    "startedAt": "2026-11-19T20:59:04Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmeromeyer-{width}x{height}.jpg",
-    "rank": 328,
-    "name": "GGS#1020",
-    "rankScore": 51567,
-    "matchedBy": "name"
-   },
-   {
     "login": "zetoniez",
     "displayName": "zetoniez",
     "title": "1# sledge vibing in rank",
-    "viewers": 10,
+    "viewers": 8,
     "startedAt": "2026-11-19T15:56:34Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zetoniez-{width}x{height}.jpg",
     "rank": 384,
@@ -377,7 +377,7 @@
     "login": "teoma96",
     "displayName": "Teoma96",
     "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 4,
+    "viewers": 5,
     "startedAt": "2026-11-19T15:21:16Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }

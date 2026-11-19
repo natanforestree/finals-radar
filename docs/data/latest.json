@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T13:50:31Z",
+ "generatedAt": "2026-11-19T14:00:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-19T13:32:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 19,
  "allActive": 178,
  "rubyShare": 0.1067,
- "steamPlayers": 8234,
+ "steamPlayers": 8385,
  "rubyCutoff": 49409,
  "grinding": [
   {
@@ -168,14 +168,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-19T13:50:31Z",
-  "totalStreams": 65,
+  "checkedAt": "2026-11-19T14:00:33Z",
+  "totalStreams": 72,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 │!coaching !youtube !discord",
-    "viewers": 155,
+    "viewers": 158,
     "startedAt": "2026-11-19T10:52:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -184,15 +184,39 @@
     "matchedBy": "name"
    },
    {
+    "login": "ilprune",
+    "displayName": "Ilprune",
+    "title": "The Finals RANKED",
+    "viewers": 2,
+    "startedAt": "2026-11-19T13:51:40Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
+    "rank": 143,
+    "name": "Ilprune#5174",
+    "rankScore": 55474,
+    "matchedBy": "name"
+   },
+   {
     "login": "vankog404",
     "displayName": "vankog404",
     "title": "MGL32 Ruby?????🤪",
-    "viewers": 27,
+    "viewers": 28,
     "startedAt": "2026-11-19T07:24:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vankog404-{width}x{height}.jpg",
     "rank": 370,
     "name": "ttv-vankog404#7659",
     "rankScore": 50902,
+    "matchedBy": "name"
+   },
+   {
+    "login": "paquerette_0515",
+    "displayName": "paquerette_0515",
+    "title": "[DROPS] Top 500 player !",
+    "viewers": 1,
+    "startedAt": "2026-11-19T13:50:27Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_paquerette_0515-{width}x{height}.jpg",
+    "rank": 398,
+    "name": "paquerette#3586",
+    "rankScore": 50588,
     "matchedBy": "name"
    },
    {
@@ -213,7 +237,7 @@
     "login": "readmyname_",
     "displayName": "ReadMyName_",
     "title": "FINALS Ruby grind",
-    "viewers": 14,
+    "viewers": 13,
     "startedAt": "2026-11-19T10:23:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
    }

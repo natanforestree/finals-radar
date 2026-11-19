@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T12:20:32Z",
+ "generatedAt": "2026-11-19T12:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-19T12:06:31Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 28,
  "allActive": 152,
  "rubyShare": 0.1842,
- "steamPlayers": 7035,
+ "steamPlayers": 7156,
  "rubyCutoff": 49415,
  "grinding": [
   {
@@ -240,14 +240,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-19T12:20:32Z",
-  "totalStreams": 59,
+  "checkedAt": "2026-11-19T12:30:32Z",
+  "totalStreams": 62,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 │!coaching !youtube !discord",
-    "viewers": 108,
+    "viewers": 126,
     "startedAt": "2026-11-19T10:52:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -259,12 +259,24 @@
     "login": "vankog404",
     "displayName": "vankog404",
     "title": "MGL32 Ruby?????🤪",
-    "viewers": 44,
+    "viewers": 40,
     "startedAt": "2026-11-19T07:24:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vankog404-{width}x{height}.jpg",
     "rank": 314,
     "name": "ttv-vankog404#7659",
     "rankScore": 51619,
+    "matchedBy": "name"
+   },
+   {
+    "login": "taekfps",
+    "displayName": "TaeKfps",
+    "title": "Medium gaming !vt !sens",
+    "viewers": 0,
+    "startedAt": "2026-11-19T12:30:04Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
+    "rank": 478,
+    "name": "TaeK#3289",
+    "rankScore": 49619,
     "matchedBy": "name"
    }
   ],
@@ -273,7 +285,7 @@
     "login": "readmyname_",
     "displayName": "ReadMyName_",
     "title": "FINALS Ruby grind",
-    "viewers": 15,
+    "viewers": 18,
     "startedAt": "2026-11-19T10:23:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
    },

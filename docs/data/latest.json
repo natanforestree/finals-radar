@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T10:20:33Z",
+ "generatedAt": "2026-11-19T10:30:34Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-19T10:03:37Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 26,
  "allActive": 157,
  "rubyShare": 0.1656,
- "steamPlayers": 5671,
+ "steamPlayers": 5786,
  "rubyCutoff": 49409,
  "grinding": [
   {
@@ -224,8 +224,8 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-19T10:20:33Z",
-  "totalStreams": 54,
+  "checkedAt": "2026-11-19T10:30:34Z",
+  "totalStreams": 56,
   "rubyLive": [
    {
     "login": "vankog404",
@@ -240,7 +240,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "readmyname_",
+    "displayName": "ReadMyName_",
+    "title": "FINALS Ruby grind",
+    "viewers": 5,
+    "startedAt": "2026-11-19T10:23:37Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T06:10:32Z",
+ "generatedAt": "2026-11-19T06:20:37Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-19T06:09:24Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 28,
  "allActive": 279,
  "rubyShare": 0.1004,
- "steamPlayers": 7993,
+ "steamPlayers": 7740,
  "rubyCutoff": 49363,
  "grinding": [
   {
@@ -240,19 +240,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-19T06:10:32Z",
-  "totalStreams": 113,
+  "checkedAt": "2026-11-19T06:20:37Z",
+  "totalStreams": 107,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player | Buy the MOON THEORY BUNDLE!",
-    "viewers": 141,
+    "viewers": 150,
     "startedAt": "2026-11-19T03:03:41Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 133,
     "name": "Digcron.TTV#3309",
     "rankScore": 55786,
+    "matchedBy": "name"
+   },
+   {
+    "login": "bizzy",
+    "displayName": "Bizzy",
+    "title": "[NEW DROPS] PHL X 5F TOURNAMENT WINNERS | NTMR BUNDLE OUT NOW | #FREECC | THANK YOU GUYS FOR PARTNER PLUS 2/3 | NEW EMOTES FOR T2 !cat",
+    "viewers": 6,
+    "startedAt": "2026-11-19T06:16:40Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bizzy-{width}x{height}.jpg",
+    "rank": 136,
+    "name": "Bizzy#0005",
+    "rankScore": 55624,
     "matchedBy": "name"
    }
   ],

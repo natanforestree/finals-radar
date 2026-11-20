@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T15:00:40Z",
+ "generatedAt": "2026-11-20T15:10:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-20T14:53:42Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 37,
  "allActive": 249,
  "rubyShare": 0.1486,
- "steamPlayers": 10370,
+ "steamPlayers": 10532,
  "rubyCutoff": 49465,
  "grinding": [
   {
@@ -147,7 +147,7 @@
    "delta": 213,
    "rankScore": 53031,
    "club": "GOONU",
-   "twitch": "antiparty"
+   "twitch": null
   },
   {
    "rank": 240,
@@ -312,14 +312,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-20T15:00:40Z",
-  "totalStreams": 72,
+  "checkedAt": "2026-11-20T15:10:33Z",
+  "totalStreams": 83,
   "rubyLive": [
    {
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Horse on Deagles",
-    "viewers": 3,
+    "viewers": 4,
     "startedAt": "2026-11-20T14:38:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 107,
@@ -331,24 +331,12 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 13,
+    "viewers": 17,
     "startedAt": "2026-11-20T13:40:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 144,
     "name": "Ilprune#5174",
     "rankScore": 55672,
-    "matchedBy": "name"
-   },
-   {
-    "login": "antiparty",
-    "displayName": "Antiparty",
-    "title": "[DROPS] dolo rank?  - !FinalsRS !yt !discord",
-    "viewers": 26,
-    "startedAt": "2026-11-20T12:11:19Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 234,
-    "name": "Antiparty#0866",
-    "rankScore": 53031,
     "matchedBy": "name"
    }
   ],
@@ -357,7 +345,7 @@
     "login": "some0nefps",
     "displayName": "Some0nefps",
     "title": "[DROPS] TOP 50 RUBY GAMER",
-    "viewers": 15,
+    "viewers": 19,
     "startedAt": "2026-11-20T13:38:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
    }

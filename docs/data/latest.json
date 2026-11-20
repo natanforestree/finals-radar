@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T13:40:32Z",
+ "generatedAt": "2026-11-20T13:50:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-20T13:22:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 29,
  "allActive": 237,
  "rubyShare": 0.1224,
- "steamPlayers": 8718,
+ "steamPlayers": 9079,
  "rubyCutoff": 49451,
  "grinding": [
   {
@@ -248,14 +248,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-20T13:40:32Z",
-  "totalStreams": 64,
+  "checkedAt": "2026-11-20T13:50:33Z",
+  "totalStreams": 71,
   "rubyLive": [
+   {
+    "login": "ilprune",
+    "displayName": "Ilprune",
+    "title": "The Finals RANKED",
+    "viewers": 5,
+    "startedAt": "2026-11-20T13:40:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
+    "rank": 147,
+    "name": "Ilprune#5174",
+    "rankScore": 55508,
+    "matchedBy": "name"
+   },
    {
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] dolo rank?  - !FinalsRS !yt !discord",
-    "viewers": 15,
+    "viewers": 21,
     "startedAt": "2026-11-20T12:11:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 270,
@@ -264,7 +276,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "some0nefps",
+    "displayName": "Some0nefps",
+    "title": "[DROPS] TOP 50 RUBY GAMER",
+    "viewers": 4,
+    "startedAt": "2026-11-20T13:38:49Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

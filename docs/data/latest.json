@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T15:40:31Z",
+ "generatedAt": "2026-11-20T15:50:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-20T14:53:42Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 37,
  "allActive": 249,
  "rubyShare": 0.1486,
- "steamPlayers": 10805,
+ "steamPlayers": 11125,
  "rubyCutoff": 49465,
  "grinding": [
   {
@@ -312,14 +312,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-20T15:40:31Z",
-  "totalStreams": 79,
+  "checkedAt": "2026-11-20T15:50:31Z",
+  "totalStreams": 81,
   "rubyLive": [
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
+    "viewers": 57,
+    "startedAt": "2026-11-20T15:31:46Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 1,
+    "name": "perzzonTTV#5485",
+    "rankScore": 67718,
+    "matchedBy": "name"
+   },
    {
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Horse on Deagles",
-    "viewers": 11,
+    "viewers": 13,
     "startedAt": "2026-11-20T14:38:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 107,
@@ -331,7 +343,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 13,
+    "viewers": 8,
     "startedAt": "2026-11-20T13:40:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 144,
@@ -345,9 +357,17 @@
     "login": "some0nefps",
     "displayName": "Some0nefps",
     "title": "[DROPS] TOP 50 RUBY GAMER",
-    "viewers": 15,
+    "viewers": 16,
     "startedAt": "2026-11-20T13:38:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
+   },
+   {
+    "login": "ddxyq",
+    "displayName": "ddxyq",
+    "title": "Grinding Ruby The FINALS✌️",
+    "viewers": 1,
+    "startedAt": "2026-11-20T15:36:02Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ddxyq-{width}x{height}.jpg"
    }
   ]
  },

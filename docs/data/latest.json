@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T23:10:31Z",
+ "generatedAt": "2026-11-20T23:20:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-20T23:05:57Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 39,
  "allActive": 392,
  "rubyShare": 0.0995,
- "steamPlayers": 13870,
+ "steamPlayers": 13609,
  "rubyCutoff": 49451,
  "grinding": [
   {
@@ -243,7 +243,7 @@
    "delta": 267,
    "rankScore": 51675,
    "club": null,
-   "twitch": "elmeromeyer"
+   "twitch": null
   },
   {
    "rank": 341,
@@ -328,14 +328,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-20T23:10:31Z",
-  "totalStreams": 151,
+  "checkedAt": "2026-11-20T23:20:33Z",
+  "totalStreams": 147,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 210,
+    "viewers": 279,
     "startedAt": "2026-11-20T15:31:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -347,7 +347,7 @@
     "login": "balise",
     "displayName": "Balise",
     "title": "(3X DROPS) SCRIM TIME! | ELEVATE IN SWEDEN SOON",
-    "viewers": 87,
+    "viewers": 76,
     "startedAt": "2026-11-20T21:39:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
     "rank": 72,
@@ -359,7 +359,7 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby / RANKED",
-    "viewers": 8,
+    "viewers": 11,
     "startedAt": "2026-11-20T17:19:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 262,
@@ -368,22 +368,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "elmeromeyer",
-    "displayName": "elmeromeyer",
-    "title": "(DROPS)TOP ECUADORIAN ROAD TO RUBY SOLO Q!",
-    "viewers": 5,
-    "startedAt": "2026-11-20T21:44:08Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elmeromeyer-{width}x{height}.jpg",
-    "rank": 339,
-    "name": "GGS#1020",
-    "rankScore": 51675,
-    "matchedBy": "name"
-   },
-   {
     "login": "zyllm",
     "displayName": "Zyllm",
     "title": "All about the bpm",
-    "viewers": 8,
+    "viewers": 6,
     "startedAt": "2026-11-20T19:04:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zyllm-{width}x{height}.jpg",
     "rank": 386,
@@ -406,20 +394,20 @@
   ],
   "titleMentions": [
    {
+    "login": "tefw1",
+    "displayName": "TEFW1",
+    "title": "ROAD TO RUBY DAY 4: GOLD NO MIC TODAY (DROPSSS)",
+    "viewers": 1,
+    "startedAt": "2026-11-20T22:52:36Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tefw1-{width}x{height}.jpg"
+   },
+   {
     "login": "saladinttv",
     "displayName": "SaladinTTV",
     "title": "[DROPS] Road to Ruby - SOLO Q",
     "viewers": 0,
     "startedAt": "2026-11-20T23:04:56Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saladinttv-{width}x{height}.jpg"
-   },
-   {
-    "login": "tefw1",
-    "displayName": "TEFW1",
-    "title": "ROAD TO RUBY DAY 4: GOLD NO MIC TODAY (DROPSSS)",
-    "viewers": 0,
-    "startedAt": "2026-11-20T22:52:36Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tefw1-{width}x{height}.jpg"
    }
   ]
  },

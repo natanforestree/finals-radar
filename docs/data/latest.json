@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:10:31Z",
+ "generatedAt": "2026-11-20T17:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-20T16:58:06Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 47,
  "allActive": 348,
  "rubyShare": 0.1351,
- "steamPlayers": 12235,
+ "steamPlayers": 12394,
  "rubyCutoff": 49451,
  "grinding": [
   {
@@ -392,14 +392,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-20T17:10:31Z",
-  "totalStreams": 94,
+  "checkedAt": "2026-11-20T17:20:32Z",
+  "totalStreams": 99,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 334,
+    "viewers": 367,
     "startedAt": "2026-11-20T15:31:46Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -411,7 +411,7 @@
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Horse on Deagles",
-    "viewers": 9,
+    "viewers": 14,
     "startedAt": "2026-11-20T14:38:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 94,
@@ -423,12 +423,24 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 7,
+    "viewers": 6,
     "startedAt": "2026-11-20T13:40:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 152,
     "name": "Ilprune#5174",
     "rankScore": 55337,
+    "matchedBy": "name"
+   },
+   {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "LIGNE ZERO / light ruby / SCRIM MEMENTO",
+    "viewers": 0,
+    "startedAt": "2026-11-20T17:19:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
+    "rank": 265,
+    "name": "IncGII#1058",
+    "rankScore": 52629,
     "matchedBy": "name"
    }
   ],
@@ -437,7 +449,7 @@
     "login": "some0nefps",
     "displayName": "Some0nefps",
     "title": "[DROPS] TOP 50 RUBY GAMER",
-    "viewers": 18,
+    "viewers": 31,
     "startedAt": "2026-11-20T13:38:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
    },
@@ -445,9 +457,17 @@
     "login": "jaydenneirbo",
     "displayName": "jaydenneirbo",
     "title": "GENERATIONAL GAMER GAMING | !newvid | TOP 100 CASHOUT PLAYER | !youtube ! discord !patch",
-    "viewers": 8,
+    "viewers": 6,
     "startedAt": "2026-11-20T16:02:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaydenneirbo-{width}x{height}.jpg"
+   },
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 1,
+    "startedAt": "2026-11-20T17:07:36Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    },
    {
     "login": "progamerdx1",
@@ -456,14 +476,6 @@
     "viewers": 0,
     "startedAt": "2026-11-20T16:45:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_progamerdx1-{width}x{height}.jpg"
-   },
-   {
-    "login": "teoma96",
-    "displayName": "Teoma96",
-    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 0,
-    "startedAt": "2026-11-20T17:07:36Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }
   ]
  },

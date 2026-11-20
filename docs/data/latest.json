@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T14:40:36Z",
+ "generatedAt": "2026-11-20T14:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-20T14:23:03Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 28,
  "allActive": 231,
  "rubyShare": 0.1212,
- "steamPlayers": 10187,
+ "steamPlayers": 10311,
  "rubyCutoff": 49451,
  "grinding": [
   {
@@ -240,14 +240,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-20T14:40:36Z",
-  "totalStreams": 68,
+  "checkedAt": "2026-11-20T14:50:32Z",
+  "totalStreams": 67,
   "rubyLive": [
+   {
+    "login": "skreydeen",
+    "displayName": "SkreyDeen",
+    "title": "Horse on Deagles",
+    "viewers": 3,
+    "startedAt": "2026-11-20T14:38:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
+    "rank": 111,
+    "name": "SkreyDeen#2116",
+    "rankScore": 56978,
+    "matchedBy": "name"
+   },
    {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 18,
+    "viewers": 16,
     "startedAt": "2026-11-20T13:40:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 147,
@@ -259,7 +271,7 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] dolo rank?  - !FinalsRS !yt !discord",
-    "viewers": 33,
+    "viewers": 30,
     "startedAt": "2026-11-20T12:11:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 247,
@@ -273,7 +285,7 @@
     "login": "some0nefps",
     "displayName": "Some0nefps",
     "title": "[DROPS] TOP 50 RUBY GAMER",
-    "viewers": 16,
+    "viewers": 14,
     "startedAt": "2026-11-20T13:38:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_some0nefps-{width}x{height}.jpg"
    }

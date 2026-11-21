@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T20:40:32Z",
+ "generatedAt": "2026-11-21T20:50:35Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T20:35:02Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 49,
  "allActive": 422,
  "rubyShare": 0.1161,
- "steamPlayers": 16350,
+ "steamPlayers": 16474,
  "rubyCutoff": 49680,
  "grinding": [
   {
@@ -219,7 +219,7 @@
    "delta": -84,
    "rankScore": 53203,
    "club": "LZ0",
-   "twitch": null
+   "twitch": "incgii"
   },
   {
    "rank": 258,
@@ -408,14 +408,38 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T20:40:32Z",
+  "checkedAt": "2026-11-21T20:50:35Z",
   "totalStreams": 162,
   "rubyLive": [
+   {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "LIGNE ZERO / light ruby / CHILLINGGGG IN RANKED",
+    "viewers": 1,
+    "startedAt": "2026-11-21T20:46:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
+    "rank": 243,
+    "name": "IncGII#1058",
+    "rankScore": 53203,
+    "matchedBy": "name"
+   },
+   {
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
+    "viewers": 0,
+    "startedAt": "2026-11-21T20:49:32Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
+    "rank": 444,
+    "name": "bobiduity#2959",
+    "rankScore": 50322,
+    "matchedBy": "name"
+   },
    {
     "login": "taekfps",
     "displayName": "TaeKfps",
     "title": "!soonbald !vt !sens",
-    "viewers": 4,
+    "viewers": 2,
     "startedAt": "2026-11-21T20:25:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_taekfps-{width}x{height}.jpg",
     "rank": 452,
@@ -429,7 +453,7 @@
     "login": "teoma96",
     "displayName": "Teoma96",
     "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 3,
+    "viewers": 4,
     "startedAt": "2026-11-21T19:28:27Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    },

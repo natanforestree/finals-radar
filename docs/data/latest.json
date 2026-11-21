@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T03:20:32Z",
+ "generatedAt": "2026-11-21T03:30:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T03:11:26Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 33,
  "allActive": 286,
  "rubyShare": 0.1154,
- "steamPlayers": 12895,
+ "steamPlayers": 12970,
  "rubyCutoff": 49588,
  "grinding": [
   {
@@ -280,14 +280,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T03:20:32Z",
+  "checkedAt": "2026-11-21T03:30:31Z",
   "totalStreams": 183,
   "rubyLive": [
+   {
+    "login": "yangdoun",
+    "displayName": "yangdoun",
+    "title": "Nice to meet you/ APE SQUAD / Korean /",
+    "viewers": 0,
+    "startedAt": "2026-11-21T03:29:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
+    "rank": 130,
+    "name": "YangDoun#0398",
+    "rankScore": 56296,
+    "matchedBy": "name"
+   },
    {
     "login": "def_noxttv",
     "displayName": "def_noxTTV",
     "title": "12 Man Scrims with the BEST Tier 4 Pro (DROPS)",
-    "viewers": 71,
+    "viewers": 70,
     "startedAt": "2026-11-21T01:58:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_def_noxttv-{width}x{height}.jpg",
     "rank": 356,
@@ -313,7 +325,7 @@
     "login": "impieux",
     "displayName": "impieux",
     "title": "LATE NIGHT RANKIN! RUBY SOON: LOW AD STREAM: x55 ruby clanka",
-    "viewers": 23,
+    "viewers": 20,
     "startedAt": "2026-11-21T01:48:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg"
    },

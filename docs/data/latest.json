@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T21:50:31Z",
+ "generatedAt": "2026-11-21T22:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T21:36:36Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 56,
  "allActive": 473,
  "rubyShare": 0.1184,
- "steamPlayers": 16867,
+ "steamPlayers": 16708,
  "rubyCutoff": 49695,
  "grinding": [
   {
@@ -395,7 +395,7 @@
    "delta": -276,
    "rankScore": 50046,
    "club": "AUREA",
-   "twitch": null
+   "twitch": "bobiduity"
   },
   {
    "rank": 473,
@@ -464,10 +464,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T21:50:31Z",
-  "totalStreams": 163,
-  "rubyLive": [],
+  "checkedAt": "2026-11-21T22:00:31Z",
+  "totalStreams": 156,
+  "rubyLive": [
+   {
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
+    "viewers": 1,
+    "startedAt": "2026-11-21T20:49:32Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg",
+    "rank": 465,
+    "name": "bobiduity#2959",
+    "rankScore": 50046,
+    "matchedBy": "name"
+   }
+  ],
   "titleMentions": [
+   {
+    "login": "saladinttv",
+    "displayName": "SaladinTTV",
+    "title": "[DROPS] Road to Ruby - SOLO Q",
+    "viewers": 1,
+    "startedAt": "2026-11-21T21:56:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_saladinttv-{width}x{height}.jpg"
+   },
    {
     "login": "toxic_onii",
     "displayName": "TOXIC_ONII",

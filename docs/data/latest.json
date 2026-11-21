@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T17:30:31Z",
+ "generatedAt": "2026-11-21T17:40:38Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T17:10:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 31,
  "allActive": 350,
  "rubyShare": 0.0886,
- "steamPlayers": 14254,
+ "steamPlayers": 14308,
  "rubyCutoff": 49687,
  "grinding": [
   {
@@ -107,7 +107,7 @@
    "delta": 153,
    "rankScore": 56365,
    "club": "WAIM",
-   "twitch": "ilprune"
+   "twitch": null
   },
   {
    "rank": 147,
@@ -171,7 +171,7 @@
    "delta": 220,
    "rankScore": 52661,
    "club": null,
-   "twitch": "regularfishie"
+   "twitch": null
   },
   {
    "rank": 282,
@@ -264,55 +264,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T17:30:31Z",
-  "totalStreams": 145,
+  "checkedAt": "2026-11-21T17:40:38Z",
+  "totalStreams": 152,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 137,
+    "viewers": 155,
     "startedAt": "2026-11-21T10:49:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
     "name": "perzzonTTV#5485",
     "rankScore": 68107,
-    "matchedBy": "name"
-   },
-   {
-    "login": "jumparau",
-    "displayName": "jumparau",
-    "title": "[Drops] Ruby on multiple accounts-Learning charge -  !sens !rank !mouse !class !size",
-    "viewers": 2,
-    "startedAt": "2026-11-21T17:17:33Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
-    "rank": 60,
-    "name": "TTV_Jumparau#0323",
-    "rankScore": 59401,
-    "matchedBy": "name"
-   },
-   {
-    "login": "ilprune",
-    "displayName": "Ilprune",
-    "title": "The Finals RANKED",
-    "viewers": 8,
-    "startedAt": "2026-11-21T07:45:51Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
-    "rank": 134,
-    "name": "Ilprune#5174",
-    "rankScore": 56365,
-    "matchedBy": "name"
-   },
-   {
-    "login": "regularfishie",
-    "displayName": "RegularFishie",
-    "title": "[DROPS ON!!] ruby sword gaming!!! !clips",
-    "viewers": 2,
-    "startedAt": "2026-11-21T13:55:50Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_regularfishie-{width}x{height}.jpg",
-    "rank": 273,
-    "name": "RegularFishieTTV#2069",
-    "rankScore": 52661,
     "matchedBy": "name"
    }
   ],
@@ -321,17 +285,17 @@
     "login": "joek1",
     "displayName": "joek1",
     "title": "ruby slamming pls tell me if its lagging",
-    "viewers": 3,
+    "viewers": 1,
     "startedAt": "2026-11-21T17:04:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_joek1-{width}x{height}.jpg"
    },
    {
-    "login": "haughtmike",
-    "displayName": "HaughtMike",
-    "title": "practice range ruby",
-    "viewers": 1,
-    "startedAt": "2026-11-21T17:02:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_haughtmike-{width}x{height}.jpg"
+    "login": "slimshadi65",
+    "displayName": "slimshadi65",
+    "title": "👑 Ranked Grind -Road to RUBY #1 Controller on PC👑 !drops",
+    "viewers": 0,
+    "startedAt": "2026-11-21T17:33:08Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_slimshadi65-{width}x{height}.jpg"
    }
   ]
  },

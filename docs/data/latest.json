@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T11:40:31Z",
+ "generatedAt": "2026-11-21T11:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T11:33:02Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 31,
  "allActive": 220,
  "rubyShare": 0.1409,
- "steamPlayers": 8709,
+ "steamPlayers": 8944,
  "rubyCutoff": 49666,
  "grinding": [
   {
@@ -264,14 +264,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T11:40:31Z",
-  "totalStreams": 57,
+  "checkedAt": "2026-11-21T11:50:32Z",
+  "totalStreams": 60,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 129,
+    "viewers": 113,
     "startedAt": "2026-11-21T10:49:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -283,7 +283,7 @@
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 10,
+    "viewers": 16,
     "startedAt": "2026-11-21T07:45:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 136,
@@ -292,10 +292,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "LIGNE ZERO / light ruby / RANKED",
+    "viewers": 2,
+    "startedAt": "2026-11-21T11:43:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
+    "rank": 244,
+    "name": "IncGII#1058",
+    "rankScore": 53079,
+    "matchedBy": "name"
+   },
+   {
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] bored ranking  - !FinalsRS !yt !discord",
-    "viewers": 12,
+    "viewers": 6,
     "startedAt": "2026-11-21T10:49:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 251,
@@ -309,7 +321,7 @@
     "login": "impieux",
     "displayName": "impieux",
     "title": "LF TEAM: LATE NIGHT RANKIN! RUBY SOON: LOW AD STREAM: x55 ruby clanka",
-    "viewers": 78,
+    "viewers": 75,
     "startedAt": "2026-11-21T01:48:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg"
    }

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T09:20:37Z",
+ "generatedAt": "2026-11-21T09:30:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T09:05:57Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 31,
  "allActive": 208,
  "rubyShare": 0.149,
- "steamPlayers": 7481,
+ "steamPlayers": 7362,
  "rubyCutoff": 49672,
  "grinding": [
   {
@@ -59,7 +59,7 @@
    "delta": -64,
    "rankScore": 56127,
    "club": "APES",
-   "twitch": "yangdoun"
+   "twitch": null
   },
   {
    "rank": 140,
@@ -131,7 +131,7 @@
    "delta": 346,
    "rankScore": 52978,
    "club": "NTMR",
-   "twitch": null
+   "twitch": "cueteepai"
   },
   {
    "rank": 257,
@@ -264,26 +264,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T09:20:37Z",
+  "checkedAt": "2026-11-21T09:30:31Z",
   "totalStreams": 57,
   "rubyLive": [
-   {
-    "login": "yangdoun",
-    "displayName": "yangdoun",
-    "title": "Nice to meet you/ APE SQUAD / Korean /",
-    "viewers": 12,
-    "startedAt": "2026-11-21T03:29:08Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yangdoun-{width}x{height}.jpg",
-    "rank": 135,
-    "name": "YangDoun#0398",
-    "rankScore": 56127,
-    "matchedBy": "name"
-   },
    {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 11,
+    "viewers": 14,
     "startedAt": "2026-11-21T07:45:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 140,
@@ -292,10 +280,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "cueteepai",
+    "displayName": "cueteepai",
+    "title": "SPEAR TIME💗 |  DOWN LOTS OF RS",
+    "viewers": 15,
+    "startedAt": "2026-11-21T09:25:01Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
+    "rank": 248,
+    "name": "cueteepai.tv#9915",
+    "rankScore": 52978,
+    "matchedBy": "name"
+   },
+   {
     "login": "impieux",
     "displayName": "impieux",
-    "title": "LATE NIGHT RANKIN! RUBY SOON: LOW AD STREAM: x55 ruby clanka",
-    "viewers": 144,
+    "title": "LF TEAM: LATE NIGHT RANKIN! RUBY SOON: LOW AD STREAM: x55 ruby clanka",
+    "viewers": 139,
     "startedAt": "2026-11-21T01:48:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg",
     "rank": 455,
@@ -306,20 +306,20 @@
   ],
   "titleMentions": [
    {
+    "login": "sushxy",
+    "displayName": "Sushxy",
+    "title": "The Finals | Top 100 ranked (Evil ranked is not for the weak) LFT",
+    "viewers": 3,
+    "startedAt": "2026-11-21T06:52:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
+   },
+   {
     "login": "lesmoothbrain",
     "displayName": "lesmoothbrain",
     "title": "ROAD TO RUBY!!!",
     "viewers": 3,
     "startedAt": "2026-11-21T08:35:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lesmoothbrain-{width}x{height}.jpg"
-   },
-   {
-    "login": "sushxy",
-    "displayName": "Sushxy",
-    "title": "The Finals | Top 100 ranked (Evil ranked is not for the weak) LFT",
-    "viewers": 2,
-    "startedAt": "2026-11-21T06:52:12Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
    }
   ]
  },

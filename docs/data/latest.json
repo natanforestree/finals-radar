@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T09:10:30Z",
+ "generatedAt": "2026-11-21T09:20:37Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T09:05:57Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 31,
  "allActive": 208,
  "rubyShare": 0.149,
- "steamPlayers": 7433,
+ "steamPlayers": 7481,
  "rubyCutoff": 49672,
  "grinding": [
   {
@@ -51,7 +51,7 @@
    "delta": 139,
    "rankScore": 57236,
    "club": "MOON",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 135,
@@ -264,21 +264,9 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T09:10:30Z",
-  "totalStreams": 63,
+  "checkedAt": "2026-11-21T09:20:37Z",
+  "totalStreams": 57,
   "rubyLive": [
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Ruby Flex Player | Buy the MOON THEORY BUNDLE!",
-    "viewers": 165,
-    "startedAt": "2026-11-21T03:58:58Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 105,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 57236,
-    "matchedBy": "name"
-   },
    {
     "login": "yangdoun",
     "displayName": "yangdoun",
@@ -307,7 +295,7 @@
     "login": "impieux",
     "displayName": "impieux",
     "title": "LATE NIGHT RANKIN! RUBY SOON: LOW AD STREAM: x55 ruby clanka",
-    "viewers": 34,
+    "viewers": 144,
     "startedAt": "2026-11-21T01:48:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg",
     "rank": 455,
@@ -318,20 +306,20 @@
   ],
   "titleMentions": [
    {
+    "login": "lesmoothbrain",
+    "displayName": "lesmoothbrain",
+    "title": "ROAD TO RUBY!!!",
+    "viewers": 3,
+    "startedAt": "2026-11-21T08:35:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lesmoothbrain-{width}x{height}.jpg"
+   },
+   {
     "login": "sushxy",
     "displayName": "Sushxy",
     "title": "The Finals | Top 100 ranked (Evil ranked is not for the weak) LFT",
     "viewers": 2,
     "startedAt": "2026-11-21T06:52:12Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
-   },
-   {
-    "login": "lesmoothbrain",
-    "displayName": "lesmoothbrain",
-    "title": "ROAD TO RUBY!!!",
-    "viewers": 1,
-    "startedAt": "2026-11-21T08:35:35Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lesmoothbrain-{width}x{height}.jpg"
    }
   ]
  },

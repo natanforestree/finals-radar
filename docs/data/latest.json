@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T00:40:31Z",
+ "generatedAt": "2026-11-21T00:50:36Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T00:38:29Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 37,
  "allActive": 356,
  "rubyShare": 0.1039,
- "steamPlayers": 12329,
+ "steamPlayers": 12360,
  "rubyCutoff": 49536,
  "grinding": [
   {
@@ -312,14 +312,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T00:40:31Z",
-  "totalStreams": 150,
+  "checkedAt": "2026-11-21T00:50:36Z",
+  "totalStreams": 154,
   "rubyLive": [
    {
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby / RANKED",
-    "viewers": 5,
+    "viewers": 6,
     "startedAt": "2026-11-20T17:19:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 273,
@@ -331,12 +331,24 @@
     "login": "zyllm",
     "displayName": "Zyllm",
     "title": "All about the bpm",
-    "viewers": 8,
+    "viewers": 13,
     "startedAt": "2026-11-20T19:04:01Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zyllm-{width}x{height}.jpg",
     "rank": 364,
     "name": "ZyllmTv#0249",
     "rankScore": 51285,
+    "matchedBy": "name"
+   },
+   {
+    "login": "asht0ta",
+    "displayName": "ASHT0TA",
+    "title": "chilling",
+    "viewers": 0,
+    "startedAt": "2026-11-21T00:48:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_asht0ta-{width}x{height}.jpg",
+    "rank": 482,
+    "name": "ASHT0TA#1939",
+    "rankScore": 49745,
     "matchedBy": "name"
    }
   ],

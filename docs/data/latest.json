@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T10:40:31Z",
+ "generatedAt": "2026-11-21T10:50:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T10:38:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 23,
  "allActive": 186,
  "rubyShare": 0.1237,
- "steamPlayers": 8060,
+ "steamPlayers": 8299,
  "rubyCutoff": 49667,
  "grinding": [
   {
@@ -123,7 +123,7 @@
    "delta": 105,
    "rankScore": 52363,
    "club": "NTMR",
-   "twitch": "cueteepai"
+   "twitch": null
   },
   {
    "rank": 299,
@@ -200,14 +200,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T10:40:31Z",
-  "totalStreams": 49,
+  "checkedAt": "2026-11-21T10:50:31Z",
+  "totalStreams": 51,
   "rubyLive": [
    {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 20,
+    "viewers": 24,
     "startedAt": "2026-11-21T07:45:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 140,
@@ -216,22 +216,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "cueteepai",
-    "displayName": "cueteepai",
-    "title": "SPEAR TIME💗 |  DOWN LOTS OF RS",
-    "viewers": 31,
-    "startedAt": "2026-11-21T09:25:01Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
-    "rank": 290,
-    "name": "cueteepai.tv#9915",
-    "rankScore": 52363,
-    "matchedBy": "name"
-   },
-   {
     "login": "impieux",
     "displayName": "impieux",
     "title": "LF TEAM: LATE NIGHT RANKIN! RUBY SOON: LOW AD STREAM: x55 ruby clanka",
-    "viewers": 84,
+    "viewers": 78,
     "startedAt": "2026-11-21T01:48:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg",
     "rank": 443,
@@ -242,20 +230,20 @@
   ],
   "titleMentions": [
    {
-    "login": "sushxy",
-    "displayName": "Sushxy",
-    "title": "The Finals | Top 100 ranked (Evil ranked is not for the weak) LFT",
-    "viewers": 4,
-    "startedAt": "2026-11-21T06:52:12Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
-   },
-   {
     "login": "itzvuqx",
     "displayName": "itzvuqx",
     "title": "ruby fcar only thing you need to know//team HEIMING // ruby // top 5 engimo // scrims // strong men",
-    "viewers": 3,
+    "viewers": 7,
     "startedAt": "2026-11-21T10:30:18Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_itzvuqx-{width}x{height}.jpg"
+   },
+   {
+    "login": "sushxy",
+    "displayName": "Sushxy",
+    "title": "The Finals | Top 100 ranked (Evil ranked is not for the weak) LFT",
+    "viewers": 2,
+    "startedAt": "2026-11-21T06:52:12Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
    }
   ]
  },

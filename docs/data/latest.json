@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T10:50:31Z",
+ "generatedAt": "2026-11-21T11:00:38Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T10:38:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 23,
  "allActive": 186,
  "rubyShare": 0.1237,
- "steamPlayers": 8299,
+ "steamPlayers": 8394,
  "rubyCutoff": 49667,
  "grinding": [
   {
@@ -200,14 +200,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T10:50:31Z",
-  "totalStreams": 51,
+  "checkedAt": "2026-11-21T11:00:38Z",
+  "totalStreams": 55,
   "rubyLive": [
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
+    "viewers": 32,
+    "startedAt": "2026-11-21T10:49:55Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 1,
+    "name": "perzzonTTV#5485",
+    "rankScore": 67945,
+    "matchedBy": "name"
+   },
    {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 24,
+    "viewers": 21,
     "startedAt": "2026-11-21T07:45:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 140,
@@ -216,10 +228,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[DROPS] bored ranking  - !FinalsRS !yt !discord",
+    "viewers": 2,
+    "startedAt": "2026-11-21T10:49:21Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 251,
+    "name": "Antiparty#0866",
+    "rankScore": 52945,
+    "matchedBy": "name"
+   },
+   {
     "login": "impieux",
     "displayName": "impieux",
     "title": "LF TEAM: LATE NIGHT RANKIN! RUBY SOON: LOW AD STREAM: x55 ruby clanka",
-    "viewers": 78,
+    "viewers": 83,
     "startedAt": "2026-11-21T01:48:45Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg",
     "rank": 443,

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T12:10:32Z",
+ "generatedAt": "2026-11-21T12:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-21T12:09:42Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 30,
  "allActive": 210,
  "rubyShare": 0.1429,
- "steamPlayers": 9117,
+ "steamPlayers": 9276,
  "rubyCutoff": 49666,
  "grinding": [
   {
@@ -256,14 +256,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-21T12:10:32Z",
-  "totalStreams": 66,
+  "checkedAt": "2026-11-21T12:20:32Z",
+  "totalStreams": 78,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 153,
+    "viewers": 163,
     "startedAt": "2026-11-21T10:49:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -272,10 +272,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "skreydeen",
+    "displayName": "SkreyDeen",
+    "title": "Ligne Zero tournament - Mori",
+    "viewers": 1,
+    "startedAt": "2026-11-21T12:14:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
+    "rank": 92,
+    "name": "SkreyDeen#2116",
+    "rankScore": 57867,
+    "matchedBy": "name"
+   },
+   {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 12,
+    "viewers": 15,
     "startedAt": "2026-11-21T07:45:51Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 137,
@@ -287,7 +299,7 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby / THE NUKE END TOURNAMENT",
-    "viewers": 2,
+    "viewers": 5,
     "startedAt": "2026-11-21T11:43:00Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 244,
@@ -299,25 +311,28 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] bored ranking  - !FinalsRS !yt !discord",
-    "viewers": 12,
+    "viewers": 16,
     "startedAt": "2026-11-21T10:49:21Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
     "rank": 259,
     "name": "Antiparty#0866",
     "rankScore": 52858,
     "matchedBy": "name"
+   },
+   {
+    "login": "appoh",
+    "displayName": "Appoh",
+    "title": "(!drops) LZO Tourney Today #VGGWin - !bundle - !Coach - Embark Partner - VGG Coach",
+    "viewers": 0,
+    "startedAt": "2026-11-21T12:18:34Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
+    "rank": 296,
+    "name": "Appoh#9173",
+    "rankScore": 52244,
+    "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "impieux",
-    "displayName": "impieux",
-    "title": "LF TEAM: LATE NIGHT RANKIN! RUBY SOON: LOW AD STREAM: x55 ruby clanka",
-    "viewers": 71,
-    "startedAt": "2026-11-21T01:48:45Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

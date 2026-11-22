@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T01:20:35Z",
+ "generatedAt": "2026-11-22T01:30:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-22T01:07:46Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 59,
  "allActive": 370,
  "rubyShare": 0.1595,
- "steamPlayers": 12868,
+ "steamPlayers": 12845,
  "rubyCutoff": 49737,
  "grinding": [
   {
@@ -43,7 +43,7 @@
    "delta": -37,
    "rankScore": 60592,
    "club": "ALL",
-   "twitch": "knot4long"
+   "twitch": null
   },
   {
    "rank": 44,
@@ -488,26 +488,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-22T01:20:35Z",
-  "totalStreams": 156,
+  "checkedAt": "2026-11-22T01:30:31Z",
+  "totalStreams": 157,
   "rubyLive": [
-   {
-    "login": "knot4long",
-    "displayName": "knot4long",
-    "title": "LETZZZ PLAY RANK FINALS🌸",
-    "viewers": 1,
-    "startedAt": "2026-11-22T00:14:13Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
-    "rank": 42,
-    "name": "TTVKNOT4LONG#3794",
-    "rankScore": 60592,
-    "matchedBy": "name"
-   },
    {
     "login": "cueteepai",
     "displayName": "cueteepai",
     "title": "#1 RUBY DAGGER CLOAK! |  RANKED TIME :>",
-    "viewers": 14,
+    "viewers": 22,
     "startedAt": "2026-11-21T22:22:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
     "rank": 265,
@@ -518,12 +506,12 @@
   ],
   "titleMentions": [
    {
-    "login": "bobiduity",
-    "displayName": "bobiduity",
-    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 1,
-    "startedAt": "2026-11-21T20:49:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
+    "login": "lucas03gs",
+    "displayName": "lucas03gs",
+    "title": "Ruby, TheFinals",
+    "viewers": 0,
+    "startedAt": "2026-11-22T01:29:29Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
    }
   ]
  },

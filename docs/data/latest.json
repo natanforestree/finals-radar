@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T17:40:32Z",
+ "generatedAt": "2026-11-22T17:50:35Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-22T17:34:20Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 32,
  "allActive": 339,
  "rubyShare": 0.0944,
- "steamPlayers": 15311,
+ "steamPlayers": 15481,
  "rubyCutoff": 49882,
  "grinding": [
   {
@@ -163,7 +163,7 @@
    "delta": 194,
    "rankScore": 54051,
    "club": "GOONU",
-   "twitch": "antiparty"
+   "twitch": null
   },
   {
    "rank": 223,
@@ -272,14 +272,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-22T17:40:32Z",
-  "totalStreams": 143,
+  "checkedAt": "2026-11-22T17:50:35Z",
+  "totalStreams": 151,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 123,
+    "viewers": 130,
     "startedAt": "2026-11-22T10:34:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -288,22 +288,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "antiparty",
-    "displayName": "Antiparty",
-    "title": "[DROPS] bored solo ranking  - !FinalsRS !yt !discord",
-    "viewers": 165,
-    "startedAt": "2026-11-22T13:49:49Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 208,
-    "name": "Antiparty#0866",
-    "rankScore": 54051,
-    "matchedBy": "name"
-   },
-   {
     "login": "zyllm",
     "displayName": "Zyllm",
     "title": "All about the bpm 2",
-    "viewers": 7,
+    "viewers": 6,
     "startedAt": "2026-11-22T16:13:48Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zyllm-{width}x{height}.jpg",
     "rank": 302,
@@ -315,7 +303,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(!drops) LZO Tourney (I have to play... gulp) #VGGWin - !bundle - !Coach - Embark Partner - VGG Coach",
-    "viewers": 81,
+    "viewers": 233,
     "startedAt": "2026-11-22T12:03:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 309,
@@ -327,7 +315,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": ":drops: MB !GIVEAWAY 💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 34,
+    "viewers": 32,
     "startedAt": "2026-11-22T13:34:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 347,
@@ -341,7 +329,7 @@
     "login": "lycommit",
     "displayName": "lycommit",
     "title": "[X100 DROPS] 12.3 FARMAGE | SOLO QUEUEING TO RUBY  !goldenrule !gta6",
-    "viewers": 413,
+    "viewers": 397,
     "startedAt": "2026-11-22T14:08:10Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lycommit-{width}x{height}.jpg"
    },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T11:40:32Z",
+ "generatedAt": "2026-11-22T11:50:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-22T11:36:01Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 30,
  "allActive": 251,
  "rubyShare": 0.1195,
- "steamPlayers": 9176,
+ "steamPlayers": 9310,
  "rubyCutoff": 49882,
  "grinding": [
   {
@@ -256,14 +256,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-22T11:40:32Z",
-  "totalStreams": 62,
+  "checkedAt": "2026-11-22T11:50:31Z",
+  "totalStreams": 59,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 135,
+    "viewers": 162,
     "startedAt": "2026-11-22T10:34:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -272,16 +272,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "impieux",
-    "displayName": "impieux",
-    "title": "rolla rankin :  x55 ruby clanka",
-    "viewers": 129,
-    "startedAt": "2026-11-22T06:25:40Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

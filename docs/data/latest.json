@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T11:50:31Z",
+ "generatedAt": "2026-11-22T12:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-22T11:36:01Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 30,
  "allActive": 251,
  "rubyShare": 0.1195,
- "steamPlayers": 9310,
+ "steamPlayers": 9407,
  "rubyCutoff": 49882,
  "grinding": [
   {
@@ -256,19 +256,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-22T11:50:31Z",
-  "totalStreams": 59,
+  "checkedAt": "2026-11-22T12:00:31Z",
+  "totalStreams": 61,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 162,
+    "viewers": 157,
     "startedAt": "2026-11-22T10:34:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
     "name": "perzzonTTV#5485",
     "rankScore": 68189,
+    "matchedBy": "name"
+   },
+   {
+    "login": "incgii",
+    "displayName": "incgii",
+    "title": "LIGNE ZERO / light ruby / THE NUKE END TOURNEMENT DAY 2 !!!!!",
+    "viewers": 2,
+    "startedAt": "2026-11-22T11:52:31Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
+    "rank": 221,
+    "name": "IncGII#1058",
+    "rankScore": 53695,
     "matchedBy": "name"
    }
   ],

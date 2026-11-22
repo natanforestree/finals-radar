@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T01:40:35Z",
+ "generatedAt": "2026-11-22T01:50:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-22T01:38:50Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 42,
  "allActive": 364,
  "rubyShare": 0.1154,
- "steamPlayers": 12825,
+ "steamPlayers": 12847,
  "rubyCutoff": 49737,
  "grinding": [
   {
@@ -35,7 +35,7 @@
    "delta": -37,
    "rankScore": 60555,
    "club": "ALL",
-   "twitch": "knot4long"
+   "twitch": null
   },
   {
    "rank": 44,
@@ -352,31 +352,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-22T01:40:35Z",
-  "totalStreams": 156,
+  "checkedAt": "2026-11-22T01:50:31Z",
+  "totalStreams": 163,
   "rubyLive": [
-   {
-    "login": "knot4long",
-    "displayName": "knot4long",
-    "title": "LETZZZ PLAY RANK FINALS🌸",
-    "viewers": 2,
-    "startedAt": "2026-11-22T00:14:13Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
-    "rank": 43,
-    "name": "TTVKNOT4LONG#3794",
-    "rankScore": 60555,
-    "matchedBy": "name"
-   },
    {
     "login": "cueteepai",
     "displayName": "cueteepai",
     "title": "#1 RUBY DAGGER CLOAK! |  RANKED TIME :>",
-    "viewers": 18,
+    "viewers": 19,
     "startedAt": "2026-11-21T22:22:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
     "rank": 249,
     "name": "cueteepai.tv#9915",
     "rankScore": 53016,
+    "matchedBy": "name"
+   },
+   {
+    "login": "biggiz_qc",
+    "displayName": "biggiz_qc",
+    "title": "FNLS GRIND",
+    "viewers": 2,
+    "startedAt": "2026-11-22T01:45:07Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_biggiz_qc-{width}x{height}.jpg",
+    "rank": 257,
+    "name": "Biggiz_QC#0629",
+    "rankScore": 52920,
     "matchedBy": "name"
    }
   ],
@@ -394,7 +394,7 @@
     "displayName": "lucas03gs",
     "title": "Ruby, TheFinals",
     "viewers": 0,
-    "startedAt": "2026-11-22T01:29:29Z",
+    "startedAt": "2026-11-22T01:50:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
    }
   ]

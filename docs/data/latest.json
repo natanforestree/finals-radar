@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T01:50:31Z",
+ "generatedAt": "2026-11-22T02:00:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-22T01:38:50Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 42,
  "allActive": 364,
  "rubyShare": 0.1154,
- "steamPlayers": 12847,
+ "steamPlayers": 12811,
  "rubyCutoff": 49737,
  "grinding": [
   {
@@ -352,14 +352,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-22T01:50:31Z",
-  "totalStreams": 163,
+  "checkedAt": "2026-11-22T02:00:31Z",
+  "totalStreams": 155,
   "rubyLive": [
    {
     "login": "cueteepai",
     "displayName": "cueteepai",
     "title": "#1 RUBY DAGGER CLOAK! |  RANKED TIME :>",
-    "viewers": 19,
+    "viewers": 20,
     "startedAt": "2026-11-21T22:22:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
     "rank": 249,
@@ -371,7 +371,7 @@
     "login": "biggiz_qc",
     "displayName": "biggiz_qc",
     "title": "FNLS GRIND",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-11-22T01:45:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_biggiz_qc-{width}x{height}.jpg",
     "rank": 257,
@@ -380,24 +380,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "bobiduity",
-    "displayName": "bobiduity",
-    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 2,
-    "startedAt": "2026-11-21T20:49:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
-   },
-   {
-    "login": "lucas03gs",
-    "displayName": "lucas03gs",
-    "title": "Ruby, TheFinals",
-    "viewers": 0,
-    "startedAt": "2026-11-22T01:50:22Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

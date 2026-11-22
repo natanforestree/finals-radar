@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T13:10:36Z",
+ "generatedAt": "2026-11-22T13:20:37Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-22T13:08:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 30,
  "allActive": 251,
  "rubyShare": 0.1195,
- "steamPlayers": 10602,
+ "steamPlayers": 10995,
  "rubyCutoff": 49889,
  "grinding": [
   {
@@ -256,14 +256,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-22T13:10:36Z",
-  "totalStreams": 64,
+  "checkedAt": "2026-11-22T13:20:37Z",
+  "totalStreams": 70,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 169,
+    "viewers": 159,
     "startedAt": "2026-11-22T10:34:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -275,7 +275,7 @@
     "login": "jumparau",
     "displayName": "jumparau",
     "title": "[Drops] Ruby on multiple accounts-Learning charge -  !sens !rank !mouse !class !size",
-    "viewers": 9,
+    "viewers": 10,
     "startedAt": "2026-11-22T12:06:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jumparau-{width}x{height}.jpg",
     "rank": 53,
@@ -299,7 +299,7 @@
     "login": "appoh",
     "displayName": "Appoh",
     "title": "(!drops) LZO Tourney (I have to play... gulp) #VGGWin - !bundle - !Coach - Embark Partner - VGG Coach",
-    "viewers": 49,
+    "viewers": 53,
     "startedAt": "2026-11-22T12:03:04Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_appoh-{width}x{height}.jpg",
     "rank": 308,
@@ -308,7 +308,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "readmyname_",
+    "displayName": "ReadMyName_",
+    "title": "FINALS clanker Ruby grind",
+    "viewers": 5,
+    "startedAt": "2026-11-22T13:08:10Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

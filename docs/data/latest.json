@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T02:10:31Z",
+ "generatedAt": "2026-11-22T02:20:30Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-22T02:09:21Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 44,
  "allActive": 366,
  "rubyShare": 0.1202,
- "steamPlayers": 12810,
+ "steamPlayers": 12639,
  "rubyCutoff": 49737,
  "grinding": [
   {
@@ -368,8 +368,8 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-22T02:10:31Z",
-  "totalStreams": 157,
+  "checkedAt": "2026-11-22T02:20:30Z",
+  "totalStreams": 143,
   "rubyLive": [
    {
     "login": "cueteepai",
@@ -387,24 +387,28 @@
     "login": "biggiz_qc",
     "displayName": "biggiz_qc",
     "title": "FNLS GRIND",
-    "viewers": 1,
+    "viewers": 2,
     "startedAt": "2026-11-22T01:45:07Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_biggiz_qc-{width}x{height}.jpg",
     "rank": 259,
     "name": "Biggiz_QC#0629",
     "rankScore": 52920,
     "matchedBy": "name"
+   },
+   {
+    "login": "kentxp1",
+    "displayName": "kentxp1",
+    "title": "Drops 🎁💵 De Ruby a Platino🎄 Peruano En RUBY🔞GIF on🔞",
+    "viewers": 10,
+    "startedAt": "2026-11-22T02:14:22Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kentxp1-{width}x{height}.jpg",
+    "rank": 494,
+    "name": "kentxp1-TTV#0749",
+    "rankScore": 49857,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
-   {
-    "login": "bobiduity",
-    "displayName": "bobiduity",
-    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 1,
-    "startedAt": "2026-11-21T20:49:32Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
-   },
    {
     "login": "lucas03gs",
     "displayName": "lucas03gs",
@@ -412,6 +416,14 @@
     "viewers": 1,
     "startedAt": "2026-11-22T02:01:57Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
+   },
+   {
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
+    "viewers": 1,
+    "startedAt": "2026-11-21T20:49:32Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
    }
   ]
  },

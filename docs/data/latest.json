@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T08:00:32Z",
+ "generatedAt": "2026-11-23T08:10:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-23T07:35:36Z",
  "window": {
@@ -248,17 +248,25 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-23T08:00:32Z",
-  "totalStreams": 81,
+  "checkedAt": "2026-11-23T08:10:31Z",
+  "totalStreams": 80,
   "rubyLive": [],
   "titleMentions": [
    {
     "login": "niceboyx_x",
     "displayName": "NiceBoyx_x",
     "title": "Blasting N Cashing!? Top 500 Ruby Heavy!",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-11-23T07:02:37Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niceboyx_x-{width}x{height}.jpg"
+   },
+   {
+    "login": "skinnyemailtv",
+    "displayName": "skinnyemailtv",
+    "title": "Road to Ruby? Season 12 Found Footage <(@__@)>",
+    "viewers": 1,
+    "startedAt": "2026-11-23T05:56:45Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skinnyemailtv-{width}x{height}.jpg"
    },
    {
     "login": "opportunehook9",
@@ -267,14 +275,6 @@
     "viewers": 1,
     "startedAt": "2026-11-23T06:40:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
-   },
-   {
-    "login": "skinnyemailtv",
-    "displayName": "skinnyemailtv",
-    "title": "Road to Ruby? Season 12 Found Footage <(@__@)>",
-    "viewers": 0,
-    "startedAt": "2026-11-23T05:56:45Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skinnyemailtv-{width}x{height}.jpg"
    }
   ]
  },

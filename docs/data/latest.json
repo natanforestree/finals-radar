@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T05:40:32Z",
+ "generatedAt": "2026-11-23T05:50:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-23T05:34:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 26,
  "allActive": 262,
  "rubyShare": 0.0992,
- "steamPlayers": 9285,
+ "steamPlayers": 8879,
  "rubyCutoff": 50037,
  "grinding": [
   {
@@ -224,19 +224,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-23T05:40:32Z",
-  "totalStreams": 115,
+  "checkedAt": "2026-11-23T05:50:31Z",
+  "totalStreams": 116,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player | Buy the MOON THEORY BUNDLE!",
-    "viewers": 140,
+    "viewers": 143,
     "startedAt": "2026-11-23T03:18:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 90,
     "name": "Digcron.TTV#3309",
     "rankScore": 58418,
+    "matchedBy": "name"
+   },
+   {
+    "login": "cueteepai",
+    "displayName": "cueteepai",
+    "title": "Casual playing |  Just meh",
+    "viewers": 5,
+    "startedAt": "2026-11-23T05:35:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
+    "rank": 228,
+    "name": "cueteepai.tv#9915",
+    "rankScore": 53663,
     "matchedBy": "name"
    }
   ],

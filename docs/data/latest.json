@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T18:20:31Z",
+ "generatedAt": "2026-11-23T18:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-23T18:05:03Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 45,
  "allActive": 326,
  "rubyShare": 0.138,
- "steamPlayers": 12877,
+ "steamPlayers": 13064,
  "rubyCutoff": 50136,
  "grinding": [
   {
@@ -376,14 +376,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-23T18:20:31Z",
-  "totalStreams": 118,
+  "checkedAt": "2026-11-23T18:30:32Z",
+  "totalStreams": 123,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
-    "viewers": 179,
+    "viewers": 180,
     "startedAt": "2026-11-23T16:10:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
@@ -392,10 +392,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "balise",
+    "displayName": "Balise",
+    "title": "(3X DROPS) LAST STREAM BEFORE SWEDEN | ARE WE LOCKED??? | ELEVATE BERGER",
+    "viewers": 51,
+    "startedAt": "2026-11-23T18:17:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_balise-{width}x{height}.jpg",
+    "rank": 90,
+    "name": "Balise#2431",
+    "rankScore": 58701,
+    "matchedBy": "name"
+   },
+   {
     "login": "skreydeen",
     "displayName": "SkreyDeen",
     "title": "Back to pewpew in ranked",
-    "viewers": 12,
+    "viewers": 13,
     "startedAt": "2026-11-23T15:29:16Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_skreydeen-{width}x{height}.jpg",
     "rank": 103,
@@ -414,6 +426,18 @@
     "name": "Ilprune#5174",
     "rankScore": 56775,
     "matchedBy": "name"
+   },
+   {
+    "login": "sepstar",
+    "displayName": "Sepstar",
+    "title": "RankS  !!!   🚀✨",
+    "viewers": 0,
+    "startedAt": "2026-11-23T18:29:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
+    "rank": 220,
+    "name": "Sepstar#3539",
+    "rankScore": 54056,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
@@ -421,7 +445,7 @@
     "login": "jaydenneirbo",
     "displayName": "jaydenneirbo",
     "title": "NEW MOUSE TODAY?! | !newvid | TOP 100 CASHOUT PLAYER | !youtube ! discord !patch",
-    "viewers": 13,
+    "viewers": 18,
     "startedAt": "2026-11-23T14:57:09Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaydenneirbo-{width}x{height}.jpg"
    }

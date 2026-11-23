@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T07:40:32Z",
+ "generatedAt": "2026-11-23T07:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-23T07:35:36Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 29,
  "allActive": 233,
  "rubyShare": 0.1245,
- "steamPlayers": 6520,
+ "steamPlayers": 6310,
  "rubyCutoff": 50045,
  "grinding": [
   {
@@ -75,7 +75,7 @@
    "delta": 49,
    "rankScore": 58820,
    "club": "MOON",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 83,
@@ -248,23 +248,18 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-23T07:40:32Z",
-  "totalStreams": 84,
-  "rubyLive": [
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Ruby Flex Player | Buy the MOON THEORY BUNDLE!",
-    "viewers": 134,
-    "startedAt": "2026-11-23T03:18:26Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 82,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 58820,
-    "matchedBy": "name"
-   }
-  ],
+  "checkedAt": "2026-11-23T07:50:32Z",
+  "totalStreams": 82,
+  "rubyLive": [],
   "titleMentions": [
+   {
+    "login": "niceboyx_x",
+    "displayName": "NiceBoyx_x",
+    "title": "Blasting N Cashing!? Top 500 Ruby Heavy!",
+    "viewers": 2,
+    "startedAt": "2026-11-23T07:02:37Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niceboyx_x-{width}x{height}.jpg"
+   },
    {
     "login": "opportunehook9",
     "displayName": "OpportuneHook9",

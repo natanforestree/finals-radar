@@ -1,154 +1,190 @@
 {
- "generatedAt": "2026-11-23T12:00:33Z",
+ "generatedAt": "2026-11-23T12:10:32Z",
  "season": "s12",
- "leaderboardUpdatedAt": "2026-11-23T11:35:20Z",
+ "leaderboardUpdatedAt": "2026-11-23T12:05:51Z",
  "window": {
-  "from": "2026-11-23T11:05:02Z",
-  "to": "2026-11-23T11:35:20Z",
-  "minutes": 30.3
+  "from": "2026-11-23T11:35:20Z",
+  "to": "2026-11-23T12:05:51Z",
+  "minutes": 30.5
  },
- "rubyActive": 15,
- "allActive": 129,
- "rubyShare": 0.1163,
- "steamPlayers": 6391,
- "rubyCutoff": 50130,
+ "rubyActive": 18,
+ "allActive": 145,
+ "rubyShare": 0.1241,
+ "steamPlayers": 6508,
+ "rubyCutoff": 50127,
  "grinding": [
   {
-   "rank": 69,
-   "name": "GodofdreamsYh#5990",
-   "delta": 105,
-   "rankScore": 59523,
-   "club": "SEITN",
+   "rank": 27,
+   "name": "Avion#8636",
+   "delta": 31,
+   "rankScore": 61986,
+   "club": "TF",
    "twitch": null
   },
   {
-   "rank": 75,
-   "name": "SLIMETIME#3167",
-   "delta": 46,
-   "rankScore": 59266,
-   "club": "FESTR",
-   "twitch": null
-  },
-  {
-   "rank": 80,
-   "name": "N0tK2#0997",
-   "delta": 112,
-   "rankScore": 59016,
-   "club": "T0GGL",
-   "twitch": null
-  },
-  {
-   "rank": 126,
-   "name": "breatheSA#2736",
-   "delta": 144,
-   "rankScore": 56940,
-   "club": "SSAA1",
-   "twitch": null
-  },
-  {
-   "rank": 150,
-   "name": "Swerzie#5982",
-   "delta": 160,
-   "rankScore": 55933,
-   "club": "T0GGL",
-   "twitch": null
-  },
-  {
-   "rank": 190,
-   "name": "7res#5114",
-   "delta": 180,
-   "rankScore": 54789,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 219,
-   "name": "Wladimir#0654",
-   "delta": 195,
-   "rankScore": 54011,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 339,
-   "name": "Apathy#9461",
-   "delta": 99,
-   "rankScore": 51997,
-   "club": "FRE5H",
-   "twitch": null
-  },
-  {
-   "rank": 347,
-   "name": "Sadeness#1017",
-   "delta": 237,
-   "rankScore": 51876,
-   "club": "DMPRO",
-   "twitch": null
-  },
-  {
-   "rank": 380,
-   "name": "WinchHunteRr#1033",
-   "delta": 244,
-   "rankScore": 51544,
+   "rank": 54,
+   "name": "CHIGO#1751",
+   "delta": 97,
+   "rankScore": 60148,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 382,
+   "rank": 64,
+   "name": "KovaaksOnRoller#0944",
+   "delta": 43,
+   "rankScore": 59679,
+   "club": "AIMRZ",
+   "twitch": null
+  },
+  {
+   "rank": 74,
+   "name": "SLIMETIME#3167",
+   "delta": 108,
+   "rankScore": 59374,
+   "club": "FESTR",
+   "twitch": null
+  },
+  {
+   "rank": 79,
+   "name": "N0tK2#0997",
+   "delta": 111,
+   "rankScore": 59127,
+   "club": "T0GGL",
+   "twitch": null
+  },
+  {
+   "rank": 125,
+   "name": "Seddikk#0711",
+   "delta": -145,
+   "rankScore": 56956,
+   "club": "RAD",
+   "twitch": null
+  },
+  {
+   "rank": 145,
+   "name": "Swerzie#5982",
+   "delta": 158,
+   "rankScore": 56091,
+   "club": "T0GGL",
+   "twitch": null
+  },
+  {
+   "rank": 167,
+   "name": "Ouroboros_N#9809",
+   "delta": 169,
+   "rankScore": 55398,
+   "club": "RAD",
+   "twitch": null
+  },
+  {
+   "rank": 202,
+   "name": "joek#0785",
+   "delta": 187,
+   "rankScore": 54400,
+   "club": "KNUCK",
+   "twitch": null
+  },
+  {
+   "rank": 241,
+   "name": "chi#0702",
+   "delta": 205,
+   "rankScore": 53496,
+   "club": "KNGZ",
+   "twitch": null
+  },
+  {
+   "rank": 265,
+   "name": "UniverseSlayer67#7006",
+   "delta": 213,
+   "rankScore": 53073,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 315,
+   "name": "Apathy#9461",
+   "delta": 230,
+   "rankScore": 52227,
+   "club": "FRE5H",
+   "twitch": null
+  },
+  {
+   "rank": 346,
+   "name": "SmashDagger#0893",
+   "delta": 323,
+   "rankScore": 51906,
+   "club": null,
+   "twitch": null
+  },
+  {
+   "rank": 372,
+   "name": "EntityDog#0615",
+   "delta": 102,
+   "rankScore": 51663,
+   "club": "RS1",
+   "twitch": null
+  },
+  {
+   "rank": 381,
+   "name": "Excalibur#8525",
+   "delta": 244,
+   "rankScore": 51526,
+   "club": "DMPRO",
+   "twitch": null
+  },
+  {
+   "rank": 428,
    "name": "feonikz#0069",
-   "delta": 104,
-   "rankScore": 51489,
+   "delta": -615,
+   "rankScore": 50874,
    "club": "5F",
    "twitch": null
   },
   {
-   "rank": 392,
+   "rank": 445,
    "name": "pickme_vatnik#0115",
-   "delta": 105,
-   "rankScore": 51294,
+   "delta": -626,
+   "rankScore": 50668,
    "club": "YA2OO",
    "twitch": null
   },
   {
-   "rank": 446,
-   "name": "PR4JNA#9973",
-   "delta": 263,
-   "rankScore": 50641,
-   "club": "OASIS",
-   "twitch": null
-  },
-  {
-   "rank": 453,
-   "name": "CatOwner#7859",
-   "delta": 264,
-   "rankScore": 50594,
-   "club": "MORI",
-   "twitch": null
-  },
-  {
-   "rank": 494,
-   "name": "vibes#0871",
-   "delta": 116,
-   "rankScore": 50149,
-   "club": "RAD",
+   "rank": 474,
+   "name": "buddyboy#4148",
+   "delta": -53,
+   "rankScore": 50397,
+   "club": null,
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-23T12:00:33Z",
-  "totalStreams": 55,
+  "checkedAt": "2026-11-23T12:10:32Z",
+  "totalStreams": 58,
   "rubyLive": [
    {
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "kovaaks and elo gaining | 5 days till major | slothy waiting room until next year | CEO of OCE | !discord !commands",
-    "viewers": 66,
+    "viewers": 57,
     "startedAt": "2026-11-23T10:29:38Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 17,
     "name": "YeahHealthyTTV#0175",
     "rankScore": 62876,
+    "matchedBy": "name"
+   },
+   {
+    "login": "antiparty",
+    "displayName": "Antiparty",
+    "title": "[DROPS] cheaters are active 😴  - !FinalsRS !yt !discord",
+    "viewers": 7,
+    "startedAt": "2026-11-23T12:00:24Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
+    "rank": 231,
+    "name": "Antiparty#0866",
+    "rankScore": 53661,
     "matchedBy": "name"
    }
   ],
@@ -157,7 +193,7 @@
     "login": "stupidplatypus",
     "displayName": "StupidPlatypus",
     "title": "DAY-2 SOLO Q, GETTING TO RUBY",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-11-23T10:39:15Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stupidplatypus-{width}x{height}.jpg"
    }
@@ -167,7 +203,7 @@
   "ready": true,
   "placed": {
    "ruby": 444,
-   "all": 6092
+   "all": 6095
   },
   "rubyByRegion": {
    "am": 201,
@@ -176,20 +212,20 @@
   },
   "window": {
    "am": {
-    "ruby": 2,
-    "all": 13
+    "ruby": 1,
+    "all": 12
    },
    "eu": {
-    "ruby": 6,
-    "all": 27
+    "ruby": 7,
+    "all": 32
    },
    "ap": {
-    "ruby": 5,
-    "all": 53
+    "ruby": 8,
+    "all": 57
    },
    "unplaced": {
     "ruby": 2,
-    "all": 36
+    "all": 44
    }
   }
  },

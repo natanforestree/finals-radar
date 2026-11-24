@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T12:00:32Z",
+ "generatedAt": "2026-11-24T12:10:38Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-24T11:41:35Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 28,
  "allActive": 171,
  "rubyShare": 0.1637,
- "steamPlayers": 6465,
+ "steamPlayers": 6495,
  "rubyCutoff": 50204,
  "grinding": [
   {
@@ -240,15 +240,28 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-24T12:00:32Z",
-  "totalStreams": 42,
-  "rubyLive": [],
+  "checkedAt": "2026-11-24T12:10:38Z",
+  "totalStreams": 46,
+  "rubyLive": [
+   {
+    "login": "naghostx6",
+    "displayName": "NAGHOSTX6",
+    "title": "!sex",
+    "viewers": 27,
+    "startedAt": "2026-11-24T12:03:00Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
+    "rank": 88,
+    "name": "NAGHOSTX6#0212",
+    "rankScore": 58743,
+    "matchedBy": "name"
+   }
+  ],
   "titleMentions": [
    {
     "login": "niceboyx_x",
     "displayName": "NiceBoyx_x",
     "title": "Some Finals Then Back 2 The Mines!? Top 500 Ruby Heavy!",
-    "viewers": 4,
+    "viewers": 3,
     "startedAt": "2026-11-24T05:08:35Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niceboyx_x-{width}x{height}.jpg"
    },

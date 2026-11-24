@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T11:00:33Z",
+ "generatedAt": "2026-11-24T11:10:37Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-24T10:41:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 24,
  "allActive": 193,
  "rubyShare": 0.1244,
- "steamPlayers": 6015,
+ "steamPlayers": 6116,
  "rubyCutoff": 50196,
  "grinding": [
   {
@@ -43,7 +43,7 @@
    "delta": 122,
    "rankScore": 58386,
    "club": "MOON",
-   "twitch": "digcron"
+   "twitch": null
   },
   {
    "rank": 100,
@@ -208,22 +208,9 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-24T11:00:33Z",
+  "checkedAt": "2026-11-24T11:10:37Z",
   "totalStreams": 49,
-  "rubyLive": [
-   {
-    "login": "digcron",
-    "displayName": "digcron",
-    "title": "[DROPS] Ruby Flex Player | Buy the MOON THEORY BUNDLE!",
-    "viewers": 68,
-    "startedAt": "2026-11-24T03:04:17Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
-    "rank": 95,
-    "name": "Digcron.TTV#3309",
-    "rankScore": 58386,
-    "matchedBy": "name"
-   }
-  ],
+  "rubyLive": [],
   "titleMentions": [
    {
     "login": "stupidplatypus",

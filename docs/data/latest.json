@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T07:20:31Z",
+ "generatedAt": "2026-11-24T07:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-24T07:05:39Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 34,
  "allActive": 237,
  "rubyShare": 0.1435,
- "steamPlayers": 6846,
+ "steamPlayers": 6611,
  "rubyCutoff": 50196,
  "grinding": [
   {
@@ -288,26 +288,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-24T07:20:31Z",
-  "totalStreams": 79,
+  "checkedAt": "2026-11-24T07:30:32Z",
+  "totalStreams": 87,
   "rubyLive": [
-   {
-    "login": "sly_mee",
-    "displayName": "sly_mee",
-    "title": "Top 50 Ruby Solo Qs To Have Fun",
-    "viewers": 1,
-    "startedAt": "2026-11-24T04:19:26Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sly_mee-{width}x{height}.jpg",
-    "rank": 55,
-    "name": "Sly#1640",
-    "rankScore": 60278,
-    "matchedBy": "name"
-   },
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player | Buy the MOON THEORY BUNDLE!",
-    "viewers": 101,
+    "viewers": 97,
     "startedAt": "2026-11-24T03:04:17Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 96,
@@ -316,7 +304,16 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": []
+  "titleMentions": [
+   {
+    "login": "fedor_tf",
+    "displayName": "fedor_tf",
+    "title": "back in ruby so unwashed?",
+    "viewers": 3,
+    "startedAt": "2026-11-24T06:14:33Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fedor_tf-{width}x{height}.jpg"
+   }
+  ]
  },
  "regions": {
   "ready": true,

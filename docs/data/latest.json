@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:40:33Z",
+ "generatedAt": "2026-11-24T15:50:39Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-24T15:33:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 39,
  "allActive": 255,
  "rubyShare": 0.1529,
- "steamPlayers": 9429,
+ "steamPlayers": 9617,
  "rubyCutoff": 50236,
  "grinding": [
   {
@@ -91,7 +91,7 @@
    "delta": 109,
    "rankScore": 59301,
    "club": "5F",
-   "twitch": "naghostx6"
+   "twitch": null
   },
   {
    "rank": 81,
@@ -328,26 +328,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-24T15:40:33Z",
-  "totalStreams": 76,
+  "checkedAt": "2026-11-24T15:50:39Z",
+  "totalStreams": 77,
   "rubyLive": [
-   {
-    "login": "naghostx6",
-    "displayName": "NAGHOSTX6",
-    "title": "!sex",
-    "viewers": 80,
-    "startedAt": "2026-11-24T12:03:00Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_naghostx6-{width}x{height}.jpg",
-    "rank": 76,
-    "name": "NAGHOSTX6#0212",
-    "rankScore": 59301,
-    "matchedBy": "name"
-   },
    {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 9,
+    "viewers": 13,
     "startedAt": "2026-11-24T14:12:13Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 120,
@@ -358,20 +346,20 @@
   ],
   "titleMentions": [
    {
+    "login": "jaydenneirbo",
+    "displayName": "jaydenneirbo",
+    "title": "NEW MOUSE TODAY?! | !newvid | TOP 100 CASHOUT PLAYER | !youtube ! discord !patch",
+    "viewers": 9,
+    "startedAt": "2026-11-24T15:38:20Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jaydenneirbo-{width}x{height}.jpg"
+   },
+   {
     "login": "readmyname_",
     "displayName": "ReadMyName_",
     "title": "FINALS clanker Ruby grind",
-    "viewers": 11,
+    "viewers": 5,
     "startedAt": "2026-11-24T13:17:58Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_readmyname_-{width}x{height}.jpg"
-   },
-   {
-    "login": "tufi_legit",
-    "displayName": "tufi_legit",
-    "title": "ranked to ruby",
-    "viewers": 3,
-    "startedAt": "2026-11-24T13:59:17Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tufi_legit-{width}x{height}.jpg"
    },
    {
     "login": "xtr3vex",
@@ -382,20 +370,20 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_xtr3vex-{width}x{height}.jpg"
    },
    {
+    "login": "pedross",
+    "displayName": "Pedross",
+    "title": "SEASON 12 [CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
+    "viewers": 1,
+    "startedAt": "2026-11-24T15:23:47Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
+   },
+   {
     "login": "progamerdx1",
     "displayName": "progamerdx1",
     "title": "1vs1 KING The Finals top 500",
     "viewers": 1,
     "startedAt": "2026-11-24T15:07:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_progamerdx1-{width}x{height}.jpg"
-   },
-   {
-    "login": "pedross",
-    "displayName": "Pedross",
-    "title": "SEASON 12 [CZ,ENG] FINALS | DIA lobby | Long ride to a RUBY",
-    "viewers": 0,
-    "startedAt": "2026-11-24T15:23:47Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pedross-{width}x{height}.jpg"
    }
   ]
  },

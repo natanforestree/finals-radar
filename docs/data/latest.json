@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T11:30:33Z",
+ "generatedAt": "2026-11-24T11:40:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-24T11:11:20Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 26,
  "allActive": 169,
  "rubyShare": 0.1538,
- "steamPlayers": 6210,
+ "steamPlayers": 6276,
  "rubyCutoff": 50196,
  "grinding": [
   {
@@ -224,10 +224,18 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-24T11:30:33Z",
-  "totalStreams": 45,
+  "checkedAt": "2026-11-24T11:40:31Z",
+  "totalStreams": 44,
   "rubyLive": [],
   "titleMentions": [
+   {
+    "login": "niceboyx_x",
+    "displayName": "NiceBoyx_x",
+    "title": "Some Finals Then Back 2 The Mines!? Top 500 Ruby Heavy!",
+    "viewers": 5,
+    "startedAt": "2026-11-24T05:08:35Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niceboyx_x-{width}x{height}.jpg"
+   },
    {
     "login": "stupidplatypus",
     "displayName": "StupidPlatypus",
@@ -235,14 +243,6 @@
     "viewers": 2,
     "startedAt": "2026-11-24T10:10:59Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_stupidplatypus-{width}x{height}.jpg"
-   },
-   {
-    "login": "niceboyx_x",
-    "displayName": "NiceBoyx_x",
-    "title": "Some Finals Then Back 2 The Mines!? Top 500 Ruby Heavy!",
-    "viewers": 1,
-    "startedAt": "2026-11-24T05:08:35Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_niceboyx_x-{width}x{height}.jpg"
    }
   ]
  },

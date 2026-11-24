@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T01:00:32Z",
+ "generatedAt": "2026-11-24T01:10:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-24T00:39:52Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 46,
  "allActive": 342,
  "rubyShare": 0.1345,
- "steamPlayers": 11194,
+ "steamPlayers": 11205,
  "rubyCutoff": 50161,
  "grinding": [
   {
@@ -384,14 +384,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-24T01:00:32Z",
-  "totalStreams": 144,
+  "checkedAt": "2026-11-24T01:10:32Z",
+  "totalStreams": 151,
   "rubyLive": [
+   {
+    "login": "lytettv",
+    "displayName": "LyteTTV",
+    "title": "DROPS | Super Epic THE FINALS Gaming | TGM Soon (watching from home)",
+    "viewers": 2,
+    "startedAt": "2026-11-24T01:05:24Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lytettv-{width}x{height}.jpg",
+    "rank": 127,
+    "name": "Lyte#5886",
+    "rankScore": 56972,
+    "matchedBy": "name"
+   },
    {
     "login": "cueteepai",
     "displayName": "cueteepai",
     "title": "FASTEST HEAVY |  SPEAR BACK AT IT AGAIN (RANKED)",
-    "viewers": 23,
+    "viewers": 21,
     "startedAt": "2026-11-23T22:36:29Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
     "rank": 217,
@@ -402,20 +414,28 @@
   ],
   "titleMentions": [
    {
+    "login": "turt1et1me",
+    "displayName": "turt1et1me",
+    "title": "ruby incoming.. im silver",
+    "viewers": 3,
+    "startedAt": "2026-11-24T00:34:39Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_turt1et1me-{width}x{height}.jpg"
+   },
+   {
     "login": "soy_spike",
     "displayName": "Soy_Spike",
     "title": "DROPS ! Road to Ruby (eng - esp)",
-    "viewers": 3,
+    "viewers": 2,
     "startedAt": "2026-11-24T00:08:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soy_spike-{width}x{height}.jpg"
    },
    {
-    "login": "turt1et1me",
-    "displayName": "turt1et1me",
-    "title": "ruby incoming.. im silver",
+    "login": "lucas03gs",
+    "displayName": "lucas03gs",
+    "title": "Ruby Player, TheFinals",
     "viewers": 2,
-    "startedAt": "2026-11-24T00:34:39Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_turt1et1me-{width}x{height}.jpg"
+    "startedAt": "2026-11-24T01:07:59Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
    },
    {
     "login": "thetitaniumgyro",

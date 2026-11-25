@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T11:40:32Z",
+ "generatedAt": "2026-11-25T11:50:35Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-25T11:32:14Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 25,
  "allActive": 163,
  "rubyShare": 0.1534,
- "steamPlayers": 6043,
+ "steamPlayers": 6153,
  "rubyCutoff": 50310,
  "grinding": [
   {
@@ -216,19 +216,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-25T11:40:32Z",
-  "totalStreams": 48,
+  "checkedAt": "2026-11-25T11:50:35Z",
+  "totalStreams": 49,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord !wallhack",
-    "viewers": 171,
+    "viewers": 164,
     "startedAt": "2026-11-25T09:16:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
     "name": "perzzonTTV#5485",
     "rankScore": 68543,
+    "matchedBy": "name"
+   },
+   {
+    "login": "knot4long",
+    "displayName": "knot4long",
+    "title": "LETZZZ PLAY RANK EU SEVER 2 HUNT SUM 1 FINALS🌸",
+    "viewers": 1,
+    "startedAt": "2026-11-25T11:36:33Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_knot4long-{width}x{height}.jpg",
+    "rank": 57,
+    "name": "TTVKNOT4LONG#3794",
+    "rankScore": 60246,
     "matchedBy": "name"
    },
    {

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T06:50:32Z",
+ "generatedAt": "2026-11-25T07:00:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-25T06:35:49Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 39,
  "allActive": 280,
  "rubyShare": 0.1393,
- "steamPlayers": 7443,
+ "steamPlayers": 7351,
  "rubyCutoff": 50310,
  "grinding": [
   {
@@ -328,14 +328,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-25T06:50:32Z",
-  "totalStreams": 83,
+  "checkedAt": "2026-11-25T07:00:33Z",
+  "totalStreams": 78,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Super Pro Scrims | Buy the MOON THEORY BUNDLE!",
-    "viewers": 91,
+    "viewers": 101,
     "startedAt": "2026-11-25T02:48:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 92,
@@ -344,24 +344,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "lucas03gs",
-    "displayName": "lucas03gs",
-    "title": "Ruby Player, TheFinals",
-    "viewers": 4,
-    "startedAt": "2026-11-25T00:23:53Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
-   },
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 1,
-    "startedAt": "2026-11-25T03:26:09Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

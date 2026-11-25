@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T02:40:32Z",
+ "generatedAt": "2026-11-25T02:50:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-25T02:34:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 48,
  "allActive": 378,
  "rubyShare": 0.127,
- "steamPlayers": 12127,
+ "steamPlayers": 12117,
  "rubyCutoff": 50259,
  "grinding": [
   {
@@ -400,10 +400,18 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-25T02:40:32Z",
-  "totalStreams": 177,
+  "checkedAt": "2026-11-25T02:50:32Z",
+  "totalStreams": 176,
   "rubyLive": [],
   "titleMentions": [
+   {
+    "login": "lucas03gs",
+    "displayName": "lucas03gs",
+    "title": "Ruby Player, TheFinals",
+    "viewers": 3,
+    "startedAt": "2026-11-25T00:23:53Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
+   },
    {
     "login": "soy_spike",
     "displayName": "Soy_Spike",
@@ -411,14 +419,6 @@
     "viewers": 3,
     "startedAt": "2026-11-25T00:32:42Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_soy_spike-{width}x{height}.jpg"
-   },
-   {
-    "login": "lucas03gs",
-    "displayName": "lucas03gs",
-    "title": "Ruby Player, TheFinals",
-    "viewers": 2,
-    "startedAt": "2026-11-25T00:23:53Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
    },
    {
     "login": "bobiduity",

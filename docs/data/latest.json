@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T15:10:33Z",
+ "generatedAt": "2026-11-25T15:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-25T15:09:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 26,
  "allActive": 216,
  "rubyShare": 0.1204,
- "steamPlayers": 9247,
+ "steamPlayers": 9394,
  "rubyCutoff": 50310,
  "grinding": [
   {
@@ -224,38 +224,50 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-25T15:10:33Z",
-  "totalStreams": 74,
+  "checkedAt": "2026-11-25T15:20:32Z",
+  "totalStreams": 75,
   "rubyLive": [
    {
     "login": "perzzon",
     "displayName": "Perzzon",
     "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord !wallhack",
-    "viewers": 140,
+    "viewers": 124,
     "startedAt": "2026-11-25T09:16:28Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
     "rank": 1,
     "name": "perzzonTTV#5485",
     "rankScore": 68626,
     "matchedBy": "name"
+   },
+   {
+    "login": "ilprune",
+    "displayName": "Ilprune",
+    "title": "The Finals RANKED",
+    "viewers": 2,
+    "startedAt": "2026-11-25T15:14:50Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
+    "rank": 111,
+    "name": "Ilprune#5174",
+    "rankScore": 57955,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
    {
-    "login": "teoma96",
-    "displayName": "Teoma96",
-    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
-    "viewers": 3,
-    "startedAt": "2026-11-25T13:43:11Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
-   },
-   {
     "login": "tufi_legit",
     "displayName": "tufi_legit",
     "title": "ranked to ruby",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-11-25T13:21:31Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tufi_legit-{width}x{height}.jpg"
+   },
+   {
+    "login": "teoma96",
+    "displayName": "Teoma96",
+    "title": "RANKED  ROAD TO RUBY | NUOVA S12 | !sens !res !id",
+    "viewers": 2,
+    "startedAt": "2026-11-25T13:43:11Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_teoma96-{width}x{height}.jpg"
    }
   ]
  },

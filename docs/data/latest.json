@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T09:20:32Z",
+ "generatedAt": "2026-11-25T09:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-25T09:09:52Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 27,
  "allActive": 180,
  "rubyShare": 0.15,
- "steamPlayers": 5440,
+ "steamPlayers": 5361,
  "rubyCutoff": 50310,
  "grinding": [
   {
@@ -232,9 +232,22 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-25T09:20:32Z",
-  "totalStreams": 58,
-  "rubyLive": [],
+  "checkedAt": "2026-11-25T09:30:32Z",
+  "totalStreams": 57,
+  "rubyLive": [
+   {
+    "login": "perzzon",
+    "displayName": "Perzzon",
+    "title": "[99xDROPS] RANK #1 // Testing CR-005 │!coaching !youtube !discord",
+    "viewers": 39,
+    "startedAt": "2026-11-25T09:16:28Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_perzzon-{width}x{height}.jpg",
+    "rank": 1,
+    "name": "perzzonTTV#5485",
+    "rankScore": 68488,
+    "matchedBy": "name"
+   }
+  ],
   "titleMentions": []
  },
  "regions": {

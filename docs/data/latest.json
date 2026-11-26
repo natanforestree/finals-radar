@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T17:50:31Z",
+ "generatedAt": "2026-11-26T18:00:30Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-26T17:34:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 41,
  "allActive": 283,
  "rubyShare": 0.1449,
- "steamPlayers": 12997,
+ "steamPlayers": 13373,
  "rubyCutoff": 50471,
  "grinding": [
   {
@@ -344,19 +344,31 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-26T17:50:31Z",
-  "totalStreams": 125,
+  "checkedAt": "2026-11-26T18:00:30Z",
+  "totalStreams": 139,
   "rubyLive": [
    {
     "login": "ilprune",
     "displayName": "Ilprune",
     "title": "The Finals RANKED",
-    "viewers": 13,
+    "viewers": 10,
     "startedAt": "2026-11-26T16:34:54Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
     "rank": 105,
     "name": "Ilprune#5174",
     "rankScore": 58379,
+    "matchedBy": "name"
+   },
+   {
+    "login": "snake_nade",
+    "displayName": "Snake_Nade",
+    "title": ":drops on the 27th:  (scilla got me sick) !GIVEAWAY 💎🧙‍♂️👅Embark Partner👅",
+    "viewers": 5,
+    "startedAt": "2026-11-26T17:52:58Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
+    "rank": 401,
+    "name": "Snake_Nade#0401",
+    "rankScore": 51734,
     "matchedBy": "name"
    }
   ],

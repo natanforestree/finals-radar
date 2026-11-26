@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T05:20:31Z",
+ "generatedAt": "2026-11-26T05:30:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-26T05:03:57Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 33,
  "allActive": 272,
  "rubyShare": 0.1213,
- "steamPlayers": 10918,
+ "steamPlayers": 10621,
  "rubyCutoff": 50442,
  "grinding": [
   {
@@ -123,7 +123,7 @@
    "delta": 164,
    "rankScore": 55686,
    "club": "NTMR",
-   "twitch": "cueteepai"
+   "twitch": null
   },
   {
    "rank": 183,
@@ -280,26 +280,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-26T05:20:31Z",
-  "totalStreams": 155,
+  "checkedAt": "2026-11-26T05:30:31Z",
+  "totalStreams": 144,
   "rubyLive": [
-   {
-    "login": "cueteepai",
-    "displayName": "cueteepai",
-    "title": "FASTEST HEAVY |  SPEAR BACK AT IT AGAIN (RANKED)",
-    "viewers": 14,
-    "startedAt": "2026-11-26T03:49:11Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
-    "rank": 172,
-    "name": "cueteepai.tv#9915",
-    "rankScore": 55686,
-    "matchedBy": "name"
-   },
    {
     "login": "sepstar",
     "displayName": "Sepstar",
     "title": "RankS En Smurf !!!   🚀✨",
-    "viewers": 14,
+    "viewers": 10,
     "startedAt": "2026-11-26T04:53:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
     "rank": 183,
@@ -311,7 +299,7 @@
     "login": "kruhashere",
     "displayName": "kruhashere",
     "title": "#1 riot in ranked riot only rip bfc",
-    "viewers": 7,
+    "viewers": 6,
     "startedAt": "2026-11-26T03:36:19Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kruhashere-{width}x{height}.jpg",
     "rank": 414,
@@ -330,6 +318,22 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pancake__tf-{width}x{height}.jpg"
    },
    {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 2,
+    "startedAt": "2026-11-26T05:04:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
+    "login": "opportunehook9",
+    "displayName": "OpportuneHook9",
+    "title": "Diamond Player striving for Ruby",
+    "viewers": 2,
+    "startedAt": "2026-11-26T05:04:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
+   },
+   {
     "login": "lucas03gs",
     "displayName": "lucas03gs",
     "title": "Ruby Player, TheFinals",
@@ -344,14 +348,6 @@
     "viewers": 1,
     "startedAt": "2026-11-26T00:01:22Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lordgrillcheese-{width}x{height}.jpg"
-   },
-   {
-    "login": "opportunehook9",
-    "displayName": "OpportuneHook9",
-    "title": "Diamond Player striving for Ruby",
-    "viewers": 0,
-    "startedAt": "2026-11-26T05:04:25Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }
   ]
  },

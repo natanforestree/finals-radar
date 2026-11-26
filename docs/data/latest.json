@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-26T08:10:33Z",
+ "generatedAt": "2026-11-26T08:20:35Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-26T08:08:00Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 31,
  "allActive": 247,
  "rubyShare": 0.1255,
- "steamPlayers": 7048,
+ "steamPlayers": 6901,
  "rubyCutoff": 50497,
  "grinding": [
   {
@@ -264,14 +264,26 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-26T08:10:33Z",
-  "totalStreams": 100,
+  "checkedAt": "2026-11-26T08:20:35Z",
+  "totalStreams": 104,
   "rubyLive": [
+   {
+    "login": "elfloridogaming",
+    "displayName": "ElFloridoGaming",
+    "title": "BACK TO THE FINALS",
+    "viewers": 5,
+    "startedAt": "2026-11-26T08:11:25Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
+    "rank": 110,
+    "name": "FloridoGamingTTV#1606",
+    "rankScore": 57972,
+    "matchedBy": "name"
+   },
    {
     "login": "sepstar",
     "displayName": "Sepstar",
     "title": "RankS En Smurf !!!   🚀✨",
-    "viewers": 10,
+    "viewers": 5,
     "startedAt": "2026-11-26T04:53:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
     "rank": 184,
@@ -290,18 +302,10 @@
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_pancake__tf-{width}x{height}.jpg"
    },
    {
-    "login": "damk1ng__",
-    "displayName": "DAMK1NG__",
-    "title": "RUBY GRIND | FAST PACED |",
-    "viewers": 2,
-    "startedAt": "2026-11-26T07:21:16Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_damk1ng__-{width}x{height}.jpg"
-   },
-   {
     "login": "opportunehook9",
     "displayName": "OpportuneHook9",
     "title": "Diamond Player striving for Ruby",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-11-26T05:04:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_opportunehook9-{width}x{height}.jpg"
    }

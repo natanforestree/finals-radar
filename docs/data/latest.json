@@ -1,31 +1,31 @@
 {
- "generatedAt": "2026-11-26T12:40:31Z",
+ "generatedAt": "2026-11-26T12:50:31Z",
  "season": "s12",
- "leaderboardUpdatedAt": "2026-11-26T12:12:28Z",
+ "leaderboardUpdatedAt": "2026-11-26T12:43:06Z",
  "window": {
-  "from": "2026-11-26T11:42:18Z",
-  "to": "2026-11-26T12:12:28Z",
-  "minutes": 30.2
+  "from": "2026-11-26T12:12:28Z",
+  "to": "2026-11-26T12:43:06Z",
+  "minutes": 30.6
  },
- "rubyActive": 14,
- "allActive": 135,
- "rubyShare": 0.1037,
- "steamPlayers": 6925,
+ "rubyActive": 10,
+ "allActive": 158,
+ "rubyShare": 0.0633,
+ "steamPlayers": 7084,
  "rubyCutoff": 50448,
  "grinding": [
   {
    "rank": 17,
    "name": "Avion#8636",
-   "delta": 63,
-   "rankScore": 63058,
+   "delta": 62,
+   "rankScore": 63120,
    "club": "TF",
    "twitch": null
   },
   {
-   "rank": 77,
+   "rank": 75,
    "name": "MrPuffTtv#0713",
-   "delta": 105,
-   "rankScore": 59516,
+   "delta": 45,
+   "rankScore": 59561,
    "club": null,
    "twitch": null
   },
@@ -33,109 +33,77 @@
    "rank": 101,
    "name": "FLUFFYHD#0858",
    "delta": 119,
-   "rankScore": 58494,
+   "rankScore": 58613,
    "club": null,
    "twitch": null
   },
   {
    "rank": 112,
    "name": "Toom#5976",
-   "delta": 126,
-   "rankScore": 58069,
+   "delta": -51,
+   "rankScore": 58018,
    "club": "00M",
    "twitch": null
   },
   {
-   "rank": 125,
-   "name": "BLOOD#0925",
-   "delta": 136,
-   "rankScore": 57426,
-   "club": "L1PUT",
-   "twitch": null
-  },
-  {
-   "rank": 191,
-   "name": "Maximo#0401",
-   "delta": 172,
-   "rankScore": 55222,
-   "club": "FYR",
-   "twitch": null
-  },
-  {
-   "rank": 223,
+   "rank": 221,
    "name": "Antiparty#0866",
-   "delta": 189,
-   "rankScore": 54323,
+   "delta": 79,
+   "rankScore": 54402,
    "club": "GOONU",
    "twitch": "antiparty"
   },
   {
-   "rank": 236,
+   "rank": 225,
+   "name": "ToughWheel#2781",
+   "delta": 189,
+   "rankScore": 54270,
+   "club": "RYPIL",
+   "twitch": null
+  },
+  {
+   "rank": 228,
    "name": "torrykuna#0865",
-   "delta": 194,
-   "rankScore": 54009,
+   "delta": 191,
+   "rankScore": 54200,
    "club": "ATK",
    "twitch": null
   },
   {
-   "rank": 245,
-   "name": "21SWAGES#7146",
-   "delta": 84,
-   "rankScore": 53824,
+   "rank": 415,
+   "name": "HakBat#2080",
+   "delta": -244,
+   "rankScore": 51579,
    "club": null,
    "twitch": null
   },
   {
-   "rank": 270,
-   "name": "M3TZ#0390",
-   "delta": 220,
-   "rankScore": 53480,
-   "club": "067MS",
-   "twitch": null
-  },
-  {
-   "rank": 344,
-   "name": "alli#1120",
-   "delta": 246,
-   "rankScore": 52284,
-   "club": "AVOW",
-   "twitch": null
-  },
-  {
-   "rank": 388,
-   "name": "feonikz#0069",
-   "delta": 100,
-   "rankScore": 51895,
-   "club": "5F",
-   "twitch": null
-  },
-  {
    "rank": 421,
-   "name": "Lily#3210",
-   "delta": 246,
-   "rankScore": 51412,
-   "club": "KNGZ",
+   "name": "NatzRatz#6936",
+   "delta": 104,
+   "rankScore": 51431,
+   "club": "SPINZ",
    "twitch": null
   },
   {
-   "rank": 426,
-   "name": "NatzRatz#6936",
-   "delta": 248,
-   "rankScore": 51327,
-   "club": "SPINZ",
+   "rank": 428,
+   "name": "Lily#3210",
+   "delta": -99,
+   "rankScore": 51313,
+   "club": "KNGZ",
    "twitch": null
   }
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-26T12:40:31Z",
-  "totalStreams": 52,
+  "checkedAt": "2026-11-26T12:50:31Z",
+  "totalStreams": 56,
   "rubyLive": [
    {
     "login": "yeahhealthy",
     "displayName": "YeahHealthy",
     "title": "Kovaaks into ranked | CEO of OCE | !discord !commands",
-    "viewers": 4,
+    "viewers": 6,
     "startedAt": "2026-11-26T10:54:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_yeahhealthy-{width}x{height}.jpg",
     "rank": 13,
@@ -147,7 +115,7 @@
     "login": "elfloridogaming",
     "displayName": "ElFloridoGaming",
     "title": "BACK TO THE FINALS",
-    "viewers": 12,
+    "viewers": 10,
     "startedAt": "2026-11-26T08:11:25Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_elfloridogaming-{width}x{height}.jpg",
     "rank": 102,
@@ -159,12 +127,12 @@
     "login": "antiparty",
     "displayName": "Antiparty",
     "title": "[DROPS] new project in the works  👁️👁️- !FinalsRS !yt !discord",
-    "viewers": 52,
+    "viewers": 54,
     "startedAt": "2026-11-26T10:21:26Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_antiparty-{width}x{height}.jpg",
-    "rank": 223,
+    "rank": 221,
     "name": "Antiparty#0866",
-    "rankScore": 54323,
+    "rankScore": 54402,
     "matchedBy": "name"
    }
   ],
@@ -174,7 +142,7 @@
   "ready": true,
   "placed": {
    "ruby": 447,
-   "all": 6084
+   "all": 6086
   },
   "rubyByRegion": {
    "am": 201,
@@ -183,20 +151,20 @@
   },
   "window": {
    "am": {
-    "ruby": 3,
-    "all": 11
+    "ruby": 2,
+    "all": 12
    },
    "eu": {
-    "ruby": 4,
-    "all": 38
+    "ruby": 3,
+    "all": 47
    },
    "ap": {
-    "ruby": 5,
-    "all": 54
+    "ruby": 4,
+    "all": 62
    },
    "unplaced": {
-    "ruby": 2,
-    "all": 32
+    "ruby": 1,
+    "all": 37
    }
   }
  },

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T07:10:33Z",
+ "generatedAt": "2026-11-27T07:20:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-27T07:02:41Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 33,
  "allActive": 248,
  "rubyShare": 0.1331,
- "steamPlayers": 7692,
+ "steamPlayers": 7446,
  "rubyCutoff": 50557,
  "grinding": [
   {
@@ -139,7 +139,7 @@
    "delta": 136,
    "rankScore": 55741,
    "club": null,
-   "twitch": "sepstar"
+   "twitch": null
   },
   {
    "rank": 177,
@@ -280,31 +280,19 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-27T07:10:33Z",
-  "totalStreams": 95,
+  "checkedAt": "2026-11-27T07:20:32Z",
+  "totalStreams": 89,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ranked Ruby SOLO Q | Buy the MOON THEORY BUNDLE! | NEW YT VIDEO !YT",
-    "viewers": 178,
+    "viewers": 156,
     "startedAt": "2026-11-27T05:02:36Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 91,
     "name": "Digcron.TTV#3309",
     "rankScore": 59118,
-    "matchedBy": "name"
-   },
-   {
-    "login": "sepstar",
-    "displayName": "Sepstar",
-    "title": "Ruby Jugando en Smurf !!!   ♦️",
-    "viewers": 8,
-    "startedAt": "2026-11-27T02:20:56Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sepstar-{width}x{height}.jpg",
-    "rank": 175,
-    "name": "Sepstar#3539",
-    "rankScore": 55741,
     "matchedBy": "name"
    }
   ],

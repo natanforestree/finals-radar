@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T22:30:36Z",
+ "generatedAt": "2026-11-27T22:40:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-27T22:07:39Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 51,
  "allActive": 436,
  "rubyShare": 0.117,
- "steamPlayers": 15274,
+ "steamPlayers": 15160,
  "rubyCutoff": 50723,
  "grinding": [
   {
@@ -227,7 +227,7 @@
    "delta": 199,
    "rankScore": 53748,
    "club": "XIMRZ",
-   "twitch": "biggiz_qc"
+   "twitch": null
   },
   {
    "rank": 277,
@@ -424,14 +424,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-27T22:30:36Z",
-  "totalStreams": 173,
+  "checkedAt": "2026-11-27T22:40:31Z",
+  "totalStreams": 185,
   "rubyLive": [
    {
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby / RANKEDDDD",
-    "viewers": 12,
+    "viewers": 10,
     "startedAt": "2026-11-27T21:26:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 234,
@@ -440,22 +440,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "biggiz_qc",
-    "displayName": "biggiz_qc",
-    "title": "FNLS GRIND",
-    "viewers": 4,
-    "startedAt": "2026-11-27T22:13:50Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_biggiz_qc-{width}x{height}.jpg",
-    "rank": 275,
-    "name": "Biggiz_QC#0629",
-    "rankScore": 53748,
-    "matchedBy": "name"
-   },
-   {
     "login": "zyllm",
     "displayName": "Zyllm",
     "title": "RIP Envy",
-    "viewers": 9,
+    "viewers": 10,
     "startedAt": "2026-11-27T21:26:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zyllm-{width}x{height}.jpg",
     "rank": 279,
@@ -466,12 +454,20 @@
   ],
   "titleMentions": [
    {
-    "login": "tufi_legit",
-    "displayName": "tufi_legit",
-    "title": "ranked to ruby",
-    "viewers": 2,
-    "startedAt": "2026-11-27T21:57:43Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tufi_legit-{width}x{height}.jpg"
+    "login": "bobiduity",
+    "displayName": "bobiduity",
+    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
+    "viewers": 1,
+    "startedAt": "2026-11-27T18:14:44Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
+   },
+   {
+    "login": "isoboogs",
+    "displayName": "isoboogs",
+    "title": "The Best Light in The Game👨🏼‍🍳🦿Road to Ruby Start Now🫯♦️",
+    "viewers": 1,
+    "startedAt": "2026-11-27T22:28:16Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_isoboogs-{width}x{height}.jpg"
    },
    {
     "login": "s3v3ri7y",
@@ -480,14 +476,6 @@
     "viewers": 1,
     "startedAt": "2026-11-27T20:07:05Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_s3v3ri7y-{width}x{height}.jpg"
-   },
-   {
-    "login": "bobiduity",
-    "displayName": "bobiduity",
-    "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 1,
-    "startedAt": "2026-11-27T18:14:44Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
    },
    {
     "login": "egman39",

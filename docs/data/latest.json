@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T21:40:31Z",
+ "generatedAt": "2026-11-27T21:50:30Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-27T21:37:35Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 50,
  "allActive": 433,
  "rubyShare": 0.1155,
- "steamPlayers": 15789,
+ "steamPlayers": 15721,
  "rubyCutoff": 50714,
  "grinding": [
   {
@@ -243,7 +243,7 @@
    "delta": 245,
    "rankScore": 53549,
    "club": "XIMRZ",
-   "twitch": null
+   "twitch": "biggiz_qc"
   },
   {
    "rank": 286,
@@ -416,14 +416,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-27T21:40:31Z",
-  "totalStreams": 177,
+  "checkedAt": "2026-11-27T21:50:30Z",
+  "totalStreams": 180,
   "rubyLive": [
    {
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby / RANKEDDDD",
-    "viewers": 1,
+    "viewers": 9,
     "startedAt": "2026-11-27T21:26:49Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 237,
@@ -435,12 +435,24 @@
     "login": "zyllm",
     "displayName": "Zyllm",
     "title": "RIP Envy",
-    "viewers": 3,
+    "viewers": 6,
     "startedAt": "2026-11-27T21:26:40Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zyllm-{width}x{height}.jpg",
     "rank": 276,
     "name": "ZyllmTv#0249",
     "rankScore": 53645,
+    "matchedBy": "name"
+   },
+   {
+    "login": "biggiz_qc",
+    "displayName": "biggiz_qc",
+    "title": "FNLS GRIND",
+    "viewers": 1,
+    "startedAt": "2026-11-27T21:45:18Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_biggiz_qc-{width}x{height}.jpg",
+    "rank": 283,
+    "name": "Biggiz_QC#0629",
+    "rankScore": 53549,
     "matchedBy": "name"
    }
   ],

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T02:10:30Z",
+ "generatedAt": "2026-11-28T02:20:33Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-28T02:02:30Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 39,
  "allActive": 382,
  "rubyShare": 0.1021,
- "steamPlayers": 11704,
+ "steamPlayers": 11795,
  "rubyCutoff": 50725,
  "grinding": [
   {
@@ -195,7 +195,7 @@
    "delta": 106,
    "rankScore": 53846,
    "club": "LZ0",
-   "twitch": "incgii"
+   "twitch": null
   },
   {
    "rank": 296,
@@ -328,14 +328,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-28T02:10:30Z",
-  "totalStreams": 194,
+  "checkedAt": "2026-11-28T02:20:33Z",
+  "totalStreams": 193,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Life is the real Major | Buy the MOON THEORY BUNDLE! | NEW YT VIDEO !YT",
-    "viewers": 112,
+    "viewers": 121,
     "startedAt": "2026-11-28T00:30:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 91,
@@ -344,22 +344,10 @@
     "matchedBy": "name"
    },
    {
-    "login": "incgii",
-    "displayName": "incgii",
-    "title": "LIGNE ZERO / light ruby / RANKEDDDD",
-    "viewers": 12,
-    "startedAt": "2026-11-27T23:28:11Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
-    "rank": 269,
-    "name": "IncGII#1058",
-    "rankScore": 53846,
-    "matchedBy": "name"
-   },
-   {
     "login": "matotm",
     "displayName": "MatoTM",
     "title": "[DRIP DROPS] I Fixed My PC I Think",
-    "viewers": 18,
+    "viewers": 17,
     "startedAt": "2026-11-28T00:22:33Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
     "rank": 418,
@@ -371,7 +359,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": ":DROPSx2 GET THEM:  !GIVEAWAY 💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 26,
+    "viewers": 23,
     "startedAt": "2026-11-28T01:16:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 422,
@@ -381,14 +369,6 @@
    }
   ],
   "titleMentions": [
-   {
-    "login": "isoboogs",
-    "displayName": "isoboogs",
-    "title": "The Best Light in The Game👨🏼‍🍳🦿Road to Ruby Start Now🫯♦️",
-    "viewers": 3,
-    "startedAt": "2026-11-27T23:46:48Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_isoboogs-{width}x{height}.jpg"
-   },
    {
     "login": "pvtbakedpotato",
     "displayName": "pvtbakedpotato",
@@ -401,7 +381,7 @@
     "login": "bobiduity",
     "displayName": "bobiduity",
     "title": "Prime Time BABY | The Finals | Ruby Speed Run",
-    "viewers": 2,
+    "viewers": 1,
     "startedAt": "2026-11-28T00:57:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bobiduity-{width}x{height}.jpg"
    },
@@ -412,6 +392,14 @@
     "viewers": 1,
     "startedAt": "2026-11-27T23:39:20Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_lucas03gs-{width}x{height}.jpg"
+   },
+   {
+    "login": "isoboogs",
+    "displayName": "isoboogs",
+    "title": "The Best Light in The Game👨🏼‍🍳🦿Road to Ruby Start Now🫯♦️",
+    "viewers": 1,
+    "startedAt": "2026-11-27T23:46:48Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_isoboogs-{width}x{height}.jpg"
    }
   ]
  },

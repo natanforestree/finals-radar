@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T07:10:31Z",
+ "generatedAt": "2026-11-28T07:20:31Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-28T07:05:03Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 35,
  "allActive": 280,
  "rubyShare": 0.125,
- "steamPlayers": 9298,
+ "steamPlayers": 9146,
  "rubyCutoff": 50784,
  "grinding": [
   {
@@ -296,14 +296,14 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-28T07:10:31Z",
-  "totalStreams": 128,
+  "checkedAt": "2026-11-28T07:20:31Z",
+  "totalStreams": 125,
   "rubyLive": [
    {
     "login": "digcron",
     "displayName": "digcron",
     "title": "[DROPS] Ruby Flex Player | Buy the MOON THEORY BUNDLE! | NEW YT VIDEO !YT",
-    "viewers": 123,
+    "viewers": 121,
     "startedAt": "2026-11-28T00:30:03Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
     "rank": 75,
@@ -312,10 +312,22 @@
     "matchedBy": "name"
    },
    {
+    "login": "ilprune",
+    "displayName": "Ilprune",
+    "title": "The Finals RANKED",
+    "viewers": 1,
+    "startedAt": "2026-11-28T07:13:52Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_ilprune-{width}x{height}.jpg",
+    "rank": 110,
+    "name": "Ilprune#5174",
+    "rankScore": 58379,
+    "matchedBy": "name"
+   },
+   {
     "login": "cueteepai",
     "displayName": "cueteepai",
     "title": "FASTEST HEAVY |  DAGGER WITH FOX",
-    "viewers": 7,
+    "viewers": 6,
     "startedAt": "2026-11-28T05:50:39Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_cueteepai-{width}x{height}.jpg",
     "rank": 181,
@@ -327,7 +339,7 @@
     "login": "impieux",
     "displayName": "impieux",
     "title": "DROPS: rolla rankinnn :  x55 ruby clanka",
-    "viewers": 220,
+    "viewers": 233,
     "startedAt": "2026-11-28T03:40:55Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_impieux-{width}x{height}.jpg",
     "rank": 296,
@@ -339,7 +351,7 @@
     "login": "snake_nade",
     "displayName": "Snake_Nade",
     "title": ":DROPSx2 GET THEM:  !GIVEAWAY 💎🧙‍♂️👅Embark Partner👅",
-    "viewers": 77,
+    "viewers": 71,
     "startedAt": "2026-11-28T01:16:44Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_snake_nade-{width}x{height}.jpg",
     "rank": 426,
@@ -348,16 +360,7 @@
     "matchedBy": "name"
    }
   ],
-  "titleMentions": [
-   {
-    "login": "bingus_0205",
-    "displayName": "bingus_0205",
-    "title": "Solo Q to ruby, currently gold",
-    "viewers": 1,
-    "startedAt": "2026-11-28T03:14:54Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_bingus_0205-{width}x{height}.jpg"
-   }
-  ]
+  "titleMentions": []
  },
  "regions": {
   "ready": true,

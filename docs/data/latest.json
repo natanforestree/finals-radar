@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T00:20:31Z",
+ "generatedAt": "2026-11-28T00:30:32Z",
  "season": "s12",
  "leaderboardUpdatedAt": "2026-11-28T00:08:40Z",
  "window": {
@@ -10,7 +10,7 @@
  "rubyActive": 44,
  "allActive": 408,
  "rubyShare": 0.1078,
- "steamPlayers": 12219,
+ "steamPlayers": 12025,
  "rubyCutoff": 50725,
  "grinding": [
   {
@@ -368,9 +368,21 @@
  ],
  "twitch": {
   "enabled": true,
-  "checkedAt": "2026-11-28T00:20:31Z",
-  "totalStreams": 172,
+  "checkedAt": "2026-11-28T00:30:32Z",
+  "totalStreams": 176,
   "rubyLive": [
+   {
+    "login": "digcron",
+    "displayName": "digcron",
+    "title": "[DROPS] Life is the real Major | Buy the MOON THEORY BUNDLE! | NEW YT VIDEO !YT",
+    "viewers": 0,
+    "startedAt": "2026-11-28T00:30:03Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_digcron-{width}x{height}.jpg",
+    "rank": 96,
+    "name": "Digcron.TTV#3309",
+    "rankScore": 59099,
+    "matchedBy": "name"
+   },
    {
     "login": "zyllm",
     "displayName": "Zyllm",
@@ -387,29 +399,33 @@
     "login": "incgii",
     "displayName": "incgii",
     "title": "LIGNE ZERO / light ruby / RANKEDDDD",
-    "viewers": 12,
+    "viewers": 9,
     "startedAt": "2026-11-27T23:28:11Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_incgii-{width}x{height}.jpg",
     "rank": 278,
     "name": "IncGII#1058",
     "rankScore": 53622,
     "matchedBy": "name"
+   },
+   {
+    "login": "matotm",
+    "displayName": "MatoTM",
+    "title": "[DRIP DROPS] I Fixed My PC I Think",
+    "viewers": 5,
+    "startedAt": "2026-11-28T00:22:33Z",
+    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_matotm-{width}x{height}.jpg",
+    "rank": 451,
+    "name": "MatoTM#7141",
+    "rankScore": 51298,
+    "matchedBy": "name"
    }
   ],
   "titleMentions": [
    {
-    "login": "tufi_legit",
-    "displayName": "tufi_legit",
-    "title": "ranked to ruby",
-    "viewers": 3,
-    "startedAt": "2026-11-27T21:57:43Z",
-    "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_tufi_legit-{width}x{height}.jpg"
-   },
-   {
     "login": "sushxy",
     "displayName": "Sushxy",
     "title": "The Finals | Top 100 ranked (Evil ranked is not for the weak) LFT",
-    "viewers": 2,
+    "viewers": 3,
     "startedAt": "2026-11-27T23:51:52Z",
     "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_sushxy-{width}x{height}.jpg"
    },
